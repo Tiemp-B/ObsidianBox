@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "MyStyleSetting1"
+  ],
+  "theme": "obsidian"
+}

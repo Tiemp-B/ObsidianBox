@@ -8,57 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f169ceae131d39bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
             "id": "38b1aeca45199daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "test note 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "64db3e7374171540",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "fef6e5c4dcad227d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test note 1"
             }
           },
           {
@@ -75,8 +35,7 @@
               "title": "무제"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,17 +217,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fef6e5c4dcad227d",
+  "active": "38b1aeca45199daf",
   "lastOpenFiles": [
+    "_templates/Untitled.md",
+    "test note 1.md",
+    "MyStyleSetting1.css",
+    "Developer/Untitled.md",
+    "_templates/_templates.md",
+    "_templates",
+    "Developer/Developer.md",
+    "Developer",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "README.md",
     "READMD.md",
     ".gitignore.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2025-10-02 01.20.10.excalidraw.md",
     "Welcome.md",
     "Excalidraw",
     "Tags",
-    "Untitled 1.md",
     "testcase1.md",
     "_templates/Cornell.md.md",
     "2025-10-02.md",
@@ -276,7 +243,6 @@
     "Untitled 1/무제.md",
     "Untitled 1",
     "무제.base",
-    "Untitled.base",
-    "_templates"
+    "Untitled.base"
   ]
 }
