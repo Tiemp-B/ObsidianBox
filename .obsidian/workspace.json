@@ -51,12 +51,14 @@
             "id": "fef6e5c4dcad227d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ObsidianVault"
+              "title": "Untitled"
             }
           },
           {
@@ -258,6 +260,7 @@
   },
   "active": "fef6e5c4dcad227d",
   "lastOpenFiles": [
+    "READMD.md",
     ".gitignore.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-10-02 01.20.10.excalidraw.md",
