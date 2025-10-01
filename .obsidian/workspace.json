@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note 1.md",
+                "file": "test note 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test note 1"
+              "title": "test note 2"
             }
           },
           {
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "87a3fcbdb4dc8837",
+            "id": "9e89f43733254d18",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -219,8 +219,9 @@
   },
   "active": "38b1aeca45199daf",
   "lastOpenFiles": [
-    "_templates/Untitled.md",
     "test note 1.md",
+    "test note 2.md",
+    "_templates/Untitled.md",
     "MyStyleSetting1.css",
     "Developer/Untitled.md",
     "_templates/_templates.md",
