@@ -1,7 +1,4 @@
-Topic: Untitled
-Date: Oct 4, 2025
-Course:
-Class:
+---
 
 ---
 

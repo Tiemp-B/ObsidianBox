@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계.md",
+                "file": "Developer/정보처리기사/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SW 설계"
+              "title": "Untitled 1"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Cornell Type"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +217,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa240f6b72db4c57",
+  "active": "db98a0376aedba1d",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계.md",
-    "_templates/Cornell Type.md",
-    "Developer/정보처리기사/Untitled.md",
-    "_templates/_templates.md",
+    "Developer/정보처리기사/Untitled 1.md",
     "Developer/정보처리기사/정보처리기사.md",
+    "Developer/정보처리기사/Untitled.md",
+    "_templates/Cornell Type.md",
+    "Developer/정보처리기사/SW 설계.md",
+    "_templates/_templates.md",
     "_templates/Untitled 1.md",
     "Tags/Tags.md",
     "Tags/Untitled.md",
@@ -250,7 +250,6 @@
     "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/Obsidian Practice.md",
     "README.md",
-    "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/testFolder",
     "Obsidian Practice",
     "MyStyleSetting1.css",
