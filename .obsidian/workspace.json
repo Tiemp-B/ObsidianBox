@@ -11,12 +11,14 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Tags"
+                "file": "Developer/정보처리기사/SW 개발 단계.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "SW 개발 단계"
             }
           }
         ]
