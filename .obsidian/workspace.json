@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Cornell CSS.md",
+                "file": "Obsidian Practice/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cornell CSS"
+              "title": "Untitled"
             }
           },
           {
@@ -219,10 +219,11 @@
   },
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
+    "_templates/Cornell CSS.md",
+    "Obsidian Practice/Untitled.md",
+    "_templates/Cornell Type.md",
     "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/testFolder/SecondFile.md",
-    "_templates/Cornell CSS.md",
-    "_templates/Cornell Type.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
@@ -249,7 +250,6 @@
     "Developer/정보처리기사",
     "Developer/프로젝트 개발 단계.md",
     "Developer/.md",
-    "Developer/a/aa.md",
     "Developer/b",
     "Developer/a",
     "Obsidian Practice/testFolder",
