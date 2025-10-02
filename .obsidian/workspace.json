@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/Untitled.md",
-                "mode": "preview",
+                "file": "Obsidian Practice/tt.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "tt"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "3ff1972897714c01",
   "lastOpenFiles": [
-    "_templates/Cornell CSS.md",
     "Obsidian Practice/Untitled.md",
+    "_templates/Cornell CSS.md",
     "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/FirstFile.md",
