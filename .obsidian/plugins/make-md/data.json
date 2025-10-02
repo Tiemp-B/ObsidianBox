@@ -42,7 +42,9 @@
     "//Excalidraw",
     "//Obsidian Practice/Obsidian Practice/testFolder",
     "//Developer",
-    "//Tags"
+    "//Tags",
+    "//Developer/Developer/a",
+    "//Developer/Developer/b"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
