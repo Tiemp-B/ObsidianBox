@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/New Page.md",
+                "file": "Obsidian Practice/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Page"
+              "title": "Untitled"
             }
           }
         ]
@@ -205,7 +205,11 @@
   },
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
+    "Obsidian Practice/FirstFile.md",
+    "Obsidian Practice/Untitled.md",
+    "Obsidian Practice/Obsidian Practice.md",
     "Developer/New Page.md",
+    "Obsidian Practice",
     "Excalidraw/Drawing 2025-10-02 01.20.10.excalidraw.md",
     "test note 2.md",
     "test note 1.md",
