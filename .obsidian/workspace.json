@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "FirstFile"
             }
-          },
-          {
-            "id": "1326abb637827dff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1326abb637827dff",
+  "active": "db98a0376aedba1d",
   "lastOpenFiles": [
     "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/SecondFile.md",
