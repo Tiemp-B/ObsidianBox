@@ -11,9 +11,9 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 
 <aside>생명 주기</aside>
 
-**SW 개발 단계**와 **각 단계 별 주요 활동**, 그리고 **활동의 결과**에 대한 산출물로 표현한다.
+**SW 개발 단계**와 **각 단계 별 주요 활동**, 그리고 **활동의 결과**에 대한 산출물로 표현한다. 또한 개발 후에도 품질이 항상 최상의 상태를 유지할 수 있도록 관리하는 과정
 
-<aside></aside>
+<aside>생명 주기 모형</aside>
 
 * Start by listening or reading actively, and jot down the main ideas and supporting details in the Note-taking Column.
 * Use abbreviations and bullet points to keep your notes concise and easy to review.
