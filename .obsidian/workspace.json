@@ -11,14 +11,12 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/정보처리기사/SW 개발 단계.md",
-                "mode": "source",
-                "source": false
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "SW 개발 단계"
+              "title": "Tags"
             }
           }
         ]
@@ -206,7 +204,12 @@
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
     "Tags/Tags.md",
+    "Tags/Untitled.md",
     "Developer/정보처리기사/SW 개발 단계.md",
+    "Tags/sampleTag.md",
+    "Developer/정보처리기사/정보처리기사 1.md",
+    "정보처리기사/정보처리기사.md",
+    "정보처리기사",
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/임베디드기사",
@@ -233,13 +236,8 @@
     "_templates/Untitled.md",
     "Obsidian Practice",
     "Excalidraw/Drawing 2025-10-02 01.20.10.excalidraw.md",
-    "test note 2.md",
-    "test note 1.md",
     "MyStyleSetting1.css",
     "_templates",
-    "Developer",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Excalidraw"
+    "Developer"
   ]
 }
