@@ -15,7 +15,7 @@
               "state": {
                 "file": "_templates/Cornell CSS.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Cornell CSS"
