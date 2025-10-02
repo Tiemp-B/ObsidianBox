@@ -11,14 +11,12 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/임베디드기사"
               },
               "icon": "lucide-file",
-              "title": "SW 설계"
+              "title": "임베디드기사"
             }
           },
           {
@@ -217,11 +215,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db98a0376aedba1d",
+  "active": "0c226ad6ce38e6df",
   "lastOpenFiles": [
-    "_templates/Cornell Type.md",
-    "Developer/정보처리기사/SW 설계.md",
     "Developer/임베디드기사/임베디드기사.md",
+    "Developer/정보처리기사/SW 설계.md",
+    "_templates/Cornell Type.md",
     "Developer/정보처리기사/Untitled.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계",
