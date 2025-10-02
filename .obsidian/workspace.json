@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/tt.md",
-                "mode": "source",
+                "file": "Obsidian Practice/Untitled 2.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tt"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -205,12 +205,13 @@
   },
   "active": "3ff1972897714c01",
   "lastOpenFiles": [
+    "Obsidian Practice/tt.md",
+    "Obsidian Practice/Untitled 2.md",
     "Obsidian Practice/Untitled.md",
     "_templates/Cornell CSS.md",
     "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/FirstFile.md",
-    "Obsidian Practice/tt.md",
     "Obsidian Practice/Untitled 1.md",
     "_templates/Cornell Type.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
@@ -234,7 +235,6 @@
     "정보처리기사/정보처리기사.md",
     "정보처리기사",
     "Developer/임베디드기사",
-    "Developer/Developer.md",
     "Developer/정보처리기사",
     "Developer/b",
     "Developer/a",
