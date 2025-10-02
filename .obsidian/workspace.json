@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_templates/Cornell CSS.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Cornell CSS"
