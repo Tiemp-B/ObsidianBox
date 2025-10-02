@@ -1,6 +1,7 @@
 ---
 cssclasses: cornell-note
 tags:
+  - 방법론
 ---
 
 <div class="cues-header">Cues</div>
@@ -8,7 +9,7 @@ tags:
 # Notes
 SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별로 나눈 것이다.
 
-<aside>Note's Layout</aside>
+<aside>수명 주기</aside>
 
 The Cornell method offers a specific layout for each page of notes. The note is devided into three sections: 
 - **Cue/Question Column (Left)** — is used to write down questions, keywords, or cues related to the content you're recording in the main notes section.
