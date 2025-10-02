@@ -11,14 +11,12 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "_templates/Untitled.md",
-                "mode": "source",
-                "source": false
+                "path": "_templates"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "_templates"
             }
           }
         ]
@@ -203,10 +201,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c226ad6ce38e6df",
+  "active": "8bc31afefbbd7015",
   "lastOpenFiles": [
-    "_templates/Untitled 1.md",
     "_templates/Untitled.md",
+    "_templates/Untitled 1.md",
     "_templates/_templates.md",
     "Developer/정보처리기사/SW 설계.md",
     "Tags/Tags.md",
