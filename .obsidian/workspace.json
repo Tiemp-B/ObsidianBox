@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/FirstFile.md",
+                "file": "Developer/New Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FirstFile"
+              "title": "New Page"
             }
           }
         ]
@@ -205,13 +205,14 @@
   },
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
-    "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/FirstFile.md",
     "Obsidian Practice/SecondFile.md",
+    "Obsidian Practice/Obsidian Practice.md",
+    "Developer/Developer.md",
+    "README.md",
+    "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/testFolder/testFolder.md",
     "Obsidian Practice/testFolder",
-    "Developer/Developer.md",
-    "Obsidian Practice/Obsidian Practice.md",
     "_templates/Untitled.md",
     "Developer/New Page.md",
     "Obsidian Practice",
@@ -224,7 +225,6 @@
     "Developer",
     "Untitled 2.md",
     "Untitled 1.md",
-    "README.md",
     "READMD.md",
     ".gitignore.md",
     "Welcome.md",
