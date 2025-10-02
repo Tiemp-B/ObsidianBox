@@ -22,10 +22,8 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 
 <aside>SW 공학</aside>
 
-* After the lecture or reading, review your notes as soon as possible to reinforce the information in your memory.
-* Use the Cue/Question Column to cover the right-hand side of your notes and quiz yourself based on the cues or questions you wrote down.
-* Reflect on the material and try to answer the questions from memory. This active recall helps improve retention.
-* Check your answers and understanding in the Note-taking Column and fill in any gaps or correct any mistakes in your summary section.
+개념
+- 
 
 ---
 
