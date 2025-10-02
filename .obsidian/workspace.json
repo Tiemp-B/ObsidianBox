@@ -11,14 +11,12 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Untitled.md",
-                "mode": "source",
-                "source": false
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tags"
             }
           }
         ]
@@ -205,8 +203,15 @@
   },
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
-    "Developer/Untitled.md",
+    "Tags/Tags.md",
+    "Developer/정보처리기사/SW 개발 단계.md",
+    "Developer/정보처리기사/정보처리기사.md",
+    "Developer/임베디드기사/임베디드기사.md",
+    "Developer/임베디드기사",
     "Developer/Developer.md",
+    "Developer/Untitled.md",
+    "Developer/정보처리기사",
+    "Developer/프로젝트 개발 단계.md",
     "Developer/.md",
     "Developer/a/aa.md",
     "Developer/b/b.md",
@@ -233,13 +238,6 @@
     "Developer",
     "Untitled 2.md",
     "Untitled 1.md",
-    "READMD.md",
-    ".gitignore.md",
-    "Welcome.md",
-    "Excalidraw",
-    "Tags",
-    "testcase1.md",
-    "_templates/Cornell.md.md",
-    "Untitled 1"
+    "Excalidraw"
   ]
 }
