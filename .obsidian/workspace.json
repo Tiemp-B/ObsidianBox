@@ -11,14 +11,12 @@
             "id": "3ff1972897714c01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
-                "mode": "preview",
-                "source": false
+                "path": "Developer/정보처리기사/SW 설계/요구사항 확인"
               },
               "icon": "lucide-file",
-              "title": "SW 생명 주기"
+              "title": "요구사항 확인"
             }
           }
         ]
@@ -203,11 +201,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ff1972897714c01",
+  "active": "3348c59abb697bd3",
   "lastOpenFiles": [
     "_templates/Cornell Type.md",
-    "Obsidian Practice/Untitled 2.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+    "Obsidian Practice/Untitled 2.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Obsidian Practice/SecondFile.md",
     "_templates/Cornell CSS.md",

@@ -1,5 +1,6 @@
 ---
 cssclasses: cornell-note
+tags:
 ---
 
 <div class="cues-header">Cues</div>
