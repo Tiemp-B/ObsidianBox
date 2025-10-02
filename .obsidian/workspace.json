@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Untitled.md",
+                "file": "Developer/New Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New Page"
             }
           }
         ]
@@ -210,7 +210,7 @@
     "test note 1.md",
     "_templates/Untitled.md",
     "MyStyleSetting1.css",
-    "Developer/Untitled.md",
+    "Developer/New Page.md",
     "_templates/_templates.md",
     "_templates",
     "Developer/Developer.md",
