@@ -9,12 +9,9 @@ tags:
 # Notes
 SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별로 나눈 것이다.
 
-<aside>수명 주기</aside>
+<aside>생명 주기</aside>
 
-The Cornell method offers a specific layout for each page of notes. The note is devided into three sections: 
-- **Cue/Question Column (Left)** — is used to write down questions, keywords, or cues related to the content you're recording in the main notes section.
-- **Note-taking Column (Right)** — here you write your main notes during the lecture or reading. This section should contain the most critical information, main ideas, supporting details, and explanations.
-- **Summary Section (Bottom)** — here you write a concise summary of the main points covered in your notes.
+SW 개발 단계와 각 단계별 주요 활동, 그리고 활도의 결과에 대한 산출물로 표현한다.
 
 <aside>Note-taking Process</aside>
 
