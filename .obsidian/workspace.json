@@ -35,7 +35,8 @@
               "title": "Cornell Type"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +218,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db98a0376aedba1d",
+  "active": "fa240f6b72db4c57",
   "lastOpenFiles": [
-    "Developer/정보처리기사/Untitled.md",
     "Developer/정보처리기사/SW 설계.md",
     "_templates/Cornell Type.md",
+    "Developer/정보처리기사/Untitled.md",
     "_templates/_templates.md",
     "Developer/정보처리기사/정보처리기사.md",
     "_templates/Untitled 1.md",
