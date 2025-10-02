@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/Untitled 2.md",
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "SW 생명 주기"
             }
           }
         ]
@@ -205,9 +205,9 @@
   },
   "active": "3ff1972897714c01",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
-    "Obsidian Practice/Untitled 2.md",
     "_templates/Cornell Type.md",
+    "Obsidian Practice/Untitled 2.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Obsidian Practice/SecondFile.md",
     "_templates/Cornell CSS.md",
