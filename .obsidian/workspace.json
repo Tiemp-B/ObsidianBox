@@ -15,7 +15,27 @@
               "state": {
                 "file": "_templates/Cornell CSS.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cornell CSS"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7db8be557a45fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe1ac88e0b24b6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Cornell CSS.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Cornell CSS"
@@ -203,7 +223,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa240f6b72db4c57",
+  "active": "fe1ac88e0b24b6d7",
   "lastOpenFiles": [
     "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/Untitled.md",
