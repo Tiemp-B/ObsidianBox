@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "애자일 모형"
+              "title": "폭포수 모형"
             }
           },
           {
@@ -256,7 +256,7 @@
       }
     ]
   },
-  "active": "9a7f6501e343ef40",
+  "active": "3ff1972897714c01",
   "lastOpenFiles": [
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
