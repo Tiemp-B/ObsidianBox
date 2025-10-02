@@ -48,8 +48,8 @@
     "//Developer/Developer/정보처리기사",
     "//Tags",
     "//_templates",
-    "//Developer/Developer/정보처리기사/Developer/정보처리기사/SW 설계",
-    "//Developer/Developer/임베디드기사"
+    "//Developer/Developer/임베디드기사",
+    "//Developer/Developer/정보처리기사/Developer/정보처리기사/SW 설계"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

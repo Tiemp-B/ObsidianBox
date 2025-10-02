@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/임베디드기사"
+                "path": "Developer/정보처리기사/SW 설계"
               },
               "icon": "lucide-file",
-              "title": "임베디드기사"
+              "title": "SW 설계"
             }
           },
           {
@@ -217,11 +217,15 @@
   },
   "active": "0c226ad6ce38e6df",
   "lastOpenFiles": [
+    "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인",
+    "Developer/정보처리기사/SW 설계/SW 설계.md",
+    "Developer/정보처리기사/SW 설계/Untitled 1.md",
+    "Developer/정보처리기사/SW 설계/Untitled.md",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계.md",
     "_templates/Cornell Type.md",
     "Developer/정보처리기사/Untitled.md",
-    "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계",
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/Untitled 1.md",
@@ -246,12 +250,8 @@
     "Developer/a",
     "Developer/New Page.md",
     "Excalidraw/Excalidraw.md",
-    "Obsidian Practice/FirstFile.md",
-    "Obsidian Practice/SecondFile.md",
-    "Obsidian Practice/Obsidian Practice.md",
     "Obsidian Practice/testFolder",
     "Obsidian Practice",
-    "MyStyleSetting1.css",
-    "_templates"
+    "MyStyleSetting1.css"
   ]
 }
