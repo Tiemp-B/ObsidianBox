@@ -5,6 +5,13 @@ tags:
 
 <div class="cues-header">Cues</div>
 
+# Summary
+
+<summary>Write a concise summary here</summary>
+The Cornell Note-taking System is effective because it encourages active engagement during the note-taking process and provides a structured way to review and study the material later. It is widely used by students, professionals, and anyone looking to improve their note-taking and learning efficiency
+
+---
+
 # Notes
 
 The Cornell Note-taking System is a popular and effective method for organizing and summarizing information during lectures, readings, or any other form of learning.
@@ -29,10 +36,3 @@ The Cornell method offers a specific layout for each page of notes. The note is 
 * Use the Cue/Question Column to cover the right-hand side of your notes and quiz yourself based on the cues or questions you wrote down.
 * Reflect on the material and try to answer the questions from memory. This active recall helps improve retention.
 * Check your answers and understanding in the Note-taking Column and fill in any gaps or correct any mistakes in your summary section.
-
----
-
-# Summary
-
-<summary>Write a concise summary here</summary>
-The Cornell Note-taking System is effective because it encourages active engagement during the note-taking process and provides a structured way to review and study the material later. It is widely used by students, professionals, and anyone looking to improve their note-taking and learning efficiency.
