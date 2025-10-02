@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/Untitled.md",
-                "mode": "preview",
-                "source": false
+                "file": "_templates/Cornell CSS.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cornell CSS"
             }
           }
         ]
@@ -206,11 +206,11 @@
   "active": "fa240f6b72db4c57",
   "lastOpenFiles": [
     "Obsidian Practice/testFolder/SecondFile.md",
+    "Obsidian Practice/Untitled.md",
     "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/FirstFile.md",
     "Obsidian Practice/tt.md",
     "Obsidian Practice/Untitled 1.md",
-    "Obsidian Practice/Untitled.md",
     "_templates/Cornell CSS.md",
     "_templates/Cornell Type.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
