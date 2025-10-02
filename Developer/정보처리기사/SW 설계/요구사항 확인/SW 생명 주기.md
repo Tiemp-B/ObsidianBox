@@ -1,10 +1,12 @@
 ---
 cssclasses: cornell-note
+tags:
 ---
 
 <div class="cues-header">Cues</div>
 
 # Notes
+SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별로 나눈 것이다.
 
 <aside>Note's Layout</aside>
 
