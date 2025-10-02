@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian Practice/Untitled.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "39ff08b83b4bacb6",
+            "id": "8e372e6276e4e227",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
