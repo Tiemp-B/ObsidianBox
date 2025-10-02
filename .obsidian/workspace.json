@@ -11,12 +11,14 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "_templates"
+                "file": "Developer/정보처리기사/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "_templates"
+              "title": "Untitled"
             }
           }
         ]
@@ -201,11 +203,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8bc31afefbbd7015",
+  "active": "db98a0376aedba1d",
   "lastOpenFiles": [
+    "Developer/정보처리기사/Untitled.md",
+    "Developer/정보처리기사/정보처리기사.md",
     "_templates/Untitled.md",
-    "_templates/Untitled 1.md",
     "_templates/_templates.md",
+    "_templates/Untitled 1.md",
     "Developer/정보처리기사/SW 설계.md",
     "Tags/Tags.md",
     "Tags/Untitled.md",
@@ -213,7 +217,6 @@
     "Developer/정보처리기사/정보처리기사 1.md",
     "정보처리기사/정보처리기사.md",
     "정보처리기사",
-    "Developer/정보처리기사/정보처리기사.md",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/임베디드기사",
     "Developer/Developer.md",
@@ -233,7 +236,6 @@
     "Obsidian Practice/Obsidian Practice.md",
     "README.md",
     "Obsidian Practice/testFolder/SecondFile.md",
-    "Obsidian Practice/testFolder/testFolder.md",
     "Obsidian Practice/testFolder",
     "Obsidian Practice",
     "MyStyleSetting1.css",
