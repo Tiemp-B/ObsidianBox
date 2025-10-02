@@ -11,12 +11,14 @@
             "id": "db98a0376aedba1d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer"
+                "file": "Developer/Waterfall Model.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer"
+              "title": "Waterfall Model"
             }
           }
         ]
@@ -201,11 +203,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9187cd32c4d14456",
+  "active": "0c226ad6ce38e6df",
   "lastOpenFiles": [
+    "Developer/a/a.md",
+    "Developer/a",
+    "Developer/Untitled.md",
+    "Developer/Waterfall Model.md",
     "Developer/Developer.md",
-    "_templates/_templates.md",
     "Developer/New Page.md",
+    "_templates/_templates.md",
     "Excalidraw/Excalidraw.md",
     "Obsidian Practice/FirstFile.md",
     "Obsidian Practice/SecondFile.md",
@@ -233,9 +239,7 @@
     "_templates/Cornell.md.md",
     "2025-10-02.md",
     "무제.md",
-    "Untitled 1/무제.md",
     "Untitled 1",
-    "무제.base",
-    "Untitled.base"
+    "무제.base"
   ]
 }
