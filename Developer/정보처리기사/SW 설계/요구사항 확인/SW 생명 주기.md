@@ -20,7 +20,7 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 * In the Cue/Question Column, write down questions or cues that correspond to the material you're noting in the right column. These questions can be used as study prompts later.
 * If you come across concepts or ideas that you don't understand fully, make a note of it and try to clarify them later through research or by asking your instructor.
 
-<aside>Review and Study</aside>
+<aside>SW 공학</aside>
 
 * After the lecture or reading, review your notes as soon as possible to reinforce the information in your memory.
 * Use the Cue/Question Column to cover the right-hand side of your notes and quiz yourself based on the cues or questions you wrote down.
