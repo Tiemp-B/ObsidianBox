@@ -1,7 +1,6 @@
 ---
 cssclasses: cornell-note
 ---
-
 <div class="cornell">
   <aside class="cues">
     <h3>Cues</h3>
