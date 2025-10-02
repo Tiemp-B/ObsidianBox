@@ -40,4 +40,4 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 # Summary
 
 <summary>Write a concise summary here</summary>
-The Cornell Note-taking System is effective because it encourages active engagement during the note-taking process and provides a structured way to review and study the material later. It is widely used by students, professionals, and anyone looking to improve their note-taking and learning efficiency.
+개발된 소프트웨어의 품질
