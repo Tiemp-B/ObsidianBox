@@ -13,7 +13,7 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 
 **SW 개발 단계**와 **각 단계 별 주요 활동**, 그리고 **활동의 결과**에 대한 산출물로 표현한다.
 
-<aside>Note-taking Process</aside>
+<aside></aside>
 
 * Start by listening or reading actively, and jot down the main ideas and supporting details in the Note-taking Column.
 * Use abbreviations and bullet points to keep your notes concise and easy to review.
@@ -29,7 +29,11 @@ SW 개발을 위한 정의, 운용, 유지보수 등의 과정을 각 단계별�
 - Fairley 
 	-> 지정 비용과 기간 내에 SW를 체계적으로 생산, 유지 보수 관련 기술적 관리적 원리
 - Boehm
-	-> 과학적 지식을 SW 설계와 제작에 응용하는 
+	-> 과학적 지식을 SW 설계와 제작에 응용하는 것
+원칙
+- 현대적인 프로그래밍 기술을 계속적으로 적용
+- 개발된 SW의 품질이 유지되도록 지속적으로 검증
+- SW 개발 관련 사항 및 결과에 대한 명확한 기록 유지
 
 ---
 
