@@ -41,7 +41,8 @@
     "/",
     "//_templates",
     "//Excalidraw",
-    "//Obsidian Practice"
+    "//Obsidian Practice",
+    "//Obsidian Practice/Obsidian Practice/testFolder"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
