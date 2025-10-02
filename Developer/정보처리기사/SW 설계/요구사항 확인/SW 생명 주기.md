@@ -6,8 +6,6 @@ cssclasses: cornell-note
 
 # Notes
 
-The Cornell Note-taking System is a popular and effective method for organizing and summarizing information during lectures, readings, or any other form of learning.
-
 <aside>Note's Layout</aside>
 
 The Cornell method offers a specific layout for each page of notes. The note is devided into three sections: 
