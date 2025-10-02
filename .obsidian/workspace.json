@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Practice/SecondFile.md",
+                "file": "_templates/Cornell CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SecondFile"
+              "title": "Cornell CSS"
             }
           },
           {
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "c51bd683fc6651a5",
+            "id": "6cee9ae5ed649616",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -219,6 +219,7 @@
   },
   "active": "db98a0376aedba1d",
   "lastOpenFiles": [
+    "Obsidian Practice/SecondFile.md",
     "Obsidian Practice/testFolder/SecondFile.md",
     "_templates/Cornell CSS.md",
     "_templates/Cornell Type.md",
@@ -249,7 +250,6 @@
     "Developer/프로젝트 개발 단계.md",
     "Developer/.md",
     "Developer/a/aa.md",
-    "Developer/b/b.md",
     "Developer/b",
     "Developer/a",
     "Obsidian Practice/testFolder",
