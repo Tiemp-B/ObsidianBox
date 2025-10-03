@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "dd681e34faf1e2a0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               "title": "애자일 모형"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,19 +59,6 @@
         "id": "a7be9276856cfc3a",
         "type": "tabs",
         "children": [
-          {
-            "id": "b3b5d40477787f08",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "70bffca0df5edf12",
             "type": "leaf",
@@ -98,7 +96,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -270,14 +269,14 @@
       }
     ]
   },
-  "active": "d7e5d925d1906395",
+  "active": "dd681e34faf1e2a0",
   "lastOpenFiles": [
+    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
+    "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
-    "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
     "snippets/MyStyleSetting1.css",
