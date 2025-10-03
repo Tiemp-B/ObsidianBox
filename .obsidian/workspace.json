@@ -266,17 +266,20 @@
         "y": 89,
         "width": 1376,
         "height": 992,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fbc61392589c1497",
+  "active": "8e372e6276e4e227",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
+    "snippets/MyStyleSetting1.css",
+    "snippets/Cornell.css",
+    "snippets",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "RAD 모ㄷㄷㅂㅈㄷㄼㅈㄷㄹㄹ.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
@@ -300,14 +303,10 @@
     "Developer/정보처리기사/Untitled.md",
     "Developer/정보처리기사/SW 설계",
     "Developer/정보처리기사/정보처리기사.md",
-    "Developer/정보처리기사/Untitled 1.md",
     "정보처리기사",
     "Developer/임베디드기사",
     "Developer/정보처리기사",
     "Developer/b",
-    "Developer/a",
-    "Obsidian Practice/testFolder",
-    "Obsidian Practice",
-    "MyStyleSetting1.css"
+    "Developer/a"
   ]
 }

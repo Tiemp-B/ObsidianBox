@@ -1,0 +1,141 @@
+/* @settings
+name: Cornell Comfort (no-width)
+id: cornell-comfort-nowidth
+settings:
+  - id: base-font
+    title: 본문 글꼴
+    type: variable-font
+    default: Inter, Pretendard Variable, Noto Sans KR, system-ui, -apple-system, Segoe UI
+  - id: mono-font
+    title: 코드 글꼴
+    type: variable-font
+    default: JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace
+  - id: base-size
+    title: 본문 크기(px)
+    type: variable-number
+    min: 14
+    max: 20
+    step: 1
+    default: 16
+  - id: line-height
+    title: 줄간격
+    type: variable-number
+    min: 1.4
+    max: 1.9
+    step: 0.05
+    default: 1.7
+  - id: paragraph-spacing
+    title: 문단 간격(em)
+    type: variable-number
+    min: 0.0
+    max: 1.2
+    step: 0.05
+    default: 0.35
+  - id: heading-weight
+    title: 헤딩 두께
+    type: variable-select
+    default: 650
+    options: [600,650,700]
+  - id: soften-colors
+    title: 저채도 색상 사용
+    type: variable-toggle
+    default: true
+  - id: underline-links
+    title: 링크 밑줄(호버시)
+    type: variable-toggle
+    default: true
+  - id: code-bg-contrast
+    title: 코드 배경 대비(0.02~0.12)
+    type: variable-number
+    min: 0.02
+    max: 0.12
+    step: 0.01
+    default: 0.06
+  - id: table-stripe
+    title: 표 줄무늬
+    type: variable-toggle
+    default: true
+  - id: tag-pill
+    title: 태그 Pill 스타일
+    type: variable-toggle
+    default: true
+  - id: graph-soft
+    title: 그래프 색상 소프트
+    type: variable-toggle
+    default: true
+*/
+
+/* ---------- 변수 ---------- */
+:root{
+  --base-font: Inter, Pretendard Variable, Noto Sans KR, system-ui, -apple-system, Segoe UI;
+  --mono-font: JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  --base-size:16px; --line-height:1.7; --paragraph-spacing:0.35em; --heading-weight:650;
+  --underline-links:1; --table-stripe:1; --tag-pill:1; --code-bg-contrast:0.06; --graph-soft:1; --soften-colors:1;
+  --cc-fg:#22252a; --cc-bg:#f7f8fa; --cc-muted:#6b7280; --cc-border:#e5e7eb; --cc-accent:#2563eb; --cc-accent-soft:#e7efff;
+  --cc-fg-dark:#e8eaed; --cc-bg-dark:#0f1115; --cc-muted-dark:#98a2b3; --cc-border-dark:#1f2430; --cc-accent-dark:#60a5fa; --cc-accent-soft-dark:#172036;
+}
+
+/* 라이트/다크 */
+.theme-light{color:var(--cc-fg);--background-primary:var(--cc-bg);--background-secondary:#fff;--text-normal:var(--cc-fg);--text-muted:var(--cc-muted);--background-modifier-border:var(--cc-border);--interactive-accent:color-mix(in srgb,var(--cc-accent) 85%,#000 0%);}
+.theme-dark{color:var(--cc-fg-dark);--background-primary:var(--cc-bg-dark);--background-secondary:#0b0d12;--text-normal:var(--cc-fg-dark);--text-muted:var(--cc-muted-dark);--background-modifier-border:var(--cc-border-dark);--interactive-accent:color-mix(in srgb,var(--cc-accent-dark) 85%,#fff 0%);}
+
+/* 본문 타이포 */
+.markdown-source-view,.markdown-reading-view{font-family:var(--base-font);font-size:var(--base-size);line-height:var(--line-height);}
+.cm-content>*:not(:first-child){margin-top:var(--paragraph-spacing);}
+.markdown-preview-view p{margin:0 0 var(--paragraph-spacing);}
+
+/* 헤딩 */
+.markdown-preview-view h1,.markdown-preview-view h2,.markdown-preview-view h3,.cm-s-obsidian .cm-header{font-weight:var(--heading-weight);letter-spacing:.01em;}
+.markdown-preview-view h1{margin-top:1.2em;} .markdown-preview-view h2{margin-top:1.1em;} .markdown-preview-view h3{margin-top:1.0em;}
+
+/* 링크 */
+a,.cm-link{ text-underline-offset:3px; text-decoration-thickness:1px; text-decoration:none;}
+body:not(.is-mobile) a:hover{ text-decoration: var(--underline-links)==1 ? underline : none; }
+
+/* 목록/체크박스 */
+.markdown-preview-view ul,.markdown-preview-view ol{padding-left:1.25em;}
+input[type="checkbox"]{width:1.05em;height:1.05em;transform:translateY(1px);}
+
+/* 코드 */
+.markdown-preview-view code,.cm-s-obsidian .cm-inline-code{
+  font-family:var(--mono-font);padding:.08em .3em;border-radius:4px;
+  background:color-mix(in srgb,var(--background-primary) 100%,#000 0%);
+  box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--text-muted) 20%,transparent);
+}
+.markdown-preview-view pre code,.cm-s-obsidian .cm-codeBlock{
+  display:block;padding:.9em 1em;border-radius:8px;
+  background:color-mix(in srgb,var(--background-primary) calc(100% - (var(--code-bg-contrast)*100%)),#000 calc(var(--code-bg-contrast)*100%));
+  box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--text-muted) 25%, transparent);
+}
+
+/* Callout */
+.callout{border-radius:10px;border:1px solid var(--background-modifier-border);}
+.callout[data-callout="summary"]{background:color-mix(in srgb,var(--interactive-accent) 8%,transparent);}
+.callout[data-callout="question"]{background:color-mix(in srgb,var(--interactive-accent) 5%,transparent);}
+
+/* 표 */
+.markdown-preview-view table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;}
+.markdown-preview-view table th,.markdown-preview-view table td{border:1px solid var(--background-modifier-border);padding:.45em .6em;}
+.markdown-preview-view table tbody tr:nth-child(odd){background: var(--table-stripe)==1 ? color-mix(in srgb,var(--background-primary) 94%,#000 6%) : transparent;}
+
+/* 태그 */
+.tag,.cm-hashtag{
+  border-radius:calc(var(--tag-pill)*9999px + (1 - var(--tag-pill))*4px);
+  padding:.12em .5em;
+  background:color-mix(in srgb,var(--interactive-accent) 10%,transparent);
+  color:color-mix(in srgb,var(--interactive-accent) 25%,var(--text-normal));
+  border:1px solid color-mix(in srgb,var(--interactive-accent) 30%,transparent);
+}
+
+/* 이미지 */
+.markdown-preview-view img{border-radius:8px;}
+
+/* 스크롤바 */
+*{scrollbar-width:thin;scrollbar-color:color-mix(in srgb,var(--text-muted) 35%,transparent) transparent;}
+::-webkit-scrollbar{height:8px;width:8px;}
+::-webkit-scrollbar-thumb{border-radius:8px;background:color-mix(in srgb,var(--text-muted) 35%,transparent);}
+
+/* 그래프 */
+.graph-view.color-fill,.graph-view.color-circle{color:hsl(210 10% 60%);}
+body.theme-dark .graph-view{color: var(--graph-soft)==1 ? hsl(210 10% 55%) : hsl(210 20% 70%);}
+.graph-view .node-label{font-size:12px;opacity:.9;}
