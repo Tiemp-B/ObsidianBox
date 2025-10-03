@@ -84,23 +84,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70bffca0df5edf12",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "3439cf34c247861b",
             "type": "leaf",
             "state": {
@@ -120,8 +103,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -293,7 +275,7 @@
       }
     ]
   },
-  "active": "b0ff838a9ddf5348",
+  "active": "3439cf34c247861b",
   "lastOpenFiles": [
     "Obsidian Practice/Obsidian Practice.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
