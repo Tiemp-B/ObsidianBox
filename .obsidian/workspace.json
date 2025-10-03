@@ -25,10 +25,14 @@
             "id": "dd681e34faf1e2a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "요구사항 확인"
             }
           },
           {
@@ -272,6 +276,7 @@
   "active": "dd681e34faf1e2a0",
   "lastOpenFiles": [
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
@@ -285,7 +290,6 @@
     "RAD 모ㄷㄷㅂㅈㄷㄼㅈㄷㄹㄹ.md",
     "_templates/Cornell Type.md",
     "Vault.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Obsidian Practice/Untitled 2.md",
     "Obsidian Practice/SecondFile.md",
     "_templates/Cornell CSS.md",
