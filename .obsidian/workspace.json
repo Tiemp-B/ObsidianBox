@@ -34,18 +34,6 @@
             }
           },
           {
-            "id": "dd681e34faf1e2a0",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Developer/정보처리기사/SW 설계/요구사항 확인"
-              },
-              "icon": "lucide-file",
-              "title": "요구사항 확인"
-            }
-          },
-          {
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
@@ -58,9 +46,19 @@
               "icon": "lucide-file",
               "title": "애자일 모형"
             }
+          },
+          {
+            "id": "aa06f2b6b4375fe1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -283,8 +281,9 @@
       }
     ]
   },
-  "active": "2b51c4b7bd57fb5b",
+  "active": "aa06f2b6b4375fe1",
   "lastOpenFiles": [
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
@@ -293,7 +292,6 @@
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
     "snippets/MyStyleSetting1.css",
     "snippets/Cornell.css",
