@@ -4,24 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c1588677f47da1",
+        "id": "187e082693038ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "edda160ae044d33c",
+            "id": "d7e5d925d1906395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로토타입 모형"
+              "title": "나선형 모형"
+            }
+          },
+          {
+            "id": "c7896fdfbd8a55bb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Developer/정보처리기사"
+              },
+              "icon": "lucide-file",
+              "title": "정보처리기사"
+            }
+          },
+          {
+            "id": "fbc61392589c1497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "애자일 모형"
+            }
+          },
+          {
+            "id": "b0ff838a9ddf5348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SW 생명 주기"
+            }
+          },
+          {
+            "id": "ae08864e1406bf98",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,36 +85,6 @@
         "id": "a7be9276856cfc3a",
         "type": "tabs",
         "children": [
-          {
-            "id": "b3b5d40477787f08",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "70bffca0df5edf12",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "3439cf34c247861b",
             "type": "leaf",
@@ -78,6 +99,19 @@
             "id": "8e372e6276e4e227",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53f963d3c52aeaa2",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -85,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +234,8 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "floating": {
@@ -228,30 +263,54 @@
                   "icon": "lucide-file",
                   "title": "폭포수 모형"
                 }
+              },
+              {
+                "id": "ad2de97daf6a89d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "프로토타입 모형"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -746,
-        "y": 368,
+        "x": -1425,
+        "y": 89,
         "width": 1376,
         "height": 992,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ab67b17ee06f0261",
+  "active": "fbc61392589c1497",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
-    "_templates/Cornell Type.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
-    "Vault.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+    "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
+    "Obsidian Practice/Obsidian Practice.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
+    "Developer/임베디드기사/임베디드기사.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
+    "Developer/정보처리기사/SW 설계/SW 설계.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
+    "snippets/MyStyleSetting1.css",
+    "snippets/Cornell.css",
+    "snippets",
+    "RAD 모ㄷㄷㅂㅈㄷㄼㅈㄷㄹㄹ.md",
+    "_templates/Cornell Type.md",
+    "Vault.md",
     "Obsidian Practice/Untitled 2.md",
     "Obsidian Practice/SecondFile.md",
     "_templates/Cornell CSS.md",
@@ -260,25 +319,16 @@
     "Obsidian Practice/testFolder/SecondFile.md",
     "Obsidian Practice/FirstFile.md",
     "Obsidian Practice/Untitled 1.md",
-    "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인",
     "Developer/정보처리기사/SW 설계/Untitled 1.md",
     "Developer/정보처리기사/SW 설계/Untitled.md",
-    "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계.md",
     "Developer/정보처리기사/Untitled.md",
     "Developer/정보처리기사/SW 설계",
-    "Developer/정보처리기사/정보처리기사.md",
-    "Developer/정보처리기사/Untitled 1.md",
-    "_templates/_templates.md",
-    "_templates/Untitled 1.md",
     "정보처리기사",
     "Developer/임베디드기사",
     "Developer/정보처리기사",
     "Developer/b",
-    "Developer/a",
-    "Obsidian Practice/testFolder",
-    "Obsidian Practice",
-    "MyStyleSetting1.css"
+    "Developer/a"
   ]
 }
