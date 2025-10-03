@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "c7896fdfbd8a55bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "dd681e34faf1e2a0",
             "type": "leaf",
             "state": {
@@ -273,13 +283,13 @@
       }
     ]
   },
-  "active": "dd681e34faf1e2a0",
+  "active": "c7896fdfbd8a55bb",
   "lastOpenFiles": [
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
