@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
-                "mode": "source",
-                "source": false
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "애자일 모형"
+              "title": "SW 생명 주기"
             }
           }
         ]
@@ -258,8 +258,9 @@
   },
   "active": "d7e5d925d1906395",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
@@ -285,7 +286,6 @@
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/Untitled 1.md",
     "_templates/_templates.md",
-    "_templates/Untitled 1.md",
     "정보처리기사",
     "Developer/임베디드기사",
     "Developer/정보처리기사",
