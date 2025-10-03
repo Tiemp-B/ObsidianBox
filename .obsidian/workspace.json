@@ -51,6 +51,18 @@
             "id": "aa06f2b6b4375fe1",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Developer/정보처리기사/SW 설계"
+              },
+              "icon": "lucide-file",
+              "title": "SW 설계"
+            }
+          },
+          {
+            "id": "b0ff838a9ddf5348",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,10 +293,11 @@
       }
     ]
   },
-  "active": "aa06f2b6b4375fe1",
+  "active": "b0ff838a9ddf5348",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Obsidian Practice/Obsidian Practice.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
