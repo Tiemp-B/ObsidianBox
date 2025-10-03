@@ -63,14 +63,18 @@
             "id": "b0ff838a9ddf5348",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SW 생명 주기"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,6 +99,19 @@
           },
           {
             "id": "8e372e6276e4e227",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53f963d3c52aeaa2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -277,16 +294,16 @@
       }
     ]
   },
-  "active": "b0ff838a9ddf5348",
+  "active": "aa06f2b6b4375fe1",
   "lastOpenFiles": [
-    "Obsidian Practice/Obsidian Practice.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/정보처리기사.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
+    "Obsidian Practice/Obsidian Practice.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
     "Developer/임베디드기사/임베디드기사.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
