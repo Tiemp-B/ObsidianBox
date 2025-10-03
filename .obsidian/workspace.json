@@ -251,18 +251,18 @@
         "y": 89,
         "width": 1376,
         "height": 992,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "d7e5d925d1906395",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "_templates/Cornell Type.md",
     "Vault.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
