@@ -109,7 +109,24 @@
             }
           },
           {
-            "id": "53f963d3c52aeaa2",
+            "id": "c89ed3677eb87d4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7593bb5f5a353653",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -119,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -234,8 +251,7 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "floating": {
@@ -285,8 +301,8 @@
         "direction": "vertical",
         "x": -1425,
         "y": 89,
-        "width": 1376,
-        "height": 992,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
