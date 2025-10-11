@@ -38,7 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Excalidraw",
     "//Obsidian Practice/Obsidian Practice/testFolder",
     "//Developer/Developer/a",
@@ -52,7 +51,8 @@
     "//Developer/Developer/정보처리기사/Developer/정보처리기사/SW 설계",
     "//Developer/Developer/정보처리기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계",
-    "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인"
+    "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
