@@ -48,31 +48,35 @@
             }
           },
           {
-            "id": "b0ff838a9ddf5348",
+            "id": "3ca89d322d008ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SW 생명 주기"
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
-            "id": "ae08864e1406bf98",
+            "id": "b0ff838a9ddf5348",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +130,7 @@
             }
           },
           {
-            "id": "7593bb5f5a353653",
+            "id": "9f9fc7430b8f0613",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -294,8 +298,7 @@
                   "title": "프로토타입 모형"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -308,10 +311,20 @@
       }
     ]
   },
-  "active": "fbc61392589c1497",
+  "active": "b0ff838a9ddf5348",
   "lastOpenFiles": [
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "conflict-files-obsidian-git.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
+    "Untitled.md",
+    "Developer/언어/C/C언어의 입출력.md",
+    "Developer/언어/C/C.md",
+    "Developer/언어/C",
+    "Developer/언어",
+    "Developer/알고리즘/입출력.md",
+    "Developer/알고리즘",
+    "Developer/무어의 법칙.md",
     "Developer/정보처리기사/정보처리기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/요구사항 확인.md",
     "Obsidian Practice/Obsidian Practice.md",
@@ -320,7 +333,6 @@
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
     "Developer/정보처리기사/SW 설계/SW 설계.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
     "snippets/MyStyleSetting1.css",
     "snippets/Cornell.css",
     "snippets",
@@ -333,18 +345,9 @@
     "Obsidian Practice/tt.md",
     "Obsidian Practice/Untitled.md",
     "Obsidian Practice/testFolder/SecondFile.md",
-    "Obsidian Practice/FirstFile.md",
-    "Obsidian Practice/Untitled 1.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인",
-    "Developer/정보처리기사/SW 설계/Untitled 1.md",
-    "Developer/정보처리기사/SW 설계/Untitled.md",
-    "Developer/정보처리기사/SW 설계.md",
-    "Developer/정보처리기사/Untitled.md",
     "Developer/정보처리기사/SW 설계",
     "정보처리기사",
-    "Developer/임베디드기사",
-    "Developer/정보처리기사",
-    "Developer/b",
-    "Developer/a"
+    "Developer/임베디드기사"
   ]
 }
