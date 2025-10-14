@@ -60,23 +60,9 @@
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
             }
-          },
-          {
-            "id": "b0ff838a9ddf5348",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,7 +297,7 @@
       }
     ]
   },
-  "active": "b0ff838a9ddf5348",
+  "active": "3ca89d322d008ce3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
