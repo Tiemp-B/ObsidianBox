@@ -1,7 +1,10 @@
 ---
 cssclasses: cornell-note
-tags: Git
+tags:
+  - Git
+  - github
 aliases:
+  - Git/Github
   - Git/Github
 ---
 
@@ -18,7 +21,7 @@ aliases:
 
 The Cornell Note-taking System is a popular and effective method for organizing and summarizing information during lectures, readings, or any other form of learning.
 
-<aside>Note's Layout</aside>
+<aside>Gi</aside>
 
 문단 1
 
