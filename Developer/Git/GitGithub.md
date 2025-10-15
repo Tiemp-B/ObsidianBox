@@ -1,6 +1,8 @@
 ---
 cssclasses: cornell-note
 tags: Git
+aliases:
+  - Git/Github
 ---
 
 <div class="cues-header">Cues</div>
