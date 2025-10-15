@@ -21,13 +21,13 @@ aliases:
 
 The Cornell Note-taking System is a popular and effective method for organizing and summarizing information during lectures, readings, or any other form of learning.
 
-<aside>Gi</aside>
+<aside>Github</aside>
 
-문단 1
+github은 파일이 업로드 되는 공간
 
-<aside>Note-taking Process</aside>
+<aside>git</aside>
 
-문단 2
+지정 작업 공간 내에서의 모든 변경사항을 트래킹하는 프로그램
 
 <aside>Review and Study</aside>
 
