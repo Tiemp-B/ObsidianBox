@@ -37,14 +37,12 @@
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer"
               },
               "icon": "lucide-file",
-              "title": "애자일 모형"
+              "title": "Developer"
             }
           }
         ],
@@ -230,12 +228,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbc61392589c1497",
+  "active": "9f9fc7430b8f0613",
   "lastOpenFiles": [
+    "Developer/Developer.md",
+    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "conflict-files-obsidian-git.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "Untitled.md",
     "Developer/언어/C/C언어의 입출력.md",
     "Developer/언어/C/C.md",
@@ -263,7 +262,6 @@
     "_templates/Cornell CSS.md",
     "Obsidian Practice/tt.md",
     "Obsidian Practice/Untitled.md",
-    "Obsidian Practice/testFolder/SecondFile.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인",
     "Developer/정보처리기사/SW 설계",
     "정보처리기사",
