@@ -49,7 +49,8 @@
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계",
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
     "/",
-    "//Developer"
+    "//Developer",
+    "//Developer/Developer/Git"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

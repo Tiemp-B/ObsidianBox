@@ -37,12 +37,14 @@
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer"
+                "file": "Developer/Git/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer"
+              "title": "Untitled"
             }
           }
         ],
@@ -228,8 +230,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f9fc7430b8f0613",
+  "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/Git/Git.md",
+    "Developer/Git/Untitled.md",
+    "Developer/Git",
     "Developer/Developer.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "conflict-files-obsidian-git.md",
@@ -260,11 +265,8 @@
     "Obsidian Practice/Untitled 2.md",
     "Obsidian Practice/SecondFile.md",
     "_templates/Cornell CSS.md",
-    "Obsidian Practice/tt.md",
-    "Obsidian Practice/Untitled.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인",
     "Developer/정보처리기사/SW 설계",
-    "정보처리기사",
-    "Developer/임베디드기사"
+    "정보처리기사"
   ]
 }
