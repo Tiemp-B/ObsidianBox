@@ -4,8 +4,6 @@ tags:
   - Git
   - github
 aliases:
-  - Git/Github
-  - Git/Github
 ---
 
 <div class="cues-header">Cues</div>
@@ -24,7 +22,7 @@ The Cornell Note-taking System is a popular and effective method for organizing 
 <aside>Github</aside>
 
 github은 파일이 업로드 되는 공간
-cloud git provider. 다른 회사로 gitlab과 git bucket이 있음
+cloud git provider. 다른 회사로 gitlab과 bitbucket이 있음
 
 <aside>git</aside>
 
