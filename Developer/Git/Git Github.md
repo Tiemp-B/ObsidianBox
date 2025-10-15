@@ -26,7 +26,7 @@ cloud git provider. 다른 회사로 gitlab과 bitbucket이 있음
 
 <aside>git</aside>
 
-지정 작업 공간 내에서의 모든 변경사항을 트래킹하여 히스토리로 남기는 프로그램
+지정 작업 공간 내에서의 모든 변경사항을 트래킹하여 히스토리로 남기는 프로그램 = version control system
 git은 파일을 바이너리로 읽어서 변경사항을 읽을 수 있다
 
 
