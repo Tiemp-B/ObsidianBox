@@ -230,10 +230,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbc61392589c1497",
+  "active": "9f9fc7430b8f0613",
   "lastOpenFiles": [
-    "Developer/Git/Git.md",
+    "Developer/Git/command/command.md",
+    "Developer/Git/command",
+    "Developer/Git/Untitled.md",
     "Developer/Git/Git Github.md",
+    "Developer/Git/Git.md",
     "_templates/Cornell Type.md",
     "Developer/Git",
     "Developer/Developer.md",
@@ -263,10 +266,7 @@
     "RAD 모ㄷㄷㅂㅈㄷㄼㅈㄷㄹㄹ.md",
     "Vault.md",
     "Obsidian Practice/Untitled 2.md",
-    "Obsidian Practice/SecondFile.md",
-    "_templates/Cornell CSS.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인",
-    "Developer/정보처리기사/SW 설계",
-    "정보처리기사"
+    "Developer/정보처리기사/SW 설계"
   ]
 }
