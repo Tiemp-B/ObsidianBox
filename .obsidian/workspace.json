@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "c7896fdfbd8a55bb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Developer/정보처리기사"
-              },
-              "icon": "lucide-file",
-              "title": "정보처리기사"
-            }
-          },
-          {
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "알고리즘"
+                "path": "Developer/알고리즘/03. 동적 계획법"
               },
               "icon": "lucide-file",
-              "title": "알고리즘"
+              "title": "03. 동적 계획법"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +233,8 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 동적 계획법/03. 동적 계획법.md",
+    "Developer/알고리즘/03. 동적 계획법",
     "Developer/Git/파일특성.md",
     "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
     "Developer/알고리즘/02. 재귀와 분할정복",
@@ -264,7 +255,6 @@
     "알고리즘/04. 그리디/README.md",
     "알고리즘/04. 그리디",
     "알고리즘/03. 동적 계획법/README.md",
-    "알고리즘/03. 동적 계획법",
     "알고리즘/02. 재귀와 분할정복/README.md",
     "알고리즘/01. 정렬과 탐색/README.md",
     "Developer/Git/Git Github.md",
@@ -278,7 +268,6 @@
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
     "Untitled.md",
     "Developer/언어/C/C언어의 입출력.md",
-    "Developer/언어/C/C.md",
-    "Developer/알고리즘/입출력.md"
+    "Developer/언어/C/C.md"
   ]
 }

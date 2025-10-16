@@ -51,7 +51,8 @@
     "/",
     "//Developer",
     "//Developer/Developer/Git",
-    "//Developer/Developer/알고리즘"
+    "//Developer/Developer/알고리즘",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
