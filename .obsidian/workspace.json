@@ -46,19 +46,9 @@
               "icon": "lucide-file",
               "title": "파일특성"
             }
-          },
-          {
-            "id": "4b092ea3254e2beb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -254,7 +244,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "1c922591897ca1b2",
+  "active": "9187cd32c4d14456",
   "lastOpenFiles": [
     "Developer/Git/Git Github.md",
     "Developer/Git/파일특성.md",
