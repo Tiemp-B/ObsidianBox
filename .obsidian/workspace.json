@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/알고리즘/07. MST"
+                "path": "Developer/알고리즘/06. 최단 경로"
               },
               "icon": "lucide-file",
-              "title": "07. MST"
+              "title": "06. 최단 경로"
             }
           }
         ],
@@ -217,10 +217,14 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "0c2eb85be84e99d8",
+  "active": "f58d2a1df279d259",
   "lastOpenFiles": [
-    "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
+    "Developer/알고리즘/07. MST/README.md",
     "Developer/알고리즘/07. MST/07. MST.md",
+    "알고리즘/07. MST/README.md",
+    "알고리즘/07. MST",
+    "알고리즘",
+    "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
     "Developer/알고리즘/10. 고급 자료구조/README.md",
     "Developer/알고리즘/10. 고급 자료구조",
     "Developer/알고리즘/09. 네트워크 플로우/README.md",
@@ -239,12 +243,9 @@
     "Untitled.md",
     "Developer/알고리즘/03. 동적 계획법",
     "Developer/Git/파일특성.md",
-    "Developer/알고리즘/02. 재귀와 분할정복",
-    "Developer/알고리즘/01. 정렬과 탐색",
     "알고리즘/10. 고급 자료구조/README.md",
     "알고리즘/09. 네트워크 플로우/README.md",
     "알고리즘/08. 위상 정렬/README.md",
-    "알고리즘/07. MST/README.md",
     "알고리즘/06. 최단 경로/README.md",
     "알고리즘/05. 그래프 기초/README.md",
     "알고리즘/04. 그리디/README.md",
@@ -253,7 +254,6 @@
     "알고리즘/01. 정렬과 탐색/README.md",
     "Developer/Git/Git Github.md",
     "Developer/Git/command/command.md",
-    "Developer/Git/Git.md",
-    "_templates/Cornell Type.md"
+    "Developer/Git/Git.md"
   ]
 }
