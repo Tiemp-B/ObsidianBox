@@ -244,8 +244,17 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "9187cd32c4d14456",
+  "active": "9f9fc7430b8f0613",
   "lastOpenFiles": [
+    "알고리즘/04. 그리디/README.md",
+    "알고리즘/04. 그리디",
+    "알고리즘/03. 동적 계획법/README.md",
+    "알고리즘/03. 동적 계획법",
+    "알고리즘/02. 재귀와 분할정복/README.md",
+    "알고리즘/02. 재귀와 분할정복",
+    "알고리즘/01. 정렬과 탐색/README.md",
+    "알고리즘/01. 정렬과 탐색",
+    "알고리즘",
     "Developer/Git/Git Github.md",
     "Developer/Git/파일특성.md",
     "Developer/Git/command/command.md",
@@ -272,15 +281,6 @@
     "Developer/정보처리기사/SW 설계/요구사항 확인/나선형 모형.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/Untitled.md",
     "Developer/임베디드기사/임베디드기사.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md",
-    "Developer/정보처리기사/SW 설계/SW 설계.md",
-    "snippets/MyStyleSetting1.css",
-    "snippets/Cornell.css",
-    "snippets",
-    "RAD 모ㄷㄷㅂㅈㄷㄼㅈㄷㄹㄹ.md",
-    "Vault.md",
-    "Obsidian Practice/Untitled 2.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인",
-    "Developer/정보처리기사/SW 설계"
+    "Developer/정보처리기사/SW 설계/요구사항 확인/프로토타입 모형.md"
   ]
 }
