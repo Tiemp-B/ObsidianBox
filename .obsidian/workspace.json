@@ -219,6 +219,8 @@
   },
   "active": "457bcd5522779dd7",
   "lastOpenFiles": [
+    "Developer/알고리즘/05. 그래프 기초/05. 그래프 기초.md",
+    "Developer/알고리즘/05. 그래프 기초",
     "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
     "Developer/알고리즘/03. 동적 계획법/03. 동적 계획법.md",
     "Developer/알고리즘/04. 그리디/04. 그리디.md",
@@ -240,7 +242,6 @@
     "알고리즘/06. 최단 경로/README.md",
     "알고리즘/06. 최단 경로",
     "알고리즘/05. 그래프 기초/README.md",
-    "알고리즘/05. 그래프 기초",
     "알고리즘/04. 그리디/README.md",
     "알고리즘/03. 동적 계획법/README.md",
     "알고리즘/02. 재귀와 분할정복/README.md",
@@ -253,7 +254,6 @@
     "Developer/정보처리기사/SW 설계/요구사항 확인/애자일 모형.md",
     "conflict-files-obsidian-git.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
-    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
-    "Developer/언어/C/C언어의 입출력.md"
+    "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md"
   ]
 }
