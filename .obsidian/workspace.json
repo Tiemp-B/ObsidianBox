@@ -11,14 +11,10 @@
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/알고리즘/03. 정렬/정렬.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "정렬"
+              "title": "New tab"
             }
           }
         ],
@@ -219,27 +215,27 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "9f9fc7430b8f0613",
+  "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/11. 기하",
+    "Developer/알고리즘/10. 수학 - 복사본",
+    "Developer/알고리즘/10. 수학",
+    "Developer/알고리즘/09. 문자열",
+    "Developer/알고리즘/08. 트리",
+    "Developer/알고리즘/07. 그래프",
+    "Developer/알고리즘/04. 그리디/04. 그리디.md",
+    "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/06. 동적 프로그래밍",
     "Developer/알고리즘/05. 분할 정복",
     "Developer/알고리즘/새 폴더 - 복사본 (5)",
     "Developer/알고리즘/새 폴더 - 복사본 (4)",
     "Developer/알고리즘/새 폴더 - 복사본 (3)",
-    "Developer/알고리즘/새 폴더 - 복사본 (2)",
-    "Developer/알고리즘/새 폴더 - 복사본",
-    "Developer/알고리즘/새 폴더",
-    "Developer/알고리즘/04. 그리디/04. 그리디.md",
-    "Developer/알고리즘/04. 그리디",
     "Developer/알고리즘/03. 정렬/Untitled.md",
-    "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/03. 정렬.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
-    "Developer/알고리즘/03. 정렬",
     "Developer/알고리즘/Untitled.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
-    "Developer/알고리즘/02. 탐색",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/입출력.md",
     "Developer/알고리즘/알고리즘.md",
