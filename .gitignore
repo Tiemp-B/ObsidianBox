@@ -11,3 +11,9 @@ obsidian/workspace-mobile.json
 .obsidian/plugins/make-md/
 .makemd/
 .space/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
