@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/알고리즘/01. 자료 구조/자료구조.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "자료구조"
