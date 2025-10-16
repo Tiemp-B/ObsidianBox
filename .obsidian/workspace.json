@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/알고리즘/06. 최단 경로"
+                "path": "Developer/알고리즘/07. MST"
               },
               "icon": "lucide-file",
-              "title": "06. 최단 경로"
+              "title": "07. MST"
             }
           }
         ],
@@ -217,7 +217,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "9f9fc7430b8f0613",
+  "active": "0c2eb85be84e99d8",
   "lastOpenFiles": [
     "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
     "Developer/알고리즘/07. MST/07. MST.md",
