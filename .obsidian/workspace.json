@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/알고리즘/03. 동적 계획법"
+                "path": "알고리즘/01. 정렬과 탐색"
               },
               "icon": "lucide-file",
-              "title": "03. 동적 계획법"
+              "title": "01. 정렬과 탐색"
             }
           }
         ],
@@ -217,12 +217,15 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "fbc61392589c1497",
+  "active": "457bcd5522779dd7",
   "lastOpenFiles": [
+    "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
     "Developer/알고리즘/03. 동적 계획법/03. 동적 계획법.md",
+    "Developer/알고리즘/04. 그리디/04. 그리디.md",
+    "Developer/알고리즘/04. 그리디",
+    "Untitled.md",
     "Developer/알고리즘/03. 동적 계획법",
     "Developer/Git/파일특성.md",
-    "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
     "Developer/알고리즘/02. 재귀와 분할정복",
     "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
     "Developer/알고리즘/01. 정렬과 탐색",
@@ -239,7 +242,6 @@
     "알고리즘/05. 그래프 기초/README.md",
     "알고리즘/05. 그래프 기초",
     "알고리즘/04. 그리디/README.md",
-    "알고리즘/04. 그리디",
     "알고리즘/03. 동적 계획법/README.md",
     "알고리즘/02. 재귀와 분할정복/README.md",
     "알고리즘/01. 정렬과 탐색/README.md",
@@ -252,8 +254,6 @@
     "conflict-files-obsidian-git.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/정보처리기사/SW 설계/요구사항 확인/폭포수 모형.md",
-    "Untitled.md",
-    "Developer/언어/C/C언어의 입출력.md",
-    "Developer/언어/C/C.md"
+    "Developer/언어/C/C언어의 입출력.md"
   ]
 }

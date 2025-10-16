@@ -52,7 +52,14 @@
     "//Developer",
     "//Developer/Developer/Git",
     "//Developer/Developer/알고리즘",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법"
+    "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/04. 그리디",
+    "//알고리즘",
+    "//알고리즘/알고리즘/03. 동적 계획법",
+    "//알고리즘/알고리즘/04. 그리디",
+    "//알고리즘/알고리즘/05. 그래프 기초",
+    "//알고리즘/알고리즘/02. 재귀와 분할정복",
+    "//알고리즘/알고리즘/01. 정렬과 탐색"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
