@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/알고리즘/07. MST"
+                "path": "Developer/알고리즘"
               },
               "icon": "lucide-file",
-              "title": "07. MST"
+              "title": "알고리즘"
             }
           }
         ],
@@ -219,11 +219,13 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
-    "Developer/알고리즘/07. MST/07. MST.md",
+    "Developer/알고리즘/알고리즘.md",
     "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
+    "Developer/알고리즘/07. MST/07. MST.md",
+    "Developer/알고리즘/08. 위상 정렬/08. 위상 정렬.md",
+    "Developer/알고리즘/07. MST/MST.md",
     "Developer/알고리즘/09. 네트워크 플로우/09. 네트워크 플로우.md",
     "Developer/알고리즘/10. 고급 자료구조/10. 고급 자료구조.md",
-    "Developer/알고리즘/08. 위상 정렬/08. 위상 정렬.md",
     "Developer/알고리즘/07. MST/README.md",
     "Developer/알고리즘/입출력.md",
     "알고리즘/07. MST/README.md",
@@ -252,8 +254,6 @@
     "알고리즘/08. 위상 정렬/README.md",
     "알고리즘/06. 최단 경로/README.md",
     "알고리즘/05. 그래프 기초/README.md",
-    "알고리즘/04. 그리디/README.md",
-    "알고리즘/03. 동적 계획법/README.md",
-    "알고리즘/02. 재귀와 분할정복/README.md"
+    "알고리즘/04. 그리디/README.md"
   ]
 }
