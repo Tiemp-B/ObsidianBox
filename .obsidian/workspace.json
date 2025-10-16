@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/01. 자료 구조/자료구조.md",
+                "file": "Developer/알고리즘/03. 정렬/정렬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료구조"
+              "title": "정렬"
             }
           }
         ],
@@ -221,8 +221,14 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 정렬/정렬.md",
+    "Developer/알고리즘/03. 정렬/03. 정렬.md",
+    "Developer/알고리즘/02. 탐색/탐색.md",
+    "Developer/알고리즘/03. 정렬",
     "Developer/알고리즘/Untitled.md",
+    "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
+    "Developer/알고리즘/02. 탐색",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/입출력.md",
     "Developer/알고리즘/01. 자료 구조",
@@ -246,16 +252,10 @@
     "알고리즘/07. MST/README.md",
     "알고리즘/07. MST",
     "알고리즘",
-    "Developer/알고리즘/10. 고급 자료구조/README.md",
     "Developer/알고리즘/10. 고급 자료구조",
-    "Developer/알고리즘/09. 네트워크 플로우/README.md",
     "Developer/알고리즘/09. 네트워크 플로우",
-    "Developer/알고리즘/08. 위상 정렬/README.md",
     "Developer/알고리즘/08. 위상 정렬",
     "Developer/알고리즘/07. MST",
-    "Developer/알고리즘/06. 최단 경로",
-    "Developer/알고리즘/05. 그래프 기초/05. 그래프 기초.md",
-    "Developer/알고리즘/05. 그래프 기초",
-    "Developer/알고리즘/04. 그리디"
+    "Developer/알고리즘/06. 최단 경로"
   ]
 }
