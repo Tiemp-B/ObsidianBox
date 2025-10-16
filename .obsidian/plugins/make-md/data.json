@@ -62,11 +62,11 @@
     "//알고리즘/알고리즘/01. 정렬과 탐색",
     "//알고리즘/알고리즘/08. 위상 정렬",
     "//알고리즘/알고리즘/07. MST",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/08. 위상 정렬",
     "//Developer/Developer/알고리즘/Developer/알고리즘/06. 최단 경로",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/09. 네트워크 플로우",
     "//Developer/Developer/알고리즘/Developer/알고리즘/10. 고급 자료구조",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/07. MST"
+    "//Developer/Developer/알고리즘/Developer/알고리즘/07. MST",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/08. 위상 정렬",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/09. 네트워크 플로우"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
