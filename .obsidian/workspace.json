@@ -11,14 +11,12 @@
             "id": "fbc61392589c1497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/알고리즘/07. MST/MST.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/알고리즘/08. 위상 정렬"
               },
               "icon": "lucide-file",
-              "title": "MST"
+              "title": "08. 위상 정렬"
             }
           }
         ],
@@ -219,15 +217,16 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "fbc61392589c1497",
+  "active": "ce4e9a7b067dc085",
   "lastOpenFiles": [
-    "Developer/알고리즘/10. 고급 자료구조/고급 자료구조.md",
+    "Developer/알고리즘/09. 네트워크 플로우/09. 네트워크 플로우.md",
+    "_templates/Cornell Type.md",
+    "Developer/알고리즘/08. 위상 정렬/08. 위상 정렬.md",
     "Developer/알고리즘/09. 네트워크 플로우/네트워크 플로우.md",
     "Developer/알고리즘/08. 위상 정렬/위상 정렬.md",
-    "Developer/알고리즘/07. MST/07. MST.md",
     "Developer/알고리즘/07. MST/MST.md",
-    "Developer/알고리즘/08. 위상 정렬/08. 위상 정렬.md",
-    "Developer/알고리즘/09. 네트워크 플로우/09. 네트워크 플로우.md",
+    "Developer/알고리즘/10. 고급 자료구조/고급 자료구조.md",
+    "Developer/알고리즘/07. MST/07. MST.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
     "Developer/알고리즘/10. 고급 자료구조/10. 고급 자료구조.md",
@@ -255,7 +254,6 @@
     "Developer/알고리즘/03. 동적 계획법",
     "Developer/Git/파일특성.md",
     "알고리즘/10. 고급 자료구조/README.md",
-    "알고리즘/09. 네트워크 플로우/README.md",
-    "알고리즘/08. 위상 정렬/README.md"
+    "알고리즘/09. 네트워크 플로우/README.md"
   ]
 }
