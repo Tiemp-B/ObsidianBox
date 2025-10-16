@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/07. MST/MST.md",
+                "file": "Developer/알고리즘/01. 정렬과 탐색/정렬과 탐색.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MST"
+              "title": "정렬과 탐색"
             }
           }
         ],
@@ -221,13 +221,13 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
+    "Developer/알고리즘/07. MST/MST.md",
     "Developer/알고리즘/02. 재귀와 분할정복/재귀와 분할정복.md",
     "Developer/알고리즘/입출력.md",
-    "Developer/알고리즘/07. MST/MST.md",
     "Developer/알고리즘/01. 정렬과 탐색/정렬과 탐색.md",
     "Developer/알고리즘/07. MST/07. MST.md",
     "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
-    "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
     "Developer/Git/Git.md",
     "_templates/Cornell Type.md",
     "Developer/알고리즘/08. 위상 정렬/08. 위상 정렬.md",
