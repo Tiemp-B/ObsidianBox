@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "알고리즘/01. 정렬과 탐색"
+                "path": "알고리즘/08. 위상 정렬"
               },
               "icon": "lucide-file",
-              "title": "01. 정렬과 탐색"
+              "title": "08. 위상 정렬"
             }
           }
         ],
@@ -217,9 +217,10 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "457bcd5522779dd7",
+  "active": "fbc61392589c1497",
   "lastOpenFiles": [
     "Developer/알고리즘/07. MST/07. MST.md",
+    "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
     "Developer/알고리즘/07. MST",
     "Developer/알고리즘/06. 최단 경로/06. 최단 경로.md",
     "Developer/알고리즘/06. 최단 경로",
@@ -233,7 +234,6 @@
     "Developer/알고리즘/03. 동적 계획법",
     "Developer/Git/파일특성.md",
     "Developer/알고리즘/02. 재귀와 분할정복",
-    "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
     "Developer/알고리즘/01. 정렬과 탐색",
     "알고리즘/10. 고급 자료구조/README.md",
     "알고리즘/10. 고급 자료구조",
