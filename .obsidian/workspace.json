@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/알고리즘/03. 정렬/정렬.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -208,6 +208,9 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 정렬/기수 정렬.md",
+    "Developer/알고리즘/03. 정렬/계수 정렬.md",
+    "Developer/알고리즘/03. 정렬/힙 정렬.md",
     "Developer/알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/알고리즘/03. 정렬/병합 정렬.md",
     "Developer/알고리즘/03. 정렬/선택 정렬.md",
@@ -232,10 +235,7 @@
     "Developer/알고리즘/01. 자료 구조/연결리스트.md",
     "Developer/알고리즘/08. 트리/트리.md",
     "Developer/알고리즘/01. 자료 구조/코드/Untitled.md",
-    "Developer/알고리즘/01. 자료 구조/코드/연결리스트 - C.md",
-    "01. 자료 구조/큐.md",
     "01. 자료 구조",
-    "Developer/알고리즘/01. 자료구조/스택.md",
     "Developer/알고리즘/01. 자료구조",
     "Developer/알고리즘/01. 자료 구조/코드",
     "Developer/알고리즘/12. 고급 기법",
