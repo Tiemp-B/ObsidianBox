@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/01. 자료 구조/자료구조.md",
+                "file": "Developer/알고리즘/01. 자료 구조/스택.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료구조"
+              "title": "스택"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
-    "Developer/알고리즘/01. 자료 구조/큐.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
+    "Developer/알고리즘/01. 자료 구조/큐.md",
     "01. 자료 구조/큐.md",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료 구조/스택.md",
