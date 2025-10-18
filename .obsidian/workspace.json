@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/알고리즘/03. 정렬/정렬.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -208,12 +208,13 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "_templates/Cornell Type.md",
+    "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/Computer Science/Computer Science.md",
     "Developer/Computer Science",
     "Developer/임베디드기사/임베디드기사.md",
-    "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/03. 정렬.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
@@ -242,7 +243,6 @@
     "Developer/알고리즘/10. 수학",
     "Developer/알고리즘/09. 문자열",
     "Developer/알고리즘/04. 그리디/04. 그리디.md",
-    "Developer/알고리즘/03. 정렬/Untitled.md",
-    "Developer/알고리즘/Untitled.md"
+    "Developer/알고리즘/03. 정렬/Untitled.md"
   ]
 }
