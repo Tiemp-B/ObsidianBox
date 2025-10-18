@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Cornell Type.md",
+                "file": "Developer/알고리즘/03. 정렬/병합 정렬.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cornell Type"
+              "title": "병합 정렬"
             }
           }
         ],
@@ -208,24 +208,25 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 정렬/선택 정렬.md",
+    "Developer/알고리즘/03. 정렬/삽입 정렬.md",
     "Developer/알고리즘/03. 정렬/버블 정렬.md",
+    "Developer/알고리즘/02. 탐색/탐색.md",
+    "Developer/알고리즘/입출력.md",
+    "_templates/Cornell Type.md",
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/기수 정렬.md",
     "Developer/알고리즘/03. 정렬/계수 정렬.md",
     "Developer/알고리즘/03. 정렬/힙 정렬.md",
     "Developer/알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/알고리즘/03. 정렬/병합 정렬.md",
-    "Developer/알고리즘/03. 정렬/선택 정렬.md",
-    "Developer/알고리즘/03. 정렬/삽입 정렬.md",
     "Developer/알고리즘/03. 정렬/Untitled.md",
-    "_templates/Cornell Type.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/SW 설계/요구사항 확인/SW 생명 주기.md",
     "Developer/Computer Science/Computer Science.md",
     "Developer/Computer Science",
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/알고리즘/03. 정렬/03. 정렬.md",
-    "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/알고리즘/07. 그래프/그래프.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
@@ -234,7 +235,6 @@
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/01. 자료 구조/연결리스트.md",
     "Developer/알고리즘/08. 트리/트리.md",
-    "Developer/알고리즘/01. 자료 구조/코드/Untitled.md",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
     "Developer/알고리즘/01. 자료 구조/코드",

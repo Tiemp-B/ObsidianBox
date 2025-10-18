@@ -2,6 +2,7 @@
 cssclasses: cornell-note
 tags:
 ---
+
 # Summary
 
 <summary>Write a concise summary here</summary>
