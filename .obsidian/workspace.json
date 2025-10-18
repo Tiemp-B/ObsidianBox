@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/02. 탐색/탐색.md",
-                "mode": "preview",
+                "file": "Developer/알고리즘/03. 정렬/정렬.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "탐색"
+              "title": "정렬"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 정렬/03. 정렬.md",
+    "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/알고리즘/07. 그래프/그래프.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
@@ -237,8 +239,6 @@
     "Developer/알고리즘/04. 그리디/04. 그리디.md",
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/Untitled.md",
-    "Developer/알고리즘/03. 정렬/03. 정렬.md",
-    "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/Untitled.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/알고리즘/07. MST/MST.md",
