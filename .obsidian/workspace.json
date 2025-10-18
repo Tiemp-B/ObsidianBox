@@ -25,14 +25,12 @@
             "id": "5f560b4f694ae864",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/알고리즘/01. 자료구조/스택.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/알고리즘/01. 자료구조"
               },
               "icon": "lucide-file",
-              "title": "스택"
+              "title": "01. 자료구조"
             }
           }
         ],
@@ -223,12 +221,12 @@
   },
   "active": "5f560b4f694ae864",
   "lastOpenFiles": [
+    "Developer/알고리즘/01. 자료구조/스택.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
     "Developer/알고리즘/01. 자료 구조/Untitled.md",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/01. 자료 구조/코드/코드.md",
     "Developer/알고리즘/01. 자료 구조/연결리스트.md",
-    "Developer/알고리즘/01. 자료구조/스택.md",
     "Developer/알고리즘/01. 자료구조/스택ㅇㅎㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ.md",
     "Developer/알고리즘/01. 자료구조",
     "Excalidraw/Drawing 2025-10-18 14.31.29.excalidraw.md",
