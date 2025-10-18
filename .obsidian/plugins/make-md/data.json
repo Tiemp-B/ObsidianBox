@@ -50,7 +50,6 @@
     "/",
     "//Developer",
     "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/04. 그리디",
     "//알고리즘",
     "//알고리즘/알고리즘/03. 동적 계획법",
     "//알고리즘/알고리즘/04. 그리디",
@@ -72,7 +71,9 @@
     "//Developer/Developer/임베디드기사",
     "//Developer/Developer/정보처리기사",
     "//Developer/Developer/알고리즘",
-    "//Developer/Developer/알고리즘/Developer/알고리즘/01. 자료 구조"
+    "//Developer/Developer/알고리즘/Developer/알고리즘/01. 자료 구조",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/06. 동적 프로그래밍",
+    "//Developer/Developer/알고리즘/Developer/알고리즘/07. 그래프"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
