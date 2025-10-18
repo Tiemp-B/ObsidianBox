@@ -5,7 +5,6 @@ tags:
 
 # Summary
 
-<summary>Write a concise summary here</summary>
 요약
 
 ---
