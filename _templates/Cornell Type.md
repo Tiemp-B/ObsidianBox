@@ -2,15 +2,14 @@
 cssclasses: cornell-note
 tags:
 ---
-
-<div class="cues-header">Cues</div>
-
 # Summary
 
 <summary>Write a concise summary here</summary>
 요약
 
 ---
+
+<div class="cues-header">Cues</div>
 
 # Notes
 
