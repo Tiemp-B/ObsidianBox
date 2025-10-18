@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "자료구조"
             }
-          },
-          {
-            "id": "5f560b4f694ae864",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Developer/알고리즘/01. 자료구조"
-              },
-              "icon": "lucide-file",
-              "title": "01. 자료구조"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -219,12 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f560b4f694ae864",
+  "active": "fbc61392589c1497",
   "lastOpenFiles": [
-    "Developer/알고리즘/01. 자료구조/스택.md",
+    "Developer/알고리즘/01. 자료 구조/스택.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
-    "Developer/알고리즘/01. 자료 구조/Untitled.md",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
+    "Developer/알고리즘/01. 자료구조/스택.md",
+    "Developer/알고리즘/01. 자료 구조/Untitled.md",
     "Developer/알고리즘/01. 자료 구조/코드/코드.md",
     "Developer/알고리즘/01. 자료 구조/연결리스트.md",
     "Developer/알고리즘/01. 자료구조/스택ㅇㅎㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ.md",
@@ -255,7 +243,6 @@
     "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
     "Developer/알고리즘/02. 재귀와 분할정복/재귀와 분할정복.md",
     "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
-    "Developer/Git/Git.md",
-    "_templates/Cornell Type.md"
+    "Developer/Git/Git.md"
   ]
 }
