@@ -208,8 +208,11 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
-    "Developer/알고리즘/01. 자료 구조/스택.md",
+    "Developer/알고리즘/01. 자료 구조/큐.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
+    "01. 자료 구조/큐.md",
+    "01. 자료 구조",
+    "Developer/알고리즘/01. 자료 구조/스택.md",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/01. 자료구조/스택.md",
     "Developer/알고리즘/01. 자료 구조/Untitled.md",
@@ -228,7 +231,6 @@
     "Developer/알고리즘/10. 수학",
     "Developer/알고리즘/09. 문자열",
     "Developer/알고리즘/08. 트리",
-    "Developer/알고리즘/07. 그래프",
     "Developer/알고리즘/04. 그리디/04. 그리디.md",
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/Untitled.md",
@@ -241,8 +243,6 @@
     "Developer/알고리즘/07. MST/07. MST.md",
     "Developer/알고리즘/01. 정렬과 탐색/정렬과 탐색.md",
     "Developer/알고리즘/01. 정렬과 탐색/01. 정렬과 탐색.md",
-    "Developer/알고리즘/02. 재귀와 분할정복/재귀와 분할정복.md",
-    "Developer/알고리즘/02. 재귀와 분할정복/02. 재귀와 분할정복.md",
-    "Developer/Git/Git.md"
+    "Developer/알고리즘/02. 재귀와 분할정복/재귀와 분할정복.md"
   ]
 }
