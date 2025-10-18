@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "연결리스트"
             }
+          },
+          {
+            "id": "6c7fb8285b01c003",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -219,7 +230,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "fbc61392589c1497",
+  "active": "6c7fb8285b01c003",
   "lastOpenFiles": [
     "Developer/알고리즘/01. 자료 구조/코드/연결리스트 - C.md",
     "Developer/알고리즘/01. 자료 구조/Untitled.md",
