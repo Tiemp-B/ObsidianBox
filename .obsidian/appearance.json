@@ -1,7 +1,7 @@
 {
   "enabledCssSnippets": [
-    "Cornell",
-    "MyStyleSetting1"
+    "MyStyleSetting1",
+    "Cornell"
   ],
   "theme": "obsidian",
   "showRibbon": true,
