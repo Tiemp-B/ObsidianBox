@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Cornell Type.md",
+                "file": "Developer/알고리즘/03. 정렬/버블 정렬.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Cornell Type"
+              "title": "버블 정렬"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "fbc61392589c1497",
   "lastOpenFiles": [
+    "_templates/Cornell Type.md",
+    "Developer/알고리즘/03. 정렬/버블 정렬.md",
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/기수 정렬.md",
     "Developer/알고리즘/03. 정렬/계수 정렬.md",
@@ -216,10 +218,8 @@
     "Developer/알고리즘/03. 정렬/병합 정렬.md",
     "Developer/알고리즘/03. 정렬/선택 정렬.md",
     "Developer/알고리즘/03. 정렬/삽입 정렬.md",
-    "Developer/알고리즘/03. 정렬/버블 정렬.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/입출력.md",
-    "_templates/Cornell Type.md",
     "Developer/알고리즘/03. 정렬/Untitled.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/SW 설계/요구사항 확인/SW 생명 주기.md",
