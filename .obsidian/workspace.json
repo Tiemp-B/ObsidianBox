@@ -4,25 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "767d9b341f829506",
+        "id": "280a80a4388436eb",
         "type": "tabs",
         "children": [
           {
-            "id": "31064b31c9bf34dd",
+            "id": "471f3c10a1f1eb38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/알고리즘/12. 고급 기법/고급 기법.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/알고리즘/03. 정렬"
               },
               "icon": "lucide-file",
-              "title": "고급 기법"
+              "title": "03. 정렬"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "033911a8dd754e77",
+            "id": "40f1d0dee2dc0578",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,8 +203,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31064b31c9bf34dd",
+  "active": "471f3c10a1f1eb38",
   "lastOpenFiles": [
+    "Developer/알고리즘/03. 정렬/03. 정렬.md",
+    "Developer/알고리즘/03. 정렬/정렬.md",
+    "Developer/알고리즘/03. 정렬/버블 정렬.md",
+    "Developer/알고리즘/03. 정렬/퀵 정렬.md",
+    "Developer/알고리즘/03. 정렬/삽입 정렬.md",
     "Developer/알고리즘/12. 고급 기법/고급 기법.md",
     "Developer/알고리즘/11. 기하/기하.md",
     "Developer/알고리즘/10. 수학/수학.md",
@@ -224,16 +226,11 @@
     "Developer/알고리즘/알고리즘.md",
     "Developer/알고리즘/입출력.md",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
-    "Developer/알고리즘/03. 정렬/정렬.md",
-    "Developer/알고리즘/03. 정렬/03. 정렬.md",
-    "Developer/알고리즘/03. 정렬/버블 정렬.md",
-    "Developer/알고리즘/03. 정렬/삽입 정렬.md",
     "Developer/알고리즘/03. 정렬/병합 정렬.md",
     "Developer/알고리즘/03. 정렬/힙 정렬.md",
     "Developer/알고리즘/03. 정렬/계수 정렬.md",
     "Developer/알고리즘/03. 정렬/기수 정렬.md",
     "Developer/알고리즘/03. 정렬/선택 정렬.md",
-    "Developer/알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
