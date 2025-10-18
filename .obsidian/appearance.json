@@ -3,5 +3,7 @@
     "Cornell",
     "MyStyleSetting1"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true,
+  "showViewHeader": true
 }
