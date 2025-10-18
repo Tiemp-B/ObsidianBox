@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce45ae71bc4ae846",
+            "id": "6f072f5b67e0a4a8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -202,8 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce45ae71bc4ae846",
+  "active": "6f072f5b67e0a4a8",
   "lastOpenFiles": [
+    "Developer/알고리즘/알고리즘 .md",
+    "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/03. 정렬.md",
     "Developer/알고리즘/03. 정렬/버블 정렬.md",
@@ -219,7 +221,6 @@
     "Developer/알고리즘/01. 자료 구조/스택.md",
     "Developer/알고리즘/01. 자료 구조/큐.md",
     "Developer/알고리즘/01. 자료 구조/연결리스트.md",
-    "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "_templates/Cornell Type.md",
     "Developer/알고리즘/03. 정렬/Untitled.md",
@@ -230,7 +231,6 @@
     "Developer/임베디드기사/임베디드기사.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/알고리즘/07. 그래프/그래프.md",
-    "Developer/알고리즘/08. 트리/트리.md",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
     "Developer/알고리즘/01. 자료 구조/코드",
