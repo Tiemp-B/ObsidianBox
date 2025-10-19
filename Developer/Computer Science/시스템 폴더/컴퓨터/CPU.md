@@ -40,7 +40,7 @@ CPU(Central Processing Unit)는 **명령어를 해석하고 실행하여 계산�
    - 명령어 주소, 연산 중간 결과, 상태 플래그 등을 저장.  
    - 대표적인 종류:  
      - **Program Counter (PC):** 다음 실행할 명령어의 주소 저장  
-     - **Instruction Register (IR):** PC에서 현재 명령어를 읽어와 저장  
+     - **Instruction Register (IR):** PC에서 현재 명령어를 읽어와 저장. CU가 이 레지스터를 해석 및 수행  
      - **Accumulator (ACC):** 연산 결과 저장  
      - **Status Register:** 연산 결과 상태 플래그 보관  
 
