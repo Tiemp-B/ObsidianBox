@@ -43,9 +43,9 @@ CPU(Central Processing Unit)는 **명령어를 해석하고 실행하여 계산�
      - **Program Counter (PC):** 다음 실행할 명령어의 주소 저장  
      - **Instruction Register (IR):** PC에서 현재 명령어를 읽어와 저장. CU가 이 레지스터를 해석 및 수행  
      - **LR (Link Register)**: 함수 호출 시 수행 후 복귀될 주소 저장
-     - **PSR (Program Status Register)**: 명령 수행 후 연산 결과 등에 대한
+     - **PSR (Program Status Register)**: 명령 수행 후 연산 결과 등에 대한 CPU 상태 정보 기록. 상태 정보 중 ALU 산술 연산에 대한 결과 비트로 Overflow, Negative, Zero, Carry, Parity 등이 있다.
      - **Accumulator (ACC):** 연산 결과 저장  
-     - **Status Register:** 연산 결과 상태 플래그 보관  
+     - **S:** 연산 결과 상태 플래그 보관  
 
 ---
 
