@@ -4,7 +4,7 @@ tags: computer-architecture, cpu, pipeline, systems
 ---
 
 # Summary
-파이프라인(Pipeline)은 CPU가 명령어를 여러 단계로 나누어 동시에 처리(병렬 처리)하는 기법이다.  
+파이프라인(Pipeline)은 CPU가 [[명령어]]를 여러 단계로 나누어 동시에 처리(병렬 처리)하는 기법이다.  
 명령어의 **겹침 실행(overlapping execution)** 을 통해 처리 효율을 높이며,  
 CPU의 처리율(Throughput)을 향상시키는 핵심 구조적 최적화이다.
 
