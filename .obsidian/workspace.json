@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/01. 자료 구조/자료구조.md",
+                "file": "Developer/Computer Science/이론 컴퓨터 과학 폴더/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료구조"
-            }
-          },
-          {
-            "id": "312ad23c5b5b21ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/Computer Science/CS 개요.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CS 개요"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "312ad23c5b5b21ae",
+  "active": "471f3c10a1f1eb38",
   "lastOpenFiles": [
-    "Developer/알고리즘/알고리즘 개요.md",
+    "Developer/알고리즘/01. 자료 구조/자료구조.md",
+    "Developer/Computer Science/이론 컴퓨터 과학 폴더/Untitled.md",
     "Developer/Computer Science/CS 개요.md",
+    "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학 폴더.md",
+    "Developer/Computer Science/이론 컴퓨터 과학 폴더",
+    "Developer/알고리즘/알고리즘 개요.md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/Computer Science/CPU/CPU.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
@@ -234,7 +223,6 @@
     "Developer/알고리즘/03. 정렬/힙 정렬.md",
     "Developer/알고리즘/03. 정렬/계수 정렬.md",
     "Developer/알고리즘/05. 분할 정복/분할 정복.md",
-    "Developer/알고리즘/01. 자료 구조/자료구조.md",
     "Developer/알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/알고리즘/03. 정렬/병합 정렬.md",
     "Developer/알고리즘/03. 정렬/03. 정렬.md",
@@ -247,8 +235,6 @@
     "Developer/알고리즘/09. 문자열/문자열.md",
     "Developer/알고리즘/08. 트리/Untitled.md",
     "Developer/알고리즘/08. 트리/그래프.md",
-    "Developer/알고리즘/07. 그래프/Untitled.md",
-    "Developer/알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
@@ -256,7 +242,6 @@
     "Developer/알고리즘/12. 고급 기법",
     "Developer/알고리즘/새 폴더",
     "Developer/알고리즘/11. 기하",
-    "Developer/알고리즘/10. 수학 - 복사본",
-    "Developer/알고리즘/10. 수학"
+    "Developer/알고리즘/10. 수학 - 복사본"
   ]
 }
