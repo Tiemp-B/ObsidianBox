@@ -25,12 +25,14 @@
             "id": "312ad23c5b5b21ae",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/Computer Science/CPU"
+                "file": "Developer/Computer Science/CS 개요.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "CS 개요"
             }
           }
         ],
@@ -218,8 +220,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "999f5d103391902e",
+  "active": "312ad23c5b5b21ae",
   "lastOpenFiles": [
+    "Developer/Computer Science/CS 개요.md",
     "Developer/Computer Science/CPU/CPU.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/Computer Science/CPU",
@@ -246,7 +249,6 @@
     "Developer/알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/알고리즘/04. 그리디/그리디.md",
     "Developer/알고리즘/알고리즘 .md",
-    "Developer/알고리즘/알고리즘.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
