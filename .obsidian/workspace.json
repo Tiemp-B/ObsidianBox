@@ -207,8 +207,14 @@
   },
   "active": "471f3c10a1f1eb38",
   "lastOpenFiles": [
-    "Developer/Computer Science/CS 개요.md",
+    "Developer/Computer Science/시스템 폴더/컴퓨터/컴퓨터 구조.md",
     "Developer/Computer Science/시스템 폴더/시스템.md",
+    "Developer/Computer Science/시스템 폴더/컴퓨터/컴퓨터.md",
+    "Developer/Computer Science/시스템 폴더/컴퓨터",
+    "Developer/Computer Science/시스템 폴더/OS/운영체제.md",
+    "Developer/Computer Science/시스템 폴더/OS/OS.md",
+    "Developer/Computer Science/시스템 폴더/OS",
+    "Developer/Computer Science/CS 개요.md",
     "Developer/Computer Science/시스템 폴더/시스템 폴더.md",
     "Developer/Computer Science/시스템 폴더",
     "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학.md",
@@ -232,16 +238,10 @@
     "Developer/알고리즘/03. 정렬/정렬.md",
     "Developer/알고리즘/03. 정렬/버블 정렬.md",
     "Developer/알고리즘/03. 정렬/삽입 정렬.md",
-    "Developer/알고리즘/12. 고급 기법/고급 기법.md",
-    "Developer/알고리즘/11. 기하/기하.md",
-    "Developer/알고리즘/10. 수학/수학.md",
-    "Developer/알고리즘/09. 문자열/문자열.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
     "Developer/알고리즘/01. 자료 구조/코드",
-    "Developer/알고리즘/12. 고급 기법",
-    "Developer/알고리즘/새 폴더",
-    "Developer/알고리즘/11. 기하"
+    "Developer/알고리즘/12. 고급 기법"
   ]
 }
