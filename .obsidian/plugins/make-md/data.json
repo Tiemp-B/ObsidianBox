@@ -78,7 +78,10 @@
     "//Developer/Developer/알고리즘",
     "//Developer/Developer/Computer Science/Developer/Computer Science/이론 컴퓨터 과학 폴더",
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템",
-    "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더"
+    "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더",
+    "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/네트워크",
+    "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/네트워크 폴더",
+    "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/컴퓨터"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
