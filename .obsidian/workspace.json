@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Computer Science/시스템 폴더/컴퓨터/파이프라인(CPU).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,6 +209,8 @@
   "lastOpenFiles": [
     "Developer/Computer Science/시스템 폴더/컴퓨터/CPU.md",
     "Developer/Computer Science/시스템 폴더/컴퓨터/파이프라인(CPU).md",
+    "Developer/Computer Science/시스템 폴더/컴퓨터/명령어.md",
+    "Pasted image 20251020075957.png",
     "Developer/알고리즘/01. 자료 구조/스택(자료구조).md",
     "Developer/Computer Science/시스템 폴더/컴퓨터/컴퓨터 구조.md",
     "Developer/Computer Science/시스템 폴더/시스템.md",
@@ -239,7 +241,6 @@
     "Developer/알고리즘/03. 정렬/기수 정렬.md",
     "Developer/알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/알고리즘/03. 정렬/힙 정렬.md",
-    "Developer/알고리즘/03. 정렬/계수 정렬.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조"

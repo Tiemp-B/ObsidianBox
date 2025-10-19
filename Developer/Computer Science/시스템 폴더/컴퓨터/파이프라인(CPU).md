@@ -27,6 +27,7 @@ CPU 파이프라인은 명령어 실행 과정을 여러 단계로 분리하고,
 
 <aside>명령어 처리 단계 (5단계 파이프라인)</aside>
 
+![[Pasted image 20251020075957.png]]
 1. **IF (Instruction Fetch):** 명령어를 메모리에서 가져옴.  
 2. **ID (Instruction Decode):** 명령어를 해석하고 필요한 자원 파악.  
 3. **EX (Execute):** ALU에서 연산 수행.  
