@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/알고리즘.md",
+                "file": "Developer/Computer Science/CS 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "알고리즘"
+              "title": "CS 개요"
             }
           }
         ],
@@ -222,8 +222,8 @@
   },
   "active": "312ad23c5b5b21ae",
   "lastOpenFiles": [
+    "Developer/알고리즘/알고리즘 개요.md",
     "Developer/Computer Science/CS 개요.md",
-    "Developer/알고리즘/알고리즘 .md",
     "Developer/알고리즘/알고리즘.md",
     "Developer/Computer Science/CPU/CPU.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
