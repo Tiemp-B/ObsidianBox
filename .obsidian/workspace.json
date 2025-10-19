@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학.md",
-                "mode": "preview",
+                "file": "Developer/Computer Science/시스템 폴더/시스템.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이론 컴퓨터 과학"
+              "title": "시스템"
             }
           }
         ]
@@ -208,6 +208,9 @@
   "active": "471f3c10a1f1eb38",
   "lastOpenFiles": [
     "Developer/Computer Science/CS 개요.md",
+    "Developer/Computer Science/시스템 폴더/시스템.md",
+    "Developer/Computer Science/시스템 폴더/시스템 폴더.md",
+    "Developer/Computer Science/시스템 폴더",
     "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
     "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학 폴더.md",
@@ -233,15 +236,12 @@
     "Developer/알고리즘/11. 기하/기하.md",
     "Developer/알고리즘/10. 수학/수학.md",
     "Developer/알고리즘/09. 문자열/문자열.md",
-    "Developer/알고리즘/08. 트리/Untitled.md",
-    "Developer/알고리즘/08. 트리/그래프.md",
     "Developer/Computer Science",
     "01. 자료 구조",
     "Developer/알고리즘/01. 자료구조",
     "Developer/알고리즘/01. 자료 구조/코드",
     "Developer/알고리즘/12. 고급 기법",
     "Developer/알고리즘/새 폴더",
-    "Developer/알고리즘/11. 기하",
-    "Developer/알고리즘/10. 수학 - 복사본"
+    "Developer/알고리즘/11. 기하"
   ]
 }
