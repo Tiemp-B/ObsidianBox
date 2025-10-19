@@ -52,7 +52,7 @@ tags: computer-science, overview
 
 <aside>핵심 개념</aside>
 
-- **Algorithm (알고리즘):** 문제 해결 절차의 논리적 순서.  
+- **Algorithm ([[알고리즘]]):** 문제 해결 절차의 논리적 순서.  
 - **Data Structure (자료구조):** 데이터를 효율적으로 저장하고 접근하는 구조.  
 - **Abstraction (추상화):** 복잡한 시스템을 단순한 개념 단위로 표현.  
 - **Automation (자동화):** 반복적 과정을 프로그램으로 수행.  
