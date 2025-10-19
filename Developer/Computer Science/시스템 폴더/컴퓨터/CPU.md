@@ -1,6 +1,5 @@
-
-cssclasses: cornell-note
 ---
+cssclasses: cornell-note
 tags: computer-architecture, cpu, hardware, systems
 ---
 

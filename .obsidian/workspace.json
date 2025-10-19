@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Computer Science/시스템 폴더/컴퓨터/CPU.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "CPU"
