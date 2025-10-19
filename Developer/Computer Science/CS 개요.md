@@ -28,7 +28,7 @@ tags: computer-science, overview
 
 <aside>핵심 영역</aside>
 
-1. **이론 컴퓨터 과학 (Theoretical CS)**  
+1. **[[이론 컴퓨터 과학]] (Theoretical CS)**  
    - 알고리즘, 자료구조, 계산 복잡도, 오토마타 이론, 그래프 이론 등을 다룸.  
    - "무엇이 계산 가능한가?"와 "얼마나 빠르게 계산 가능한가?"를 탐구.  
 
