@@ -15,7 +15,7 @@
               "state": {
                 "file": "Developer/Computer Science/시스템 폴더/컴퓨터/CPU.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "CPU"
