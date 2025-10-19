@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Computer Science/시스템 폴더/컴퓨터/파이프라인(CPU).md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "파이프라인(CPU)"
