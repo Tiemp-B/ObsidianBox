@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/02. 탐색/트리 탐색.md",
-                "mode": "preview",
+                "file": "Developer/알고리즘/02. 탐색/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "트리 탐색"
+              "title": "Untitled"
             }
           }
         ]
@@ -207,10 +207,11 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
+    "Developer/알고리즘/02. 탐색/탐색.md",
+    "Developer/알고리즘/02. 탐색/Untitled.md",
+    "Developer/알고리즘/02. 탐색/트리 탐색.md",
     "Developer/CS/Computer Science.md",
     "Developer/CS/CS.md",
-    "Developer/알고리즘/02. 탐색/트리 탐색.md",
-    "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/CS/시스템 폴더/04. 데이터베이스/04. 데이터베이스.md",
     "Developer/CS/시스템 폴더/시스템.md",
@@ -238,7 +239,6 @@
     "Developer/CS/시스템 폴더",
     "Developer/CS/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학.md",
     "Developer/알고리즘/01. 자료 구조/자료구조.md",
-    "Developer/CS/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학 폴더.md",
     "Developer/CS/이론 컴퓨터 과학 폴더",
     "Developer/Computer Science/CPU",
     "Developer/CS",
