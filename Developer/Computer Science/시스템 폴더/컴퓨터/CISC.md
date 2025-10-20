@@ -65,12 +65,6 @@ CISC(Complex Instruction Set Computer)는
 
 ---
 
-<aside>RISC와 비교</aside>
-
-
-
----
-
 <aside>현대적 관점</aside>
 
 - 현대 CPU는 CISC 구조(x86 계열)이지만,  
