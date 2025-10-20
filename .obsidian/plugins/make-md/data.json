@@ -74,7 +74,6 @@
     "//Developer/Developer/알고리즘/Developer/알고리즘/10. 수학",
     "//Developer/Developer/알고리즘/Developer/알고리즘/11. 기하",
     "//Developer/Developer/Computer Science/Developer/Computer Science/CPU",
-    "//Developer/Developer/알고리즘",
     "//Developer/Developer/Computer Science/Developer/Computer Science/이론 컴퓨터 과학 폴더",
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템",
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더",
@@ -84,7 +83,8 @@
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/OS",
     "//Developer/Developer/알고리즘/Developer/알고리즘/02. 탐색",
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/데이터베이스",
-    "//Developer/Developer/Computer Science"
+    "//Developer/Developer/Computer Science",
+    "//Developer/Developer/알고리즘"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

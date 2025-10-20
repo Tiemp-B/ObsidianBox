@@ -18,8 +18,33 @@
               "icon": "lucide-file",
               "title": "Computer Science"
             }
+          },
+          {
+            "id": "6f48bbc72f8752e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/Computer Science/C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C"
+            }
+          },
+          {
+            "id": "8662b32097a23c2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40f1d0dee2dc0578",
+  "active": "8662b32097a23c2f",
   "lastOpenFiles": [
-    "Developer/Computer Science/Computer Science.md",
     "Developer/Computer Science/C.md",
+    "Developer/Computer Science/Computer Science.md",
     "Developer/알고리즘/02. 탐색/트리 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/02. 탐색.md",
