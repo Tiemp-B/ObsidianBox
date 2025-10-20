@@ -32,19 +32,9 @@
               "icon": "lucide-file",
               "title": "C"
             }
-          },
-          {
-            "id": "8662b32097a23c2f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             }
           },
           {
-            "id": "40f1d0dee2dc0578",
+            "id": "7c4015b3330dc1d9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -228,7 +218,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8662b32097a23c2f",
+  "active": "6f48bbc72f8752e1",
   "lastOpenFiles": [
     "Developer/Computer Science/C.md",
     "Developer/Computer Science/Computer Science.md",
