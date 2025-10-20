@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "컴퓨터"
             }
+          },
+          {
+            "id": "f62992e11d10843b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +216,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "222dfd8dba32fc75",
+  "active": "f62992e11d10843b",
   "lastOpenFiles": [
-    "Developer/CS/시스템 폴더/02. 컴퓨터/RISC.md",
+    "Developer/CS/시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
+    "Developer/CS/시스템 폴더/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/CISC.md",
+    "Developer/CS/시스템 폴더/02. 컴퓨터/RISC.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/CPU.md",
     "Developer/알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
@@ -219,11 +232,9 @@
     "Developer/CS/시스템 폴더/04. 데이터베이스/04. 데이터베이스.md",
     "Developer/CS/시스템 폴더/시스템.md",
     "Developer/CS/시스템 폴더/03. 네트워크/03. 네트워크.md",
-    "Developer/CS/시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/시스템 폴더/01. OS/01. OS.md",
     "Developer/알고리즘/02. 탐색/이진 탐색.md",
     "Developer/알고리즘/02. 탐색/해시 탐색.md",
-    "Developer/CS/시스템 폴더/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/명령어.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/파이프라인(CPU).md",
     "Pasted image 20251020075957.png",
