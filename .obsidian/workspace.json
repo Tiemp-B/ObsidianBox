@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/02. 탐색/탐색.md",
+                "file": "Developer/알고리즘/02. 탐색/트리 탐색.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "탐색"
+              "title": "트리 탐색"
+            }
+          },
+          {
+            "id": "65bbcea3e51a7a83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +216,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40f1d0dee2dc0578",
+  "active": "65bbcea3e51a7a83",
   "lastOpenFiles": [
-    "Developer/알고리즘/02. 탐색/02. 탐색.md",
+    "Developer/알고리즘/02. 탐색/트리 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
+    "Developer/알고리즘/02. 탐색/02. 탐색.md",
     "Developer/Computer Science/시스템 폴더/04. 데이터베이스/04. 데이터베이스.md",
     "Developer/Computer Science/시스템 폴더/시스템.md",
     "Developer/Computer Science/시스템 폴더/03. 네트워크/03. 네트워크.md",
@@ -239,7 +251,6 @@
     "Developer/Computer Science/이론 컴퓨터 과학 폴더/이론 컴퓨터 과학 폴더.md",
     "Developer/Computer Science/이론 컴퓨터 과학 폴더",
     "Developer/알고리즘/알고리즘 개요.md",
-    "Developer/알고리즘/알고리즘.md",
     "Developer/Computer Science/CPU",
     "Developer/Computer Science",
     "01. 자료 구조",
