@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/알고리즘/02. 탐색/그래프 탐색.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -207,8 +207,8 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
-    "Developer/알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
+    "Developer/알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/알고리즘/02. 탐색/트리 탐색.md",
     "Developer/CS/Computer Science.md",
     "Developer/CS/CS.md",
