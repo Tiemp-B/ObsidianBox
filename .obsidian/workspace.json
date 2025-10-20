@@ -11,10 +11,14 @@
             "id": "222dfd8dba32fc75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Developer/알고리즘/02. 탐색/트리 탐색.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "트리 탐색"
             }
           }
         ]
