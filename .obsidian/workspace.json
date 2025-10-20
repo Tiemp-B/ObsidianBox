@@ -25,10 +25,14 @@
             "id": "f62992e11d10843b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Developer/CS/시스템 폴더/02. 컴퓨터/명령어.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "명령어"
             }
           }
         ],
@@ -218,8 +222,9 @@
   },
   "active": "f62992e11d10843b",
   "lastOpenFiles": [
-    "Developer/CS/시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/컴퓨터.md",
+    "Developer/CS/시스템 폴더/02. 컴퓨터/명령어.md",
+    "Developer/CS/시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/CISC.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/RISC.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/CPU.md",
@@ -235,7 +240,6 @@
     "Developer/CS/시스템 폴더/01. OS/01. OS.md",
     "Developer/알고리즘/02. 탐색/이진 탐색.md",
     "Developer/알고리즘/02. 탐색/해시 탐색.md",
-    "Developer/CS/시스템 폴더/02. 컴퓨터/명령어.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/파이프라인(CPU).md",
     "Pasted image 20251020075957.png",
     "Developer/알고리즘/01. 자료 구조/스택(자료구조).md",
