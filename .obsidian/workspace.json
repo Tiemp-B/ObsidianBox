@@ -39,10 +39,14 @@
             "id": "5df6e4a59967dde6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Developer/알고리즘/05. 분할 정복/분할 정복.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "분할 정복"
             }
           }
         ],
