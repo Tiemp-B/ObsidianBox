@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/알고리즘/02. 탐색/Untitled.md",
+                "file": "Developer/알고리즘/02. 탐색/이진 탐색.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "이진 탐색"
             }
           }
         ]
@@ -208,7 +208,7 @@
   "active": "471f3c10a1f1eb38",
   "lastOpenFiles": [
     "Developer/알고리즘/02. 탐색/탐색.md",
-    "Developer/알고리즘/02. 탐색/Untitled.md",
+    "Developer/알고리즘/02. 탐색/이진 탐색.md",
     "Developer/Computer Science/시스템 폴더/컴퓨터/CISC.md",
     "Developer/Computer Science/시스템 폴더/컴퓨터/RISC.md",
     "Developer/Computer Science/시스템 폴더/컴퓨터/컴퓨터 구조.md",
