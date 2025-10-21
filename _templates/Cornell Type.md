@@ -5,7 +5,7 @@ tags:
 
 # Summary
 
-요약
+전체 요약
 
 ---
 
@@ -13,17 +13,19 @@ tags:
 
 # Notes
 
-The Cornell Note-taking System is a popular and effective method for organizing and summarizing information during lectures, readings, or any other form of learning.
+<aside>문단 1 제목</aside>
 
-<aside>Note's Layout</aside>
+문단 1 설명
 
-문단 1
+---
 
-<aside>Note-taking Process</aside>
+<aside>문단 2 제목</aside>
 
-문단 2
+문단 2 설명
 
-<aside>Review and Study</aside>
+---
+
+<aside>문단 3 제목</aside>
 
 문단 3
 

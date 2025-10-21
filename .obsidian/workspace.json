@@ -28,16 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/프로세스.md",
-                "mode": "preview",
-                "source": false
+                "file": "_templates/Cornell Type.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "프로세스"
+              "title": "Cornell Type"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9fd98087aecc15a",
@@ -242,15 +241,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "557fa4e01dcd44c1",
+  "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
+    "_templates/Cornell Type.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
+    "Developer/CS/03. OS/프로세스.md",
     "Pasted image 20251021185017.png",
     "Developer/CS/03. OS/메모리.md",
     "Developer/CS/CS.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/03. OS.md",
-    "Developer/CS/03. OS/프로세스.md",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
