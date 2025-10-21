@@ -39,14 +39,12 @@
             "id": "5df6e4a59967dde6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/Computer Science.md",
-                "mode": "source",
-                "source": true
+                "path": "Developer/CS"
               },
               "icon": "lucide-file",
-              "title": "Computer Science"
+              "title": "CS"
             }
           }
         ],
@@ -234,8 +232,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68e465384e3d05dc",
+  "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
+    "Developer/CS/CS.md",
+    "Developer/CS/Computer Science.md",
+    "Developer/CS/12. 확장 분야/README.md",
+    "Developer/CS/12. 확장 분야",
+    "Developer/CS/10. 컴파일러 & 언어 처리/README.md",
+    "Developer/CS/10. 컴파일러 & 언어 처리",
+    "Developer/CS/09. 소프트웨어 공학/README.md",
+    "Developer/CS/09. 소프트웨어 공학",
     "Developer/CS/08. 보안/README.md",
     "Developer/CS/08. 보안",
     "Developer/CS/07. 인공지능 & 데이터 사이언스/README.md",
@@ -244,8 +250,6 @@
     "Developer/CS/06. 데이터베이스",
     "Developer/CS/05. 네트워크/05. 네트워크.md",
     "Developer/CS/05. 네트워크",
-    "Developer/CS/CS.md",
-    "Developer/CS/Computer Science.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
@@ -264,14 +268,8 @@
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/RISC.md",
     "Developer/CS/02. 알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/CS/02. 알고리즘/02. 탐색/탐색.md",
-    "Developer/CS/02. 알고리즘/02. 탐색/트리 탐색.md",
-    "Developer/CS/02. 알고리즘/02. 탐색/02. 탐색.md",
-    "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스/04. 데이터베이스.md",
     "Pasted image 20251020075957.png",
     "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스",
-    "Developer/CS/04. 컴퓨터 구조/03. 네트워크",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터",
-    "Developer/CS/03. OS",
-    "Developer/CS/04. 컴퓨터 구조"
+    "Developer/CS/04. 컴퓨터 구조/03. 네트워크"
   ]
 }
