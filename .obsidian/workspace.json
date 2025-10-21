@@ -16,7 +16,7 @@
               "state": {
                 "file": "Developer/CS/03. OS/스케줄링.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "스케줄링"
