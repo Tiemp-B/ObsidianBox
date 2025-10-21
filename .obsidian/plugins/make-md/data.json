@@ -48,7 +48,6 @@
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계",
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
     "/",
-    "//Developer",
     "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법",
     "//알고리즘",
     "//알고리즘/알고리즘/03. 동적 계획법",
@@ -85,7 +84,6 @@
     "//Developer/Developer/Computer Science",
     "//Developer/Developer/CS/Developer/CS/시스템 폴더/Developer/CS/시스템 폴더/02. 컴퓨터",
     "//Developer/Developer/알고리즘/Developer/알고리즘/05. 분할 정복",
-    "//Developer/Developer/CS",
     "//Developer/Developer/CS/Developer/CS/이론 컴퓨터 과학 폴더",
     "//Developer/Developer/CS/Developer/CS/01. 이론 컴퓨터 과학",
     "//Developer/Developer/CS/Developer/CS/02. 시스템 폴더",
@@ -105,7 +103,9 @@
     "//Developer/Developer/CS/Developer/CS/09. 소프트웨어 공학",
     "//Developer/Developer/CS/Developer/CS/10. 컴파일러 & 언어 처리",
     "//Developer/Developer/CS/Developer/CS/11. 이론 컴퓨터 과학",
-    "//Developer/Developer/CS/Developer/CS/12. 확장 분야"
+    "//Developer/Developer/CS/Developer/CS/12. 확장 분야",
+    "//Developer",
+    "//Developer/Developer/CS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
