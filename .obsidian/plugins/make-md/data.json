@@ -103,7 +103,9 @@
     "//Developer",
     "//Developer/Developer/CS",
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘"
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/04. 그리디"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

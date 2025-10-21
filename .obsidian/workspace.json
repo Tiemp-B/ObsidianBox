@@ -12,14 +12,12 @@
             "id": "222dfd8dba32fc75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/03. OS/커널.md",
-                "mode": "preview",
-                "source": false
+                "path": "Developer/CS/02. 알고리즘"
               },
               "icon": "lucide-file",
-              "title": "커널"
+              "title": "02. 알고리즘"
             }
           },
           {
@@ -243,8 +241,12 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/시스템 콜.md",
+    "Developer/CS/02. 알고리즘/02. 알고리즘.md",
+    "Developer/CS/02. 알고리즘/알고리즘.md",
+    "Developer/CS/02. 알고리즘/02. 탐색/그래프 탐색.md",
+    "Developer/CS/02. 알고리즘/02. 탐색/탐색.md",
     "Developer/CS/03. OS/커널.md",
+    "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/03. OS/운영체제.md",
@@ -261,7 +263,6 @@
     "_templates/Cornell Type.md",
     "Pasted image 20251021185017.png",
     "Developer/CS/CS.md",
-    "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
@@ -269,9 +270,6 @@
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/12. 확장 분야/확장 분야.md",
     "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
-    "Developer/CS/11. 이론 컴퓨터 과학/11. 이론 컴퓨터 과학.md",
-    "Developer/CS/10. 컴파일러 & 언어 처리/컴파일러 & 언어 처리.md",
-    "Developer/CS/08. 보안/보안.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
