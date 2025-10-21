@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 59.200507614213194,
+        "dimension": 49.87309644670051,
         "children": [
           {
             "id": "222dfd8dba32fc75",
@@ -42,7 +42,7 @@
       {
         "id": "f9fd98087aecc15a",
         "type": "tabs",
-        "dimension": 40.7994923857868,
+        "dimension": 50.1269035532995,
         "children": [
           {
             "id": "80b5a9cdbb7ffc0c",
@@ -245,9 +245,9 @@
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
     "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/03. OS/메모리.md",
     "Thread.md",
     "Developer/CS/03. OS/스레드.md",
-    "Developer/CS/03. OS/메모리.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/03. OS/프로세스.md",
     "Pasted image 20251021190934.png",
