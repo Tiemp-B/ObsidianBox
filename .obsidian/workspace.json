@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 60.97715736040609,
+        "dimension": 52.982233502538065,
         "children": [
           {
             "id": "222dfd8dba32fc75",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/파일시스템.md",
-                "mode": "preview",
-                "source": true
+                "file": "Developer/CS/03. OS/운영체제.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "파일시스템"
+              "title": "운영체제"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "f9fd98087aecc15a",
         "type": "tabs",
-        "dimension": 39.02284263959391,
+        "dimension": 47.01776649746193,
         "children": [
           {
             "id": "80b5a9cdbb7ffc0c",
@@ -243,14 +243,14 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/운영체제.md",
-    "Developer/CS/Computer Science.md",
     "Developer/CS/03. OS/파일시스템.md",
+    "Developer/CS/Computer Science.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/메모리.md",
     "Developer/CS/03. OS/프로세스.md",
-    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/스레드.md",
     "Thread.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
