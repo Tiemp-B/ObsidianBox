@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "알고리즘"
             }
+          },
+          {
+            "id": "80b5a9cdbb7ffc0c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,8 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f62992e11d10843b",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
+    "Developer/CS/02. 알고리즘/03. 정렬/퀵 정렬.md",
+    "Developer/CS/02. 알고리즘/알고리즘.md",
+    "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
     "Developer/CS/Computer Science.md",
     "Developer/CS/12. 확장 분야/확장 분야.md",
@@ -245,17 +258,14 @@
     "Developer/CS/04. 컴퓨터 구조/03. 네트워크/03. 네트워크.md",
     "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스/04. 데이터베이스.md",
     "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
-    "Developer/CS/CS.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
     "Developer/CS/08. 보안",
     "Developer/CS/07. 인공지능 & 데이터 사이언스",
     "Developer/CS/06. 데이터베이스",
-    "Developer/CS/05. 네트워크/05. 네트워크.md",
     "Developer/CS/05. 네트워크",
     "Developer/CS/01. 프로그래밍",
-    "Developer/Git/Git.md",
     "Pasted image 20251020075957.png",
     "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스",
     "Developer/CS/04. 컴퓨터 구조/03. 네트워크"
