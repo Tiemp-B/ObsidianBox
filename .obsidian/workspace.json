@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 52.60152284263959,
+        "dimension": 59.200507614213194,
         "children": [
           {
             "id": "222dfd8dba32fc75",
@@ -42,7 +42,7 @@
       {
         "id": "f9fd98087aecc15a",
         "type": "tabs",
-        "dimension": 47.39847715736041,
+        "dimension": 40.7994923857868,
         "children": [
           {
             "id": "80b5a9cdbb7ffc0c",
@@ -244,6 +244,7 @@
   },
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
+    "Pasted image 20251021185017.png",
     "Developer/CS/03. OS/메모리.md",
     "Developer/CS/CS.md",
     "Developer/CS/03. OS/운영체제.md",
@@ -269,7 +270,6 @@
     "Developer/CS/05. 네트워크/네트워크.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
     "Developer/CS/01. 프로그래밍/언어/C/C언어의 입출력.md",
-    "Developer/CS/01. 프로그래밍/언어/C/C.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
