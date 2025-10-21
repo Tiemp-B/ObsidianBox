@@ -42,8 +42,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/01. 프로그래밍/프로그래밍.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "프로그래밍"
