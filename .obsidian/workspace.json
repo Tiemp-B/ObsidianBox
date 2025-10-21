@@ -36,7 +36,8 @@
               "title": "스케줄링"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9fd98087aecc15a",
@@ -241,12 +242,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "222dfd8dba32fc75",
+  "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/메모리.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/03. OS/파일시스템.md",
-    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/스레드.md",
