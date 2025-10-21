@@ -16,6 +16,10 @@ AI, 데이터, 보안, 네트워크, 운영체제, 시스템, 소프트웨어 �
 
 # Notes
 
+<aside>01. 프로그래밍</aside>
+
+
+
 1. 프로그래밍 & 알고리즘 (Programming & Algorithms)
 
 - **언어:** C, C++, Python, Java, Rust, Go  
