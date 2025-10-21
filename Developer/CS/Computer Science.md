@@ -3,151 +3,191 @@ cssclasses: cornell-note
 tags: computer-science, academic, cs-note
 ---
 
-# Summary
-
-컴퓨터 과학(Computer Science)은 **프로그래밍 언어와 알고리즘을 중심으로 하드웨어·소프트웨어·데이터·네트워크의 상호작용을 탐구하는 학문**이다.  
-기초적으로는 자료 구조와 알고리즘, 심화적으로는 운영체제·컴퓨터 구조·네트워크·데이터베이스를 포함하며,  AI, 보안, 분산 시스템, 이론 CS 등으로 확장된다.  
-즉, “효율적인 계산을 위한 논리와 시스템의 과학”이다.
-
----
-
 <div class="cues-header">Cues</div>
 
 # Notes
 
-1. 프로그래밍 (Programming)
+<aside>01. 프로그래밍</aside>
 
-- **핵심 개념:** 언어 문법, 제어 구조, 함수, 클래스, 메모리 모델  
+[[프로그래밍]]
+
+프로그래밍은 문제 해결을 위해 논리 구조를 코드로 표현하는 과정이다.  
+언어 문법과 제어 구조를 기반으로 하며, 효율적 실행과 유지보수를 목표로 한다.
+
 - **주요 언어:** C, C++, Python, Java, Rust, Go  
-- **패러다임:** 절차형(Procedural), 객체지향(OOP), 함수형(Functional), 이벤트 기반(Event-driven)  
-- **소프트웨어 설계 원칙:** 추상화, 캡슐화, 모듈화, 인터페이스  
-- **성능 요소:** 메모리 효율, 캐시 활용, 비동기/병렬 프로그래밍  
-- **실무 적용:**  
+- **패러다임:** 절차형, 객체지향(OOP), 함수형, 이벤트 기반  
+- **핵심 요소:** 자료형, 제어문, 함수, 클래스, 메모리 관리  
+- **설계 원칙:** 추상화, 캡슐화, 모듈화, 인터페이스 분리  
+- **실무 확장:**  
   - 시스템 프로그래밍 (POSIX, 파일 I/O)  
-  - 네트워크 소켓 프로그래밍 (TCP/UDP, HTTP, gRPC)  
-  - 임베디드 C/RTOS 개발  
-  - 프레임워크(Spring, Django, Express) 기반 애플리케이션 구현  
+  - 네트워크 소켓 (TCP/UDP, HTTP, gRPC)  
+  - 임베디드 C/RTOS 프로그래밍  
+  - 프레임워크(Spring, Django, Node.js) 기반 개발  
 
 ---
 
-2. 알고리즘 (Algorithms)
+<aside>02. 알고리즘</aside>
 
-- **기초 개념:** 시간복잡도, 공간복잡도, Big-O 표기  
-- **정렬:** 버블, 삽입, 선택, 병합, 퀵, 힙, 계수, 기수  
-- **탐색:** 선형 탐색, 이진 탐색, 해시 탐색, 이진 탐색 트리  
-- **그리디 알고리즘:** 동전 교환, 활동 선택, Huffman 코딩  
+[[알고리즘]]
+
+알고리즘은 주어진 문제를 효율적으로 해결하기 위한 단계적 절차이다.  
+시간복잡도와 공간복잡도를 분석하여 최적의 성능을 목표로 한다.
+
+- **기초 개념:** Big-O 표기, 시간복잡도, 공간복잡도  
+- **정렬 알고리즘:** 버블, 삽입, 선택, 병합, 퀵, 힙  
+- **탐색 알고리즘:** 선형 탐색, 이진 탐색, 해시 탐색, 트리 탐색  
+- **그래프 탐색:** BFS, DFS, Dijkstra, Kruskal, Prim  
 - **동적 프로그래밍(DP):** 피보나치, 배낭 문제, LCS, LIS  
-- **그래프 탐색:** BFS, DFS, Dijkstra, Floyd-Warshall, Kruskal, Prim  
-- **고급 기법:** 분할정복, 백트래킹, 세그먼트 트리, 비트마스크  
-- **응용:** 최단 경로 탐색, 스케줄링, 최적화 문제, 코딩테스트 문제 해결  
+- **고급 기법:** 백트래킹, 분할정복, 세그먼트 트리, 비트마스크  
+- **응용:** 최단 경로, 스케줄링, 최적화 문제, 코딩테스트  
 
 ---
 
-3. 운영체제 (Operating Systems)
+<aside>03. 운영체제</aside>
 
-- **기능:** 하드웨어 자원 관리, 프로세스 제어, 메모리 관리, 파일 시스템 관리  
-- **핵심 구성:** 커널(Kernel), 프로세스(Process), 스레드(Thread), 인터럽트(Interrupt)  
+[[운영체제]]
+
+운영체제(OS)는 하드웨어와 소프트웨어 사이에서 자원을 관리하고  
+프로세스 실행, 메모리 관리, 파일 시스템을 제어한다.
+
+- **구성 요소:** 커널, 프로세스, 스레드, 인터럽트  
 - **스케줄링:** FCFS, SJF, Round Robin, Priority  
-- **동기화:** 세마포어(Semaphore), 뮤텍스(Mutex), 모니터(Monitor)  
-- **메모리 관리:** 페이징(Paging), 세그멘테이션(Segmentation), 가상 메모리(Virtual Memory)  
+- **동기화:** 세마포어, 뮤텍스, 모니터  
+- **메모리 관리:** 페이징, 세그멘테이션, 가상 메모리  
 - **응용:**  
   - 리눅스 프로세스 관리 및 시스템 콜  
-  - 컨테이너 가상화(Docker, cgroup, namespace)  
-  - RTOS 기반 실시간 시스템 설계  
+  - 컨테이너 가상화(Docker, namespace, cgroup)  
+  - 실시간 운영체제(RTOS) 설계  
 
 ---
 
-4. 컴퓨터 구조 (Computer Architecture)
+<aside>04. 컴퓨터 구조</aside>
 
-- **핵심 구성요소:** ALU, 레지스터, 제어 장치, 메모리, 버스, 캐시  
+[[컴퓨터 구조]]
+
+컴퓨터 구조는 명령어 실행을 위한 하드웨어 구성과 동작 원리를 다룬다.  
+명령어 처리, 데이터 경로, 제어 흐름을 통해 효율적 연산을 수행한다.
+
+- **핵심 구성요소:** ALU, 레지스터, 제어 장치, 버스, 캐시  
 - **명령어 사이클:** Fetch → Decode → Execute → Writeback  
 - **파이프라이닝, 슈퍼스칼라, 분기 예측, 캐시 일관성**  
-- **CPU 구조:** RISC vs CISC, ARM, RISC-V  
-- **확장:**  
-  - GPU 병렬 연산 구조 (SIMD, CUDA Core)  
-  - SoC(System-on-Chip), FPGA 설계  
-  - 저전력 임베디드 프로세서  
+- **CPU 구조:** RISC, CISC, ARM, RISC-V  
+- **응용:** GPU, SoC, FPGA, 임베디드 프로세서  
 
 ---
 
-5. 네트워크 (Computer Networks)
+<aside>05. 네트워크</aside>
 
-- **구조:** OSI 7계층 / TCP/IP 4계층  
-- **프로토콜:** ARP, ICMP, IP, TCP, UDP, DNS, HTTP/HTTPS  
+[[네트워크]]
+
+네트워크는 데이터가 컴퓨터 간에 전달되는 구조와 프로토콜을 연구하는 분야다.  
+통신 계층 모델을 기반으로 데이터의 흐름과 신뢰성을 보장한다.
+
+- **모델:** OSI 7계층, TCP/IP 4계층  
+- **프로토콜:** IP, TCP, UDP, ARP, DNS, HTTP/HTTPS  
 - **라우팅 알고리즘:** RIP, OSPF, BGP  
-- **전송:** 3-way Handshake, 혼잡 제어, 흐름 제어  
-- **응용 계층:** REST API, gRPC, MQTT, WebSocket  
-- **보안:** SSL/TLS, HTTPS, VPN, NAT, 방화벽  
-- **실무 응용:** IoT 통신, 클라우드 네트워크(VPC, Load Balancer, Proxy)  
+- **전송 기법:** 3-way Handshake, 혼잡 제어, 흐름 제어  
+- **응용:** REST, gRPC, MQTT, WebSocket  
+- **보안:** SSL/TLS, VPN, NAT, 방화벽  
+- **확장:** IoT 통신, 클라우드 네트워크(VPC, Load Balancer)  
 
 ---
 
-6. 데이터베이스 (Database Systems)
+<aside>06. 데이터베이스</aside>
+
+[[데이터베이스]]
+
+데이터베이스(DB)는 대량의 데이터를 효율적으로 저장, 검색, 관리하는 시스템이다.  
+SQL을 기반으로 하며, 트랜잭션과 정규화를 통해 일관성을 유지한다.
 
 - **모델:** 관계형(RDBMS), 비관계형(NoSQL)  
-- **SQL 기본:** SELECT, JOIN, GROUP BY, INDEX  
+- **쿼리:** SELECT, JOIN, GROUP BY, INDEX  
 - **트랜잭션:** ACID, Lock, Deadlock, MVCC  
-- **정규화, 무결성, 인덱싱**  
-- **분산 DB:** 샤딩, 레플리케이션, CAP 이론  
-- **응용:** ORM, Query Optimization, Data Warehouse  
+- **정규화와 인덱싱:** 데이터 중복 제거 및 검색 최적화  
+- **응용:** 분산 DB, 샤딩, 레플리케이션, 데이터 웨어하우스  
 
 ---
 
-7. 인공지능 & 데이터 사이언스 (AI & Data Science)
+<aside>07. 인공지능 & 데이터 사이언스</aside>
+
+[[인공지능 & 데이터 사이언스]]
+
+AI와 데이터 사이언스는 데이터를 기반으로 패턴을 학습하고 예측하는 기술이다.  
+머신러닝과 딥러닝을 통해 자동화된 의사결정 시스템을 구축한다.
 
 - **기초 수학:** 선형대수, 확률, 미적분  
-- **머신러닝:** 회귀, 분류, 군집화, SVM, 의사결정트리  
+- **머신러닝:** 회귀, 분류, 군집화, SVM, KNN  
 - **딥러닝:** CNN, RNN, Transformer, Attention  
 - **프레임워크:** TensorFlow, PyTorch, scikit-learn  
-- **응용:** MLOps, AI 추론 가속(TensorRT, ONNX), Edge AI  
+- **응용:** MLOps, 모델 최적화, Edge AI  
 
 ---
 
-8. 보안 (Security)
+<aside>08. 보안</aside>
 
-- **암호학:** 대칭키/비대칭키, 해시, 전자서명  
+[[보안]]
+
+보안(Security)은 시스템과 네트워크를 보호하기 위한 기술과 절차를 다룬다.  
+암호학적 기법을 기반으로 인증, 접근 제어, 데이터 무결성을 보장한다.
+
+- **암호학:** 대칭키, 비대칭키, 해시, 전자서명  
 - **네트워크 보안:** SSL/TLS, HTTPS, VPN  
-- **시스템 보안:** 인증(Authentication), 접근 제어(Authorization)  
+- **시스템 보안:** 인증, 권한 관리, 접근 제어  
 - **웹 보안:** SQL Injection, XSS, CSRF  
 - **확장:** 블록체인, Secure Boot, HSM, Zero Trust  
 
 ---
 
-9. 소프트웨어 공학 (Software Engineering)
+<aside>09. 소프트웨어 공학</aside>
 
-- **소프트웨어 개발 생명주기 (SDLC)**  
-- **객체지향 설계 원칙 (SOLID)**  
-- **디자인 패턴:** Singleton, Factory, Observer, MVC, DI  
+[[소프트웨어 공학]]
+
+소프트웨어 공학은 대규모 시스템을 체계적으로 설계하고 유지보수하는 학문이다.  
+개발 생명주기(SDLC)와 설계 원칙을 통해 안정적 품질을 보장한다.
+
+- **설계 원칙:** 객체지향, SOLID, 디자인 패턴  
+- **패턴:** Singleton, Factory, Observer, MVC, DI  
 - **테스트:** 단위, 통합, 회귀 테스트  
-- **CI/CD:** Git, Jenkins, Docker, Kubernetes  
+- **도구:** Git, Jenkins, Docker, CI/CD  
 - **응용:** 대규모 시스템 설계, 마이크로서비스, DevOps  
 
 ---
 
-10. 컴파일러 & 언어 처리 (Compilers & PL)
+<aside>10. 컴파일러 & 언어 처리</aside>
 
-- **단계:** 어휘 분석 → 구문 분석 → 중간 코드 생성(IR) → 최적화 → 코드 생성  
-- **기술 요소:** 가비지 컬렉션(GC), 링킹, 런타임 시스템  
-- **응용:** 인터프리터, JIT 컴파일, LLVM, WASM, DSL 설계  
+[[컴파일러 & 언어 처리]]
+
+컴파일러는 고급 언어를 기계어로 번역하는 시스템이다.  
+언어 처리기는 어휘 분석부터 코드 최적화까지 프로그램 실행 과정을 담당한다.
+
+- **단계:** 어휘 분석 → 구문 분석 → 중간 코드(IR) → 최적화 → 코드 생성  
+- **기술:** 가비지 컬렉션, 링킹, 런타임 관리  
+- **응용:** 인터프리터, JIT, LLVM, WASM, DSL  
 
 ---
 
-11. 이론 컴퓨터 과학 (Theoretical Computer Science)
+<aside>11. 이론 컴퓨터 과학</aside>
 
-- **오토마타와 형식언어(Formal Language)**  
-- **튜링 머신(Turing Machine)**  
+[[이론 컴퓨터 과학]]
+
+이론 컴퓨터 과학은 계산의 본질을 탐구하며 알고리즘의 한계를 연구한다.  
+복잡도 이론과 형식언어를 통해 문제 해결 가능성을 정의한다.
+
+- **오토마타, 형식언어, 튜링머신**  
 - **복잡도 이론:** P, NP, NP-Complete, NP-Hard  
 - **계산 가능성과 결정 문제**  
-- **응용:** 알고리즘 증명, 계산 복잡도 분석, 최적화 문제 연구  
+- **응용:** 알고리즘 증명, 최적화 문제 분석  
 
 ---
 
-12. 확장 분야 (Extended Areas)
+<aside>12. 확장 분야</aside>
 
-- **임베디드 시스템:** MCU, RTOS, 센서 제어, 드라이버 개발  
+[[확장 분야]]
+
+컴퓨터 과학의 응용 영역으로, 다양한 산업과 기술 분야로 확장된다.
+
+- **임베디드 시스템:** MCU, RTOS, 센서, 드라이버 개발  
 - **클라우드 & DevOps:** Docker, Kubernetes, AWS, CI/CD  
-- **분산 시스템:** CAP 이론, Consistency Model, Consensus (Paxos, Raft)  
+- **분산 시스템:** CAP 이론, Consistency, Consensus (Paxos, Raft)  
 - **고급 응용:** 컴퓨터 비전, 자연어 처리, 음성 인식  
 - **신기술:** 양자컴퓨팅, 엣지컴퓨팅, HPC(고성능 컴퓨팅)
-
----
