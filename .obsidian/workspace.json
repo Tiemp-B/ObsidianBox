@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/파일시스템.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "파일시스템"
