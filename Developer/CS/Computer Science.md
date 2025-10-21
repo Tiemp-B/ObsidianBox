@@ -1,12 +1,14 @@
 ---
 cssclasses: cornell-note
-tags: computer-science, overview
+tags: computer-science, employment, academic, career-prep
 ---
 
 # Summary
-컴퓨터 사이언스(Computer Science)는 정보의 표현, 저장, 처리, 전달 방법을 연구하는 학문이다.  
-하드웨어와 소프트웨어의 상호작용을 기반으로, 알고리즘, 자료구조, 컴퓨터 구조, 운영체제, 네트워크, 인공지능 등으로 구성된다.  
-핵심은 ‘문제를 효율적으로 해결하기 위한 계산적 사고(Computational Thinking)’다.
+취업용 CS 과목은 실무와 면접 중심의 최소한의 기초에 초점을 맞추지만,  
+그 범위를 산업 전체와 학문적 기반까지 확장하면,  
+AI, 데이터, 보안, 네트워크, 운영체제, 시스템, 소프트웨어 공학, 이론 CS 등  
+컴퓨터공학의 모든 분야를 포괄하게 된다.  
+즉, “취업을 위한 실무형 CS”에서 “지속적인 성장과 연구형 CS”로 발전하는 구조다.
 
 ---
 
@@ -14,74 +16,147 @@ tags: computer-science, overview
 
 # Notes
 
-컴퓨터 사이언스는 계산(Computation)을 중심으로 한 과학으로,  
-컴퓨터를 도구로 사용해 정보를 다루고 문제를 해결하는 원리를 탐구한다.  
-이론적 기반부터 실무적 응용까지 폭넓은 분야를 포함한다.
+1. 프로그래밍 & 알고리즘 (Programming & Algorithms)
 
-<aside>정의</aside>
-
-컴퓨터 사이언스는 **계산 가능성(Computability)**, **효율성(Efficiency)**, **정보 표현(Representation)** 을 연구하는 학문이다.  
-하드웨어(Hardware)와 소프트웨어(Software)의 원리를 이해하고,  
-이를 통해 효율적인 문제 해결 방법을 설계한다.
-
----
-
-<aside>핵심 영역</aside>
-
-1. **[[이론 컴퓨터 과학]] (Theoretical CS)**  
-   - 알고리즘, 자료구조, 계산 복잡도, 오토마타 이론, 그래프 이론 등을 다룸.  
-   - "무엇이 계산 가능한가?"와 "얼마나 빠르게 계산 가능한가?"를 탐구.  
-
-1. **[[시스템]] (Systems)**  
-   - 컴퓨터 구조, 운영체제, 네트워크, 데이터베이스, 분산 시스템 등.  
-   - 컴퓨터가 실제로 작동하는 기반 구조를 설계하고 최적화함.  
-
-3. **소프트웨어 (Software Engineering)**  
-   - 프로그래밍 언어, 컴파일러, 소프트웨어 설계, 품질 관리.  
-   - 복잡한 프로그램을 체계적으로 개발하고 유지보수하는 방법론 연구.  
-
-4. **인공지능 및 데이터 과학 (AI & Data Science)**  
-   - 기계학습, 딥러닝, 데이터 마이닝, 자연어 처리, 컴퓨터 비전 등.  
-   - 데이터를 기반으로 한 지능적 판단과 학습 시스템 개발.  
-
-5. **인간-컴퓨터 상호작용 (HCI)**  
-   - 사용자 경험(UX)과 인터페이스 설계 연구.  
-   - 인간 중심의 기술 설계를 위한 디자인 원리 탐구.
+- **언어:** C, C++, Python, Java, Rust, Go  
+- **패러다임:** 절차형, 객체지향(OOP), 함수형(Functional), 이벤트 기반(Event-driven)  
+- **자료구조:** 배열, 리스트, 스택, 큐, 해시, 힙, 그래프, 트리  
+- **알고리즘:** 탐색, 정렬, 재귀, 그리디, 분할정복, DP, 그래프, 최단 경로, 백트래킹  
+- **복잡도 분석:** 시간·공간 효율, Big-O, Big-Theta  
+- **실무 확장:** 코드 최적화, 병렬 처리, GPU 연산, 메모리 효율 개선  
 
 ---
 
-<aside>핵심 개념</aside>
+2. 운영체제 (Operating Systems)
 
-- **Algorithm ([[알고리즘 개요]]):** 문제 해결 절차의 논리적 순서.  
-- **Data Structure (자료구조):** 데이터를 효율적으로 저장하고 접근하는 구조.  
-- **Abstraction (추상화):** 복잡한 시스템을 단순한 개념 단위로 표현.  
-- **Automation (자동화):** 반복적 과정을 프로그램으로 수행.  
-- **Complexity (복잡도):** 알고리즘의 시간과 공간 효율성 분석.  
-
----
-
-<aside>수학적 기초</aside>
-
-컴퓨터 사이언스는 수학적 논리를 기반으로 한다.  
-- 이산수학(Discrete Math): 집합, 그래프, 논리, 조합, 관계  
-- 확률과 통계: 불확실성 처리와 데이터 해석  
-- 선형대수: 기계학습 및 그래픽스 연산  
-- 수치해석: 근사 계산과 오차 분석  
+- **프로세스 관리:** 스케줄링, Context Switching, IPC  
+- **메모리 관리:** Paging, Segmentation, Virtual Memory  
+- **동기화:** Mutex, Semaphore, Monitor  
+- **파일 시스템, 시스템 콜, 커널 구조**  
+- **응용 확장:**  
+  - 리눅스 프로세스 관리, 시스템 튜닝  
+  - 임베디드 OS (RTOS, Zephyr, QNX 등)  
+  - 컨테이너 가상화(Docker, cgroup, namespace)
 
 ---
 
-<aside>응용 분야</aside>
+3. 컴퓨터 구조 (Computer Architecture)
 
-- **소프트웨어 개발:** 웹, 앱, 서버, 클라우드 시스템 구축  
-- **임베디드 시스템:** 하드웨어와 소프트웨어 통합 제어  
-- **사이버 보안:** 암호화, 취약점 분석, 침입 탐지  
-- **AI/로봇공학:** 자율 시스템, 영상 인식, 언어 처리  
-- **데이터 엔지니어링:** 대규모 데이터 저장, 처리, 분석  
+- **구성:** ALU, Register, Control Unit, Memory, Bus, Cache  
+- **명령어 사이클:** Fetch → Decode → Execute  
+- **파이프라이닝, 분기 예측, 슈퍼스칼라**  
+- **RISC vs CISC, ARM, RISC-V**  
+- **캐시 일관성, 멀티코어 구조**  
+- **응용 확장:**  
+  - GPU 아키텍처 (SIMD, CUDA Core)  
+  - SoC(System-on-Chip), FPGA, 임베디드 보드 설계  
+  - 전력 효율 중심 아키텍처(모바일, IoT, Edge AI)
 
 ---
 
-<aside>핵심 목표</aside>
+4. 네트워크 (Computer Networks)
 
-컴퓨터 사이언스의 목적은 단순히 프로그래밍이 아니라,  
-**문제를 효율적으로 모델링하고 해결하는 능력**을 기르는 것이다.  
-즉, 컴퓨터를 활용한 논리적 사고력과 창의적 문제 해결이 학문의 본질이다.
+- **OSI 7계층, TCP/IP 4계층 구조**  
+- **핵심 프로토콜:** ARP, ICMP, IP, TCP, UDP, DNS, HTTP/HTTPS  
+- **라우팅 알고리즘:** Distance Vector, Link State, RIP, OSPF  
+- **네트워크 보안:** SSL/TLS, HTTPS, 인증서, VPN, 방화벽  
+- **실무 확장:**  
+  - REST, gRPC, MQTT, WebSocket  
+  - 클라우드 네트워크 구조 (VPC, Load Balancer, NAT, Proxy)  
+  - IoT 통신 프로토콜 (Zigbee, LoRa, BLE)
+
+---
+
+5. 데이터베이스 (Database Systems)
+
+- **모델:** 관계형(RDBMS), 비관계형(NoSQL, Key-Value, Document, Graph)  
+- **쿼리 언어:** SQL (SELECT, JOIN, GROUP BY, INDEX)  
+- **트랜잭션과 동시성 제어:** ACID, Lock, Deadlock, MVCC  
+- **정규화, 인덱싱, 데이터 무결성**  
+- **확장 응용:**  
+  - 분산 DB, 샤딩, 레플리케이션  
+  - 데이터 웨어하우스, OLAP, BigQuery  
+  - ORM, Query Optimization
+
+---
+
+6. 인공지능 & 데이터 사이언스 (AI & Data Science)
+
+- **기초 수학:** 선형대수, 미적분, 확률과 통계  
+- **머신러닝:** 회귀, 분류, 군집화, 결정트리, SVM, KNN  
+- **딥러닝:** CNN, RNN, Transformer, Attention  
+- **AI 프레임워크:** TensorFlow, PyTorch, scikit-learn  
+- **실무 확장:**  
+  - 모델 서빙, MLOps, GPU 최적화  
+  - AI 추론 가속 (Edge AI, TensorRT, ONNX)  
+  - 데이터 파이프라인 설계 및 자동화  
+
+---
+
+7. 보안 (Security)
+
+- **암호학 기초:** 대칭키/비대칭키, 해시 함수, 전자서명  
+- **네트워크 보안:** SSL/TLS, HTTPS, VPN, 방화벽  
+- **시스템 보안:** 인증, 권한, 접근 제어  
+- **응용 보안:** OWASP Top 10, SQL Injection, CSRF, XSS  
+- **확장 영역:** 블록체인, Zero Trust, Secure Boot, HSM  
+
+---
+
+8. 소프트웨어 공학 (Software Engineering)
+
+- **SDLC (소프트웨어 개발 생명주기)**  
+- **객체지향 설계(OOP)와 SOLID 원칙**  
+- **디자인 패턴:** Singleton, Factory, Observer, MVC, DI  
+- **테스트:** 단위, 통합, 회귀 테스트  
+- **CI/CD, 형상관리(Git, Jenkins, Docker)**  
+- **확장 응용:** 대규모 시스템 설계, 분산 시스템, 마이크로서비스  
+
+---
+
+9. 컴파일러 & 언어 처리 (Compilers & PL)
+
+- **어휘 분석, 구문 분석, 중간 코드(IR)**  
+- **최적화, 코드 생성, 링킹(Linking)**  
+- **가비지 컬렉션(GC), 런타임 시스템**  
+- **응용 확장:**  
+  - 인터프리터, JIT 컴파일  
+  - LLVM, WASM, Python Bytecode  
+  - DSL(Domain-Specific Language) 설계  
+
+---
+
+10. 이론 컴퓨터 과학 (Theoretical Computer Science)
+
+- **오토마타, 형식언어, 계산 가능성**  
+- **튜링머신, 복잡도 이론**  
+- **NP, NP-Complete, NP-Hard 문제**  
+- **암호학, 그래프 이론, 수학적 논리**  
+- **응용:** 최적화 문제, 알고리즘 증명, 계산 복잡도 분석  
+
+---
+
+11. 확장 분야 (Extended Areas)
+
+- **임베디드 시스템:** MCU, RTOS, 센서 통합, 드라이버  
+- **클라우드 & DevOps:** Docker, Kubernetes, AWS, CI/CD  
+- **분산 시스템:** CAP 이론, Consistency, Consensus (Paxos, Raft)  
+- **컴퓨터 비전 / 자연어 처리 / 음성 인식**  
+- **양자컴퓨팅, 엣지컴퓨팅, HPC(고성능 컴퓨팅)**  
+
+---
+
+✅ **요약**
+| 구분 | 목적 | 적용 분야 |
+|------|------|------------|
+| 기초 CS (자료구조, OS, 네트워크) | 면접·실무 기본 | 모든 개발 직군 |
+| 응용 CS (DB, AI, 보안) | 산업 실무 응용 | 백엔드, AI, IoT, 클라우드 |
+| 심화 CS (컴파일러, 이론, 분산 시스템) | 고급 설계·연구 | 시스템, 연구개발, 석박사 과정 |
+| 확장 분야 | 차세대 기술 | AI, 로보틱스, 하드웨어, 클라우드 |
+
+---
+
+🎯 **결론**
+취업용 CS 과목이 “채용을 위한 최소 역량”이라면,  
+확장된 CS 영역은 “전문 엔지니어로 성장하기 위한 기반”이다.  
+즉, **기초 CS는 입문, 확장 CS는 지속 성장의 토대**가 된다.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
+                "file": "Developer/CS/Computer Science.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "명령어"
+              "title": "Computer Science"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
+    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
     "Developer/CS/02. 시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/CS.md",
     "Developer/CS/Computer Science.md",
@@ -247,7 +248,6 @@
     "Developer/CS/02. 시스템 폴더/02. 컴퓨터/컴퓨터.md",
     "Developer/알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/알고리즘/알고리즘 개요.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
     "Developer/CS/02. 시스템 폴더/02. 컴퓨터/RISC.md",
     "Developer/알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
