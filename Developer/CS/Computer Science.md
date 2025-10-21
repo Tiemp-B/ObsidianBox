@@ -1,14 +1,13 @@
 ---
 cssclasses: cornell-note
-tags: computer-science, employment, academic, career-prep
+tags: computer-science, academic, cs-note
 ---
 
 # Summary
-취업용 CS 과목은 실무와 면접 중심의 최소한의 기초에 초점을 맞추지만,  
-그 범위를 산업 전체와 학문적 기반까지 확장하면,  
-AI, 데이터, 보안, 네트워크, 운영체제, 시스템, 소프트웨어 공학, 이론 CS 등  
-컴퓨터공학의 모든 분야를 포괄하게 된다.  
-즉, “취업을 위한 실무형 CS”에서 “지속적인 성장과 연구형 CS”로 발전하는 구조다.
+컴퓨터 과학(Computer Science)은 **프로그래밍 언어와 알고리즘을 중심으로 하드웨어·소프트웨어·데이터·네트워크의 상호작용을 탐구하는 학문**이다.  
+기초적으로는 자료 구조와 알고리즘, 심화적으로는 운영체제·컴퓨터 구조·네트워크·데이터베이스를 포함하며,  
+AI, 보안, 분산 시스템, 이론 CS 등으로 확장된다.  
+즉, “효율적인 계산을 위한 논리와 시스템의 과학”이다.
 
 ---
 
@@ -16,137 +15,157 @@ AI, 데이터, 보안, 네트워크, 운영체제, 시스템, 소프트웨어 �
 
 # Notes
 
-<aside>01. 프로그래밍</aside>
+1. 프로그래밍 (Programming)
 
-- **언어**: C, C++, Python, Java, Rust, Go, etc...
-- **
-
-1. 프로그래밍 & 알고리즘 (Programming & Algorithms)
-
-- **언어:** C, C++, Python, Java, Rust, Go  
-- **패러다임:** 절차형, 객체지향(OOP), 함수형(Functional), 이벤트 기반(Event-driven)  
-- **자료구조:** 배열, 리스트, 스택, 큐, 해시, 힙, 그래프, 트리  
-- **알고리즘:** 탐색, 정렬, 재귀, 그리디, 분할정복, DP, 그래프, 최단 경로, 백트래킹  
-- **복잡도 분석:** 시간·공간 효율, Big-O, Big-Theta  
-- **실무 확장:** 코드 최적화, 병렬 처리, GPU 연산, 메모리 효율 개선  
-
----
-
-2. 운영체제 (Operating Systems)
-
-- **프로세스 관리:** 스케줄링, Context Switching, IPC  
-- **메모리 관리:** Paging, Segmentation, Virtual Memory  
-- **동기화:** Mutex, Semaphore, Monitor  
-- **파일 시스템, 시스템 콜, 커널 구조**  
-- **응용 확장:**  
-  - 리눅스 프로세스 관리, 시스템 튜닝  
-  - 임베디드 OS (RTOS, Zephyr, QNX 등)  
-  - 컨테이너 가상화(Docker, cgroup, namespace)
+- **핵심 개념:** 언어 문법, 제어 구조, 함수, 클래스, 메모리 모델  
+- **주요 언어:** C, C++, Python, Java, Rust, Go  
+- **패러다임:** 절차형(Procedural), 객체지향(OOP), 함수형(Functional), 이벤트 기반(Event-driven)  
+- **소프트웨어 설계 원칙:** 추상화, 캡슐화, 모듈화, 인터페이스  
+- **성능 요소:** 메모리 효율, 캐시 활용, 비동기/병렬 프로그래밍  
+- **실무 적용:**  
+  - 시스템 프로그래밍 (POSIX, 파일 I/O)  
+  - 네트워크 소켓 프로그래밍 (TCP/UDP, HTTP, gRPC)  
+  - 임베디드 C/RTOS 개발  
+  - 프레임워크(Spring, Django, Express) 기반 애플리케이션 구현  
 
 ---
 
-3. 컴퓨터 구조 (Computer Architecture)
+2. 알고리즘 (Algorithms)
 
-- **구성:** ALU, Register, Control Unit, Memory, Bus, Cache  
-- **명령어 사이클:** Fetch → Decode → Execute  
-- **파이프라이닝, 분기 예측, 슈퍼스칼라**  
-- **RISC vs CISC, ARM, RISC-V**  
-- **캐시 일관성, 멀티코어 구조**  
-- **응용 확장:**  
-  - GPU 아키텍처 (SIMD, CUDA Core)  
-  - SoC(System-on-Chip), FPGA, 임베디드 보드 설계  
-  - 전력 효율 중심 아키텍처(모바일, IoT, Edge AI)
-
----
-
-4. 네트워크 (Computer Networks)
-
-- **OSI 7계층, TCP/IP 4계층 구조**  
-- **핵심 프로토콜:** ARP, ICMP, IP, TCP, UDP, DNS, HTTP/HTTPS  
-- **라우팅 알고리즘:** Distance Vector, Link State, RIP, OSPF  
-- **네트워크 보안:** SSL/TLS, HTTPS, 인증서, VPN, 방화벽  
-- **실무 확장:**  
-  - REST, gRPC, MQTT, WebSocket  
-  - 클라우드 네트워크 구조 (VPC, Load Balancer, NAT, Proxy)  
-  - IoT 통신 프로토콜 (Zigbee, LoRa, BLE)
+- **기초 개념:** 시간복잡도, 공간복잡도, Big-O 표기  
+- **정렬:** 버블, 삽입, 선택, 병합, 퀵, 힙, 계수, 기수  
+- **탐색:** 선형 탐색, 이진 탐색, 해시 탐색, 이진 탐색 트리  
+- **그리디 알고리즘:** 동전 교환, 활동 선택, Huffman 코딩  
+- **동적 프로그래밍(DP):** 피보나치, 배낭 문제, LCS, LIS  
+- **그래프 탐색:** BFS, DFS, Dijkstra, Floyd-Warshall, Kruskal, Prim  
+- **고급 기법:** 분할정복, 백트래킹, 세그먼트 트리, 비트마스크  
+- **응용:** 최단 경로 탐색, 스케줄링, 최적화 문제, 코딩테스트 문제 해결  
 
 ---
 
-5. 데이터베이스 (Database Systems)
+3. 운영체제 (Operating Systems)
 
-- **모델:** 관계형(RDBMS), 비관계형(NoSQL, Key-Value, Document, Graph)  
-- **쿼리 언어:** SQL (SELECT, JOIN, GROUP BY, INDEX)  
-- **트랜잭션과 동시성 제어:** ACID, Lock, Deadlock, MVCC  
-- **정규화, 인덱싱, 데이터 무결성**  
-- **확장 응용:**  
-  - 분산 DB, 샤딩, 레플리케이션  
-  - 데이터 웨어하우스, OLAP, BigQuery  
-  - ORM, Query Optimization
+- **기능:** 하드웨어 자원 관리, 프로세스 제어, 메모리 관리, 파일 시스템 관리  
+- **핵심 구성:** 커널(Kernel), 프로세스(Process), 스레드(Thread), 인터럽트(Interrupt)  
+- **스케줄링:** FCFS, SJF, Round Robin, Priority  
+- **동기화:** 세마포어(Semaphore), 뮤텍스(Mutex), 모니터(Monitor)  
+- **메모리 관리:** 페이징(Paging), 세그멘테이션(Segmentation), 가상 메모리(Virtual Memory)  
+- **응용:**  
+  - 리눅스 프로세스 관리 및 시스템 콜  
+  - 컨테이너 가상화(Docker, cgroup, namespace)  
+  - RTOS 기반 실시간 시스템 설계  
 
 ---
 
-6. 인공지능 & 데이터 사이언스 (AI & Data Science)
+4. 컴퓨터 구조 (Computer Architecture)
 
-- **기초 수학:** 선형대수, 미적분, 확률과 통계  
-- **머신러닝:** 회귀, 분류, 군집화, 결정트리, SVM, KNN  
+- **핵심 구성요소:** ALU, 레지스터, 제어 장치, 메모리, 버스, 캐시  
+- **명령어 사이클:** Fetch → Decode → Execute → Writeback  
+- **파이프라이닝, 슈퍼스칼라, 분기 예측, 캐시 일관성**  
+- **CPU 구조:** RISC vs CISC, ARM, RISC-V  
+- **확장:**  
+  - GPU 병렬 연산 구조 (SIMD, CUDA Core)  
+  - SoC(System-on-Chip), FPGA 설계  
+  - 저전력 임베디드 프로세서  
+
+---
+
+5. 네트워크 (Computer Networks)
+
+- **구조:** OSI 7계층 / TCP/IP 4계층  
+- **프로토콜:** ARP, ICMP, IP, TCP, UDP, DNS, HTTP/HTTPS  
+- **라우팅 알고리즘:** RIP, OSPF, BGP  
+- **전송:** 3-way Handshake, 혼잡 제어, 흐름 제어  
+- **응용 계층:** REST API, gRPC, MQTT, WebSocket  
+- **보안:** SSL/TLS, HTTPS, VPN, NAT, 방화벽  
+- **실무 응용:** IoT 통신, 클라우드 네트워크(VPC, Load Balancer, Proxy)  
+
+---
+
+6. 데이터베이스 (Database Systems)
+
+- **모델:** 관계형(RDBMS), 비관계형(NoSQL)  
+- **SQL 기본:** SELECT, JOIN, GROUP BY, INDEX  
+- **트랜잭션:** ACID, Lock, Deadlock, MVCC  
+- **정규화, 무결성, 인덱싱**  
+- **분산 DB:** 샤딩, 레플리케이션, CAP 이론  
+- **응용:** ORM, Query Optimization, Data Warehouse  
+
+---
+
+7. 인공지능 & 데이터 사이언스 (AI & Data Science)
+
+- **기초 수학:** 선형대수, 확률, 미적분  
+- **머신러닝:** 회귀, 분류, 군집화, SVM, 의사결정트리  
 - **딥러닝:** CNN, RNN, Transformer, Attention  
-- **AI 프레임워크:** TensorFlow, PyTorch, scikit-learn  
-- **실무 확장:**  
-  - 모델 서빙, MLOps, GPU 최적화  
-  - AI 추론 가속 (Edge AI, TensorRT, ONNX)  
-  - 데이터 파이프라인 설계 및 자동화  
+- **프레임워크:** TensorFlow, PyTorch, scikit-learn  
+- **응용:** MLOps, AI 추론 가속(TensorRT, ONNX), Edge AI  
 
 ---
 
-7. 보안 (Security)
+8. 보안 (Security)
 
-- **암호학 기초:** 대칭키/비대칭키, 해시 함수, 전자서명  
-- **네트워크 보안:** SSL/TLS, HTTPS, VPN, 방화벽  
-- **시스템 보안:** 인증, 권한, 접근 제어  
-- **응용 보안:** OWASP Top 10, SQL Injection, CSRF, XSS  
-- **확장 영역:** 블록체인, Zero Trust, Secure Boot, HSM  
+- **암호학:** 대칭키/비대칭키, 해시, 전자서명  
+- **네트워크 보안:** SSL/TLS, HTTPS, VPN  
+- **시스템 보안:** 인증(Authentication), 접근 제어(Authorization)  
+- **웹 보안:** SQL Injection, XSS, CSRF  
+- **확장:** 블록체인, Secure Boot, HSM, Zero Trust  
 
 ---
 
-8. 소프트웨어 공학 (Software Engineering)
+9. 소프트웨어 공학 (Software Engineering)
 
-- **SDLC (소프트웨어 개발 생명주기)**  
-- **객체지향 설계(OOP)와 SOLID 원칙**  
+- **소프트웨어 개발 생명주기 (SDLC)**  
+- **객체지향 설계 원칙 (SOLID)**  
 - **디자인 패턴:** Singleton, Factory, Observer, MVC, DI  
 - **테스트:** 단위, 통합, 회귀 테스트  
-- **CI/CD, 형상관리(Git, Jenkins, Docker)**  
-- **확장 응용:** 대규모 시스템 설계, 분산 시스템, 마이크로서비스  
+- **CI/CD:** Git, Jenkins, Docker, Kubernetes  
+- **응용:** 대규모 시스템 설계, 마이크로서비스, DevOps  
 
 ---
 
-9. 컴파일러 & 언어 처리 (Compilers & PL)
+10. 컴파일러 & 언어 처리 (Compilers & PL)
 
-- **어휘 분석, 구문 분석, 중간 코드(IR)**  
-- **최적화, 코드 생성, 링킹(Linking)**  
-- **가비지 컬렉션(GC), 런타임 시스템**  
-- **응용 확장:**  
-  - 인터프리터, JIT 컴파일  
-  - LLVM, WASM, Python Bytecode  
-  - DSL(Domain-Specific Language) 설계  
+- **단계:** 어휘 분석 → 구문 분석 → 중간 코드 생성(IR) → 최적화 → 코드 생성  
+- **기술 요소:** 가비지 컬렉션(GC), 링킹, 런타임 시스템  
+- **응용:** 인터프리터, JIT 컴파일, LLVM, WASM, DSL 설계  
 
 ---
 
-10. 이론 컴퓨터 과학 (Theoretical Computer Science)
+11. 이론 컴퓨터 과학 (Theoretical Computer Science)
 
-- **오토마타, 형식언어, 계산 가능성**  
-- **튜링머신, 복잡도 이론**  
-- **NP, NP-Complete, NP-Hard 문제**  
-- **암호학, 그래프 이론, 수학적 논리**  
-- **응용:** 최적화 문제, 알고리즘 증명, 계산 복잡도 분석  
+- **오토마타와 형식언어(Formal Language)**  
+- **튜링 머신(Turing Machine)**  
+- **복잡도 이론:** P, NP, NP-Complete, NP-Hard  
+- **계산 가능성과 결정 문제**  
+- **응용:** 알고리즘 증명, 계산 복잡도 분석, 최적화 문제 연구  
 
 ---
 
-11. 확장 분야 (Extended Areas)
+12. 확장 분야 (Extended Areas)
 
-- **임베디드 시스템:** MCU, RTOS, 센서 통합, 드라이버  
+- **임베디드 시스템:** MCU, RTOS, 센서 제어, 드라이버 개발  
 - **클라우드 & DevOps:** Docker, Kubernetes, AWS, CI/CD  
-- **분산 시스템:** CAP 이론, Consistency, Consensus (Paxos, Raft)  
-- **컴퓨터 비전 / 자연어 처리 / 음성 인식**  
-- **양자컴퓨팅, 엣지컴퓨팅, HPC(고성능 컴퓨팅)**  
+- **분산 시스템:** CAP 이론, Consistency Model, Consensus (Paxos, Raft)  
+- **고급 응용:** 컴퓨터 비전, 자연어 처리, 음성 인식  
+- **신기술:** 양자컴퓨팅, 엣지컴퓨팅, HPC(고성능 컴퓨팅)
 
 ---
+
+✅ **요약**
+| 구분 | 핵심 역량 | 적용 분야 |
+|------|-------------|------------|
+| 프로그래밍 | 구현력, 언어 이해 | 모든 소프트웨어 개발 |
+| 알고리즘 | 문제 해결력, 논리적 사고 | 코딩테스트, 최적화 문제 |
+| 운영체제·구조·네트워크 | 시스템 이해 | 백엔드, 임베디드, 서버 |
+| 데이터베이스 | 데이터 관리 | 웹, AI, 서비스 개발 |
+| 인공지능·보안·공학 | 응용 역량 | AI, 클라우드, 보안 분야 |
+| 이론·컴파일러 | 연구 및 고급 설계 | 시스템, 연구개발, 대학원 |
+
+---
+
+🎯 **결론**
+컴퓨터 과학은 “데이터를 처리하고 문제를 해결하는 방법”을 연구하는 학문이며,  
+**프로그래밍은 실현 수단**, **알고리즘은 사고 구조**,  
+**시스템은 효율을 위한 기반**, **이론은 확장과 검증의 토대**다.  
+이 네 축이 결합될 때 진정한 소프트웨어 엔지니어로 성장할 수 있다.
