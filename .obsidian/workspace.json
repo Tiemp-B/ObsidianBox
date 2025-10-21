@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/스케줄링.md",
+                "file": "Developer/CS/Computer Science.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "스케줄링"
+              "title": "Computer Science"
             }
           }
         ],
@@ -244,12 +244,14 @@
   },
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/파일시스템.md",
+    "Developer/CS/Computer Science.md",
+    "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
+    "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/메모리.md",
     "Developer/CS/03. OS/프로세스.md",
-    "Developer/CS/03. OS/파일시스템.md",
     "Developer/CS/03. OS/03. OS.md",
-    "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/스레드.md",
     "Thread.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
@@ -260,10 +262,8 @@
     "Developer/CS/CS.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
-    "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
     "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
-    "Developer/CS/Computer Science.md",
     "Developer/CS/02. 알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/12. 확장 분야/확장 분야.md",
