@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/스레드.md",
+                "file": "Developer/CS/03. OS/스케줄링.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "스레드"
+              "title": "스케줄링"
             }
           },
           {
@@ -28,16 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/메모리.md",
+                "file": "Developer/CS/03. OS/스레드.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "메모리"
+              "title": "스레드"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9fd98087aecc15a",
@@ -242,12 +241,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "557fa4e01dcd44c1",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/운영체제.md",
-    "Developer/CS/03. OS/메모리.md",
-    "Thread.md",
+    "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/스레드.md",
+    "Developer/CS/03. OS/메모리.md",
+    "Developer/CS/03. OS/운영체제.md",
+    "Thread.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/03. OS/프로세스.md",
     "Pasted image 20251021190934.png",
@@ -272,7 +272,6 @@
     "Developer/CS/09. 소프트웨어 공학/소프트웨어 공학.md",
     "Developer/CS/07. 인공지능 & 데이터 사이언스/인공지능 & 데이터 사이언스.md",
     "Developer/CS/06. 데이터베이스/데이터베이스.md",
-    "Developer/CS/05. 네트워크/네트워크.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
