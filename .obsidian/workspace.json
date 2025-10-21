@@ -29,15 +29,14 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/스케줄링.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "스케줄링"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9fd98087aecc15a",
@@ -242,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "557fa4e01dcd44c1",
+  "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
     "Developer/CS/03. OS/스레드.md",
     "Developer/CS/03. OS/운영체제.md",
