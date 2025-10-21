@@ -49,7 +49,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/운영체제.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -240,11 +240,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f62992e11d10843b",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/03. OS/운영체제.md",
-    "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
     "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
