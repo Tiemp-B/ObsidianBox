@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/운영체제.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -241,8 +241,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "222dfd8dba32fc75",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
+    "Thread.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/스레드.md",
     "Developer/CS/03. OS/메모리.md",
@@ -271,7 +272,6 @@
     "Developer/CS/07. 인공지능 & 데이터 사이언스/인공지능 & 데이터 사이언스.md",
     "Developer/CS/06. 데이터베이스/데이터베이스.md",
     "Developer/CS/05. 네트워크/네트워크.md",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
