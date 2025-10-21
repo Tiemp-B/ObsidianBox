@@ -43,7 +43,7 @@
               "state": {
                 "file": "Developer/CS/01. 프로그래밍/프로그래밍.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "프로그래밍"
