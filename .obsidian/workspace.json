@@ -28,15 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Cornell Type.md",
-                "mode": "source",
-                "source": true
+                "file": "Developer/CS/03. OS/프로세스.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Cornell Type"
+              "title": "프로세스"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9fd98087aecc15a",
@@ -241,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "222dfd8dba32fc75",
+  "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
     "_templates/Cornell Type.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
