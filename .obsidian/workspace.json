@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/시스템 폴더/02. 컴퓨터/CPU.md",
+                "file": "Developer/CS/시스템 폴더/02. 컴퓨터/CISC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "CISC"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
+    "Developer/CS/시스템 폴더/02. 컴퓨터/CPU.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/컴퓨터.md",
     "Developer/알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/Computer Science.md",
@@ -244,7 +245,6 @@
     "Developer/CS/시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/CISC.md",
     "Developer/CS/시스템 폴더/02. 컴퓨터/RISC.md",
-    "Developer/CS/시스템 폴더/02. 컴퓨터/CPU.md",
     "Developer/알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/알고리즘/02. 탐색/탐색.md",
     "Developer/알고리즘/02. 탐색/트리 탐색.md",
