@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/프로세스.md",
-                "mode": "preview",
+                "file": "Developer/CS/03. OS/운영체제.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로세스"
+              "title": "운영체제"
             }
           }
         ],
@@ -244,10 +244,11 @@
   },
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/메모리.md",
+    "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
-    "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
@@ -269,7 +270,6 @@
     "Developer/CS/01. 프로그래밍/언어/C/C언어의 입출력.md",
     "Developer/CS/01. 프로그래밍/언어/C/C.md",
     "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
-    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
     "Developer/CS/09. 소프트웨어 공학",
