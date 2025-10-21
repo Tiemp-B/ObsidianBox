@@ -83,10 +83,10 @@
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/OS",
     "//Developer/Developer/Computer Science/Developer/Computer Science/시스템 폴더/Developer/Computer Science/시스템 폴더/데이터베이스",
     "//Developer/Developer/Computer Science",
-    "//Developer/Developer/CS/Developer/CS/시스템 폴더",
     "//Developer/Developer/CS/Developer/CS/시스템 폴더/Developer/CS/시스템 폴더/02. 컴퓨터",
     "//Developer/Developer/알고리즘/Developer/알고리즘/05. 분할 정복",
-    "//Developer/Developer/CS"
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/이론 컴퓨터 과학 폴더"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
