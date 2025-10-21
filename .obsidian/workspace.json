@@ -39,12 +39,14 @@
             "id": "5df6e4a59967dde6",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/CS/02. 시스템 폴더/01. OS"
+                "file": "Developer/CS/Computer Science.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "01. OS"
+              "title": "Computer Science"
             }
           }
         ],
@@ -232,7 +234,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68e465384e3d05dc",
+  "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
     "Developer/CS/02. 시스템 폴더/01. OS/01. OS.md",
     "Developer/CS/Computer Science.md",
