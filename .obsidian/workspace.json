@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/메모리.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -242,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "557fa4e01dcd44c1",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/메모리.md",
+    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
