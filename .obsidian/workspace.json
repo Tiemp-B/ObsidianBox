@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 시스템 폴더/02. 컴퓨터/컴퓨터.md",
+                "file": "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
+                "file": "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
                 "mode": "source",
                 "source": true
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/Computer Science.md",
+                "file": "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science"
+              "title": "컴퓨터 구조"
             }
           }
         ],
@@ -234,41 +234,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68e465384e3d05dc",
+  "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/Computer Science.md",
+    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
     "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
     "Developer/CS/01. 프로그래밍",
     "Developer/CS/CS.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
-    "Developer/CS/02. 시스템 폴더/02. 시스템 폴더.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
+    "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
     "Developer/CS/11. 이론 컴퓨터 과학/11. 이론 컴퓨터 과학.md",
     "Developer/Git/Git.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/CISC.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/CPU.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/컴퓨터.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CISC.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/RISC.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/RISC.md",
     "Developer/CS/02. 알고리즘/02. 탐색/그래프 탐색.md",
     "Developer/CS/02. 알고리즘/02. 탐색/탐색.md",
     "Developer/CS/02. 알고리즘/02. 탐색/트리 탐색.md",
     "Developer/CS/02. 알고리즘/02. 탐색/02. 탐색.md",
-    "Developer/CS/02. 시스템 폴더/04. 데이터베이스/04. 데이터베이스.md",
-    "Developer/CS/02. 시스템 폴더/시스템.md",
-    "Developer/CS/02. 시스템 폴더/03. 네트워크/03. 네트워크.md",
+    "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스/04. 데이터베이스.md",
+    "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
+    "Developer/CS/04. 컴퓨터 구조/03. 네트워크/03. 네트워크.md",
     "Developer/CS/02. 알고리즘/02. 탐색/이진 탐색.md",
     "Developer/CS/02. 알고리즘/02. 탐색/해시 탐색.md",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터/파이프라인(CPU).md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/파이프라인(CPU).md",
     "Pasted image 20251020075957.png",
-    "Developer/CS/02. 시스템 폴더/04. 데이터베이스",
-    "Developer/CS/02. 시스템 폴더/03. 네트워크",
-    "Developer/CS/02. 시스템 폴더/02. 컴퓨터",
+    "Developer/CS/04. 컴퓨터 구조/04. 데이터베이스",
+    "Developer/CS/04. 컴퓨터 구조/03. 네트워크",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터",
     "Developer/CS/03. OS",
-    "Developer/CS/02. 시스템 폴더",
+    "Developer/CS/04. 컴퓨터 구조",
     "Developer/CS/11. 이론 컴퓨터 과학",
     "Developer/Computer Science/CPU",
     "Developer/CS",
