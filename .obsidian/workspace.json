@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 52.982233502538065,
+        "dimension": 61.04060913705583,
         "children": [
           {
             "id": "222dfd8dba32fc75",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/시스템 콜.md",
-                "mode": "source",
+                "file": "Developer/CS/03. OS/커널.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "시스템 콜"
+              "title": "커널"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "f9fd98087aecc15a",
         "type": "tabs",
-        "dimension": 47.01776649746193,
+        "dimension": 38.95939086294416,
         "children": [
           {
             "id": "80b5a9cdbb7ffc0c",
@@ -243,9 +243,9 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/커널.md",
     "Developer/CS/03. OS/03. OS.md",
-    "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/파일시스템.md",
