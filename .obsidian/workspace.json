@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/01. 프로그래밍/프로그래밍.md",
+                "file": "Developer/CS/Computer Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로그래밍"
+              "title": "Computer Science"
             }
           }
         ],
@@ -236,12 +236,12 @@
   },
   "active": "5df6e4a59967dde6",
   "lastOpenFiles": [
+    "Developer/CS/02. 시스템 폴더/01. OS/01. OS.md",
+    "Developer/CS/Computer Science.md",
     "Developer/CS/01. 프로그래밍/프로그래밍.md",
     "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
-    "Developer/CS/Computer Science.md",
     "Developer/CS/01. 프로그래밍",
     "Developer/CS/CS.md",
-    "Developer/CS/02. 시스템 폴더/01. OS/01. OS.md",
     "Developer/CS/02. 시스템 폴더/02. 컴퓨터/명령어.md",
     "Developer/CS/02. 시스템 폴더/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/02. 시스템 폴더/02. 시스템 폴더.md",
