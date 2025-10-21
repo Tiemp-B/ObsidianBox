@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/파일시스템.md",
+                "file": "Developer/CS/03. OS/시스템 콜.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파일시스템"
+              "title": "시스템 콜"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/Computer Science.md",
-                "mode": "preview",
+                "file": "Developer/CS/03. OS/운영체제.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Computer Science"
+              "title": "운영체제"
             }
           }
         ]
@@ -243,11 +243,11 @@
   },
   "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/파일시스템.md",
     "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/Computer Science.md",
     "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/03. OS.md",
-    "Developer/CS/03. OS/파일시스템.md",
-    "Developer/CS/Computer Science.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/메모리.md",
