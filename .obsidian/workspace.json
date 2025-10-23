@@ -16,7 +16,7 @@
               "state": {
                 "file": "Developer/CS/03. OS/동기화.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "동기화"
