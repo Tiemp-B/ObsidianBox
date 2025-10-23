@@ -103,12 +103,11 @@
     "//Developer",
     "//Developer/Developer/CS",
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/04. 그리디",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/05. 분할 정복",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/06. 동적 프로그래밍",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/07. 그래프"
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/07. 그래프",
+    "//Developer/Developer/CS/Developer/CS/03. OS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
