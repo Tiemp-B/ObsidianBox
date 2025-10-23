@@ -36,8 +36,7 @@
               "title": "운영체제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9fd98087aecc15a",
@@ -242,10 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "557fa4e01dcd44c1",
+  "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/동기화.md",
     "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/03. OS/동기화.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
