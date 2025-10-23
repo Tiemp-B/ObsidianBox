@@ -36,7 +36,8 @@
               "title": "운영체제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9fd98087aecc15a",
@@ -241,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b5a9cdbb7ffc0c",
+  "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
     "Developer/CS/03. OS/동기화.md",
     "Developer/CS/03. OS/운영체제.md",
