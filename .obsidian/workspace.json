@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 61.04060913705583,
+        "dimension": 61.04060913705584,
         "children": [
           {
             "id": "222dfd8dba32fc75",
@@ -111,7 +111,7 @@
             }
           },
           {
-            "id": "0c774ebdd6db359e",
+            "id": "a357dacb429a29bb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
