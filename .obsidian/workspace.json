@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/동기화.md",
+                "file": "Developer/CS/02. 알고리즘/03. 정렬/퀵 정렬.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "동기화"
+              "title": "퀵 정렬"
             }
           },
           {
@@ -36,7 +36,8 @@
               "title": "운영체제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9fd98087aecc15a",
@@ -241,10 +242,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "222dfd8dba32fc75",
+  "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/02. 알고리즘/03. 정렬/퀵 정렬.md",
     "Developer/CS/03. OS/동기화.md",
+    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
@@ -270,7 +272,6 @@
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/컴퓨터.md",
     "Pasted image 20251021190934.png",
     "Pasted image 20251021190931.png",
-    "_templates/Cornell Type.md",
     "Pasted image 20251021185017.png",
     "Developer/CS/12. 확장 분야",
     "Developer/CS/10. 컴파일러 & 언어 처리",
