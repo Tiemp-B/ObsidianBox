@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/운영체제.md",
-                "mode": "source",
+                "file": "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "운영체제"
+              "title": "그래프"
             }
           },
           {
@@ -258,8 +258,8 @@
   },
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
-    "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
     "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
