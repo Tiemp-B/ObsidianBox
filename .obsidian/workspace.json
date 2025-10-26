@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
-                "mode": "preview",
-                "source": true
+                "file": "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "그래프"
+              "title": "명령어"
             }
           },
           {
@@ -272,8 +272,12 @@
   },
   "active": "557fa4e01dcd44c1",
   "lastOpenFiles": [
-    "Developer/CS/02. 알고리즘/08. 트리/트리.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
+    "Developer/CS/Computer Science.md",
+    "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
+    "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
     "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
+    "Developer/CS/02. 알고리즘/08. 트리/트리.md",
     "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
@@ -294,10 +298,6 @@
     "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/CS/03. OS/파일시스템.md",
-    "Developer/CS/Computer Science.md",
-    "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
-    "Developer/CS/03. OS/스케줄링.md",
-    "Developer/CS/03. OS/메모리.md",
     "Pasted image 20251021190934.png",
     "Pasted image 20251021190931.png",
     "Pasted image 20251021185017.png",
