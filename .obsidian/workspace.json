@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/02. 알고리즘/03. 정렬/퀵 정렬.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -62,8 +62,7 @@
               "title": "트리"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9fd98087aecc15a",
@@ -268,7 +267,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d605f7224f73a182",
+  "active": "222dfd8dba32fc75",
   "lastOpenFiles": [
     "Developer/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/CS/03. OS/운영체제.md",
