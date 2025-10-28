@@ -55,8 +55,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/운영체제.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "운영체제"
