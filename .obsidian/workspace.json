@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/커널.md",
+                "file": "Developer/Linux/리눅스.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "커널"
+              "title": "리눅스"
             }
           }
         ]
@@ -284,8 +284,8 @@
   },
   "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/03. OS/커널.md",
+    "Developer/CS/03. OS/운영체제.md",
     "Developer/CS/02. 알고리즘/08. 트리/트리.md",
     "images/images.md",
     "images/Pasted image 20251028164920.png",
