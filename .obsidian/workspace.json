@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/운영체제.md",
-                "mode": "preview",
+                "file": "Developer/CS/03. OS/커널.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "운영체제"
+              "title": "커널"
             }
           }
         ]
@@ -282,10 +282,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18c2528a2ca7ef80",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/커널.md",
     "Developer/CS/03. OS/운영체제.md",
+    "Developer/CS/03. OS/커널.md",
     "Developer/CS/02. 알고리즘/08. 트리/트리.md",
     "images/images.md",
     "images/Pasted image 20251028164920.png",
