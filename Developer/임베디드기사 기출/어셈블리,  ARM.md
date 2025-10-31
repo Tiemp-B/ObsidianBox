@@ -31,7 +31,8 @@ DELAY
 subs r1, r1, #0x01
 bne DELAY
 mov r1, #0x000F0000
-subs r2, r2, #0x0
+subs r2, r2, #0x01
+bne LOOP
 ```
 <details class="hoverbox">
   <summary>답안</summary>
