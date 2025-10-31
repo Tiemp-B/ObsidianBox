@@ -89,6 +89,8 @@ Q. 스레드와 상호배제 구간을 정의하기 위한 동기화 객체를 �
   <div class="hover-content">
     Mutex (뮤텍스)
   </div>
+  <summary>해설</summary>
+  상호배제 (Mutal Exclusion)
 </details>
 ## [Q.15-7]
 
