@@ -43,4 +43,6 @@ bne LOOP
 	mov [dest], [op1] : dest에 op1 입력
 	mvn [dest], [op1] : dest에 !op1 입력
 	orr [dest], [op1], [op2] : dest에 op1 OR op2 입력
+	subs [dest], [Rn], [op2] : Rd 에 Rn-op2 입력
+	bne
 </details>
