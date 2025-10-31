@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
+                "file": "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "하드웨어 , 디지털 논리"
+              "title": "C, C++ 프로그래밍"
             }
           }
         ],
@@ -282,11 +282,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b5a9cdbb7ffc0c",
+  "active": "6057a5dc7b109731",
   "lastOpenFiles": [
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
-    "Developer/임베디드기사 기출/임베디드 시스템.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
+    "Developer/임베디드기사 기출/임베디드 시스템.md",
     "Developer/임베디드기사 기출/OS 기출.md",
     "Developer/임베디드기사 기출/컴파일, 링킹, 빌드.md",
     "Developer/임베디드기사 기출/SW 공학.md",
