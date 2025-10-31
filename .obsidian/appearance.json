@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "MyStyleSetting1",
-    "Cornell"
+    "Cornell",
+    "hover-reveal"
   ],
   "theme": "obsidian",
   "showRibbon": true,
