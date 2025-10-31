@@ -35,7 +35,15 @@ Q. UML 다이어그램 종류 3가지는?
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    WX'+XY'+X'Z
+    클래스 다이어그램, 객체 다이어그램, 패키지 다이어그램
+  </div>
+</details>
+## [Q.16-2]
+Q. 객체의 행동 다이어그램 중 하나로, 특정 상태를 지니며 이벤트와 같은 액션에 의해 상태가 변경되기도 하는 객체의 상태와 상태의 변화를 도식화한 다이어그램은?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    상태 다이어그램
   </div>
 </details>
 
