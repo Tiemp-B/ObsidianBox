@@ -45,7 +45,16 @@ Q. 실행중인 프로세스의 상태를 저장하고 다른 프로세스로 �
 	문맥 교환 (Context Switching)
   </div>
 </details>
-## []
+## [19-6]
+Q. 시스템 콜 서비스 중 프로세스 생성, 대체, 종료를 수행하는 것을 차례대로 쓰시오
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+	fork()
+	exec()
+	exit()	
+  </div>
+</details>
 
 
 
