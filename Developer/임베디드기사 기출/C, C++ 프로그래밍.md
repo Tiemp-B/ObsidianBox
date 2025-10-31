@@ -123,6 +123,16 @@ Q. C언어에서 문자열을 입력받는 함수와 한 글자를 입력받는 
     gets(), getchar()
   </div>
 </details>
+## [Q.21-14 / Q.22-5]
+Q. 다음 C코드에서 학번, 이름, 등급이 출력되도록 빈 칸에 들어갈 수 있는 것을 보기에서 모두 찾으시오. 
+## [Q.20-6 / Q.23-1]
+Q. DRAM에서는 누설전류에 의해 저장된 전하를 소실하는 커패시터의 성질로 인해 주기적인 (   ) 동작이 필요하다.
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    Refresh
+  </div>
+</details>
 
 
 
