@@ -100,7 +100,22 @@ void main(){
   </div>
 </details>
 ## [Q.20-7]
-Q. 
+Q. C언어에서 for, while, do while의 반복과정을 중단시킬 수 있는 키워드는?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    break
+  </div>
+</details>
+## [Q.20-2]
+Q. C언어로 작성된 프로그램이 실행될 때, 가장 먼저 호출되는 함수는?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    main 함수
+  </div>
+</details>
+
 
 
 
