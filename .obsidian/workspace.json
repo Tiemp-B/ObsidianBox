@@ -68,16 +68,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/커널.md",
+                "file": "Developer/임베디드기사 기출/어셈블리  ARM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "커널"
+              "title": "어셈블리  ARM"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f9fd98087aecc15a",
@@ -285,6 +285,7 @@
   "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
     "Developer/임베디드기사 기출/어셈블리  ARM.md",
+    "Developer/CS/03. OS/커널.md",
     "Developer/임베디드기사 기출/CC++ 프로그래밍.md",
     "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
@@ -298,7 +299,6 @@
     "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
     "Developer/CS/11. 이론 컴퓨터 과학/11. 이론 컴퓨터 과학.md",
     "Developer/Linux/리눅스.md",
-    "Developer/CS/03. OS/커널.md",
     "Developer/CS/02. 알고리즘/08. 트리/트리.md",
     "images/images.md",
     "images/Pasted image 20251028164920.png",
