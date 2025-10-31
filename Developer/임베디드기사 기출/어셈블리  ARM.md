@@ -18,4 +18,10 @@ str (    ) [r0]
   </div>
 </details>
 ## [Q.24-5 / Q.19-5]
-Q. 8bit LED 주소가 0x30002000부터 시작하고, 9번째 bit가 1이면 LED Enable, 0이면 Disabl
+Q. 8bit LED 주소가 0x30002000부터 시작하고, 9번째 bit가 1이면 LED Enable, 0이면 Disable일 때, 전체 LED가 켜질 때, 0x00부터 0xFF까지 차례대로 켜는 ARM 어셈블리 코드의 빈칸을 채우시오.
+```
+mov r0, 0x30000000
+mov r1, #0x000F0000
+(   )
+LOOP mvn
+```
