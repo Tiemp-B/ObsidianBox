@@ -31,7 +31,10 @@ Q. 교착상태 4대 조건을 서술하시오
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    1. 상호 배제()
+    1. 상호 배제(Mutual Exclusion): 자원은 한 번에 하나의 프로세스만 사용할 수 있다.
+    2. 점유 대기 (Hold and wait): 프로세스가 자원을 점유한 상태에서 다른 자원을 기다린다.
+    3. 비선점 (No Preemption): 자원을 강제로 빼앗을 수 없다.
+    4. 
   </div>
 </details>
 
