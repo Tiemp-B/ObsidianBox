@@ -93,7 +93,6 @@
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조/Developer/CS/04. 컴퓨터 구조/03. 네트워크",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어/Developer/CS/01. 프로그래밍/언어/C",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어",
-    "//Developer",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/04. 그리디",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/05. 분할 정복",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/06. 동적 프로그래밍",
@@ -102,10 +101,11 @@
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조/Developer/CS/04. 컴퓨터 구조/02. 컴퓨터",
     "//Developer/Developer/CS/Developer/CS/12. 확장 분야",
     "//Developer/Developer/SW 설계",
-    "//Developer/Developer/CS",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
     "//Developer/Developer/Linux",
-    "//Developer/Developer/CS/Developer/CS/11. 이론 컴퓨터 과학"
+    "//Developer/Developer/CS/Developer/CS/11. 이론 컴퓨터 과학",
+    "//Developer",
+    "//Developer/Developer/임베디드기사 기출"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

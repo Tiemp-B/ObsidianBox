@@ -88,14 +88,12 @@
             "id": "80b5a9cdbb7ffc0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
-                "mode": "preview",
-                "source": false
+                "path": "Developer/임베디드기사 기출"
               },
               "icon": "lucide-file",
-              "title": "이론 컴퓨터 과학"
+              "title": "임베디드기사 기출"
             }
           }
         ]
@@ -282,8 +280,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b5a9cdbb7ffc0c",
+  "active": "90027baf15353fca",
   "lastOpenFiles": [
+    "Developer/Untitled.md",
+    "Developer/임베디드기사 기출/임베디드기사 기출.md",
+    "Developer/임베디드기사 기출",
+    "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
     "Developer/CS/11. 이론 컴퓨터 과학/11. 이론 컴퓨터 과학.md",
     "Developer/Linux/리눅스.md",
     "Developer/CS/03. OS/커널.md",
@@ -302,7 +304,6 @@
     "Developer/Linux/Linux.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
     "Developer/Linux",
-    "Developer/Untitled.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "Developer/CS/Computer Science.md",
     "Developer/CS/04. 컴퓨터 구조/컴퓨터 구조.md",
@@ -312,8 +313,6 @@
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "Developer/CS/03. OS/동기화.md",
-    "Developer/CS/03. OS/03. OS.md",
-    "Developer/CS/02. 알고리즘/03. 정렬/삽입 정렬.md",
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
@@ -324,7 +323,6 @@
     "Developer/CS/07. 인공지능 & 데이터 사이언스",
     "Developer/CS/06. 데이터베이스",
     "Developer/CS/05. 네트워크",
-    "Developer/CS/01. 프로그래밍",
     "images/Pasted image 20251020075957.png"
   ]
 }
