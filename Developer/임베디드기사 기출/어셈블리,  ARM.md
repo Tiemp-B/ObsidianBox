@@ -40,5 +40,7 @@ bne LOOP
     mov r2, #0xFF
   </div>
   <h6>해설</h6>
-	mov 
+	mov [dest], [op1] : dest에 op1 입력
+	mvn [dest], [op1] : dest에 !op1 입력
+	orr [dest], [op1]
 </details>
