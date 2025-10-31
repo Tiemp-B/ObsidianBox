@@ -110,7 +110,14 @@ Q. DARTS, ADRTS란?
 </details>
 
 ## [Q.15-3]
-Q. SW 개발 과정에서 사용되는 요구 분석, 설계, 구현, 검사, 디버깅 과정 전체 또는 일부를 
+Q. SW 개발 과정에서 사용되는 요구 분석, 설계, 구현, 검사, 디버깅 과정 전체 또는 일부를 컴퓨터와 전용 소프트웨어 도구를 사용하여 자동화하는 도구는?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    CASE 도구
+  </div>
+</details>
+
 
 
 
