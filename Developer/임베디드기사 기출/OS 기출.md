@@ -45,7 +45,7 @@ Q. 실행중인 프로세스의 상태를 저장하고 다른 프로세스로 �
 	문맥 교환 (Context Switching)
   </div>
 </details>
-
+## []
 
 
 
