@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/Untitled.md",
+                "file": "Developer/임베디드기사 기출/임베디드 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "임베디드 시스템"
             }
           }
         ]
@@ -285,7 +285,7 @@
   "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
     "Developer/임베디드기사 기출/SW 공학.md",
-    "Developer/임베디드기사 기출/Untitled.md",
+    "Developer/임베디드기사 기출/임베디드 시스템.md",
     "Developer/임베디드기사 기출/네트워크, 통신.md",
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
