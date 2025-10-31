@@ -78,6 +78,12 @@ void main(){
 }
 ```
 
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    50
+  </div>
+</details>
 
 
 
