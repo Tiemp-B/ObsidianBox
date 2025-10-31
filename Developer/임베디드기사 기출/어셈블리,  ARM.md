@@ -40,5 +40,5 @@ bne LOOP
     mov r2, #0xFF
   </div>
   <h6>해설</h6>
-	mov : 
+	mov 
 </details>
