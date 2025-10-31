@@ -61,9 +61,11 @@ Q. SW의 내부구조, 동작을 자세하게 검사하는 방식을 (  A  ) 테
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    WX'+XY'+X'Z
+    A: 화이트박스, B: 블랙 박스
   </div>
 </details>
+## [Q.18-5 / Q.15-8]
+Q. SW의 기능을 검사하는 방법으로 동치 분할 검사, 경계값 ㄱ
 
 
 
