@@ -39,12 +39,17 @@ Q. 다음 C언어 코드 중 오류가 발생하는 행을 찾고 이유를 설�
 ```C
 char *ptr1;
 char *ptr2;
+ptr1 = malloc(512);
+ptr2 = malloc(512);
+ptr2 = ptr1;
+free(ptr1);
+free(ptr2);
 ```
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    ldr r0, =0xEA200000 <br>
-    r1
+    free(ptr2) 행이 에러가난다.
+    이미 할당 해제된 메모리를 다시 할당 해제하였다.
   </div>
 </details>
 
