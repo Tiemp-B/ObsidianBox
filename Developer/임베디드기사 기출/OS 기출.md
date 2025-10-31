@@ -77,7 +77,14 @@ Q. POSIX 계열 운영체제에서 스레드를 생성하는 함수 이름은 �
   </div>
 </details>
 ## [Q.16-8 / Q.22-4]
-Q. 스레드와 
+Q. 스레드와 상호배제 구간을 정의하기 위한 동기화 객체를 무엇이라고 하는가?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    Mutex (뮤텍스)
+  </div>
+</details>
+## [Q.15-7]
 
 
 
