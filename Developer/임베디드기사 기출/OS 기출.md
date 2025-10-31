@@ -96,6 +96,13 @@ Q. 스레드와 상호배제 구간을 정의하기 위한 동기화 객체를 �
   <p>- 세마포어: 상호배제 구간을 정의하기 위한 변수</p>
 </details>
 ## [Q.15-7]
+Q. 뮤텍스와 세마포어의 차이점에 대해 서술하시오
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    점유와 대기 (Hold and Wait)
+  </div>
+</details>
 
 
 
