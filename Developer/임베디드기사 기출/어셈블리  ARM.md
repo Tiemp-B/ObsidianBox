@@ -13,6 +13,6 @@ str (    ) [r0]
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    점유와 대기 (Hold and Wait)
+    ldr r0, =0xEA200000 / r1
   </div>
 </details>
