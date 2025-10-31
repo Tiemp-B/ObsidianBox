@@ -64,9 +64,10 @@ Q. 스레드간의 동기화 기법에 대한 설명이다. 빈 칸에 알맞은
   <summary>답안</summary>
   <div class="hover-content">
     임계영역 / 상호배제 / 세마포어
+    
   </div>
 </details>
-
+[[동기화]]
 
 
 
