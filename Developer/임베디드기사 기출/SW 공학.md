@@ -15,7 +15,29 @@ Q. 럼바우의 객체 모델링의 3가지 모델링 방식은?
   기능 모델링 : 자료 흐름도(DFD)를 이용하여 다수의 프로세스 간의 자료 흐름 처리
 </details>
 ## [Q.22-15 / Q.23-11]
-Q. UML 중 사용자의 관점에서 
+Q. UML 중 사용자의 관점에서 시스템이 수행하는 기능을 처리 흐름대로 표현한 것은?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    Use Case Diagram
+  </div>
+</details>
+## [Q.20-15]
+Q.다이어그램 등을 제공하는 통합 모델링 언어는?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    UML (Unified Modeling Language)
+  </div>
+</details>
+## [Q.19-1]
+Q. UML 다이어그램 종류 3가지는?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    WX'+XY'+X'Z
+  </div>
+</details>
 
 
 
