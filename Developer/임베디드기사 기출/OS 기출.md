@@ -90,7 +90,8 @@ Q. 스레드와 상호배제 구간을 정의하기 위한 동기화 객체를 �
     Mutex (뮤텍스)
   </div>
   <summary>해설</summary>
-  상호배제 (Mutal Exclusion)
+  상호배제 (Mutal Exclusion): 여러 대상이 동시에 같은 공유 자원에 접근시 한 대상만 접근하도록 제어하는 것
+  - 뮤텍스느
 </details>
 ## [Q.15-7]
 
