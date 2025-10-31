@@ -81,9 +81,10 @@ void main(){
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    50
+    40
   </div>
 </details>
+## [Q.18-9]
 
 
 
