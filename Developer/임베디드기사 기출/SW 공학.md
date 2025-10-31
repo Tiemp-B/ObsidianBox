@@ -117,7 +117,17 @@ Q. SW 개발 과정에서 사용되는 요구 분석, 설계, 구현, 검사, �
   </div>
 </details>
 ## [Q.21-9 / Q.17-16 / Q.19-9]
-Q. 교차 개발 환경(Cross-Development Enviro)
+Q. 교차 개발 환경(Cross-Development Environment)이란 무엇인가?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    개발 환경과 실행 환경이 다른 것을 의미한다.
+  </div>
+  <summary>해설</summary>
+  개발 시스템(호스트)과 실행 시스템(타겟)이 서로 다른 경우
+</details>
+## [Q.20-11]
+Q. 컴퓨터
 
 
 
