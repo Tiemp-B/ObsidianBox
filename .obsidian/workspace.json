@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/임베디드 시스템.md",
+                "file": "Developer/임베디드기사 기출/컴파일, 링킹, 빌드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "임베디드 시스템"
+              "title": "컴파일, 링킹, 빌드"
             }
           }
         ]
@@ -284,9 +284,10 @@
   },
   "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/임베디드 시스템.md",
+    "Developer/임베디드기사 기출/컴파일, 링킹, 빌드.md",
     "images/Pasted image 20251101020807.png",
     "Developer/임베디드기사 기출/SW 공학.md",
-    "Developer/임베디드기사 기출/임베디드 시스템.md",
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
     "Developer/임베디드기사 기출/네트워크, 통신.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
