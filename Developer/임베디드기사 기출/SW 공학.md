@@ -65,7 +65,15 @@ Q. SW의 내부구조, 동작을 자세하게 검사하는 방식을 (  A  ) 테
   </div>
 </details>
 ## [Q.18-5 / Q.15-8]
-Q. SW의 기능을 검사하는 방법으로 동치 분할 검사, 경계값 ㄱ
+Q. SW의 기능을 검사하는 방법으로 동치 분할 검사, 경계값 검사 등을 수행하는 방법을 묻는 문제
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    블랙박스 테스트
+  </div>
+  <summary>해설</summary>
+  블랙박스 테스트: 입출력 위주의 테스트기법, 동적 테스트 기법으로 동등 분할, 경계값 분석, 입출력 그래프 분서
+</details>
 
 
 
