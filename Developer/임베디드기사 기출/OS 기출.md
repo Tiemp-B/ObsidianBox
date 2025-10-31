@@ -38,7 +38,13 @@ Q. 교착상태 4대 조건을 서술하시오
   </div>
 </details>
 ## [Q.18-17]
-Q. 실행중인 프로세스의 상태를 저장하고 다른 프로세스로 전환하는 작업을 
+Q. 실행중인 프로세스의 상태를 저장하고 다른 프로세스로 전환하는 작업을 무엇이라고 하는가?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+	문맥 교환 (Context Switching)
+  </div>
+</details>
 
 
 
