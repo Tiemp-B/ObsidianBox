@@ -27,3 +27,9 @@ LOOP mvn r3, r2
 orr r4, r3, #0x100
 str r4, [r0, #0x2000]
 ```
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    mov r2, #0xFF
+  </div>
+</details>
