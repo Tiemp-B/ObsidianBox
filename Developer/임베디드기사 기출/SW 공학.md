@@ -126,8 +126,7 @@ Q. 교차 개발 환경(Cross-Development Environment)이란 무엇인가?
   <summary>해설</summary>
   개발 시스템(호스트)과 실행 시스템(타겟)이 서로 다른 경우
 </details>
-## [Q.20-11]
-Q. 컴퓨터
+
 
 
 
