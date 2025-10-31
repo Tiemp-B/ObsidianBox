@@ -63,7 +63,7 @@ Q. 스레드간의 동기화 기법에 대한 설명이다. 빈 칸에 알맞은
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    점유와 대기 (Hold and Wait)
+    임계영역 / 상호배제 / 세마포어
   </div>
 </details>
 
