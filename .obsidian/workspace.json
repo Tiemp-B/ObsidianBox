@@ -97,8 +97,21 @@
               "icon": "lucide-file",
               "title": "하드웨어  디지털 논리"
             }
+          },
+          {
+            "id": "1516547ebd324f49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-31 22.05.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-31 22.05.28.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,10 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b5a9cdbb7ffc0c",
+  "active": "1516547ebd324f49",
   "lastOpenFiles": [
-    "Developer/임베디드기사 기출/CC++ 프로그래밍.md",
     "Developer/임베디드기사 기출/하드웨어  디지털 논리.md",
+    "Excalidraw/Drawing 2025-10-31 22.05.28.excalidraw.md",
+    "Developer/임베디드기사 기출/CC++ 프로그래밍.md",
     "Developer/임베디드기사 기출/어셈블리  ARM.md",
     "Developer/CS/03. OS/커널.md",
     "Developer/임베디드기사 기출/리눅스 시스템.md",
@@ -314,7 +328,6 @@
     "Developer/Linux/Linux.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/명령어.md",
     "Developer/Linux",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/02. 컴퓨터.md",
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
