@@ -13,6 +13,7 @@ str (    ) [r0]
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    ldr r0, =0xEA200000 / r1
+    ldr r0, =0xEA200000 <br>
+     r1
   </div>
 </details>
