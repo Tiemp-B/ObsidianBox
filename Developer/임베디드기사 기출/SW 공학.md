@@ -104,7 +104,8 @@ Q. DARTS, ADRTS란?
   <summary>답안</summary>
   <div class="hover-content">
     DARTS(Design Approach for Real-Time-System): 실시간 시스템 설계를 위한 방법론으로, 실간 요구사항에 맞는 SW 아키텍처 설계를 목표로 한다. "태스크+모듈" 중심의 일반 실시간 설계 프레임<br>
-    ADARTS(Ada based Design Approach for Real-Time-System): DARTS 절차를 Ada에 특화
+    ADARTS(Ada based Design Approach for Real-Time-System): DARTS 절차를 Ada(신뢰성, 안정성이 중요한 시스템을 위해 설계된 정적 타입의 컴파일 언어)에 특화<br>
+    
   </div>
 </details>
 
