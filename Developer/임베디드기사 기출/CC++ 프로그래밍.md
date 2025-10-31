@@ -85,7 +85,13 @@ void main(){
   </div>
 </details>
 ## [Q.18-9]
-
+Q. 다음 C프로그램의 출력 결과
+```C
+void main(){
+	int *p=malloc(sizeof(int));
+	*p=10;
+}
+```
 
 
 
