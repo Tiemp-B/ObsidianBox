@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/OS .md",
+                "file": "Developer/임베디드기사 기출/임베디드 시스템.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "임베디드 시스템"
             }
           }
         ],
@@ -284,9 +284,9 @@
   },
   "active": "6057a5dc7b109731",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/임베디드 시스템.md",
-    "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
