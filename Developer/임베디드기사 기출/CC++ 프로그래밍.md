@@ -57,8 +57,8 @@ Q. 다음 C언어 코드의 출력 결과를 쓰시오
 ```C
 #include<stdio.h>
 void main(){
-int a=31, b=27, c=19;
-printf("%d", ((a=(a>b)?a:b)?a:c));
+	int a=31, b=27, c=19;
+	printf("%d", ((a=(a>b)?a:b)?a:c));
 }
 ```
 <details class="hoverbox">
@@ -68,7 +68,15 @@ printf("%d", ((a=(a>b)?a:b)?a:c));
   </div>
 </details>
 ## [Q.18-6]
-Q. 다음 C 프로그램 소스를 보고, 출
+Q. 다음 C 프로그램 소스를 보고, 출력 결과를 쓰시오.
+```C
+void main(){
+	int arr[]={10, 20, 30, 50};
+	int *p=arr;
+	p+=2;
+	printf("%d", *p+10);
+}
+```
 
 
 
