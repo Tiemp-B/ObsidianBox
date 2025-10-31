@@ -88,12 +88,14 @@
             "id": "80b5a9cdbb7ffc0c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/임베디드기사 기출"
+                "file": "Developer/임베디드기사 기출/기출.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "임베디드기사 기출"
+              "title": "기출"
             }
           }
         ]
@@ -280,10 +282,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ebe4cafc37f3046",
+  "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
-    "_templates/Cornell Type.md",
+    "Developer/임베디드기사 기출/기출.md",
     "Developer/임베디드기사 기출/임베디드기사 기출.md",
+    "_templates/Cornell Type.md",
     "Developer/Untitled.md",
     "Developer/임베디드기사 기출",
     "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
@@ -312,7 +315,6 @@
     "Developer/CS/02. 알고리즘/07. 그래프/그래프.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
-    "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
