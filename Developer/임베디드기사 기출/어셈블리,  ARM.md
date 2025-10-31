@@ -39,6 +39,8 @@ bne LOOP
   <div class="hover-content">
     mov r2, #0xFF
   </div>
+  <h6>해설</h6>
+	
 </details>
 ## [Q.19-5]
 Q. 8bit
