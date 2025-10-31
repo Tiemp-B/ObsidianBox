@@ -114,7 +114,7 @@ Q. 아래의 보기에서 인터럽트의 처리를 순서대로 배열하시오
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    (3) - ()
+    (3) - (5) - (1) - (4) - (2)
   </div>
 </details>
 
