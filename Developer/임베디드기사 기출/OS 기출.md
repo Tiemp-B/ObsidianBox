@@ -100,7 +100,8 @@ Q. 뮤텍스와 세마포어의 차이점에 대해 서술하시오
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    점유와 대기 (Hold and Wait)
+	  - 관리하는 동기화 대상의 수 
+	<br>d
   </div>
 </details>
 
