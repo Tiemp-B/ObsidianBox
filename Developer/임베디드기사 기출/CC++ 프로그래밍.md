@@ -55,11 +55,20 @@ free(ptr2);
 ## [Q.21-13]
 Q. 다음 C언어 코드의 출력 결과를 쓰시오
 ```C
+#include<stdio.h>
 void main(){
-int a=31, b=2
+int a=31, b=27, c=19;
+printf("%d", ((a=(a>b)?a:b)?a:c));
 }
 ```
-
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    31
+  </div>
+</details>
+## [Q.18-6]
+Q. 다음 C 프로그램 소스를 보고, 출
 
 
 
