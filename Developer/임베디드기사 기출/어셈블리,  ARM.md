@@ -23,9 +23,15 @@ Q. 8bit LED 주소가 0x30002000부터 시작하고, 9번째 bit가 1이면 LED 
 mov r0, 0x30000000
 mov r1, #0x000F0000
 (   )
-LOOP mvn r3, r2
+LOOP 
+mvn r3, r2
 orr r4, r3, #0x100
 str r4, [r0, #0x2000]
+DELAY
+subs r1, r1, #0x01
+bne DELAY
+mov r1, #0x000F0000
+subs r2, r2, #0x0
 ```
 <details class="hoverbox">
   <summary>답안</summary>
@@ -33,3 +39,5 @@ str r4, [r0, #0x2000]
     mov r2, #0xFF
   </div>
 </details>
+## [Q.19-5]
+Q. 8bit
