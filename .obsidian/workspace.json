@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/리눅스 시스템.md",
+                "file": "Developer/임베디드기사 기출/OS .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스 시스템"
+              "title": "OS"
             }
           }
         ],
@@ -284,6 +284,7 @@
   },
   "active": "6057a5dc7b109731",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/임베디드 시스템.md",
     "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
@@ -293,7 +294,6 @@
     "Developer/임베디드기사 기출/SW 공학.md",
     "images/Pasted image 20251101020807.png",
     "Developer/임베디드기사 기출/네트워크, 통신.md",
-    "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/어셈블리,  ARM.md",
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",
