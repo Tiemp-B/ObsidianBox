@@ -40,7 +40,7 @@ bne LOOP
     mov r2, #0xFF
   </div>
   <h6>해설</h6>
-	
+	mov : 
 </details>
 ## [Q.19-5]
 Q. 8bit
