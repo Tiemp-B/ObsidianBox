@@ -6,7 +6,7 @@
       {
         "id": "830e8026eddd0525",
         "type": "tabs",
-        "dimension": 48.79441624365482,
+        "dimension": 43.47826086956522,
         "children": [
           {
             "id": "557fa4e01dcd44c1",
@@ -82,7 +82,7 @@
       {
         "id": "f9fd98087aecc15a",
         "type": "tabs",
-        "dimension": 51.20558375634518,
+        "dimension": 56.52173913043478,
         "children": [
           {
             "id": "80b5a9cdbb7ffc0c",
@@ -280,10 +280,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90027baf15353fca",
+  "active": "9ebe4cafc37f3046",
   "lastOpenFiles": [
-    "Developer/Untitled.md",
+    "_templates/Cornell Type.md",
     "Developer/임베디드기사 기출/임베디드기사 기출.md",
+    "Developer/Untitled.md",
     "Developer/임베디드기사 기출",
     "Developer/CS/11. 이론 컴퓨터 과학/이론 컴퓨터 과학.md",
     "Developer/CS/11. 이론 컴퓨터 과학/11. 이론 컴퓨터 과학.md",
@@ -312,7 +313,6 @@
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/동적 프로그래밍.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
     "Developer/CS/02. 알고리즘/05. 분할 정복/분할 정복.md",
-    "Developer/CS/03. OS/동기화.md",
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
