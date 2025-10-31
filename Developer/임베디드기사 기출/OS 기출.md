@@ -23,9 +23,16 @@ Q. 커널의 진입점과 인터럽트 처리 루틴에 대한 주소가 저장�
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-    점유와 대기 (Hold and Wait)
+    IVT (Interrupt Vector Table)
   </div>
 </details>
-
+## [Q.17-15]
+Q. 교착상태 4대 조건을 서술하시오
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    1. 상호 배제()
+  </div>
+</details>
 
 
