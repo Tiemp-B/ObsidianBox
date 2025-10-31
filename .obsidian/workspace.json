@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/메모리 관리.md",
+                "file": "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메모리 관리"
+              "title": "하드웨어 , 디지털 논리"
             }
           }
         ],
@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
+                "file": "Developer/임베디드기사 기출/네트워크, 통신.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C, C++ 프로그래밍"
+              "title": "네트워크, 통신"
             }
           }
         ]
@@ -285,15 +285,16 @@
   "active": "80b5a9cdbb7ffc0c",
   "lastOpenFiles": [
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
+    "Developer/임베디드기사 기출/네트워크, 통신.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
+    "Developer/임베디드기사 기출/리눅스 시스템.md",
+    "Developer/임베디드기사 기출/어셈블리,  ARM.md",
+    "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
     "Developer/임베디드기사 기출/OS 기출.md",
-    "Developer/임베디드기사 기출/어셈블리  ARM.md",
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",
     "Excalidraw/Drawing 2025-10-31 22.05.28.excalidraw.md",
-    "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
     "Developer/CS/03. OS/커널.md",
-    "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/임베디드기사 기출.md",
     "Developer/CS/03. OS/동기화.md",
     "Developer/CS/03. OS/운영체제.md",
