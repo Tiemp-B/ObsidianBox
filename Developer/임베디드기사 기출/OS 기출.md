@@ -75,6 +75,12 @@ Q. POSIX 계열 운영체제에서 스레드를 생성하는 함수 이름은 �
   <div class="hover-content">
     pthread_create()
   </div>
+  <summary>해설</summary>
+  <div class="hover-content">
+	  pthread.h 헤더에서
+	  스레드 생성 : pthread_create()
+	  스레드 종료 : pthread_join()
+  </div>
 </details>
 ## [Q.16-8 / Q.22-4]
 Q. 스레드와 상호배제 구간을 정의하기 위한 동기화 객체를 무엇이라고 하는가?
