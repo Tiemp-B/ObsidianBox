@@ -42,5 +42,5 @@ bne LOOP
   <h6>해설</h6>
 	mov [dest], [op1] : dest에 op1 입력
 	mvn [dest], [op1] : dest에 !op1 입력
-	orr [dest], [op1]
+	orr [dest], [op1], [op2] : dest에 op1 OR op2 입력
 </details>
