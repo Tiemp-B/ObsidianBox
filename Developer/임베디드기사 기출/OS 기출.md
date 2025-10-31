@@ -69,7 +69,15 @@ Q. 스레드간의 동기화 기법에 대한 설명이다. 빈 칸에 알맞은
 </details>
 [[동기화]]
 ## [Q.18-18]
-Q. POSIX 계열 운영체제에서 스레드를 생
+Q. POSIX 계열 운영체제에서 스레드를 생성하는 함수 이름은 무엇인가?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    pthread_create()
+  </div>
+</details>
+## [Q.16-8 / Q.22-4]
+Q. 스레드와 
 
 
 
