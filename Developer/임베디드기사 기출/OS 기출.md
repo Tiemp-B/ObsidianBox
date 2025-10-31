@@ -100,8 +100,8 @@ Q. 뮤텍스와 세마포어의 차이점에 대해 서술하시오
 <details class="hoverbox">
   <summary>답안</summary>
   <div class="hover-content">
-	  - 관리하는 동기화 대상의 수 
-	<br>d
+	  - 관리하는 동기화 대상의 수 (뮤텍스는 동기화 대상이 하나, 세마포어는 그 이상)<br>
+	  - 해제 권한
   </div>
 </details>
 
