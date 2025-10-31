@@ -116,7 +116,14 @@ Q. C언어로 작성된 프로그램이 실행될 때, 가장 먼저 호출되�
   </div>
 </details>
 ## [Q.18-4]
-Q. C언어에서 문자열을 입력받는 함수와 한 글자를 입력받는 함수를 각각 쓰시
+Q. C언어에서 문자열을 입력받는 함수와 한 글자를 입력받는 함수를 각각 쓰시오
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    gets(), getchar()
+  </div>
+</details>
+
 
 
 
