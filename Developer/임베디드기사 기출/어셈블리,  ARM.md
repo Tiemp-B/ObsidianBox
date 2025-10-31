@@ -45,6 +45,6 @@ bne LOOP
 	orr [dest], [op1], [op2] : dest에 op1 OR op2 입력<br>
 	subs [dest], [Rn], [op2] : Rd 에 Rn-op2 입력<br>
 	bne [label] : Z플래그가 0일 때 브랜치 이동<br>
-	str [dest], [op1] : dest의 값을 op1의 값을 주소로 참조하여 저장
+	str [dest], [op1] : dest의 값을 op1의 값을 주소로 참조하여 저장<br>
 	str [dest], [op1], #3 : dest의 값을 op1의 값을 주소로 참조하여 저장하고 r1에 3을 더함
 </details>
