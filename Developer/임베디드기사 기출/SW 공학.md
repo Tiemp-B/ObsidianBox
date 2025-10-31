@@ -47,7 +47,17 @@ Q. 객체의 행동 다이어그램 중 하나로, 특정 상태를 지니며 �
   </div>
 </details>
 ## [Q.22-18 / Q.23-13]
-Q. 프로그램 단위 테스트 중 다른 프로그램의 속성값을 가져오
+Q. 프로그램 단위 테스트 중 다른 프로그램의 속성값을 가져오는 간이 코드는 무엇인가?
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    Stub(스텁)
+  </div>
+  <summary>해설</summary>
+  기존 코드를 흉내내거나 미개발 코드를 임시로 대체하는 역할 수행
+</details>
+## [Q.20-9]
+Q. SW으 ㅣ기능을 검사하는 방법으로
 
 
 
