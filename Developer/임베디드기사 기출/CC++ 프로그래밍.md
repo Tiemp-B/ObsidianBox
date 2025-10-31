@@ -26,7 +26,7 @@ Q. 상속받은 메서드를 하위 클래스에서 수정하거나 재정의하
     오버라이딩
   </div>
 </details>
-## [Q. 17-1 / Q.23-7]
+## [Q.17-1 / Q.23-7]
 Q. C언어에서 공용체를 나타내는 키워드는?
 <details class="hoverbox">
   <summary>답안</summary>
@@ -34,7 +34,7 @@ Q. C언어에서 공용체를 나타내는 키워드는?
     union
   </div>
 </details>
-## [Q. 23-18]
+## [Q.23-18]
 Q. 다음 C언어 코드 중 오류가 발생하는 행을 찾고 이유를 설명하시오.
 ```C
 char *ptr1;
@@ -90,10 +90,17 @@ Q. 다음 C프로그램의 출력 결과
 void main(){
 	int *p=malloc(sizeof(int));
 	*p=10;
+	printf("%d",*p);
 }
 ```
-
-
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    10
+  </div>
+</details>
+## [Q.20-7]
+Q. 
 
 
 
