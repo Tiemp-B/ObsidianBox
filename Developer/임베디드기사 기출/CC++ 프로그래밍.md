@@ -34,6 +34,19 @@ Q. C언어에서 공용체를 나타내는 키워드는?
     union
   </div>
 </details>
+## [Q. 23-18]
+Q. 다음 C언어 코드 중 오류가 발생하는 행을 찾고 이유를 설명하시오.
+```C
+char *ptr1;
+char *ptr2;
+```
+<details class="hoverbox">
+  <summary>답안</summary>
+  <div class="hover-content">
+    ldr r0, =0xEA200000 <br>
+    r1
+  </div>
+</details>
 
 
 
