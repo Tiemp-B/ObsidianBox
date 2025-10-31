@@ -45,4 +45,5 @@ bne LOOP
 	orr [dest], [op1], [op2] : dest에 op1 OR op2 입력<br>
 	subs [dest], [Rn], [op2] : Rd 에 Rn-op2 입력<br>
 	bne [label] : Z플래그가 0일 때 브랜치 이동<br>
+	str [dest], [op1] : 
 </details>
