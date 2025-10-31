@@ -2,3 +2,5 @@
 cssclasses:
   - hover-reveal
 ---
+## [Q.24-8]
+Q. Watchdog 레지스터 주소가 0xEA200000이고, 값이 1일 때 ON, 0일 때 OFF
