@@ -66,12 +66,14 @@
             "id": "6057a5dc7b109731",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어"
+                "file": "Developer/임베디드기사 기출/01. 임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "임베디드 소프트웨어"
+              "title": "하드웨어 및 회로 분석하기"
             }
           }
         ],
