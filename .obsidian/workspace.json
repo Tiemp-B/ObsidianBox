@@ -68,10 +68,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어"
+                "path": "Developer/임베디드기사 기출/재분류/임베디드 플랫폼"
               },
               "icon": "lucide-file",
-              "title": "임베디드 소프트웨어"
+              "title": "임베디드 플랫폼"
             }
           }
         ],
@@ -282,6 +282,9 @@
   },
   "active": "e350122cd0727d3d",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/01. 임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
+    "Developer/임베디드기사 기출/01. 임베디드 하드웨어",
+    "Developer/임베디드기사 기출/재분류/임베디드 플랫폼/임베디드 플랫폼.md",
     "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어/임베디드 소프트웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 하드웨어/임베디드 하드웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 시스템 주변장치 분석하기.md",
@@ -291,7 +294,6 @@
     "Developer/임베디드기사 기출/재분류/장애대응/장애대응.md",
     "Developer/임베디드기사 기출/재분류/장애대응",
     "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어",
-    "Developer/임베디드기사 기출/재분류/임베디드 플랫폼/임베디드 플랫폼.md",
     "Developer/임베디드기사 기출/재분류/임베디드 플랫폼",
     "Developer/임베디드기사 기출/재분류/임베디드 펌웨어/임베디드 펌웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 펌웨어",
@@ -316,7 +318,6 @@
     "Developer/CS/03. OS/커널.md",
     "Developer/임베디드기사 기출/임베디드기사 기출.md",
     "Developer/CS/03. OS/동기화.md",
-    "Developer/CS/03. OS/운영체제.md",
     "Developer/임베디드기사 기출",
     "images/Pasted image 20251028164920.png",
     "images",
@@ -325,7 +326,6 @@
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
-    "Developer/CS/12. 확장 분야",
     "images/Pasted image 20251020075957.png"
   ]
 }
