@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/임베디드기사 기출/리눅스 시스템.md",
+                "file": "Developer/임베디드기사 기출/메모리 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스 시스템"
+              "title": "메모리 관리"
             }
           }
         ],
@@ -242,12 +242,12 @@
   },
   "active": "0f225166ffaa4be7",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/메모리 관리.md",
     "Developer/임베디드기사 기출/SW 공학.md",
     "Developer/임베디드기사 기출/어셈블리,  ARM.md",
     "Developer/임베디드기사 기출/C, C++ 프로그래밍.md",
     "Developer/임베디드기사 기출/하드웨어 , 디지털 논리.md",
-    "Developer/임베디드기사 기출/리눅스 시스템.md",
     "Developer/임베디드기사 기출/임베디드 하드웨어/임베디드 시스템 성능 및 구조 분석하기.md",
     "Developer/임베디드기사 기출/임베디드 하드웨어/임베디드 시스템 주변장치 분석하기.md",
     "Developer/임베디드기사 기출/임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
