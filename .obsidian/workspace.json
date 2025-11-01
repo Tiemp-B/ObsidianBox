@@ -68,10 +68,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/임베디드기사 기출/재분류/임베디드 플랫폼"
+                "path": "Developer/임베디드기사 기출/재분류/임베디드 하드웨어"
               },
               "icon": "lucide-file",
-              "title": "임베디드 플랫폼"
+              "title": "임베디드 하드웨어"
             }
           }
         ],
@@ -282,18 +282,20 @@
   },
   "active": "e350122cd0727d3d",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/재분류/임베디드 하드웨어/임베디드 하드웨어.md",
+    "Developer/임베디드기사 기출/재분류/장애대응/장애대응.md",
+    "Developer/임베디드기사 기출/02. 임베디드 펌웨어/펌웨어 설계, 구현 및 테스팅하기.md",
+    "Developer/임베디드기사 기출/02. 임베디드 펌웨어",
     "Developer/임베디드기사 기출/01. 임베디드 하드웨어/임베디드 시스템 주변장치 분석하기.md",
     "Developer/임베디드기사 기출/01. 임베디드 하드웨어/임베디드 시스템 성능 및 구조 분석하기.md",
     "Developer/임베디드기사 기출/01. 임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
     "Developer/임베디드기사 기출/01. 임베디드 하드웨어",
     "Developer/임베디드기사 기출/재분류/임베디드 플랫폼/임베디드 플랫폼.md",
     "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어/임베디드 소프트웨어.md",
-    "Developer/임베디드기사 기출/재분류/임베디드 하드웨어/임베디드 하드웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 시스템 주변장치 분석하기.md",
     "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/재분류/임베디드 시스템 성능 및 구조 분석하기.md",
     "Developer/임베디드기사 기출/재분류/하드웨어 및 회로 분석하기.md",
-    "Developer/임베디드기사 기출/재분류/장애대응/장애대응.md",
     "Developer/임베디드기사 기출/재분류/장애대응",
     "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어",
     "Developer/임베디드기사 기출/재분류/임베디드 플랫폼",
@@ -317,12 +319,10 @@
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",
     "Excalidraw/Drawing 2025-10-31 22.05.28.excalidraw.md",
-    "Developer/CS/03. OS/커널.md",
     "Developer/임베디드기사 기출",
     "images/Pasted image 20251028164920.png",
     "images",
     "images/Pasted image 20251028164809.png",
-    "Developer/Linux",
     "images/Pasted image 20251021190934.png",
     "images/Pasted image 20251021190931.png",
     "images/Pasted image 20251021185017.png",
