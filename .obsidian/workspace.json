@@ -74,14 +74,10 @@
             "id": "80b5a9cdbb7ffc0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/임베디드기사 기출/어셈블리,  ARM.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "어셈블리,  ARM"
+              "title": "새 탭"
             }
           }
         ]
@@ -270,15 +266,15 @@
   },
   "active": "e350122cd0727d3d",
   "lastOpenFiles": [
+    "Developer/임베디드기사 기출/01. 임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
+    "Developer/임베디드기사 기출/재분류/하드웨어 및 회로 분석하기.md",
     "Developer/임베디드기사 기출/재분류/펌웨어 설계·구현 및 테스팅하기.md",
     "Developer/임베디드기사 기출/재분류",
     "Developer/임베디드기사 기출/재분류/임베디드 시스템 성능 및 구조 분석하기.md",
     "Developer/임베디드기사 기출/04. 임베디드 소프트웨어/임베디드 프로그램 분석 및 설계하기.md",
-    "Developer/임베디드기사 기출/재분류/하드웨어 및 회로 분석하기.md",
     "Developer/임베디드기사 기출/04. 임베디드 소프트웨어/임베디드 프로그램 작성하기.md",
     "Developer/임베디드기사 기출/재분류/재분류.md",
     "Developer/임베디드기사 기출/재분류/장애대응/장애대응.md",
-    "Developer/임베디드기사 기출/01. 임베디드 하드웨어/하드웨어 및 회로 분석하기.md",
     "Developer/임베디드기사 기출/04. 임베디드 소프트웨어",
     "Developer/임베디드기사 기출/03. 임베디드 플랫폼/임베디드 커널 프로그래밍하기.md",
     "Developer/임베디드기사 기출/03. 임베디드 플랫폼/임베디드 OS의 이해하기.md",
