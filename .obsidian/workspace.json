@@ -68,10 +68,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/임베디드기사 기출/재분류/임베디드 하드웨어"
+                "path": "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어"
               },
               "icon": "lucide-file",
-              "title": "임베디드 하드웨어"
+              "title": "임베디드 소프트웨어"
             }
           }
         ],
@@ -280,10 +280,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44d52bcab03c86d2",
+  "active": "e350122cd0727d3d",
   "lastOpenFiles": [
-    "Developer/임베디드기사 기출/재분류/임베디드 시스템 주변장치 분석하기.md",
     "Developer/임베디드기사 기출/재분류/임베디드 소프트웨어/임베디드 소프트웨어.md",
+    "Developer/임베디드기사 기출/재분류/임베디드 하드웨어/임베디드 하드웨어.md",
+    "Developer/임베디드기사 기출/재분류/임베디드 시스템 주변장치 분석하기.md",
     "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/재분류/임베디드 시스템 성능 및 구조 분석하기.md",
     "Developer/임베디드기사 기출/재분류/하드웨어 및 회로 분석하기.md",
@@ -294,7 +295,6 @@
     "Developer/임베디드기사 기출/재분류/임베디드 플랫폼",
     "Developer/임베디드기사 기출/재분류/임베디드 펌웨어/임베디드 펌웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 펌웨어",
-    "Developer/임베디드기사 기출/재분류/임베디드 하드웨어/임베디드 하드웨어.md",
     "Developer/임베디드기사 기출/재분류/임베디드 하드웨어",
     "Developer/임베디드기사 기출/재분류/Untitled.md",
     "Developer/임베디드기사 기출/재분류/재분류.md",
