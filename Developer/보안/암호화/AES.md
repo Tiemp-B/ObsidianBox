@@ -22,9 +22,9 @@ Advanced Encryption Standard. 대칭형 블록 암호화 알고리즘. 레인델
 
 ---
 
-<aside>AES 암호화 과저</aside>
+<aside>AES 암호화 과정</aside>
 
-문단 2 설명
+키의 길이에 따라 SubBytes, ShiftRows, MixColumns, AddRoundKey의 네 과정을 (128 : 10, 192 : 12, 256 : 14) 회 진행한다.
 
 ---
 
