@@ -46,7 +46,6 @@
     "//Developer/Developer/정보처리기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계",
     "//Developer/Developer/임베디드기사/Developer/정보처리기사/SW 설계/Developer/정보처리기사/SW 설계/요구사항 확인",
-    "/",
     "//Developer/Developer/알고리즘/Developer/알고리즘/03. 동적 계획법",
     "//알고리즘",
     "//알고리즘/알고리즘/03. 동적 계획법",
@@ -103,7 +102,6 @@
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
     "//Developer/Developer/Linux",
     "//Developer/Developer/CS/Developer/CS/11. 이론 컴퓨터 과학",
-    "//Developer",
     "//Excalidraw",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/장애대응",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/임베디드 소프트웨어",
@@ -117,7 +115,8 @@
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/장애 대응",
     "//Developer/Developer/SW 설계/Developer/SW 설계/요구사항 확인",
     "//Developer/Developer/Git",
-    "//Developer/Developer/CS"
+    "//Developer/Developer/CS",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
