@@ -120,7 +120,9 @@
     "//기업 분석/기업 분석/삼성전자 DS/기업 분석/삼성전자 DS/메모리사업부",
     "//Developer",
     "//Developer/Developer/보안",
-    "//Developer/Developer/보안/Developer/보안/암호화"
+    "//Developer/Developer/보안/Developer/보안/암호화",
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/03. OS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

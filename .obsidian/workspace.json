@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/보안/암호화/RSA.md",
-                "mode": "source",
+                "file": "Developer/CS/03. OS/스케줄링.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA"
+              "title": "스케줄링"
             }
           }
         ],
