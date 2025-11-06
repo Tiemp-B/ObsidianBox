@@ -25,12 +25,14 @@
             "id": "d71ec199739c19dd",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "기업 분석/삼성전자 DS/메모리사업부"
+                "file": "기업 분석/삼성전자 DS/메모리사업부/회로설계.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "메모리사업부"
+              "title": "회로설계"
             }
           }
         ],
@@ -218,8 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46f03be0d4f110a1",
+  "active": "d71ec199739c19dd",
   "lastOpenFiles": [
+    "기업 분석/삼성전자 DS/메모리사업부/회로설계.md",
+    "기업 분석/삼성전자 DS/메모리사업부/메모리사업부.md",
     "Developer/기업분석/삼성전자 DS/메모리사업부/회로설계.md",
     "Developer/기업분석/삼성전자 DS/메모리사업부",
     "Developer/기업분석/삼성전자 DS",
@@ -234,7 +238,6 @@
     "기업 분석/삼성전자 DS/글로벌제조,인프라총괄",
     "기업 분석/삼성전자 DS/CTO 반도체연구소/CTO 반도체연구소.md",
     "기업 분석/삼성전자 DS/CTO 반도체연구소",
-    "기업 분석/삼성전자 DS/메모리사업부/메모리사업부.md",
     "기업 분석/삼성전자 DS/메모리사업부",
     "기업 분석/삼성전자 DS/삼성전자 DS.md",
     "기업 분석/삼성전자 DS",
@@ -256,7 +259,6 @@
     "Developer/임베디드기사 기출/임베디드 소프트웨어/개발도구 및 테스팅기법 활용하기.md",
     "Developer/임베디드기사 기출/임베디드 소프트웨어/임베디드 프로그램 분석 및 설계하기.md",
     "Developer/임베디드기사 기출/임베디드 소프트웨어/임베디드 프로그램 작성하기.md",
-    "Developer/임베디드기사 기출/임베디드 펌웨어/펌웨어 설계·구현 및 테스팅하기.md",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",
