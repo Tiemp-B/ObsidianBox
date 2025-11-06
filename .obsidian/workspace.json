@@ -6,7 +6,6 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 46.70406732117812,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -21,14 +20,7 @@
               "icon": "lucide-file",
               "title": "CPU"
             }
-          }
-        ]
-      },
-      {
-        "id": "9002fa9f570d42e0",
-        "type": "tabs",
-        "dimension": 53.29593267882188,
-        "children": [
+          },
           {
             "id": "d71ec199739c19dd",
             "type": "leaf",
@@ -43,7 +35,8 @@
               "title": "삼전 DS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
