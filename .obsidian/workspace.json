@@ -6,6 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
+        "dimension": 46.70406732117812,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -26,17 +27,20 @@
       {
         "id": "9002fa9f570d42e0",
         "type": "tabs",
+        "dimension": 53.29593267882188,
         "children": [
           {
             "id": "d71ec199739c19dd",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/SW 설계/요구사항 확인"
+                "file": "기업 분석/삼성전자 DS/삼전 DS.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "요구사항 확인"
+              "title": "삼전 DS"
             }
           }
         ]
@@ -223,8 +227,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0fa1b5b25f135a3",
+  "active": "d71ec199739c19dd",
   "lastOpenFiles": [
+    "기업 분석/삼성전자 DS/삼전 DS.md",
+    "기업 분석/삼성전자 DS/삼성전자 DS.md",
+    "기업 분석/삼성전자 DS",
+    "기업 분석/기업 분석.md",
+    "기업 분석",
     "Developer/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/레지스터.md",
     "images/Pasted image 20251104204054.png",
@@ -249,8 +258,6 @@
     "Developer/임베디드기사 기출/장애 대응/장애 이력 관리하기.md",
     "Developer/임베디드기사 기출/장애 대응/장애 복구하기.md",
     "Developer/임베디드기사 기출/장애 대응/장애 대응 방안 수립하기.md",
-    "Developer/임베디드기사 기출/메모리 관리.md",
-    "Developer/임베디드기사 기출/SW 공학.md",
     "Developer/임베디드기사 기출/장애 대응",
     "Developer/임베디드기사 기출/임베디드 소프트웨어",
     "Developer/임베디드기사 기출/임베디드 플랫폼",
@@ -259,8 +266,6 @@
     "Developer/임베디드기사 기출/재분류",
     "Developer/임베디드기사 기출/04. 임베디드 소프트웨어",
     "Developer/임베디드기사 기출/03. 임베디드 플랫폼",
-    "Developer/임베디드기사 기출/02. 임베디드 펌웨어",
-    "Developer/임베디드기사 기출/01. 임베디드 하드웨어",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",

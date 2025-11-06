@@ -116,7 +116,9 @@
     "//Developer/Developer/SW 설계/Developer/SW 설계/요구사항 확인",
     "//Developer/Developer/Git",
     "//Developer/Developer/CS",
-    "/"
+    "/",
+    "//기업 분석",
+    "//기업 분석/기업 분석/삼성전자 DS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
