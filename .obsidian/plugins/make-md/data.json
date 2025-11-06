@@ -98,9 +98,7 @@
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/08. 트리",
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조/Developer/CS/04. 컴퓨터 구조/02. 컴퓨터",
     "//Developer/Developer/CS/Developer/CS/12. 확장 분야",
-    "//Developer/Developer/SW 설계",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
-    "//Developer/Developer/Linux",
     "//Developer/Developer/CS/Developer/CS/11. 이론 컴퓨터 과학",
     "//Excalidraw",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/장애대응",
@@ -114,11 +112,10 @@
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/임베디드 펌웨어",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/장애 대응",
     "//Developer/Developer/SW 설계/Developer/SW 설계/요구사항 확인",
-    "//Developer/Developer/Git",
-    "//Developer/Developer/CS",
     "/",
     "//기업 분석",
-    "//기업 분석/기업 분석/삼성전자 DS"
+    "//기업 분석/기업 분석/삼성전자 DS",
+    "//Developer"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

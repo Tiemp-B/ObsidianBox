@@ -25,14 +25,12 @@
             "id": "d71ec199739c19dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "기업 분석/삼성전자 DS/삼전 DS.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Git"
               },
               "icon": "lucide-file",
-              "title": "삼전 DS"
+              "title": "Git"
             }
           }
         ],
@@ -222,6 +220,8 @@
   },
   "active": "e0fa1b5b25f135a3",
   "lastOpenFiles": [
+    "Developer/Git/Git.md",
+    "기업 분석/삼성전자 DS/삼전 DS.md",
     "기업 분석/삼성전자 DS/AI센터/AI센터.md",
     "기업 분석/삼성전자 DS/AI센터",
     "기업 분석/삼성전자 DS/TSP총괄/TSP총괄.md",
@@ -232,7 +232,6 @@
     "기업 분석/삼성전자 DS/CTO 반도체연구소",
     "기업 분석/삼성전자 DS/메모리사업부/메모리사업부.md",
     "기업 분석/삼성전자 DS/메모리사업부",
-    "기업 분석/삼성전자 DS/삼전 DS.md",
     "기업 분석/삼성전자 DS/삼성전자 DS.md",
     "기업 분석/삼성전자 DS",
     "기업 분석/기업 분석.md",
@@ -255,7 +254,6 @@
     "Developer/임베디드기사 기출/임베디드 소프트웨어/임베디드 프로그램 작성하기.md",
     "Developer/임베디드기사 기출/임베디드 펌웨어/펌웨어 설계·구현 및 테스팅하기.md",
     "Developer/임베디드기사 기출/임베디드 펌웨어/디바이스 드라이버 작성하기.md",
-    "Developer/임베디드기사 기출/OS .md",
     "Developer/임베디드기사 기출/장애 대응",
     "Developer/임베디드기사 기출/임베디드 소프트웨어",
     "Developer/임베디드기사 기출/임베디드 플랫폼",
