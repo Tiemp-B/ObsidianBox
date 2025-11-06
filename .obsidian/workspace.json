@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "461ab2b70c5667ce",
+            "id": "e0fa1b5b25f135a3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -223,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d71ec199739c19dd",
+  "active": "7a2284a09e853efc",
   "lastOpenFiles": [
     "Developer/SW 설계/요구사항 확인/요구사항 확인.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/레지스터.md",
