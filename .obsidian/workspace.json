@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "스케줄링"
             }
+          },
+          {
+            "id": "df46f4073c7b796e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             }
           },
           {
-            "id": "e0fa1b5b25f135a3",
+            "id": "c392b8e852a51aad",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -220,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d71ec199739c19dd",
+  "active": "df46f4073c7b796e",
   "lastOpenFiles": [
     "Developer/보안/암호화/RSA.md",
     "Developer/보안/암호화/암호화.md",
