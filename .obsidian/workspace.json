@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "01. 시스템 프로그래밍"
             }
+          },
+          {
+            "id": "6e5e1844eb332ce7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-20 21.49.30.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +255,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8b00cbcd066c0a6",
+  "active": "6e5e1844eb332ce7",
   "lastOpenFiles": [
-    "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
+    "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
+    "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/Untitled.md",
     "Developer/시스템 프로그래밍",
@@ -280,7 +293,6 @@
     "기업 분석/삼성전자 DS/CTO 반도체연구소/CTO 반도체연구소.md",
     "기업 분석/삼성전자 DS/삼성전자 DS.md",
     "기업 분석/기업 분석.md",
-    "Developer/SW 설계/요구사항 확인/요구사항 확인.md",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
