@@ -210,14 +210,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b8b00cbcd066c0a6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +243,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1815fb6e91d9a14",
+  "active": "b8b00cbcd066c0a6",
   "lastOpenFiles": [
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
