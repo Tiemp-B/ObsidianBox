@@ -39,14 +39,12 @@
             "id": "c1815fb6e91d9a14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/시스템 프로그래밍/개요.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/시스템 프로그래밍"
               },
               "icon": "lucide-file",
-              "title": "개요"
+              "title": "시스템 프로그래밍"
             }
           }
         ],
@@ -236,10 +234,10 @@
   },
   "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/스케줄링.md",
-    "Developer/시스템 프로그래밍/개요.md",
-    "Developer/Untitled.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
+    "Developer/시스템 프로그래밍/개요.md",
+    "Developer/CS/03. OS/스케줄링.md",
+    "Developer/Untitled.md",
     "Developer/시스템 프로그래밍",
     "Developer/차량/국제 표준/ISO 26262.md",
     "Developer/차량/국제 표준/MISRA-C.md",
