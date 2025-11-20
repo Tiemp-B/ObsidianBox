@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/시스템 프로그래밍/01. 임베디드 SWHW 커리큘럼.md",
+                "file": "Developer/시스템 프로그래밍/01. 임베디드 SW_HW 커리큘럼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. 임베디드 SWHW 커리큘럼"
+              "title": "01. 임베디드 SW_HW 커리큘럼"
             }
           }
         ],
@@ -237,7 +237,7 @@
   "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
-    "Developer/시스템 프로그래밍/01. 임베디드 SWHW 커리큘럼.md",
+    "Developer/시스템 프로그래밍/01. 임베디드 SW_HW 커리큘럼.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/Untitled.md",
     "Developer/시스템 프로그래밍",
