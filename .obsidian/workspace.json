@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "01. 시스템 프로그래밍"
             }
-          },
-          {
-            "id": "6e5e1844eb332ce7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-20 21.49.30.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,10 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e5e1844eb332ce7",
+  "active": "506f32f2c1e6ff79",
   "lastOpenFiles": [
-    "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
     "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
+    "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/Untitled.md",
