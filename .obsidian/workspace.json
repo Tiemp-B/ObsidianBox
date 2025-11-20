@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
-                "mode": "source",
+                "file": "Developer/CS/03. OS/파일시스템.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. 시스템 프로그래밍"
+              "title": "파일시스템"
             }
           }
         ],
@@ -245,8 +245,9 @@
   },
   "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
+    "Developer/CS/03. OS/03. OS.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
+    "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/Untitled.md",
@@ -280,7 +281,6 @@
     "기업 분석/삼성전자 DS/글로벌제조,인프라총괄/글로벌제조,인프라총괄.md",
     "기업 분석/삼성전자 DS/CTO 반도체연구소/CTO 반도체연구소.md",
     "기업 분석/삼성전자 DS/삼성전자 DS.md",
-    "기업 분석/기업 분석.md",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
