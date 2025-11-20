@@ -121,7 +121,9 @@
     "//Developer",
     "//Developer/Developer/보안/Developer/보안/암호화",
     "//Developer/Developer/차량/Developer/차량/국제 표준",
-    "//Developer/Developer/시스템 프로그래밍"
+    "//Developer/Developer/시스템 프로그래밍",
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
