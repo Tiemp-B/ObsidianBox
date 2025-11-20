@@ -48,6 +48,30 @@
               "icon": "lucide-file",
               "title": "01. 시스템 프로그래밍"
             }
+          },
+          {
+            "id": "656435b2de09b9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer/CS/03. OS/프로세스.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로세스"
+            }
+          },
+          {
+            "id": "d5f9aec6a095c327",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
         ],
         "currentTab": 2
@@ -245,11 +269,13 @@
   },
   "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/시스템 콜.md",
+    "Developer/CS/03. OS/스케줄링.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
+    "Developer/CS/03. OS/프로세스.md",
+    "Developer/CS/03. OS/IPC.md",
+    "Developer/CS/03. OS/시스템 콜.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/CS/03. OS/파일시스템.md",
-    "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/03. OS.md",
     "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
     "Developer/Untitled.md",
@@ -278,9 +304,7 @@
     "기업 분석/삼성전자 DS/삼전 DS.md",
     "기업 분석/삼성전자 DS/AI센터/AI센터.md",
     "기업 분석/삼성전자 DS/AI센터",
-    "기업 분석/삼성전자 DS/TSP총괄/TSP총괄.md",
     "기업 분석/삼성전자 DS/TSP총괄",
-    "기업 분석/삼성전자 DS/글로벌제조,인프라총괄/글로벌제조,인프라총괄.md",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
