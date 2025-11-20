@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "df46f4073c7b796e",
+            "id": "c1815fb6e91d9a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/차량/국제 표준/MISRA-C.md",
-                "mode": "preview",
+                "file": "Developer/시스템 프로그래밍/개요.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MISRA-C"
+              "title": "개요"
             }
           }
         ],
@@ -234,15 +234,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df46f4073c7b796e",
+  "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/스케줄링.md",
+    "Developer/시스템 프로그래밍/개요.md",
+    "Developer/Untitled.md",
+    "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
+    "Developer/시스템 프로그래밍",
+    "Developer/차량/국제 표준/ISO 26262.md",
     "Developer/차량/국제 표준/MISRA-C.md",
     "Developer/차량/국제 표준/국제 표준.md",
-    "Developer/차량/국제 표준/ISO 26262.md",
     "Developer/차량/차량 개요.md",
     "Developer/차량/국제 표준",
     "Developer/차량/차량.md",
-    "Developer/Untitled.md",
     "Developer/차량",
     "Developer/보안/암호화/RSA.md",
     "Developer/보안/암호화/암호화.md",
@@ -264,15 +268,11 @@
     "기업 분석/삼성전자 DS/TSP총괄/TSP총괄.md",
     "기업 분석/삼성전자 DS/TSP총괄",
     "기업 분석/삼성전자 DS/글로벌제조,인프라총괄/글로벌제조,인프라총괄.md",
-    "기업 분석/삼성전자 DS/글로벌제조,인프라총괄",
     "기업 분석/삼성전자 DS/CTO 반도체연구소/CTO 반도체연구소.md",
     "기업 분석/삼성전자 DS/삼성전자 DS.md",
     "기업 분석/기업 분석.md",
     "Developer/SW 설계/요구사항 확인/요구사항 확인.md",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/레지스터.md",
     "images/Pasted image 20251104204054.png",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
-    "Developer/CS/04. 컴퓨터 구조/04. 컴퓨터 구조.md",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
     "images/Pasted image 20251031220617.png",
