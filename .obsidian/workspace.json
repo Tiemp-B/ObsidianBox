@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Linux/리눅스.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,11 +271,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5f9aec6a095c327",
+  "active": "c1815fb6e91d9a14",
   "lastOpenFiles": [
+    "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
     "Developer/Linux/리눅스.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
-    "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
     "Developer/CS/03. OS/00. 운영체제.md",
     "Developer/CS/03. OS/IPC.md",
     "Developer/CS/03. OS/03. OS.md",
