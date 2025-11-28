@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
+                "file": "Developer/네트워크/리버스 프록시.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. 시스템 프로그래밍"
+              "title": "리버스 프록시"
             }
           }
         ],
@@ -273,8 +273,13 @@
   },
   "active": "d5f9aec6a095c327",
   "lastOpenFiles": [
-    "Developer/Untitled.md",
+    "Developer/네트워크/리버스 프록시.md",
+    "Developer/네트워크/네트워크.md",
+    "Developer/CS/CS.md",
+    "Developer/CS/05. 네트워크/05. 네트워크.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
+    "Developer/네트워크",
+    "Developer/Untitled.md",
     "Developer/Linux/리눅스.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/CS/03. OS/00. 운영체제.md",
@@ -300,15 +305,10 @@
     "Developer/보안/보안.md",
     "Developer/보안/Untitled.md",
     "Developer/보안",
-    "기업 분석/삼성전자 DS/메모리사업부/메모리사업부.md",
-    "기업 분석/삼성전자 DS/메모리사업부/회로설계.md",
-    "Developer/기업분석/삼성전자 DS/메모리사업부/회로설계.md",
     "Developer/기업분석/삼성전자 DS/메모리사업부",
     "Developer/기업분석/삼성전자 DS",
     "Developer/기업분석",
-    "Developer/Git/Git.md",
     "기업 분석/삼성전자 DS/AI센터",
-    "기업 분석/삼성전자 DS/TSP총괄",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
