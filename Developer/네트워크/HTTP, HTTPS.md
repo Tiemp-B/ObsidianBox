@@ -49,7 +49,7 @@ HTTP는 암호화되지 않은 평문 전송이기 때문에
 <aside>HTTPS 개요</aside>
 
 HTTPS(HyperText Transfer Protocol Secure)는  
-HTTP 위에 **SSL/TLS 암호화 계층을 덧씌운 프로토콜**이다.
+HTTP 위에 **[[SSL]]/[[TLS]] 암호화 계층을 덧씌운 프로토콜**이다.
 
 특징:  
 - 암호화(Confidentiality)  
