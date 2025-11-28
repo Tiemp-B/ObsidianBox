@@ -84,8 +84,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/네트워크/TLS.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "TLS"
@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:security, tls, cryptography, network",
+                "query": "tag:security , tls, cryptography, network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,7 +285,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c89ed3677eb87d4d",
+  "active": "a18f7383bc3610e6",
   "lastOpenFiles": [
     "Developer/네트워크/SSL.md",
     "Developer/네트워크/TLS.md",

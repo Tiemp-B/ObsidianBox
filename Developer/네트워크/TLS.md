@@ -1,6 +1,10 @@
 ---
 cssclasses: cornell-note
-tags: security, tls, cryptography, network
+tags:
+  - security
+  - tls
+  - cryptography
+  - network
 ---
 
 # Summary
