@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/보안/암호화/RSA.md",
-                "mode": "preview",
-                "source": true
+                "file": "Developer/네트워크/NGINX.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA"
+              "title": "NGINX"
             }
           }
         ],
@@ -301,13 +301,14 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "Developer/보안/암호화/AES.md",
+    "Developer/네트워크/NGINX.md",
+    "Developer/네트워크/네트워크.md",
     "Developer/보안/암호화/RSA.md",
+    "Developer/보안/암호화/AES.md",
     "Developer/네트워크/TLS.md",
     "Developer/네트워크/SSL.md",
     "Developer/CS/03. OS/프로세스.md",
     "Developer/네트워크/리버스 프록시.md",
-    "Developer/네트워크/네트워크.md",
     "Developer/CS/CS.md",
     "Developer/CS/05. 네트워크/05. 네트워크.md",
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
@@ -330,7 +331,6 @@
     "Developer/차량/국제 표준",
     "Developer/차량/차량.md",
     "Developer/차량",
-    "Developer/보안/암호화/암호화.md",
     "Developer/보안/암호화",
     "Developer/보안",
     "Developer/기업분석/삼성전자 DS/메모리사업부",
