@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/네트워크/NGINX.md",
-                "mode": "preview",
+                "file": "Developer/네트워크/리버스 프록시.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NGINX"
+              "title": "리버스 프록시"
             }
           }
         ],
