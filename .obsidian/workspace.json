@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:security, tls, cryptography, network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -285,7 +285,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a18f7383bc3610e6",
+  "active": "c89ed3677eb87d4d",
   "lastOpenFiles": [
     "Developer/네트워크/SSL.md",
     "Developer/네트워크/TLS.md",
