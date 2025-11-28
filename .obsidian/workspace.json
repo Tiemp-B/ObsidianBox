@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/보안/암호화/AES.md",
+                "file": "Developer/보안/암호화/RSA.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AES"
+              "title": "RSA"
             }
           }
         ],
@@ -301,8 +301,8 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "Developer/보안/암호화/RSA.md",
     "Developer/보안/암호화/AES.md",
+    "Developer/보안/암호화/RSA.md",
     "Developer/네트워크/TLS.md",
     "Developer/네트워크/SSL.md",
     "Developer/CS/03. OS/프로세스.md",
