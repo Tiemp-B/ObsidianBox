@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/리눅스.md",
+                "file": "Developer/Linux/00. 리눅스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스"
+              "title": "00. 리눅스"
             }
           },
           {
@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/리눅스.md",
+                "file": "Developer/CS/03. OS/UNIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스"
+              "title": "UNIX"
             }
           }
         ],
@@ -324,7 +324,14 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/Linux.md",
+    "Developer/CS/03. OS/UNIX.md",
+    "Developer/CS/03. OS/macOS.md",
+    "Developer/CS/03. OS/Windows.md",
+    "Developer/CS/03. OS/데스크톱 OS.md",
     "Developer/CS/03. OS/00. 운영체제.md",
+    "Developer/CS/03. OS/03. OS.md",
+    "Developer/Linux/00. 리눅스.md",
     "Developer/시스템 프로그래밍/시스템 프로그래밍.md",
     "Developer/네트워크/HTTP, HTTPS.md",
     "Developer/네트워크/TLS.md",
@@ -340,18 +347,11 @@
     "Developer/시스템 프로그래밍/01. 시스템 프로그래밍.md",
     "Developer/네트워크",
     "Developer/Untitled.md",
-    "Developer/Linux/리눅스.md",
     "Developer/CS/03. OS/IPC.md",
-    "Developer/CS/03. OS/03. OS.md",
     "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/시스템 콜.md",
     "Developer/CS/03. OS/파일시스템.md",
-    "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
     "Developer/시스템 프로그래밍",
-    "Developer/차량/국제 표준/ISO 26262.md",
-    "Developer/차량/국제 표준/MISRA-C.md",
-    "Developer/차량/국제 표준/국제 표준.md",
-    "Developer/차량/차량 개요.md",
     "Developer/차량/국제 표준",
     "Developer/차량",
     "Developer/보안/암호화",
