@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/UNIX.md",
+                "file": "Developer/CS/03. OS/데스크톱 OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIX"
+              "title": "데스크톱 OS"
             }
           }
         ],
@@ -324,8 +324,8 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/Linux.md",
     "Developer/CS/03. OS/UNIX.md",
+    "Developer/CS/03. OS/Linux.md",
     "Developer/CS/03. OS/macOS.md",
     "Developer/CS/03. OS/Windows.md",
     "Developer/CS/03. OS/데스크톱 OS.md",
