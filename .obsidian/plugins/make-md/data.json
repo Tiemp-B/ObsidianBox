@@ -122,7 +122,8 @@
     "//Developer/Developer/시스템 프로그래밍",
     "//Developer/Developer/네트워크",
     "//Developer/Developer/보안",
-    "//Developer/Developer/CS"
+    "//Developer/Developer/CS",
+    "//Developer/Developer/Linux"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
