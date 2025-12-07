@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 50.97276264591439,
+        "dimension": 58.884565499351496,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -99,7 +99,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/보안/공격/00. 보안 공격.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
       {
         "id": "04dde0e07cee23b4",
         "type": "tabs",
-        "dimension": 49.0272373540856,
+        "dimension": 41.115434500648504,
         "children": [
           {
             "id": "38b0c4bace132e55",
