@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/03. OS/데스크톱 OS.md",
+                "file": "Developer/보안/공격/00. 보안 공격.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데스크톱 OS"
+              "title": "00. 보안 공격"
             }
           }
         ],
@@ -324,11 +324,15 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
+    "Developer/보안/공격/00. 보안 공격.md",
+    "Developer/보안/공격/공격.md",
+    "Developer/보안/공격/.md",
+    "Developer/CS/03. OS/데스크톱 OS.md",
+    "Developer/보안/공격",
     "Developer/CS/03. OS/UNIX.md",
     "Developer/CS/03. OS/Linux.md",
     "Developer/CS/03. OS/macOS.md",
     "Developer/CS/03. OS/Windows.md",
-    "Developer/CS/03. OS/데스크톱 OS.md",
     "Developer/CS/03. OS/00. 운영체제.md",
     "Developer/CS/03. OS/03. OS.md",
     "Developer/Linux/00. 리눅스.md",
@@ -348,9 +352,6 @@
     "Developer/네트워크",
     "Developer/Untitled.md",
     "Developer/CS/03. OS/IPC.md",
-    "Developer/CS/03. OS/스케줄링.md",
-    "Developer/CS/03. OS/시스템 콜.md",
-    "Developer/CS/03. OS/파일시스템.md",
     "Developer/시스템 프로그래밍",
     "Developer/차량/국제 표준",
     "Developer/차량",
@@ -359,7 +360,6 @@
     "Developer/기업분석/삼성전자 DS/메모리사업부",
     "Developer/기업분석/삼성전자 DS",
     "Developer/기업분석",
-    "기업 분석/삼성전자 DS/AI센터",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
