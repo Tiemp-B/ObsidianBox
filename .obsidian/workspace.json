@@ -105,21 +105,9 @@
               "icon": "lucide-file",
               "title": "00. 보안 공격"
             }
-          },
-          {
-            "id": "f4f8234d9751e616",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.10.6"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "04dde0e07cee23b4",
@@ -334,7 +322,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4f8234d9751e616",
+  "active": "4cb7773d48f74092",
   "lastOpenFiles": [
     "Developer/보안/공격/00. 보안 공격.md",
     "Developer/보안/공격/공격.md",
