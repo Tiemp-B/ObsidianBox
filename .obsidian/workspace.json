@@ -118,14 +118,12 @@
             "id": "75620c6dfad5591e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "사회경제/국제 경제 사건.md",
-                "mode": "preview",
-                "source": false
+                "path": "기업 분석/삼성전자 DS/AI센터"
               },
               "icon": "lucide-file",
-              "title": "국제 경제 사건"
+              "title": "AI센터"
             }
           }
         ]
@@ -322,10 +320,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75620c6dfad5591e",
+  "active": "4e57093a82f25da1",
   "lastOpenFiles": [
-    "사회경제/서브프라임(2008년).md",
+    "기업 분석/삼성전자 DS/AI센터/AI센터.md",
+    "기업 분석/삼성전자 DS/삼성전자 DS.md",
+    "기업 분석/기업 분석.md",
     "사회경제/국제 경제 사건.md",
+    "사회경제/서브프라임(2008년).md",
     "사회경제/경제대공황(1929년).md",
     "사회경제/사회경제.md",
     "Developer/보안/공격/00. 보안 공격.md",
@@ -349,9 +350,6 @@
     "Developer/네트워크/NGINX.md",
     "Developer/네트워크/네트워크.md",
     "Developer/보안/암호화/RSA.md",
-    "Developer/보안/암호화/AES.md",
-    "Developer/CS/03. OS/프로세스.md",
-    "Developer/CS/CS.md",
     "Developer/네트워크",
     "Developer/시스템 프로그래밍",
     "Developer/차량/국제 표준",
