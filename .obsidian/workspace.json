@@ -112,7 +112,7 @@
       {
         "id": "e231e1baccaa4f10",
         "type": "tabs",
-        "dimension": 52.33463035019456,
+        "dimension": 52.33463035019455,
         "children": [
           {
             "id": "75620c6dfad5591e",
@@ -182,7 +182,7 @@
             }
           },
           {
-            "id": "9297d052c835e958",
+            "id": "4e57093a82f25da1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
