@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/반도체 공정.md",
+                "file": "기업 분석/세메스/SEMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "반도체 공정"
+              "title": "SEMES"
             }
           }
         ],
@@ -142,8 +142,7 @@
               "title": "반도체 공정"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -337,10 +336,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb7773d48f74092",
+  "active": "75620c6dfad5591e",
   "lastOpenFiles": [
-    "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/반도체 공정.md",
+    "기업 분석/세메스/SEMES.md",
     "개발자 뉴스/쿠팡 개인정보 유출 피해자.md",
     "기업 분석/세메스/세메스.md",
     "사회경제/경제대공황(1929년).md",
