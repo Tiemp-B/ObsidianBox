@@ -65,7 +65,7 @@ SEMES(세메스)는 1993년 삼성전자의 장비 기술 내재화를 목표로
 
 <aside>장비 구성 SW 구조</aside>
 
-1. **장비 제어 소프트웨어(Equipment Control Software, ECS)**
+1. **[[장비 제어 소프트웨어]](Equipment Control Software, ECS)**
     - Robot, Motor, Valve, Heater, Pump 등 **물리 제어**
     - 실시간 제어 성능 요구
     - PLC 또는 Real-time OS 기반 제어 포함
