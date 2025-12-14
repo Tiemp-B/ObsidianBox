@@ -63,6 +63,39 @@ SEMES(세메스)는 1993년 삼성전자의 장비 기술 내재화를 목표로
 - 웨이퍼 이송/로딩 장비
 - 검사(SPI, 표면 분석 등 일부 모듈)
 
+<aside>장비 구성 SW 구조</aside>
+
+
+1. **장비 제어 소프트웨어(Equipment Control Software, ECS)**
+    - Robot, Motor, Valve, Heater, Pump 등 **물리 제어**
+    - 실시간 제어 성능 요구
+    - PLC 또는 Real-time OS 기반 제어 포함
+        
+2. **공정 제어 소프트웨어(Process Control, POC)**
+    - 온도·압력·용액 농도 등 공정 변수 실시간 관리
+    - 센서 값 수집 및 PID 제어
+        
+3. **HMI / UI 소프트웨어**
+    - 장비 조작 화면
+    - 생산 현장 엔지니어가 사용하는 UI
+    - Linux/Windows 기반 .NET, Qt, C#, C++ 등 사용
+        
+4. **설비 통신(Factory Interface) – SECS/GEM, EAP 연동**
+    - 삼성 DS MES와 통신
+    - 장비 상태 보고, Recipe 다운로드, WIP 관리
+        
+5. **Diagnostic & Data Logging SW**
+    - Log 기록 및 분석
+    - 고장 진단 알고리즘
+        
+    - Predictive Maintenance 관련 SW
+        
+6. **장비 컨트롤러(e.g., IPC + Motion card + FPGA + Sensor)**
+    
+    - Motion 제어기, IO 제어기 등과 연동
+        
+    - C/C++ 기반
+
 <aside>세메스의 역할과 의의</aside>
 
 - **삼성전자 반도체 공장 핵심 장비 공급사**  

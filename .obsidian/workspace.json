@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/장비 구선 SW 구조.md",
+                "file": "기업 분석/세메스/SEMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "장비 구선 SW 구조"
+              "title": "SEMES"
             }
           }
         ],
@@ -338,8 +338,8 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/장비 구선 SW 구조.md",
+    "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/반도체 공정.md",
     "개발자 뉴스/쿠팡 개인정보 유출 피해자.md",
     "기업 분석/세메스/세메스.md",
