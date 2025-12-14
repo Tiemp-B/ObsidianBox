@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 47.66536964980545,
+        "dimension": 49.286640726329445,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -112,7 +112,7 @@
       {
         "id": "e231e1baccaa4f10",
         "type": "tabs",
-        "dimension": 52.33463035019455,
+        "dimension": 50.713359273670555,
         "children": [
           {
             "id": "75620c6dfad5591e",
@@ -337,7 +337,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbfd114b243d10af",
+  "active": "4cb7773d48f74092",
   "lastOpenFiles": [
     "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/반도체 공정.md",
