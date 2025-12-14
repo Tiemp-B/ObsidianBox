@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사회경제/경제대공황(1929년).md",
+                "file": "기업 분석/세메스/SEMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "경제대공황(1929년)"
+              "title": "SEMES"
             }
           }
         ],
@@ -324,8 +324,10 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "개발자 뉴스/쿠팡 개인정보 유출 피해자.md",
+    "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/세메스.md",
+    "사회경제/경제대공황(1929년).md",
+    "개발자 뉴스/쿠팡 개인정보 유출 피해자.md",
     "기업 분석/세메스",
     "개발자 뉴스/개발자 뉴스.md",
     "개발자 뉴스",
@@ -334,7 +336,6 @@
     "기업 분석/기업 분석.md",
     "사회경제/국제 경제 사건.md",
     "사회경제/서브프라임(2008년).md",
-    "사회경제/경제대공황(1929년).md",
     "사회경제/사회경제.md",
     "Developer/보안/공격/00. 보안 공격.md",
     "사회경제",
@@ -353,7 +354,6 @@
     "Developer/네트워크/HTTP, HTTPS.md",
     "Developer/네트워크/TLS.md",
     "Developer/네트워크/SSL.md",
-    "Developer/네트워크/리버스 프록시.md",
     "Developer/네트워크",
     "Developer/시스템 프로그래밍",
     "Developer/차량/국제 표준",
