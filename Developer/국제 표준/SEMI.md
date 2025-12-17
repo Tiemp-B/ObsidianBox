@@ -76,8 +76,9 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
   장비-호스트 간 직렬 통신 규격  
 
 - **SEMI E37 (HSMS)**  
-  고속 TCP/IP 기반 통신 규격  
-
+	반도체 장비 통신 표준(High Speed SECS Message Service)
+	고속 TCP/IP 기반 통신 규격  
+  
 - **SEMI E30 (GEM)**  
   장비 자동화 및 상태 제어 표준  
 

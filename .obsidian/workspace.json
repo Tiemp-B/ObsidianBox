@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/네트워크/TLS.md",
+                "file": "기업 분석/세메스/SEMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TLS"
+              "title": "SEMES"
             }
           }
         ],
@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/SEMES.md",
+                "file": "Developer/국제 표준/SEMI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMES"
+              "title": "SEMI"
             }
           }
         ],
@@ -339,9 +339,10 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
+    "기업 분석/세메스/SEMES.md",
+    "Developer/네트워크/TLS.md",
     "Developer/국제 표준/SEMI.md",
     "Developer/국제 표준/국제 표준.md",
-    "기업 분석/세메스/SEMES.md",
     "기업 분석/세메스/장비 제어 소프트웨어.md",
     "Developer/자동제어/PID 제어.md",
     "Developer/자동제어/자동제어.md",
@@ -369,7 +370,6 @@
     "Developer/CS/03. OS/UNIX.md",
     "Developer/CS/03. OS/Linux.md",
     "Developer/CS/03. OS/macOS.md",
-    "Developer/CS/03. OS/Windows.md",
     "Developer/네트워크",
     "Developer/시스템 프로그래밍",
     "Developer/국제 표준",
