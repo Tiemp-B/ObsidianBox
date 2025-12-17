@@ -73,6 +73,7 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
 <aside>대표적인 SEMI 표준 예시</aside>
 
 - **SEMI E5 (SECS-I)**  
+	반도체 장비 통신 표준(Semiconductor Equipment Communication Standard)
   장비-호스트 간 직렬 통신 규격  
 
 - **SEMI E37 (HSMS)**  
