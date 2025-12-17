@@ -81,8 +81,9 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
 	고속 TCP/IP 기반 통신 규격  
   
 - **SEMI E30 (GEM)**  
-	the Generic Model for Communications and Control of Manufatu
+	the Generic Model for Communications and Control of Manufaturing Equipment
   장비 자동화 및 상태 제어 표준  
+  장비 동작 및 제어를 위한 통신 모델로서 장비를 제어하기 위한 기본 규칙
 
 - **SEMI E40 (Process Job Management)**  
   공정 작업 관리 표준  
