@@ -7,15 +7,6 @@ tags:
   - manufacturing
   - industry
 ---
----
-cssclasses: cornell-note
-tags:
-  - semiconductor
-  - standard
-  - semi
-  - manufacturing
-  - industry
----
 
 # Summary
 
