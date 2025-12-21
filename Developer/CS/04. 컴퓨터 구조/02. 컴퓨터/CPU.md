@@ -46,7 +46,7 @@ CPU(Central Processing Unit)는 **명령어를 해석하고 실행하여 계산�
      - **PSR (Program Status Register)**: 명령 수행 후 연산 결과 등에 대한 CPU 상태 정보 기록. 상태 정보 중 ALU 산술 연산에 대한 결과 비트로 Overflow, Negative, Zero, Carry, Parity 등이 있다.
      - **MAR (Memory Address Register)**: 메모리 또는 IO로의 읽기/쓰기 동작이 수행될 주소 저장된 레지스터
      - **MBR (Memory Buffer Resgister)**: 메모리 또는 IO에서 읽거나 쓸 데이터가 임시 저장되는 레지스터
-     - **SP (Stack Pointer)**: [[스택]]의 현재 위치 주소를 저장
+     - **SP (Stack Pointer)**: [[01. 스택]]의 현재 위치 주소를 저장
      - **Accumulator (ACC):** 연산 결과 저장  
      - 범용 레지스터 (예: R0~R15): 데이터의 임시 저장, 함수의 인수, 변수, 연산 결과 저장 등의 일반적 사용
 
