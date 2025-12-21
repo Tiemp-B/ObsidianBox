@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 알고리즘/10. 수학/Untitled.md",
+                "file": "Developer/CS/02. 알고리즘/10. 수학/01. 정수론.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01. 정수론"
             }
           }
         ],
@@ -340,7 +340,7 @@
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
     "Developer/CS/02. 알고리즘/10. 수학/00. 수학.md",
-    "Developer/CS/02. 알고리즘/10. 수학/Untitled.md",
+    "Developer/CS/02. 알고리즘/10. 수학/01. 정수론.md",
     "Developer/CS/02. 알고리즘/02. 탐색/04. 그래프 탐색.md",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
     "Developer/CS/02. 알고리즘/02. 탐색/03. 해시 탐색.md",
