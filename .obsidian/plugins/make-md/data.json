@@ -91,13 +91,7 @@
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조/Developer/CS/04. 컴퓨터 구조/03. 네트워크",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어/Developer/CS/01. 프로그래밍/언어/C",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/04. 그리디",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/05. 분할 정복",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/06. 동적 프로그래밍",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/07. 그래프",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/08. 트리",
     "//Developer/Developer/CS/Developer/CS/12. 확장 분야",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/03. 정렬",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/장애대응",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/임베디드 소프트웨어",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/임베디드 플랫폼",
@@ -122,7 +116,7 @@
     "//Developer",
     "//Developer/Developer/CS",
     "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/01. 자료 구조"
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/11. 기하"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
