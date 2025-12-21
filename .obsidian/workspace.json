@@ -132,12 +132,14 @@
             "id": "4cb7773d48f74092",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/CS/02. 알고리즘"
+                "file": "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "02. 알고리즘"
+              "title": "00. 백준 클래스"
             }
           }
         ],
@@ -335,8 +337,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a00b677d1498e9cf",
+  "active": "4cb7773d48f74092",
   "lastOpenFiles": [
+    "Developer/CS/02. 알고리즘/알고리즘.md",
+    "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
+    "Developer/CS/02. 알고리즘/02. 알고리즘.md",
     "Developer/국제 표준/SEMI.md",
     "기업 분석/세메스/SEMES.md",
     "Developer/네트워크/TLS.md",
@@ -365,9 +370,6 @@
     "Developer/보안/공격/.md",
     "Developer/CS/03. OS/데스크톱 OS.md",
     "Developer/보안/공격",
-    "Developer/CS/03. OS/UNIX.md",
-    "Developer/CS/03. OS/Linux.md",
-    "Developer/CS/03. OS/macOS.md",
     "Developer/네트워크",
     "Developer/시스템 프로그래밍",
     "Developer/국제 표준",
