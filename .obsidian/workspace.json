@@ -84,24 +84,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/SEMES.md",
+                "file": "기업 분석/세메스/00. SEMES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMES"
+              "title": "00. SEMES"
             }
           },
           {
             "id": "4cb7773d48f74092",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/CS/02. 알고리즘/10. 수학"
+                "file": "기업 분석/세메스/00. SEMES.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "10. 수학"
+              "title": "00. SEMES"
             }
           }
         ],
