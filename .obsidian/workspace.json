@@ -96,12 +96,14 @@
             "id": "4cb7773d48f74092",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/CS/02. 알고리즘/11. 기하"
+                "file": "Developer/CS/02. 알고리즘/11. 기하/00. 기하학.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "11. 기하"
+              "title": "00. 기하학"
             }
           }
         ],
@@ -132,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/장비 제어 소프트웨어.md",
+                "file": "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "장비 제어 소프트웨어"
+              "title": "00. 백준 클래스"
             }
           }
         ],
@@ -335,10 +337,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb7773d48f74092",
+  "active": "d9058cb5013f4809",
   "lastOpenFiles": [
-    "Developer/CS/02. 알고리즘/11. 기하/기하.md",
+    "Developer/CS/02. 알고리즘/11. 기하/00. 기하학.md",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
+    "기업 분석/세메스/장비 제어 소프트웨어.md",
     "Developer/CS/02. 알고리즘/06. 동적 프로그래밍/배낭 문제.md",
     "Developer/CS/02. 알고리즘/알고리즘.md",
     "Developer/CS/02. 알고리즘/02. 알고리즘.md",
@@ -346,7 +349,6 @@
     "기업 분석/세메스/SEMES.md",
     "Developer/네트워크/TLS.md",
     "Developer/국제 표준/국제 표준.md",
-    "기업 분석/세메스/장비 제어 소프트웨어.md",
     "Developer/자동제어/PID 제어.md",
     "Developer/자동제어/자동제어.md",
     "Developer/자동제어",
