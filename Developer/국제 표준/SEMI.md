@@ -82,7 +82,9 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
 - **SEMI E37 (HSMS)**  
 	반도체 장비 통신 표준(High Speed SECS Message Service)
 	고속 TCP/IP 기반 통신 규격  
-	- 
+ - TCP/IP 이더넷 사용
+ - 속도: 10Mbps ~ 1Gbps
+ - 전이중 통신
 
 - **SEMI E30 (GEM)**  
 	the Generic Model for Communications and Control of Manufaturing Equipment
