@@ -109,15 +109,12 @@
     "//기업 분석/기업 분석/삼성전자 DS/기업 분석/삼성전자 DS/메모리사업부",
     "//Developer/Developer/보안/Developer/보안/암호화",
     "//Developer/Developer/차량/Developer/차량/국제 표준",
-    "//Developer/Developer/CS/Developer/CS/03. OS",
     "//Developer/Developer/보안/Developer/보안/공격",
     "//기업 분석",
     "//기업 분석/기업 분석/세메스",
     "//Developer",
-    "//Developer/Developer/CS",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/06. 동적 프로그래밍",
-    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/10. 수학"
+    "//Developer/Developer/국제 표준",
+    "//Developer/Developer/자동제어"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

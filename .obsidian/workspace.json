@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/00. SEMES.md",
+                "file": "Developer/국제 표준/SEMI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. SEMES"
+              "title": "SEMI"
             }
           }
         ],
@@ -353,8 +353,8 @@
   },
   "active": "4cb7773d48f74092",
   "lastOpenFiles": [
-    "기업 분석/세메스/장비 제어 소프트웨어.md",
     "기업 분석/세메스/00. SEMES.md",
+    "기업 분석/세메스/장비 제어 소프트웨어.md",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
     "Developer/CS/02. 알고리즘/10. 수학/02. 조합론.md",
     "Developer/CS/02. 알고리즘/10. 수학/01. 정수론.md",
