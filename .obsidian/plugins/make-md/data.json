@@ -115,7 +115,8 @@
     "//Developer",
     "//Developer/Developer/국제 표준",
     "//Developer/Developer/자동제어",
-    "//Developer/Developer/Linux"
+    "//Developer/Developer/Linux",
+    "//Developer/Developer/네트워크"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
