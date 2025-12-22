@@ -75,7 +75,7 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
 - **SEMI E5 (SECS-I)**  
 	반도체 장비 통신 표준(Semiconductor Equipment Communication Standard)
   장비-호스트 간 직렬 통신 규격  
-  - RS-232 시리얼 통신 사용
+  - [[RS-232]] 시리얼 통신 사용
   - 속도: 9600 bps ~ 19200 bps
   - 반이중 통신
 
