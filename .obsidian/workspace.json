@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/국제 표준/SEMI.md",
+                "file": "Developer/Linux/00. 리눅스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEMI"
+              "title": "00. 리눅스"
             }
           }
         ],
@@ -148,12 +148,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/국제 표준/RS-232.md",
+                "file": "Developer/국제 표준/SEMI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RS-232"
+              "title": "SEMI"
             }
           }
         ],
@@ -351,11 +351,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cb7773d48f74092",
+  "active": "4940c39aa1a2f790",
   "lastOpenFiles": [
+    "Developer/국제 표준/RS-232.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/국제 표준/SEMI.md",
-    "Developer/국제 표준/RS-232.md",
     "기업 분석/세메스/00. SEMES.md",
     "기업 분석/세메스/01. 반도체 공정.md",
     "기업 분석/세메스/02. 장비 제어 소프트웨어.md",
