@@ -75,11 +75,15 @@ SEMI 표준은 기능별로 여러 그룹으로 나뉜다.
 - **SEMI E5 (SECS-I)**  
 	반도체 장비 통신 표준(Semiconductor Equipment Communication Standard)
   장비-호스트 간 직렬 통신 규격  
+  - RS-232 시리얼 통신 사용
+  - 속도: 9600 bps ~ 19200 bps
+  - 반이중 통신
 
 - **SEMI E37 (HSMS)**  
 	반도체 장비 통신 표준(High Speed SECS Message Service)
 	고속 TCP/IP 기반 통신 규격  
-  
+	- 
+
 - **SEMI E30 (GEM)**  
 	the Generic Model for Communications and Control of Manufaturing Equipment
   장비 자동화 및 상태 제어 표준  
