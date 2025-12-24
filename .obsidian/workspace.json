@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/00. SEMES.md",
+                "file": "Developer/CS/03. OS/스케줄링.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. SEMES"
+              "title": "스케줄링"
             }
           }
         ],
@@ -351,12 +351,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a18f7383bc3610e6",
+  "active": "4940c39aa1a2f790",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/스케줄링.md",
+    "기업 분석/세메스/00. SEMES.md",
     "Developer/국제 표준/SEMI.md",
     "Developer/국제 표준/RS-232.md",
     "Developer/네트워크/00. 네트워크.md",
-    "기업 분석/세메스/00. SEMES.md",
     "Developer/네트워크/HTTP, HTTPS.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/네트워크/TLS.md",
@@ -378,7 +379,6 @@
     "Developer/CS/02. 알고리즘/01. 자료 구조/03. 연결리스트.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/02. 큐.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
-    "Developer/CS/02. 알고리즘/01. 자료 구조/00. 자료구조.md",
     "Developer/자동제어",
     "기업 분석/세메스",
     "개발자 뉴스",
