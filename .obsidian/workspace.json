@@ -98,10 +98,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Developer/CS"
+                "path": "지식창고/반도체 공정"
               },
               "icon": "lucide-file",
-              "title": "CS"
+              "title": "반도체 공정"
             }
           }
         ],
@@ -349,7 +349,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24ce3b31b4805304",
+  "active": "966e712eb005e893",
   "lastOpenFiles": [
     "지식창고/반도체 공정/반도체 공정.md",
     "지식창고/반도체 공정",
