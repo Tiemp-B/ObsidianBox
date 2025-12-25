@@ -110,15 +110,9 @@
     "//Developer/Developer/보안/Developer/보안/암호화",
     "//Developer/Developer/차량/Developer/차량/국제 표준",
     "//Developer/Developer/보안/Developer/보안/공격",
-    "//기업 분석",
     "//기업 분석/기업 분석/세메스",
-    "//Developer",
-    "//Developer/Developer/국제 표준",
-    "//Developer/Developer/자동제어",
-    "//Developer/Developer/Linux",
-    "//Developer/Developer/네트워크",
-    "//Developer/Developer/CS",
-    "//Developer/Developer/CS/Developer/CS/03. OS"
+    "//Developer/Developer/CS/Developer/CS/03. OS",
+    "//지식창고"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

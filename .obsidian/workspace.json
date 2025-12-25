@@ -96,14 +96,12 @@
             "id": "a18f7383bc3610e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/03. OS/스케줄링.md",
-                "mode": "preview",
-                "source": false
+                "path": "Developer/CS"
               },
               "icon": "lucide-file",
-              "title": "스케줄링"
+              "title": "CS"
             }
           }
         ],
@@ -351,10 +349,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a18f7383bc3610e6",
+  "active": "24ce3b31b4805304",
   "lastOpenFiles": [
-    "Developer/국제 표준/SEMI.md",
+    "지식창고/지식창고.md",
+    "지식창고",
+    "Developer/CS/CS.md",
     "Developer/CS/03. OS/스케줄링.md",
+    "Developer/국제 표준/SEMI.md",
     "기업 분석/세메스/00. SEMES.md",
     "Developer/국제 표준/RS-232.md",
     "Developer/네트워크/00. 네트워크.md",
@@ -377,8 +378,6 @@
     "Developer/CS/02. 알고리즘/01. 자료 구조/05. 모노톤.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/01. 자료 구조.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/03. 연결리스트.md",
-    "Developer/CS/02. 알고리즘/01. 자료 구조/02. 큐.md",
-    "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
     "Developer/자동제어",
     "기업 분석/세메스",
     "개발자 뉴스",
@@ -388,7 +387,6 @@
     "Developer/시스템 프로그래밍",
     "Developer/국제 표준",
     "Developer/차량",
-    "Developer/보안/암호화",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
