@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
+                "file": "기업 분석/세메스/01. 반도체 공정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. 백준 클래스"
+              "title": "01. 반도체 공정"
             }
           },
           {
@@ -156,7 +156,8 @@
               "title": "SEMI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,8 +351,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11d2d2db5cc0786e",
+  "active": "d9058cb5013f4809",
   "lastOpenFiles": [
+    "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
     "기업 분석/세메스/세메스 장비.md",
     "기업 분석/세메스/01. 반도체 공정.md",
     "기업 분석/세메스/03. 장비 제어 소프트웨어.md",
@@ -372,7 +374,6 @@
     "Developer/네트워크/HTTP, HTTPS.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/네트워크/TLS.md",
-    "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
     "Developer/CS/02. 알고리즘/10. 수학/02. 조합론.md",
     "Developer/CS/02. 알고리즘/10. 수학/01. 정수론.md",
     "Developer/CS/02. 알고리즘/10. 수학/00. 수학.md",
