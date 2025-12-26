@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/세메스 장비.md",
+                "file": "기업 분석/세메스/01. 반도체 공정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "세메스 장비"
+              "title": "01. 반도체 공정"
             }
           }
         ],
@@ -350,10 +350,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbfd114b243d10af",
+  "active": "a18f7383bc3610e6",
   "lastOpenFiles": [
-    "기업 분석/세메스/01. 반도체 공정.md",
     "기업 분석/세메스/세메스 장비.md",
+    "기업 분석/세메스/01. 반도체 공정.md",
     "기업 분석/세메스/03. 장비 제어 소프트웨어.md",
     "기업 분석/세메스/00. SEMES.md",
     "지식창고/반도체 공정/01. 전공정.md",
