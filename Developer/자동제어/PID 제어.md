@@ -104,7 +104,7 @@ PID 제어는 P, I, D를 조합해 각 요소의 단점을 상호 보완한다.
 <aside>PID 튜닝</aside>
 
 PID 제어의 성능은 계수(Kp, Ki, Kd) 설정에 크게 의존한다.
-ㅇ
+
 대표적인 튜닝 방법:  
 - 경험적 튜닝(Manual Tuning)  
 - Ziegler–Nichols 방법  
