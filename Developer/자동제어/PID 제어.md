@@ -113,6 +113,8 @@ PID 제어의 성능은 계수(Kp, Ki, Kd) 설정에 크게 의존한다.
 
 임베디드 시스템과 산업 제어 전반에 광범위하게 적용된다.
 
+---
+
 <aside>한계와 확장</aside>
 
 PID 제어의 한계:  
@@ -125,6 +127,8 @@ PID 제어의 한계:
 - Adaptive Control  
 - Model Predictive Control(MPC)  
 등 고급 제어 기법이 사용된다.
+
+---
 
 <aside>핵심 정리</aside>
 
