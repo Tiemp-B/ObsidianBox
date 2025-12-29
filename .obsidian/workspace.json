@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "잡것/Untitled.md",
+                "file": "잡것/013.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "013"
             }
           },
           {
@@ -353,8 +353,11 @@
   },
   "active": "d9058cb5013f4809",
   "lastOpenFiles": [
+    "잡것/012.md",
+    "잡것/013.md",
+    "잡것/011.md",
+    "잡것/009.md",
     "잡것/008.md",
-    "잡것/Untitled.md",
     "잡것/잡것.md",
     "잡것/007.md",
     "잡것/006.md",
@@ -380,9 +383,6 @@
     "지식창고/.md",
     "지식창고/지식창고.md",
     "지식창고",
-    "Developer/CS/03. OS/스케줄링.md",
-    "Developer/국제 표준/SEMI.md",
-    "Developer/국제 표준/RS-232.md",
     "Developer/자동제어",
     "기업 분석/세메스",
     "개발자 뉴스",
