@@ -114,7 +114,9 @@
     "//Developer/Developer/CS/Developer/CS/03. OS",
     "//지식창고",
     "//지식창고/지식창고/반도체 공정",
-    "//잡것"
+    "//잡것",
+    "//Developer",
+    "//Developer/Developer/언어"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

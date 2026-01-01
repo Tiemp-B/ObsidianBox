@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
+                "file": "Developer/언어/00. 언어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "00. 언어"
             }
           },
           {
@@ -367,6 +367,10 @@
   },
   "active": "daa566549e00df32",
   "lastOpenFiles": [
+    "Developer/언어/00. 언어.md",
+    "Developer/언어/언어.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
+    "Developer/언어",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
     "잡것/잡것.md",
@@ -391,10 +395,7 @@
     "잡것/003.md",
     "잡것/002.md",
     "잡것",
-    "Developer/자동제어/PID 제어.md",
     "images/Pasted image 20251228200157.png",
-    "기업 분석/세메스/01. 반도체 공정.md",
-    "기업 분석/세메스/세메스 장비.md",
     "지식창고/반도체 공정",
     "지식창고",
     "Developer/자동제어",
@@ -403,7 +404,6 @@
     "사회경제",
     "Developer/보안/공격",
     "Developer/네트워크",
-    "Developer/시스템 프로그래밍",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",
