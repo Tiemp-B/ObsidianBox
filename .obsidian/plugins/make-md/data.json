@@ -116,7 +116,8 @@
     "//지식창고/지식창고/반도체 공정",
     "//잡것",
     "//Developer",
-    "//Developer/Developer/언어"
+    "//Developer/Developer/언어",
+    "//Developer/Developer/언어/Developer/언어/Rust"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
