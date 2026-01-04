@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기업 분석/세메스/세메스 장비.md",
-                "mode": "source",
+                "file": "Developer/언어/Rust/00.Rust.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "세메스 장비"
+              "title": "00.Rust"
             }
           }
         ],
@@ -365,10 +365,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daa566549e00df32",
+  "active": "a18f7383bc3610e6",
   "lastOpenFiles": [
-    "Developer/언어/Rust/01.변수.md",
+    "기업 분석/세메스/세메스 장비.md",
     "Developer/언어/Rust/00.Rust.md",
+    "Developer/언어/Rust/01.변수.md",
     "Developer/언어/00. 언어.md",
     "Developer/언어/Rust/Rust.md",
     "Developer/언어/Rust",
@@ -394,7 +395,6 @@
     "잡것/009.md",
     "잡것/008.md",
     "잡것/007.md",
-    "잡것/006.md",
     "잡것",
     "images/Pasted image 20251228200157.png",
     "지식창고/반도체 공정",
