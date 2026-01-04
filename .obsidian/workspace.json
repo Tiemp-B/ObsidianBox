@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/언어/Rust/01.변수.md",
+                "file": "Developer/언어/Rust/00.Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.변수"
+              "title": "00.Rust"
             }
           },
           {
@@ -367,9 +367,9 @@
   },
   "active": "daa566549e00df32",
   "lastOpenFiles": [
+    "Developer/언어/Rust/01.변수.md",
     "Developer/언어/Rust/00.Rust.md",
     "기업 분석/세메스/세메스 장비.md",
-    "Developer/언어/Rust/01.변수.md",
     "Developer/언어/00. 언어.md",
     "Developer/언어/Rust/Rust.md",
     "Developer/언어/Rust",
