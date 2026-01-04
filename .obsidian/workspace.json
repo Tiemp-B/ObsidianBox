@@ -132,14 +132,12 @@
             "id": "daa566549e00df32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/언어/00. 언어.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/언어"
               },
               "icon": "lucide-file",
-              "title": "00. 언어"
+              "title": "언어"
             }
           },
           {
@@ -365,10 +363,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daa566549e00df32",
+  "active": "1a620c2a05cc665a",
   "lastOpenFiles": [
-    "Developer/언어/00. 언어.md",
     "Developer/언어/언어.md",
+    "Developer/언어/Untitled.md",
+    "Developer/언어/00. 언어.md",
     "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
     "Developer/언어",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
@@ -393,7 +392,6 @@
     "잡것/005.md",
     "잡것/004.md",
     "잡것/003.md",
-    "잡것/002.md",
     "잡것",
     "images/Pasted image 20251228200157.png",
     "지식창고/반도체 공정",
