@@ -117,7 +117,8 @@
     "//잡것",
     "//Developer",
     "//Developer/Developer/언어",
-    "//Developer/Developer/언어/Developer/언어/Rust"
+    "//Developer/Developer/언어/Developer/언어/Rust",
+    "//_templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
