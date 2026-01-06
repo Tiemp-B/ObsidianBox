@@ -118,7 +118,8 @@
     "//Developer",
     "//Developer/Developer/언어",
     "//Developer/Developer/언어/Developer/언어/Rust",
-    "//_templates"
+    "//_templates",
+    "//Developer/Developer/CS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

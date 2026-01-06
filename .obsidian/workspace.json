@@ -134,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/언어/Rust/00.Rust.md",
+                "file": "Developer/CS/03. OS/스케줄링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.Rust"
+              "title": "스케줄링"
             }
           },
           {
@@ -367,8 +367,9 @@
   },
   "active": "daa566549e00df32",
   "lastOpenFiles": [
-    "Developer/언어/Rust/01.변수.md",
+    "Developer/CS/03. OS/00. 운영체제.md",
     "Developer/언어/Rust/00.Rust.md",
+    "Developer/언어/Rust/01.변수.md",
     "기업 분석/세메스/세메스 장비.md",
     "Developer/언어/00. 언어.md",
     "Developer/언어/Rust/Rust.md",
@@ -394,7 +395,6 @@
     "잡것/011.md",
     "잡것/009.md",
     "잡것/008.md",
-    "잡것/007.md",
     "잡것",
     "images/Pasted image 20251228200157.png",
     "지식창고/반도체 공정",
