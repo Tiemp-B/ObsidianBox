@@ -15,7 +15,7 @@
               "state": {
                 "file": "Developer/스마트팩토리/SECS.GEM.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SECS.GEM"
