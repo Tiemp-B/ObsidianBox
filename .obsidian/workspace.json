@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/스마트팩토리/SECS.GEM.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "SECS.GEM"
