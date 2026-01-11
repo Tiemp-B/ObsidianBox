@@ -6,7 +6,6 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 41.05058365758755,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
+                "file": "Developer/스마트팩토리/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "Untitled"
             }
           },
           {
@@ -106,72 +105,7 @@
               "title": "00.Rust"
             }
           }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "e231e1baccaa4f10",
-        "type": "tabs",
-        "dimension": 58.94941634241245,
-        "children": [
-          {
-            "id": "cbfd114b243d10af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기업 분석/세메스/세메스 장비.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "세메스 장비"
-            }
-          },
-          {
-            "id": "daa566549e00df32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/CS/03. OS/스케줄링.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "스케줄링"
-            }
-          },
-          {
-            "id": "bf62667e6faa39e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. 스택"
-            }
-          },
-          {
-            "id": "4940c39aa1a2f790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer/국제 표준/SEMI.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEMI"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -365,8 +299,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daa566549e00df32",
+  "active": "ff7105c001c3f49e",
   "lastOpenFiles": [
+    "Developer/스마트팩토리/Untitled.md",
+    "Developer/스마트팩토리/스마트팩토리.md",
+    "Developer/스마트팩토리",
+    "Developer/자동제어/자동제어.md",
+    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
+    "Developer/국제 표준/SEMI.md",
+    "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
+    "Developer/CS/03. OS/스케줄링.md",
     "Developer/CS/03. OS/00. 운영체제.md",
     "Developer/언어/Rust/00.Rust.md",
     "Developer/언어/Rust/01.변수.md",
@@ -376,10 +318,8 @@
     "Developer/언어/Rust",
     "Developer/언어/언어.md",
     "Developer/언어/Untitled.md",
-    "Developer/CS/04. 컴퓨터 구조/02. 컴퓨터/CPU.md",
     "Developer/언어",
     "Developer/CS/02. 알고리즘/00. 백준 클래스.md",
-    "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
     "잡것/잡것.md",
     "잡것/021.md",
     "잡것/001.md",
@@ -390,11 +330,6 @@
     "잡것/016.md",
     "잡것/015.md",
     "잡것/014.md",
-    "잡것/013.md",
-    "잡것/012.md",
-    "잡것/011.md",
-    "잡것/009.md",
-    "잡것/008.md",
     "잡것",
     "images/Pasted image 20251228200157.png",
     "지식창고/반도체 공정",
@@ -403,7 +338,6 @@
     "기업 분석/세메스",
     "개발자 뉴스",
     "사회경제",
-    "Developer/보안/공격",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
     "images/Pasted image 20251031220705.png",

@@ -111,15 +111,13 @@
     "//Developer/Developer/차량/Developer/차량/국제 표준",
     "//Developer/Developer/보안/Developer/보안/공격",
     "//기업 분석/기업 분석/세메스",
-    "//Developer/Developer/CS/Developer/CS/03. OS",
     "//지식창고",
     "//지식창고/지식창고/반도체 공정",
     "//잡것",
     "//Developer",
-    "//Developer/Developer/언어",
     "//Developer/Developer/언어/Developer/언어/Rust",
     "//_templates",
-    "//Developer/Developer/CS"
+    "//Developer/Developer/스마트팩토리"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
