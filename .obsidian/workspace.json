@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/지역/4번 협곡.md",
+                "file": "Games/엔드필드/등장인물/살만.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4번 협곡"
+              "title": "살만"
             }
           },
           {
@@ -302,8 +302,10 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
-    "Games/엔드필드/등장인물/진강척.md",
+    "Games/엔드필드/등장인물/Untitled.md",
+    "Games/엔드필드/등장인물/살만.md",
     "Games/엔드필드/지역/4번 협곡.md",
+    "Games/엔드필드/등장인물/진강척.md",
     "Games/엔드필드/지역/지역.md",
     "Games/엔드필드/지역",
     "Games/엔드필드/Untitled.md",
@@ -335,8 +337,6 @@
     "Developer/국제 표준/SEMI.md",
     "Developer/CS/02. 알고리즘/01. 자료 구조/01. 스택.md",
     "Developer/CS/03. OS/00. 운영체제.md",
-    "Developer/언어/Rust/00.Rust.md",
-    "Developer/언어/Rust/01.변수.md",
     "Developer/언어/Rust",
     "Developer/언어",
     "잡것",
