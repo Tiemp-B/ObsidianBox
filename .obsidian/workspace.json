@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/등장인물/관리자.md",
+                "file": "Games/엔드필드/등장인물/진강척.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "관리자"
+              "title": "진강척"
             }
           },
           {
@@ -302,11 +302,13 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
-    "Games/엔드필드/타임라인/표준시 3일 9시간.md",
-    "Games/등장인물/관리자.md",
-    "Games/등장인물/등장인물.md",
-    "Games/등장인물",
+    "Games/엔드필드/등장인물/팰리카.md",
+    "Games/엔드필드/등장인물/진강척.md",
     "Games/엔드필드/용어/앵커.md",
+    "Games/엔드필드/등장인물/관리자.md",
+    "Games/엔드필드/타임라인/표준시 3일 9시간.md",
+    "Games/엔드필드/등장인물/등장인물.md",
+    "Games/엔드필드/등장인물",
     "Games/엔드필드/타임라인/타임라인.md",
     "Games/엔드필드/타임라인",
     "Games/엔드필드/타임라인.md",
@@ -335,8 +337,6 @@
     "Developer/언어/00. 언어.md",
     "Developer/언어/Rust/Rust.md",
     "Developer/언어/Rust",
-    "Developer/언어/언어.md",
-    "Developer/언어/Untitled.md",
     "Developer/언어",
     "잡것",
     "images/Pasted image 20251228200157.png",
