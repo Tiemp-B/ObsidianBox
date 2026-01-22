@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/지역/4번 협곡.md",
+                "file": "Games/엔드필드/등장인물/팰리카.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4번 협곡"
+              "title": "팰리카"
             }
           },
           {
@@ -302,22 +302,23 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
+    "Games/엔드필드/등장인물/진천우.md",
+    "Games/엔드필드/등장인물/살만.md",
+    "Games/엔드필드/등장인물/크레티엔.md",
+    "Games/엔드필드/등장인물/진강척.md",
+    "Games/엔드필드/등장인물/팰리카.md",
+    "Games/엔드필드/등장인물/관리자.md",
+    "Games/엔드필드/지역/4번 협곡.md",
     "Games/엔드필드/아이템/메밀꽃 가루.md",
     "Games/엔드필드/아이템/메밀꽃.md",
     "Games/엔드필드/등장인물/미겔.md",
-    "Games/엔드필드/지역/4번 협곡.md",
     "Games/엔드필드/지역/지역.md",
     "Games/엔드필드/아이템/굳은 상태의 이향석.md",
     "Games/엔드필드/아이템/아이템.md",
-    "Games/엔드필드/등장인물/크레티엔.md",
     "Games/엔드필드/아이템",
-    "Games/엔드필드/등장인물/살만.md",
-    "Games/엔드필드/등장인물/진강척.md",
     "Games/엔드필드/지역",
     "Games/엔드필드/Untitled.md",
-    "Games/엔드필드/등장인물/팰리카.md",
     "Games/엔드필드/용어/앵커.md",
-    "Games/엔드필드/등장인물/관리자.md",
     "Games/엔드필드/타임라인/표준시 3일 9시간.md",
     "Games/엔드필드/등장인물/등장인물.md",
     "Games/엔드필드/등장인물",
@@ -336,7 +337,6 @@
     "Developer/스마트팩토리/SECS.GEM.md",
     "images/Pasted image 20260112030712.png",
     "images/Pasted image 20260112030651.png",
-    "Developer/스마트팩토리/스마트팩토리.md",
     "Developer/스마트팩토리",
     "Developer/언어/Rust",
     "Developer/언어",
