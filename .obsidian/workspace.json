@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/용어/Untitled.md",
+                "file": "Games/엔드필드/등장인물/이본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "이본"
             }
           },
           {
@@ -302,8 +302,10 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
+    "Games/엔드필드/용어/프로토타입.md",
+    "Games/엔드필드/등장인물/이본.md",
+    "images/Pasted image 20260122231525.png",
     "Games/엔드필드/등장인물/안드레.md",
-    "Games/엔드필드/용어/Untitled.md",
     "Games/엔드필드/용어/앵커.md",
     "Games/엔드필드/지역/제강호.md",
     "Games/엔드필드/등장인물/관리자.md",
@@ -335,7 +337,6 @@
     "Games/엔드필드/용어.md",
     "Games/엔드필드/용어",
     "Games/엔드필드/엔드필드.md",
-    "Games/Games.md",
     "Games/엔드필드",
     "Games",
     "images/Pasted image 20260112030712.png",
@@ -346,7 +347,6 @@
     "images/Pasted image 20251228200157.png",
     "images/Pasted image 20251104204054.png",
     "images/Pasted image 20251101020807.png",
-    "images/Pasted image 20251031220705.png",
-    "images/Pasted image 20251031220617.png"
+    "images/Pasted image 20251031220705.png"
   ]
 }
