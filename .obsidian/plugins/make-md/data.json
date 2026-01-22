@@ -117,7 +117,8 @@
     "//Developer/Developer/언어/Developer/언어/Rust",
     "//Developer/Developer/스마트팩토리",
     "//Games",
-    "//Games/Games/엔드필드"
+    "//Games/Games/엔드필드",
+    "//Games/Games/엔드필드/Games/엔드필드/용어"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
