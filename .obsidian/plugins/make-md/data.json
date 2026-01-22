@@ -121,7 +121,8 @@
     "//Games/Games/엔드필드/Games/엔드필드/용어",
     "//Games/Games/엔드필드/Games/엔드필드/등장인물",
     "//Games/Games/엔드필드/Games/엔드필드/아이템",
-    "//Games/Games/엔드필드/Games/엔드필드/지역"
+    "//Games/Games/엔드필드/Games/엔드필드/지역",
+    "//Games/Games/엔드필드/Games/엔드필드/타임라인"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
