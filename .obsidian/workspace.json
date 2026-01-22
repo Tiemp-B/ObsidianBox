@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/아이템/오리렌.md",
+                "file": "Games/엔드필드/등장인물/레바테인.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "오리렌"
+              "title": "레바테인"
             }
           },
           {
@@ -302,9 +302,10 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
+    "Games/엔드필드/아이템/오리렌.md",
+    "Games/엔드필드/등장인물/레바테인.md",
     "images/Pasted image 20260122232754.png",
     "Games/엔드필드/아이템/굳은 상태의 이향석.md",
-    "Games/엔드필드/아이템/오리렌.md",
     "images/Pasted image 20260122232740.png",
     "Games/엔드필드/용어/프로토콜 전송 지점.md",
     "Developer/국제 표준/RS-232.md",
@@ -346,7 +347,6 @@
     "Developer/스마트팩토리",
     "Developer/언어/Rust",
     "Developer/언어",
-    "images/Pasted image 20251228200157.png",
-    "images/Pasted image 20251104204054.png"
+    "images/Pasted image 20251228200157.png"
   ]
 }
