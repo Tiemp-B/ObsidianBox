@@ -119,7 +119,8 @@
     "//Games",
     "//Games/Games/엔드필드",
     "//Games/Games/엔드필드/Games/엔드필드/용어",
-    "//Games/Games/엔드필드/Games/엔드필드/등장인물"
+    "//Games/Games/엔드필드/Games/엔드필드/등장인물",
+    "//Games/Games/엔드필드/Games/엔드필드/아이템"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
