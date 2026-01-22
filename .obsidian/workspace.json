@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/아이템/메밀꽃 가루.md",
+                "file": "Games/엔드필드/아이템/메밀꽃.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메밀꽃 가루"
+              "title": "메밀꽃"
             }
           },
           {
@@ -302,8 +302,9 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
-    "Games/엔드필드/등장인물/미겔.md",
     "Games/엔드필드/아이템/메밀꽃 가루.md",
+    "Games/엔드필드/아이템/메밀꽃.md",
+    "Games/엔드필드/등장인물/미겔.md",
     "Games/엔드필드/지역/4번 협곡.md",
     "Games/엔드필드/지역/지역.md",
     "Games/엔드필드/아이템/굳은 상태의 이향석.md",
@@ -337,7 +338,6 @@
     "images/Pasted image 20260112030651.png",
     "Developer/스마트팩토리/스마트팩토리.md",
     "Developer/스마트팩토리",
-    "Developer/자동제어/자동제어.md",
     "Developer/언어/Rust",
     "Developer/언어",
     "images/Pasted image 20251228200157.png",
