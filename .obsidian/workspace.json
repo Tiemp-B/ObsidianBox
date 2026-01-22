@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/엔드필드/지역/제강호.md",
+                "file": "Games/엔드필드/용어/앵커.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제강호"
+              "title": "앵커"
             }
           },
           {
@@ -302,8 +302,8 @@
   },
   "active": "d71ec199739c19dd",
   "lastOpenFiles": [
-    "Games/엔드필드/등장인물/관리자.md",
     "Games/엔드필드/지역/제강호.md",
+    "Games/엔드필드/등장인물/관리자.md",
     "Games/엔드필드/등장인물/안드레.md",
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
