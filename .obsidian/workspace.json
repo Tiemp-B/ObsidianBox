@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:security , tls, cryptography, network",
+                "query": "tag:리눅스, 학습, 우분투",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
