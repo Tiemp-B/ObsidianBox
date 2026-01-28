@@ -113,7 +113,6 @@
     "//기업 분석/기업 분석/세메스",
     "//잡것",
     "//Developer/Developer/언어/Developer/언어/Rust",
-    "//Developer/Developer/스마트팩토리",
     "//Games/Games/엔드필드",
     "//Games/Games/엔드필드/Games/엔드필드/용어",
     "//Games/Games/엔드필드/Games/엔드필드/등장인물",
@@ -124,7 +123,10 @@
     "//학습일지/학습일지/2026-01-28",
     "//지식창고",
     "//지식창고/지식창고/리눅스 설정",
-    "//지식창고/지식창고/리눅스"
+    "//지식창고/지식창고/리눅스",
+    "//Developer",
+    "//Developer/Developer/Linux",
+    "//Developer/Developer/Linux/Developer/Linux/명령어"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
