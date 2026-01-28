@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+                "file": "지식창고/리눅스/계정에 sudo 권한 부여.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 버츄얼 박스 생성"
+              "title": "계정에 sudo 권한 부여"
             }
           },
           {
@@ -140,7 +140,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:리눅스, 학습, 우분투",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -316,9 +316,13 @@
   },
   "active": "18e958787d0933d0",
   "lastOpenFiles": [
+    "지식창고/리눅스/계정에 sudo 권한 부여.md",
+    "지식창고/리눅스/리눅스.md",
+    "지식창고/반도체 공정/반도체 공정.md",
+    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "지식창고/리눅스",
     "학습일지/2026-01-28/2026-01-28.md",
     "학습일지/2026-01-28",
-    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
     "학습일지/학습일지.md",
     "학습일지",
     "지식창고/지식창고.md",
@@ -348,9 +352,6 @@
     "Games/엔드필드/등장인물/미겔.md",
     "images/Pasted image 20260122230944.png",
     "Games/엔드필드/등장인물/살만.md",
-    "Games/엔드필드/등장인물/진강척.md",
-    "Games/엔드필드/지역/4번 협곡.md",
-    "Games/엔드필드/아이템/메밀꽃 가루.md",
     "Games/엔드필드/아이템",
     "Games/엔드필드/지역",
     "Games/엔드필드/등장인물",
@@ -360,7 +361,6 @@
     "Games",
     "images/Pasted image 20260112030712.png",
     "images/Pasted image 20260112030651.png",
-    "Developer/스마트팩토리",
     "images/Pasted image 20251228200157.png"
   ]
 }
