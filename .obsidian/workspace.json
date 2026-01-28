@@ -39,12 +39,14 @@
             "id": "18e958787d0933d0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.5"
+              "icon": "lucide-file",
+              "title": "1. 버츄얼 박스 생성"
             }
           },
           {
@@ -314,6 +316,12 @@
   },
   "active": "18e958787d0933d0",
   "lastOpenFiles": [
+    "학습일지/2026-01-28/2026-01-28.md",
+    "학습일지/2026-01-28",
+    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "학습일지/학습일지.md",
+    "학습일지",
+    "지식창고/지식창고.md",
     "Games/엔드필드/등장인물/진천우.md",
     "Games/엔드필드/등장인물/팰리카.md",
     "Games/엔드필드/등장인물/레바테인.md",
@@ -343,12 +351,8 @@
     "Games/엔드필드/등장인물/진강척.md",
     "Games/엔드필드/지역/4번 협곡.md",
     "Games/엔드필드/아이템/메밀꽃 가루.md",
-    "Games/엔드필드/아이템/메밀꽃.md",
-    "Games/엔드필드/지역/지역.md",
-    "Games/엔드필드/아이템/아이템.md",
     "Games/엔드필드/아이템",
     "Games/엔드필드/지역",
-    "Games/엔드필드/Untitled.md",
     "Games/엔드필드/등장인물",
     "Games/엔드필드/타임라인",
     "Games/엔드필드/용어",
@@ -357,8 +361,6 @@
     "images/Pasted image 20260112030712.png",
     "images/Pasted image 20260112030651.png",
     "Developer/스마트팩토리",
-    "Developer/언어/Rust",
-    "Developer/언어",
     "images/Pasted image 20251228200157.png"
   ]
 }
