@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "18e958787d0933d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.5"
+            }
+          },
+          {
             "id": "c1815fb6e91d9a14",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             }
           },
           {
-            "id": "70f214b99904bf16",
+            "id": "cc92af0e4cb24b51",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -300,7 +312,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d71ec199739c19dd",
+  "active": "18e958787d0933d0",
   "lastOpenFiles": [
     "Games/엔드필드/등장인물/진천우.md",
     "Games/엔드필드/등장인물/팰리카.md",
