@@ -53,14 +53,12 @@
             "id": "36f7288be31b5b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Linux/디렉터리/dd.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Linux/디렉터리"
               },
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "디렉터리"
             }
           }
         ],
@@ -258,7 +256,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36f7288be31b5b33",
+  "active": "99cb4fd26c52b0ff",
   "lastOpenFiles": [
     "Developer/Linux/디렉터리/dd.md",
     "Developer/Linux/디렉터리/디렉터리.md",
