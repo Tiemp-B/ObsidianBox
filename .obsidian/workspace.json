@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/00. 리눅스.md",
+                "file": "Developer/Linux/01. 부트로더.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00. 리눅스"
+              "title": "01. 부트로더"
             }
           }
         ]
@@ -281,6 +281,7 @@
   "active": "619d71c622df240e",
   "lastOpenFiles": [
     "Developer/Linux/00. 리눅스.md",
+    "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/디렉터리/디렉터리.md",
     "Developer/Linux/디렉터리/dd.md",
     "Developer/Linux/명령어/mount.md",
@@ -313,7 +314,6 @@
     "Games/엔드필드/타임라인/표준시 3일 9시간.md",
     "Games/엔드필드/타임라인/타임라인.md",
     "Games/엔드필드/등장인물/관리자.md",
-    "Games/엔드필드/등장인물/이본.md",
     "images/Pasted image 20260122231525.png",
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
