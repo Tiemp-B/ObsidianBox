@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+                "file": "Developer/Linux/디렉터리/dd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 버츄얼 박스 생성"
+              "title": "dd"
             }
           }
         ],
@@ -260,11 +260,12 @@
   },
   "active": "36f7288be31b5b33",
   "lastOpenFiles": [
-    "Developer/Linux/디렉터리/.md",
-    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "Developer/Linux/디렉터리/dd.md",
     "Developer/Linux/디렉터리/디렉터리.md",
-    "Developer/Linux/디렉터리",
     "Developer/Linux/명령어/mount.md",
+    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "Developer/Linux/디렉터리/.md",
+    "Developer/Linux/디렉터리",
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어",
@@ -294,7 +295,6 @@
     "Games/엔드필드/등장인물/이본.md",
     "Games/엔드필드/용어/프로토타입.md",
     "images/Pasted image 20260122231525.png",
-    "Games/엔드필드/등장인물/안드레.md",
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
     "images/Pasted image 20260122230944.png",
