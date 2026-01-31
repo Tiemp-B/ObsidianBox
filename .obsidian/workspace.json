@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/mount.md",
+                "file": "Developer/Linux/02. 파티션.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "mount"
+              "title": "02. 파티션"
             }
           }
         ],
@@ -293,12 +293,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36f7288be31b5b33",
+  "active": "53fa05b6d0de298e",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/mount.md",
     "Developer/Linux/02. 파티션.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/00. 리눅스.md",
-    "Developer/Linux/명령어/mount.md",
     "Developer/Linux/Linux.md",
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/디렉터리/디렉터리.md",
