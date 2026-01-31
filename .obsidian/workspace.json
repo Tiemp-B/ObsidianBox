@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/Untitled.md",
+                "file": "Developer/Linux/02. 파티션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "02. 파티션"
             }
           }
         ],
@@ -295,7 +295,7 @@
   },
   "active": "36f7288be31b5b33",
   "lastOpenFiles": [
-    "Developer/Linux/Untitled.md",
+    "Developer/Linux/02. 파티션.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/명령어/mount.md",
