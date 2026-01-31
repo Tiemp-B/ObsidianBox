@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Linux/02. 파티션.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -293,7 +293,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53fa05b6d0de298e",
+  "active": "36f7288be31b5b33",
   "lastOpenFiles": [
     "Developer/Linux/명령어/mount.md",
     "Developer/Linux/02. 파티션.md",
