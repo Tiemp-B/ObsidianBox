@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/Linux.md",
+                "file": "Developer/Linux/명령어/mount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "mount"
             }
           }
         ],
@@ -295,6 +295,7 @@
   },
   "active": "53fa05b6d0de298e",
   "lastOpenFiles": [
+    "Developer/Linux/Linux.md",
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/디렉터리/디렉터리.md",
@@ -328,7 +329,6 @@
     "Games/엔드필드/용어/프로토콜 코어.md",
     "Games/엔드필드/타임라인/표준시 3일 9시간.md",
     "Games/엔드필드/타임라인/타임라인.md",
-    "Games/엔드필드/등장인물/관리자.md",
     "images/Pasted image 20260122231525.png",
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
