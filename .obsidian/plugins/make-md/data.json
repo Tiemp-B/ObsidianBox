@@ -125,7 +125,8 @@
     "//지식창고/지식창고/리눅스 설정",
     "//Developer",
     "//Developer/Developer/Linux",
-    "//Developer/Developer/Linux/Developer/Linux/디렉터리"
+    "//Developer/Developer/Linux/Developer/Linux/디렉터리",
+    "//지식창고/지식창고/Box"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
