@@ -15,5 +15,5 @@ tags:
 
 # 연관 명령어
 
-
+- unalias
 
