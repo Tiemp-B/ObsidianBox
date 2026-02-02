@@ -15,8 +15,8 @@ alias mm=[지정 명령어]
 - p
 	설정된 alias 명령어를 출력한다.
 # 예제
-```
-
+```bash
+alias mm='ls -al | more'
 ```
 
 # 연관 명령어
