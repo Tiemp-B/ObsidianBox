@@ -27,4 +27,6 @@ whereis 명령어
 
 # 연관 명령어
 
-
+- whatis
+- info
+- ap
