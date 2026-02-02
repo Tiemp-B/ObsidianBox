@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Command template.md",
+                "file": "Developer/Linux/명령어/info.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Command template"
+              "title": "info"
             }
           }
         ],
@@ -295,10 +295,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53fa05b6d0de298e",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
     "_templates/Command template.md",
+    "Developer/Linux/명령어/info.md",
     "Developer/Linux/명령어/man.md",
+    "Developer/Linux/명령어/Untitled.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/unalias.md",
     "Developer/Linux/명령어/alias.md",
@@ -322,10 +324,8 @@
     "Developer/Linux/디렉터리/디렉터리.md",
     "Developer/Linux/디렉터리/dd.md",
     "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
-    "Developer/Linux/디렉터리/.md",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
-    "지식창고/리눅스/리눅스.md",
     "지식창고/리눅스",
     "학습일지/2026-01-28",
     "학습일지",

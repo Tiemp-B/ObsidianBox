@@ -35,4 +35,4 @@ man 2 uname
 
 - [[info]]
 - [[whatis]]
-- [[]]
+
