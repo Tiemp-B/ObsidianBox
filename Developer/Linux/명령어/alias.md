@@ -21,5 +21,6 @@ alias mm='ls -al | more'
 
 # 연관 명령어
 
-- unalias
+- [[unalias]]
+
 
