@@ -33,4 +33,6 @@ man 2 uname
 
 # 연관 명령어
 
-
+- [[info]]
+- [[whatis]]
+- [[]]
