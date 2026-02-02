@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "53fa05b6d0de298e",
+            "id": "4d5f1a29e3144e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -281,11 +281,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "4d5f1a29e3144e62",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/whatis.md",
-    "Developer/Linux/명령어/whereis.md",
+    "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/명령어/apropos.md",
+    "Developer/Linux/명령어/whereis.md",
+    "Developer/Linux/명령어/whatis.md",
     "Developer/Linux/명령어/info.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/fdisk.md",
@@ -308,7 +309,6 @@
     "Developer/보안/보안.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/Linux.md",
-    "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/디렉터리/디렉터리.md",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
