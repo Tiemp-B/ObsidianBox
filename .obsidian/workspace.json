@@ -92,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/Box/kerberos.md",
+                "file": "Developer/Linux/명령어/fdisk.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "kerberos"
+              "title": "fdisk"
             }
           }
         ],
@@ -297,15 +297,16 @@
   },
   "active": "53fa05b6d0de298e",
   "lastOpenFiles": [
-    "Developer/Linux/02. 파티션.md",
+    "Developer/Linux/명령어/fdisk.md",
+    "Developer/Linux/명령어/명령어.md",
     "지식창고/Box/kerberos.md",
+    "Developer/Linux/02. 파티션.md",
     "지식창고/Box/Box.md",
     "지식창고/Box",
     "지식창고/지식창고.md",
     "지식창고/반도체 공정/반도체 공정.md",
     "Developer/보안/보안.md",
     "Developer/Linux/명령어/mount.md",
-    "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/Linux.md",
     "Developer/Linux/01. 부트로더.md",
@@ -330,7 +331,6 @@
     "Games/엔드필드/아이템/굳은 상태의 이향석.md",
     "images/Pasted image 20260122232740.png",
     "Games/엔드필드/용어/프로토콜 전송 지점.md",
-    "Developer/국제 표준/RS-232.md",
     "images/Pasted image 20260122232523.png",
     "images/Pasted image 20260122231525.png",
     "images/Pasted image 20260122231126.png",
