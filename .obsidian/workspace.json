@@ -85,20 +85,6 @@
               "icon": "lucide-file",
               "title": "man"
             }
-          },
-          {
-            "id": "bbc740e0017733e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Cornell Type.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cornell Type"
-            }
           }
         ],
         "currentTab": 1
@@ -297,10 +283,10 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/info.md",
-    "_templates/Command template.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/whatis.md",
+    "Developer/Linux/명령어/info.md",
+    "_templates/Command template.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/unalias.md",
     "Developer/Linux/명령어/alias.md",
