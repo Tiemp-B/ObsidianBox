@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/info.md",
+                "file": "Developer/Linux/명령어/whatis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "info"
+              "title": "whatis"
             }
           }
         ],
@@ -297,10 +297,10 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "_templates/Command template.md",
     "Developer/Linux/명령어/info.md",
+    "_templates/Command template.md",
     "Developer/Linux/명령어/man.md",
-    "Developer/Linux/명령어/Untitled.md",
+    "Developer/Linux/명령어/whatis.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/unalias.md",
     "Developer/Linux/명령어/alias.md",
