@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/whereis.md",
+                "file": "Developer/Linux/명령어/passwd.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "whereis"
+              "title": "passwd"
             }
           }
         ],
@@ -281,10 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d5f1a29e3144e62",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/whereis.md",
     "Developer/Linux/명령어/useradd.md",
+    "Developer/Linux/명령어/passwd.md",
+    "Developer/Linux/명령어/whereis.md",
     "Developer/Linux/명령어/apropos.md",
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/명령어/whatis.md",
@@ -309,7 +310,6 @@
     "지식창고/반도체 공정/반도체 공정.md",
     "Developer/보안/보안.md",
     "Developer/Linux/00. 리눅스.md",
-    "Developer/Linux/Linux.md",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
     "지식창고/리눅스",
