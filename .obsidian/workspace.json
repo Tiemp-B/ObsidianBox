@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/Untitled.md",
+                "file": "_templates/Command template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Command template"
             }
           }
         ],
@@ -85,9 +85,23 @@
               "icon": "lucide-file",
               "title": "fdisk"
             }
+          },
+          {
+            "id": "bbc740e0017733e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Cornell Type.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cornell Type"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,7 +297,8 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "_templates/Untitled.md",
+    "_templates/Cornell Type.md",
+    "_templates/Command template.md",
     "_templates/_templates.md",
     "Developer/Linux/명령어/which.md",
     "Developer/Linux/명령어/mount.md",
@@ -314,7 +329,6 @@
     "학습일지",
     "Games/엔드필드/등장인물/진천우.md",
     "Games/엔드필드/등장인물/팰리카.md",
-    "Games/엔드필드/등장인물/레바테인.md",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
