@@ -37,35 +37,21 @@
             }
           },
           {
-            "id": "0ca4d4cb21f0fb46",
+            "id": "9fb34c6cdcd9a366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/mount.md",
+                "file": "Developer/Linux/명령어/which.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mount"
-            }
-          },
-          {
-            "id": "36f7288be31b5b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "지식창고/Box/kerberos.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kerberos"
+              "title": "which"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "487018fb659e5535",
@@ -295,18 +281,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53fa05b6d0de298e",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/mount.md",
+    "Developer/Linux/명령어/which.md",
+    "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "Developer/Linux/명령어/fdisk.md",
-    "Developer/Linux/명령어/명령어.md",
     "지식창고/Box/kerberos.md",
+    "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/02. 파티션.md",
     "지식창고/Box/Box.md",
     "지식창고/Box",
     "지식창고/지식창고.md",
     "지식창고/반도체 공정/반도체 공정.md",
     "Developer/보안/보안.md",
-    "Developer/Linux/명령어/mount.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/Linux.md",
     "Developer/Linux/01. 부트로더.md",
@@ -315,7 +303,6 @@
     "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
     "Developer/Linux/디렉터리/.md",
     "Developer/Linux/디렉터리",
-    "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "Developer/Linux/명령어",
     "지식창고/리눅스/리눅스.md",
     "지식창고/리눅스",
@@ -330,7 +317,6 @@
     "images/Pasted image 20260122232754.png",
     "Games/엔드필드/아이템/굳은 상태의 이향석.md",
     "images/Pasted image 20260122232740.png",
-    "Games/엔드필드/용어/프로토콜 전송 지점.md",
     "images/Pasted image 20260122232523.png",
     "images/Pasted image 20260122231525.png",
     "images/Pasted image 20260122231126.png",
