@@ -29,4 +29,6 @@ whereis 명령어
 
 - whatis
 - info
-- ap
+- apropos
+- man
+
