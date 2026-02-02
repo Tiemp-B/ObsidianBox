@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/whatis.md",
+                "file": "Developer/Linux/명령어/whereis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "whatis"
+              "title": "whereis"
             }
           }
         ],
@@ -281,14 +281,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53fa05b6d0de298e",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/info.md",
+    "Developer/Linux/명령어/whatis.md",
+    "Developer/Linux/명령어/whereis.md",
     "Developer/Linux/명령어/apropos.md",
+    "Developer/Linux/명령어/info.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/fdisk.md",
     "Developer/Linux/명령어/mount.md",
-    "Developer/Linux/명령어/whatis.md",
     "Developer/Linux/명령어/which.md",
     "_templates/Command template.md",
     "Developer/Linux/명령어/명령어.md",
@@ -309,7 +310,6 @@
     "Developer/Linux/Linux.md",
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/디렉터리/디렉터리.md",
-    "Developer/Linux/디렉터리/dd.md",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
     "지식창고/리눅스",
