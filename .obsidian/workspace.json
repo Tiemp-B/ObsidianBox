@@ -40,14 +40,12 @@
             "id": "9fb34c6cdcd9a366",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Linux/특수 목적 파일/Untitled.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Linux/특수 목적 파일"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "특수 목적 파일"
             }
           }
         ],
@@ -281,9 +279,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "7c8b2a2d376bbfa6",
   "lastOpenFiles": [
-    "Developer/Linux/특수 목적 파일/Untitled.md",
+    "Developer/Linux/특수 목적 파일/.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/00. 리눅스.md",
     "Developer/Linux/특수 목적 파일",
