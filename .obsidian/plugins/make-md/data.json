@@ -127,7 +127,8 @@
     "//Developer/Developer/Linux",
     "//지식창고/지식창고/Box",
     "//_templates",
-    "//Developer/Developer/Linux/Developer/Linux/디렉터리"
+    "//Developer/Developer/Linux/Developer/Linux/디렉터리",
+    "//Developer/Developer/Linux/Developer/Linux/특수 목적 파일"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
