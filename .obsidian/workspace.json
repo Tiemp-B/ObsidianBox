@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 54.95552731893266,
+        "dimension": 54.95552731893267,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -54,7 +54,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 45.04447268106734,
+        "dimension": 45.04447268106733,
         "children": [
           {
             "id": "619d71c622df240e",
@@ -139,7 +139,7 @@
             }
           },
           {
-            "id": "61d1b88364b594e8",
+            "id": "829fd21a44da4042",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -279,7 +279,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "3e7d3e1b526ec64e",
   "lastOpenFiles": [
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/특수 목적 파일/.md",
