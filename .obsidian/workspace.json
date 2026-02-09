@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -295,8 +295,11 @@
   },
   "active": "658631c494ffc3d0",
   "lastOpenFiles": [
-    "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/Untitled.md",
     "지식창고/리눅스/리눅스 마스터 1급/리눅스 마스터 1급.md",
+    "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/PART 01. 리눅스 실무의 이해.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해",
     "지식창고/리눅스/리눅스 마스터 1급",
     "지식창고/리눅스/리눅스.md",
     "학습일지/2026-02/2026-02-09.md",
@@ -323,14 +326,11 @@
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/명령어/whatis.md",
     "Developer/Linux/명령어/info.md",
-    "Developer/Linux/명령어/man.md",
-    "Developer/Linux/명령어/fdisk.md",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
     "지식창고/리눅스",
     "학습일지/2026-01/2026-01-28",
-    "학습일지",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
