@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습일지/2026-02/2026-02-09.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "Untitled"
             }
           }
         ],
@@ -295,11 +295,15 @@
   },
   "active": "658631c494ffc3d0",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
+    "지식창고/리눅스/리눅스 마스터 1급/리눅스 마스터 1급.md",
+    "지식창고/리눅스/리눅스 마스터 1급",
+    "지식창고/리눅스/리눅스.md",
+    "학습일지/2026-02/2026-02-09.md",
     "학습일지/2026-02/2026-02.md",
     "학습일지/2026-01/2026-01-28/2026-01-28.md",
     "학습일지/2026-01/2026-01.md",
     "Developer/CS/CS.md",
-    "학습일지/2026-02/2026-02-09.md",
     "학습일지/2026-01/Untitledㅅㄷ.md",
     "학습일지/학습일지.md",
     "학습일지/2026-01/2026-01-28/1. 버츄얼 박스 생성.md",
@@ -321,9 +325,6 @@
     "Developer/Linux/명령어/info.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/fdisk.md",
-    "Developer/Linux/명령어/mount.md",
-    "Developer/Linux/명령어/which.md",
-    "_templates/Command template.md",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
@@ -337,7 +338,6 @@
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
     "images/Pasted image 20260122230944.png",
-    "Games/엔드필드/아이템",
     "images/Pasted image 20260112030712.png",
     "images/Pasted image 20260112030651.png",
     "images/Pasted image 20251228200157.png"
