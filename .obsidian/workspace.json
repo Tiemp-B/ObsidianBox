@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+                "file": "학습일지/2026-01/Untitledㅅㄷ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 버츄얼 박스 생성"
+              "title": "Untitledㅅㄷ"
             }
           }
         ],
@@ -293,8 +293,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "658631c494ffc3d0",
+  "active": "829fd21a44da4042",
   "lastOpenFiles": [
+    "학습일지/2026-01/Untitledㅅㄷ.md",
+    "학습일지/2026-01-28/2026-01-28.md",
+    "학습일지/학습일지.md",
+    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "학습일지/2026-02/2026-02.md",
+    "학습일지/2026-02",
+    "학습일지/2026-01/2026-01.md",
+    "학습일지/2026-01",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/특수 목적 파일/.md",
     "Developer/Linux/00. 리눅스.md",
@@ -316,12 +324,6 @@
     "_templates/Command template.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/unalias.md",
-    "Developer/Linux/명령어/alias.md",
-    "Developer/Linux/명령어/.md",
-    "_templates/Cornell Type.md",
-    "_templates/_templates.md",
-    "지식창고/리눅스/계정에 sudo 권한 부여.md",
-    "지식창고/Box/kerberos.md",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
@@ -336,8 +338,6 @@
     "images/Pasted image 20260122231105.png",
     "images/Pasted image 20260122230944.png",
     "Games/엔드필드/아이템",
-    "Games/엔드필드/지역",
-    "Games/엔드필드/등장인물",
     "images/Pasted image 20260112030712.png",
     "images/Pasted image 20260112030651.png",
     "images/Pasted image 20251228200157.png"

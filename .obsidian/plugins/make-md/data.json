@@ -120,7 +120,6 @@
     "//Games/Games/엔드필드/Games/엔드필드/지역",
     "//Games/Games/엔드필드/Games/엔드필드/타임라인",
     "//학습일지",
-    "//학습일지/학습일지/2026-01-28",
     "//지식창고",
     "//지식창고/지식창고/리눅스 설정",
     "//Developer",
@@ -128,7 +127,8 @@
     "//지식창고/지식창고/Box",
     "//_templates",
     "//Developer/Developer/Linux/Developer/Linux/디렉터리",
-    "//Developer/Developer/Linux/Developer/Linux/특수 목적 파일"
+    "//Developer/Developer/Linux/Developer/Linux/특수 목적 파일",
+    "//학습일지/학습일지/2026-01"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
