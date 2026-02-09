@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습일지/2026-01/Untitledㅅㄷ.md",
+                "file": "학습일지/2026-02/2026-02-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitledㅅㄷ"
+              "title": "2026-02-09"
             }
           }
         ],
@@ -293,12 +293,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "829fd21a44da4042",
+  "active": "658631c494ffc3d0",
   "lastOpenFiles": [
     "학습일지/2026-01/Untitledㅅㄷ.md",
-    "학습일지/2026-01-28/2026-01-28.md",
+    "학습일지/2026-02/2026-02-09.md",
+    "학습일지/2026-01/2026-01-28/2026-01-28.md",
     "학습일지/학습일지.md",
-    "학습일지/2026-01-28/1. 버츄얼 박스 생성.md",
+    "학습일지/2026-01/2026-01-28/1. 버츄얼 박스 생성.md",
     "학습일지/2026-02/2026-02.md",
     "학습일지/2026-02",
     "학습일지/2026-01/2026-01.md",
@@ -323,12 +324,11 @@
     "Developer/Linux/명령어/which.md",
     "_templates/Command template.md",
     "Developer/Linux/명령어/명령어.md",
-    "Developer/Linux/명령어/unalias.md",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
     "지식창고/리눅스",
-    "학습일지/2026-01-28",
+    "학습일지/2026-01/2026-01-28",
     "학습일지",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
