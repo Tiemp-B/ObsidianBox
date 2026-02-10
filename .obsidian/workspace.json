@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -320,8 +320,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51ebce24afdae266",
+  "active": "658631c494ffc3d0",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/커널.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/SECTION 01. 운영체제의 개요.md",
     "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/CHAPTER 01. 리눅스의 개요.md",
@@ -353,7 +354,6 @@
     "Developer/Linux/명령어/useradd.md",
     "Developer/Linux/명령어/whereis.md",
     "Developer/Linux/명령어/apropos.md",
-    "Developer/Linux/01. 부트로더.md",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
     "Developer/Linux/명령어",
