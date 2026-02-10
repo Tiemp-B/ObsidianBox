@@ -109,6 +109,16 @@
 ## OS의 사례
 ### 데스크톱 및 서버 운영체제
 1. Windows
+	- 1975년 빌 게이츠와 폴 앨런이 설립한 마이크로소프트에서 제작한 GUI 기반 PC OS
+	- 
+2. Windows
+	- 
+3. Windows
+	- 
+4. Windows
+	- 
+5. Windows
+	- 
 
 
 
