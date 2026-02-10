@@ -71,7 +71,13 @@
 3. 시분할 시스템(Time Sharing System)
 	- '타임 슬라이스' 또는 '타임 퀀텀' 단위로 작업을 전환하여 실행
 4. 다중 처리 시스템(Multi-Processing System)
-	- 복수 개의 CPU를 통해 ㅂ
+	- 병령 처리 시스템
+	- 복수 개의 CPU를 통해 복수 개의 작업을 처리하는 운용 기법
+	- 종류
+		- 비대칭적 다중 처리
+			- 프로세스 간 주종 관계 존재
+			- 주 프로세
+		- 대칭적 다중 처리
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
 6. 다중 모드 시스템(Multi-Mode System)
