@@ -63,7 +63,11 @@
 	- 초기 OS 형태
 	- 여러 작업을 묶어서 한 번에 처리
 	- OS가 처리를 시작하면 대기해야 함
-	- 작업들이 처리
+	- 처리 중 시스템 이용 불가 -> 효율성 낮음
+2. 다중 프로그래밍 시스템(Multi Programming System)
+3. 시분할 시스템(Time Sharing System)
+4. 다중 처리 시스템(Multi-Processing System)
+5. 
 
 
 
