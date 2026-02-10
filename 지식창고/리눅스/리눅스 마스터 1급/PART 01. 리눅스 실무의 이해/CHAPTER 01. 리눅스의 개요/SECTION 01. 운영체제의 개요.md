@@ -110,9 +110,10 @@
 ### 데스크톱 및 서버 운영체제
 1. Windows
 	- 1975년 빌 게이츠와 폴 앨런이 설립한 마이크로소프트에서 제작한 GUI 기반 PC OS
-	- Windows 10의 모체가 되는 운영체제는 NT 커널(MS사가 개발한 OS 커널)
-2. Windows
-	- 
+	- Windows 10의 모체가 되는 운영체제는 NT 커널(MS사가 개발한 OS 커널)을 탑재한 Windows NT 3.1이다. 
+2. macOS
+	- 스티브 잡스와 스티브 워즈니악이 설립한 애플에서 개발한 유닉스/다윈 기반 Mac 기기 전용 OS
+	- tmxlqm wkqtmrk tjfflqgoTejs ㅜㄷㅌㅆdptj 
 3. Windows
 	- 
 4. Windows
