@@ -143,7 +143,9 @@
 
 ### IoT OS
 1. Linux
-2. 
+2. Windows IoT
+3. RTOS
+4. 경량 OS
 
 
 
