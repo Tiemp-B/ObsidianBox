@@ -82,7 +82,7 @@
 			- Symmetric Multi-Processing
 				- 모든 프로세서가 동등한 권한을 가지고 OS를 공유
 				- 모든 프로세서가 단일 공유 메모리에 접근, 동일 입출력 장치와 버스 사용 => 긴밀 결합
-				- 
+				- 대부분의 현대 서버와 워크스테이션, 
 			- Massively Parallel Processing
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
