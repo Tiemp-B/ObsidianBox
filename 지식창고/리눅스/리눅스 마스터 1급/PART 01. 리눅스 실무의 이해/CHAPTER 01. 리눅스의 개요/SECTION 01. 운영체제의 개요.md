@@ -77,7 +77,7 @@
 		- 비대칭적 다중 처리
 			- 프로세스 간 주종 관계 존재
 			- 주 프로세스의 대기 큐의 프로세스를 종 프로세스에 할당 처리
-			- 
+			- 시스템 콜이나 인터럽트 처리 같은 OS 기능은 주 프로
 		- 대칭적 다중 처리
 			- Symmetric Multi-Processing
 			- Massively Parallel Processing
