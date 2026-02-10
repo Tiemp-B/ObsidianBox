@@ -7,7 +7,12 @@ APT와 dpkg를 패키지 관리자로 사용하며 안정성을 최우선으로 
 - Mint
 ### Red Hat
 RHEL은 상업용 배포판으로 기업 환경에 최적화 됨
--
+RPM과 YUM/DNF를 패키지 관리자로 사용
+- RHEL
+- Fedora
+	- RHEL의 커뮤니티 버전으로 최신 기술을 빠르게 도입
+- CentOS
+	- RHEL의 무료 클론이었지만 CentOS Stream으로 전환되어 RHEL의 upstream 버전이 됨
 
 ### Arch 계열
 
