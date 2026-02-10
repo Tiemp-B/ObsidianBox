@@ -76,8 +76,10 @@
 	- 종류
 		- 비대칭적 다중 처리
 			- 프로세스 간 주종 관계 존재
-			- 주 프로세
+			- 주 프로세스의 명령에 따라 종 프로세스 처리
 		- 대칭적 다중 처리
+			- Symmetric Multi-Processing
+			- Massively Parallel Processing
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
 6. 다중 모드 시스템(Multi-Mode System)
