@@ -86,7 +86,7 @@
 			- Massively Parallel Processing
 				- 각 프로세서가 독립적인 메모리와 OS를 가진다.
 				- 수많은 프로세서 노드로 확장 가능
-				- **느슨한 결합 시스템**
+				- **느슨한 결합 시스템** => 노드는 사실상 독립된 컴퓨
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
 6. 다중 모드 시스템(Multi-Mode System)
