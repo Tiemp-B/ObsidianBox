@@ -61,21 +61,9 @@
               "icon": "lucide-file",
               "title": "SECTION 01. 운영체제의 개요"
             }
-          },
-          {
-            "id": "3a04ffc820486954",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.7"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -305,7 +293,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a04ffc820486954",
+  "active": "658631c494ffc3d0",
   "lastOpenFiles": [
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/CHAPTER 01. 리눅스의 개요.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/SECTION 01. 운영체제의 개요.md",
