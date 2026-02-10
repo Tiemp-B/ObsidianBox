@@ -5,6 +5,10 @@ APT와 dpkg를 패키지 관리자로 사용하며 안정성을 최우선으로 
 - Ubuntu
 	- Kubuntu, Xubuntu, Ubuntu Server 등 다양한 변형 있음
 - Mint
+- Knoppix
+	- 독일에서 개발한 라이브 CD/DVD 리눅스 배포판
+	- CD/DVD나 USB에서 직접 부티이 가능하다
+- Corel
 ### Red Hat
 RHEL은 상업용 배포판으로 기업 환경에 최적화 됨
 RPM과 YUM/DNF를 패키지 관리자로 사용
