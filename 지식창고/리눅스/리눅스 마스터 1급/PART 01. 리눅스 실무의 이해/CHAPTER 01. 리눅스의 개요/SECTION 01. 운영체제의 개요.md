@@ -92,7 +92,11 @@
 				- 슈퍼컴퓨터, 대규모 데이터베이스 시스템(Teradata, Greenplum), 과학 계산, 빅데이터 분석 등
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 작업 요청의 수행 결과가 요구 시간 내에 반환되야 한다
-	- 
+	- 엄격한 정도에 따라서 재분류
+		- 경성 실시간 처리 시스템
+			- 반드시 처리 완료되야 한다.
+			- 무기 제어, 산업 로봇 등
+		- 연성 실시간 처리 시스템
 6. 다중 모드 시스템(Multi-Mode System)
 7. 분산 처리 시스템(Distribute Processing System)
 
