@@ -36,7 +36,7 @@
 	Layer 3 : Inter-Process Communication
 	Layer 4 : 입출력 관리와 장치 드라이버를 포함
 	Layer 5 : 파일 시스템을 제공
-	Layer 6 : 
+	최상위 계층 : 사용자 프로그램과 인터페이스
 
 
 3. 사용자 <-> 응용 프로그램
