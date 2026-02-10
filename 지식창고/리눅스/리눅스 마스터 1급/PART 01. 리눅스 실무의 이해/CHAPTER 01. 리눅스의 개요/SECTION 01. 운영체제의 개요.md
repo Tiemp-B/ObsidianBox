@@ -89,7 +89,9 @@
 				- **느슨한 결합 시스템** => 노드는 사실상 독립된 컴퓨터
 				- **메시지 전달** 방식 프로세서 간 통신 -> 고속 네트워 인터커넥트(InfiniBand, Ethernet 등)
 				- 작업은 명시적으로 여러 노드에 분할, 각 노드가 독립적 처리
+				- 슈퍼컴퓨터, 대규모 데이터베이스 시스템(Teradata, Greenplum), 과학 계산, 빅데이터 분석 등
 5. 실시간 처리 시스템(Real Time Processing System)
+	- 작업 요청의 수행 결과가 요구 시간 내에 반환되야 한다
 	- 
 6. 다중 모드 시스템(Multi-Mode System)
 7. 분산 처리 시스템(Distribute Processing System)
