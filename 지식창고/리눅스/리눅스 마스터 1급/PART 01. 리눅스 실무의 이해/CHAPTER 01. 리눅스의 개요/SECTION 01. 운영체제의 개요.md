@@ -82,8 +82,11 @@
 			- Symmetric Multi-Processing
 				- 모든 프로세서가 동등한 권한을 가지고 OS를 공유
 				- 모든 프로세서가 단일 공유 메모리에 접근, 동일 입출력 장치와 버스 사용 => 긴밀 결합
-				- 대부분의 현대 서버와 워크스테이션, 
+				- 대부분의 현대 서버와 워크스테이션, 윈도우즈 서버, 리눅스, 유닉스 등이 지원
 			- Massively Parallel Processing
+				- 각 프로세서가 독립적인 메모리와 OS를 가진다.
+				- 수많은 프로세서 노드로 확장 가능
+				- **느슨한 결합 시스템**
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
 6. 다중 모드 시스템(Multi-Mode System)
