@@ -67,8 +67,9 @@
 2. 다중 프로그래밍 시스템(Multi Programming System)
 	- 일괄 처리 시스템의 유휴 자원을 사용하는 것이 목적
 	- 하나의 입출력 중 다른 작업을 할당하여 CPU 사용률과 처리량을 향상
+	- 작업 단위로 CPU 스케줄링 수행
 3. 시분할 시스템(Time Sharing System)
-	- 
+	- '타임 슬라이스', '타이'
 4. 다중 처리 시스템(Multi-Processing System)
 	- 
 5. 실시간 처리 시스템(Real Time Processing System)
