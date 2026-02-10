@@ -80,7 +80,9 @@
 			- 시스템 콜이나 인터럽트 처리 같은 OS 기능은 주 프로세서가 처리
 		- 대칭적 다중 처리
 			- Symmetric Multi-Processing
-				
+				- 모든 프로세서가 동등한 권한을 가지고 OS를 실행
+				- 각자 스케줄링 수행
+				- 
 			- Massively Parallel Processing
 5. 실시간 처리 시스템(Real Time Processing System)
 	- 
