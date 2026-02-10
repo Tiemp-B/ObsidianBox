@@ -67,7 +67,9 @@
 2. 다중 프로그래밍 시스템(Multi Programming System)
 3. 시분할 시스템(Time Sharing System)
 4. 다중 처리 시스템(Multi-Processing System)
-5. 
+5. 실시간 처리 시스템(Real Time Processing System)
+6. 다중 모드 시스템(Multi-Mode System)
+7. 분산 처리 시스템(Di)
 
 
 
