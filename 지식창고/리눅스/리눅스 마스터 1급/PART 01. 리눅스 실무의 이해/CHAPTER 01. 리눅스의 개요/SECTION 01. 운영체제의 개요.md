@@ -140,7 +140,8 @@
 	- 
 2. iOS, watchOS, iPadOS, tvOS
 3. Tizen
-	- 
+	- 인텔과 삼성의 주도로 개발한 리눅스 기반 오픈소스 모바일, 웨어러블, IVI 기기용 OS
+	- 스마트 TV 및 스마트 웣
 4. Embedded Linux
 
 ### IoT OS
