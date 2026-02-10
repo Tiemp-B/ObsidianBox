@@ -33,7 +33,7 @@
 	Layer 0 : 물리적 자원 -> CPU, 메모리, 디스크 등
 	Layer 1 : CPU 스케줄링과 프로세스 관리 
 	Layer 2 : 메모리 관리 -> 가상 메모리, 페이징
-	Layer 3 : Intercourse Process Communication
+	Layer 3 : Inter-Process Communication
 
 
 3. 사용자 <-> 응용 프로그램
