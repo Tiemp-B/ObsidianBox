@@ -15,8 +15,15 @@ RPM과 YUM/DNF를 패키지 관리자로 사용
 	- RHEL의 무료 클론이었지만 CentOS Stream으로 전환되어 RHEL의 upstream 버전이 됨
 
 ### Arch 계열
+단순성과 최신성을 중점으로 한 롤링 릴리스 배포판
+Pacman을 패키지 관리자로 사용
+- Arch Linux
+- Manjaro
 
 ### SUSE 계열
+독일 기반의 배포판
+YaST를 관리도구로 제공
+
 
 ### Gentoo 계열
 
