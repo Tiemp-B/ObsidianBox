@@ -127,9 +127,11 @@
 		- [[RHEL]]
 		- [[CentOS]]
 		- [[Rocky]]
-		- [[Ubuntu Server]]
-4. Windows
-	- 
+		- Ubuntu Server
+		- 등
+4. Unix
+	- 1969년 AT&T 사의 벨 연구소 소속 켄 톰슨 및 데니스 리치에 의해 개발된 범용 다중 사용자 방식 시분할 OS
+	- 상당수 C언어로 개발되어 있어 새롱
 5. Windows
 	- 
 
