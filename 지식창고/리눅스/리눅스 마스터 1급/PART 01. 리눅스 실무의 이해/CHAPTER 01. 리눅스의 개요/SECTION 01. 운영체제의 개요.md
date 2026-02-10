@@ -113,8 +113,9 @@
 	- Windows 10의 모체가 되는 운영체제는 NT 커널(MS사가 개발한 OS 커널)을 탑재한 Windows NT 3.1이다. 
 2. macOS
 	- 스티브 잡스와 스티브 워즈니악이 설립한 애플에서 개발한 유닉스/다윈 기반 Mac 기기 전용 OS
-	- tmxlqm wkqtmrk tjfflqgoTejs ㅜㄷㅌㅆdptj 
-3. Windows
+	- NeXT사에서 만든 NeXTSTEP 후속 OS
+3. Linux
+	- 리누스 토발즈가 Unix에 호환되는 OS를 개발, 1991년 9월 17일에 0.01버전 개발
 	- 
 4. Windows
 	- 
