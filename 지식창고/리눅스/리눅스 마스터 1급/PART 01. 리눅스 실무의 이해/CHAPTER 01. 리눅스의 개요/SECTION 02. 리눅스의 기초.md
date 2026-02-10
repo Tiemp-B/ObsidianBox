@@ -40,7 +40,9 @@ YaST를 관리도구로 제공
 - Ubuntu Studio
 	멀티미디어 제작에 최적화
 - Raspbian
-	라즈베리파이용
+	라즈베리파이용 OS
+- Android
+	리눅스 커널 기반의 모바일 OS
 
 
 
