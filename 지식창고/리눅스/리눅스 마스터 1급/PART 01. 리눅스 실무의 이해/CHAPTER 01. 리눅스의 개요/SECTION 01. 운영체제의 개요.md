@@ -30,8 +30,10 @@
 	각 모듈 간의 경계가 명확하지 않아 모든 커널 함수가 서로를 직접 호출 가능
 2. 계층형 구조(Layered)
 	기능을 여러 계층으로 분리하여 각 계층이 명확한 역할과 인터페이스를 가지는 구
-	Layer 0 : 물리작 자원 -> CPU, 메모리, 디스크 등
-	Layer 1 : 
+	Layer 0 : 물리적 자원 -> CPU, 메모리, 디스크 등
+	Layer 1 : CPU 스케줄링과 프로세스 관리 
+	Layer 2 : 메모리 관리 -> 가상 메모리, 페이징
+	Layer 3 : Intercourse Process Communication
 
 
 3. 사용자 <-> 응용 프로그램
