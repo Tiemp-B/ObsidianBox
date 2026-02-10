@@ -129,12 +129,21 @@
 		- [[Rocky]]
 		- Ubuntu Server
 		- 등
-4. Unix
+4. UNIX
 	- 1969년 AT&T 사의 벨 연구소 소속 켄 톰슨 및 데니스 리치에 의해 개발된 범용 다중 사용자 방식 시분할 OS
 	- 상당수 C언어로 개발되어 있어 새로운 플랫폼에 이식하기 용이
 	- 명령행 인터프리터, 계층적 파일 시스템, 장치와 프로세스 간 통신을 파일을 매개체로 수행하는 것이 특징
 	- System V 계여로가 BSD 계열이 대표적
 
+### Mobile and Embedded OS
+1. Android
+2. iOS, watchOS, iPadOS, tvOS
+3. Tizen
+4. Embedded Linux
+
+### IoT OS
+1. Linux
+2. 
 
 
 
