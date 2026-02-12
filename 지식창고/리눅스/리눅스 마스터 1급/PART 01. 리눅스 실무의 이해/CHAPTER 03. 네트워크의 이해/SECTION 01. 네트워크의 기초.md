@@ -26,7 +26,7 @@
 		- FEC(Forward error control)
 			- 직접 오류를 정정
 	- 세부적 계층
-		- 매체 접근제어(Media Acces Control)
+		- 매체 접근제어(Media/Medium Acces Control, MAC )
 		- 
 
 
