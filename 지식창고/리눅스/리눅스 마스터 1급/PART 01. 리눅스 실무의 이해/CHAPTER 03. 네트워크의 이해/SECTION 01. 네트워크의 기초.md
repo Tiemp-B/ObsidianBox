@@ -27,7 +27,7 @@
 			- 직접 오류를 정정
 	- 세부적 계층
 		- 매체 접근제어(Media/Medium Acces Control, MAC ) 계층
-		- 
+		- 논리 연결제어(Logical Link Control, LLC) 계층
 
 
 
