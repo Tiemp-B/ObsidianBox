@@ -23,6 +23,8 @@
 			- 정지-대기 ARQ
 			- Go-Back-N ARQ
 			- SR(Selective repeat) ARQ
+		- FEC(Forward error control)
+			- 
 
 
 
