@@ -18,7 +18,11 @@
 	- 송수신 속도는 수신 노드의 속도에 맞춰져야 하며 이를 흐름제어라 한다
 		- 정지-대기, 슬라이딩 윈도우 등의 방법이 있다
 	- 오류 제어 기능 : 오류 검출과 재전송 수행
-		- ARQ (Automatic Repe)
+		- ARQ (Automatic Repeat Request)
+			- 수신 측에서 오류를 감지하면 NAK 반환하고 전송 측에서는 패킷을 재전송
+			- 정지-대기 ARQ
+			- Go-Back-N ARQ
+			- SR(Selective repeat) ARQ
 
 
 
