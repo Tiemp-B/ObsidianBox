@@ -29,7 +29,8 @@
 		- 매체 접근제어(Media/Medium Acces Control, MAC ) 계층
 		- 논리 연결제어(Logical Link Control, LLC) 계층
 	- 관련 장비 : 브리지, 스위치
-
+3. 네트워크 계층
+	- 
 
 
 
