@@ -15,4 +15,4 @@
 2. 데이터 링크 계층 (Data Link Layer)
 	- 2개의 노드가 직접 연결되어 있을 때 프레임 단위로 데이터 전송을 수행
 	- 노드 간 식별을 위해 MAC(Medium Access Control) 주소 보유
-	- 수시
+	- 수신 ㄴ
