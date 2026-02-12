@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해/SECTION 01. 리눅스와 하드웨어.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECTION 01. 리눅스와 하드웨어"
+              "title": "Untitled"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 376.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -323,6 +323,10 @@
   },
   "active": "658631c494ffc3d0",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해/Untitled.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해/CHAPTER 03. 네트워크의 이해.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/PART 01. 리눅스 실무의 이해.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해/SECTION 01. 리눅스와 하드웨어.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해/CHAPTER 02. 리눅스 시스템의 이해.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/Untitled.md",
@@ -339,7 +343,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
     "지식창고/리눅스/리눅스 마스터 1급/리눅스 마스터 1급.md",
     "지식창고/리눅스/리눅스 마스터 1급/Untitled.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/PART 01. 리눅스 실무의 이해.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해",
     "지식창고/리눅스/리눅스 마스터 1급",
     "지식창고/리눅스/리눅스.md",
@@ -353,12 +356,9 @@
     "학습일지/2026-01/2026-01-28/1. 버츄얼 박스 생성.md",
     "학습일지/2026-02",
     "학습일지/2026-01",
-    "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
-    "Developer/Linux/특수 목적 파일/.md",
     "Developer/Linux/특수 목적 파일",
     "지식창고/Box",
     "Developer/Linux/디렉터리",
-    "Developer/Linux/명령어",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
