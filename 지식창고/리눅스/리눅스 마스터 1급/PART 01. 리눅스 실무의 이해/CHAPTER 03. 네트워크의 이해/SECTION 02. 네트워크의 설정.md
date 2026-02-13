@@ -28,7 +28,8 @@
 	# 인터페이스 활성화
 	ifconfig ens33 up
 	
-	# fkdnxld xpdlqmfdp rpdlxmdnpdl wnth cnr
-	
+	# 라우팅 테이블에 게이트웨이 주소 추가
+	route add default gw 192.168.100.1
 	```
 	- 이 방식은 영구적이지 않다.
+1. spxmdnjzm tjfwjd vkdlfdmf xhdgks ㅑㅖ tnehd tjfwjd
