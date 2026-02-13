@@ -9,12 +9,14 @@
 ### OSI 7 계층 세부 설명
 1. 물리 계층 (Physical Layer)
 	- 전송 단위 : 비트
-	- 프로토콜 : 
+	- 프로토콜 : RS-232, USB, I2C, Bluetooth 등
 	- 네트워크의 전기적 물리적 연결 담당
 	- 유선: 케이블 종류
 	- 무선: 무선 주파수 링크
 	- 관련 장비: 허브, 리피터
-3. 데이터 링크 계층 (Data Link Layer)
+2. 데이터 링크 계층 (Data Link Layer)
+	- 전송 단위 : 프레임
+	- 프로토콜 : Ethernet, Token Ring, FDDI, ATM
 	- 2개의 노드가 직접 연결되어 있을 때 프레임 단위로 데이터 전송을 수행
 	- 노드 간 식별을 위해 MAC(Medium Access Control) 주소 보유
 	- 송수신 속도는 수신 노드의 속도에 맞춰져야 하며 이를 흐름제어라 한다
