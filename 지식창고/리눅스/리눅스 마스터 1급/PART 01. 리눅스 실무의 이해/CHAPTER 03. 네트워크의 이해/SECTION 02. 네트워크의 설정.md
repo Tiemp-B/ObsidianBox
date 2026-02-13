@@ -5,4 +5,6 @@
 	- 배포판 운영 사이트에서 관련 정보 제공
 	- 레드햇 리눅스 : http://hardware.redhat.com/hcl
 - 다양성
-	- 다양한 네트워크 프로토콜과 다양
+	- 다양한 네트워크 프로토콜과 네트워크 디바이스를 기본적으로 제공
+	- ppp, slip, x.25, atm, wlan, can, fddi, bluetooth, zigbee, 6lowpan 등
+	- 
