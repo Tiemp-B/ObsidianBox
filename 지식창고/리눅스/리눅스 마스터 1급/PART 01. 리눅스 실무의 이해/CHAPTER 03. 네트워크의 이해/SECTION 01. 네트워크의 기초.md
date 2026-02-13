@@ -16,7 +16,7 @@
 	- 관련 장비: 허브, 리피터
 2. 데이터 링크 계층 (Data Link Layer)
 	- 전송 단위 : 프레임
-	- 프로토콜 : Ethernet, Token Ring, FDDI, ATM
+	- 프로토콜 : Ethernet, Token Ring, FDDI(Fiber Distributed Digital Interface), ATM(Asynchronous Transfer Mode)
 	- 2개의 노드가 직접 연결되어 있을 때 프레임 단위로 데이터 전송을 수행
 	- 노드 간 식별을 위해 MAC(Medium Access Control) 주소 보유
 	- 송수신 속도는 수신 노드의 속도에 맞춰져야 하며 이를 흐름제어라 한다
@@ -33,26 +33,27 @@
 		- 매체 접근제어(Media/Medium Acces Control, MAC ) 계층
 		- 논리 연결제어(Logical Link Control, LLC) 계층
 	- 관련 장비 : 브리지, 스위치
-4. 네트워크 계층
+3. 네트워크 계층
+	- 전송 단위 : 패킷
 	- 데이터를 패킷 단위로 분할하고 논리적 주소를 설정하여 전송하는 역할
 	- 서로 연결된 노드 사이에 여러 노드가 존재하고 이들 사이의 경로 설정하는 라우팅 기능을 제공
 	- 혼잡 제어, 패킷의 분할 및 병합
 	- 관련 장비: 라우터,
 	- 관련 내용: IP, ICMP, ARP
-5. 전송 계층(Transport Layer)
+4. 전송 계층(Transport Layer)
 	- 송수신하는 프로세스 간 연결을 제공하고 신뢰성 통신을 보장
 	- 주소 및 포트 지정, 연결제어, 오류 복구, 흐름제어 기능을 제공
 	- 전송 계층은 네트워크 계층으로 세그먼트 단위로 데이터를 전송, 네트워크는 이를 패킷으나누어 다음 단계로 전송
 	- 시스템 콜을 통해 상위 계층에게 기능 제공
 	- 관련 내용 : TCP, UDP
-6. 세션 계층(Session Layer)
+5. 세션 계층(Session Layer)
 	- 연결 노드 간 메시지 단위로 데이터를 송수신, 세션 설정 및 유지, 동기, 대화 기능
 	- 동기점 기능을 통해 전송 오류 복구 지점 설정
-7. 표현 계층(Presentation Layer)
+6. 표현 계층(Presentation Layer)
 	- 송수신자 간 데이터의 표현 방식을 동일하게 진행
 	- ex) 유니코드 인코딩 파일을 ASCII 로 변환
 	- 데이터 암호화와 해독 기능, 압축 및 압축 해제 기능
-8. 응용 계층(Application Layer)
+7. 응용 계층(Application Layer)
 	- 사용자에게 응용 환경을 제공
 	- SMTP, HTTP, TELNET, FTP 등
 
