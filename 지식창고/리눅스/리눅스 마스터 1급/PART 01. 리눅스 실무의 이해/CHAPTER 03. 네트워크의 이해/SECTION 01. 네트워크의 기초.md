@@ -49,7 +49,8 @@
 	- ex) 유니코드 인코딩 파일을 ASCII 로 변환
 	- 데이터 암호화와 해독 기능, 압축 및 압축 해제 기능
 7. 응용 계층(Application Layer)
-	- 
+	- 사용자에게 응용 환경을 제공
+	- SMTP, HTTP, TELNET
 
 
 
