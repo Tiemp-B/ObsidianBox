@@ -41,5 +41,17 @@
 		- 디바이스명, 프로토콜, IP 등의 설정이 가능
 		```bash
 		# 설정 대상 이더넷 인터페이스
-		DEVICE=
+		DEVICE=ens33
+		# IP 할당 방법
+		BOOTPROTO=static
+		# 이더넷 카드의 MAC 주소
+		HWADDR=xx:xx:xx:xx:xx
+		# 브로드캐스트 주소
+		BROADCAST
+		# IP 주소
+		IPADDR=
+		# 넷마스크 주소
+		NETMASK=
+		# 네트워크 주소
+		NETWORK
 		```
