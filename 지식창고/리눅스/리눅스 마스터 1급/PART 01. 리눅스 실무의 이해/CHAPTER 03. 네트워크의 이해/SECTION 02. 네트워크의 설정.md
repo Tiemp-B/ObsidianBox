@@ -25,5 +25,10 @@
 	ifconfig ens33 192.168.100.100 netmask 255.255.255.0 broadcast 192.168.100.255
 	# 접두어 길이 표기법
 	ifconfig ens33 192.168.100.100/24
-	# 인터페이스 활서
+	# 인터페이스 활성화
+	ifconfig ens33 up
+	
+	# fkdnxld xpdlqmfdp rpdlxmdnpdl wnth cnr
+	
 	```
+	- 이 방식은 영구적이지 않다.
