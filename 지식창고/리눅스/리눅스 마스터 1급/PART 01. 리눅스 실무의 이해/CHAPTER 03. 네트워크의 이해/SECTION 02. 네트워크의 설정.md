@@ -21,10 +21,10 @@
 	- nmtui 명령어를 사용하여 Network Manager를 실행하여 설정한다.
 3. 명령어를 통한 IP 수동 설정
 	```bash
-	# ens33 인터페이스에 IP 주소 배정, netmask와 broadcast는 생략 가능
-	ifconfig ens33 192.168.100.100 netmask 255.255.255.0 broadcast 192.168.100.255
-	# 접두어 길이 표기법
-	ifconfig ens33 192.168.100.100/24
+		# ens33 인터페이스에 IP 주소 배정, netmask와 broadcast는 생략 가능
+		ifconfig ens33 192.168.100.100 netmask 255.255.255.0 broadcast 192.168.100.255
+		# 접두어 길이 표기법
+		ifconfig ens33 192.168.100.100/24
 	# 인터페이스 활성화
 	ifconfig ens33 up
 	
@@ -32,4 +32,4 @@
 	route add default gw 192.168.100.1
 	```
 	- 이 방식은 영구적이지 않다.
-1. spxmdnjzm tjfwjd vkdlfdmf xhdgks ㅑㅖ tnehd tjfwjd
+1. 네트워크 설정
