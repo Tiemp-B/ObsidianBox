@@ -73,6 +73,11 @@
 		```
 	- 파일: /etc/sysconfig/network
 		- 시스템 전체에 적용할 기본 게이트웨이 주소, 호스트명, 네트워크 연결 허용 여부, 게트웨이 장치 파일 설정, NIS 도메인(Network Information Service) 이름 설정 등
+		```bash
+		# 네트워크 연결 허용 여부
+		NETWORKING=
+		# 호스트명
+		```
 
 
 
