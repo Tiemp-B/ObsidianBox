@@ -80,6 +80,10 @@
 		HOSTNAME=
 		# 게이트웨이
 		GATEWAY=
+		# 게이트웨이 장치명
+		GATEWAYDEV=
+		# NIS 도메인명
+		NIS
 		```
 
 
