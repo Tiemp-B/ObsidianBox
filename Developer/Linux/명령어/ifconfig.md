@@ -52,5 +52,5 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ```
 # 연관 명령어
 - [[nmcli]]
-
+- [[route]]
 
