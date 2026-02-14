@@ -88,7 +88,14 @@
 	- 파일: /etc/resolv.conf
 		- 네임 서버 설정, 기본 사용 도메인명 설정
 		```bash
-		
+		# 구글 DNS 서버
+		nameserver 8.8.8.8
+		nameserver 8.8.4.4
+		# 도메인 검색 리스트
+		search example.com local
+		# 로컬 도메인 이름
+		domain example.com
+		options
 		```
 
 
