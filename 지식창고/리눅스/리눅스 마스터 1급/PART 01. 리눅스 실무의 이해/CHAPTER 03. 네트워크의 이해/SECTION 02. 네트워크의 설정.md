@@ -68,6 +68,7 @@
 		USERCTL=no
 		# 네트워크 매니저(네트워크 관리 데몬) 사용 여부
 		NM_CONTROLLED=yes
+		# 이외에도 여러 설정이 있다.
 		```
 	
 	- 파일: /etc/sysconfig/network
