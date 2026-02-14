@@ -18,6 +18,9 @@ tags:
 - Link encap : 네트워크 인터페이스 유형
 - Hwaddr : 인더넷 카드의 MAC 주소
 - inet : IP 주소
+- inet6 : IPv6 주소
+- RX/TX : 송수신 패킷
+- mtu : 
 
 # 예제
 
