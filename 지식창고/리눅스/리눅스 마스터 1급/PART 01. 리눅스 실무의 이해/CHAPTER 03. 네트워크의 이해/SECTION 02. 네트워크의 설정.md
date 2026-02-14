@@ -54,5 +54,15 @@
 		# 넷마스크 주소
 		NETMASK=
 		# 네트워크 주소
-		NETWORK
+		NETWORK=
 		```
+	- 파일: /etc/sysconfig/network-scripts/ifcfg-eth0
+		```bash
+		# 게이트웨이 주소
+		GATEWAY=
+		#
+		```
+
+
+
+
