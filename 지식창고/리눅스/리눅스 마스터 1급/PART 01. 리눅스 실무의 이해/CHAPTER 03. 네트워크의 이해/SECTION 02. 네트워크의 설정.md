@@ -60,7 +60,10 @@
 		```bash
 		# 게이트웨이 주소
 		GATEWAY=
-		#
+		# 시스템 시작 시 자동 활성화 여부
+		ONBOOT=yes
+		# DHCP 서버의 DNS 정보를 resolv.conf 파일에 저장 여부를 설정
+		PEERDNS=yes
 		```
 
 
