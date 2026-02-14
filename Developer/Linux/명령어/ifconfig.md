@@ -20,7 +20,12 @@ tags:
 - inet : IP 주소
 - inet6 : IPv6 주소
 - RX/TX : 송수신 패킷
-- mtu : 
+- mtu : Maximum Transmission Unit  설정값
+- Collisions : 충돌 패킷 개수
+- Metric fkdnxld wjdqhfhtj rjflrkqt
+- Mask : 넷 마스크
+- Bcast : 브로드캐스트 주소
+- flags : 
 
 # 예제
 
