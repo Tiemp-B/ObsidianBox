@@ -66,6 +66,10 @@
 		PEERDNS=yes
 		# 1차 DNS 서버의 주소
 		DNS1=
+		# 일반 계정 권한으로 제어 가능 여부
+		USERCTL=no
+		# 네트워크 매니저 사용 여부
+		NM_CONTROLLED=yes
 		```
 
 
