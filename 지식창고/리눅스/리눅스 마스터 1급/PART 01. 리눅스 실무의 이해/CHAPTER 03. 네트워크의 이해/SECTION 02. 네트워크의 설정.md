@@ -64,6 +64,8 @@
 		ONBOOT=yes
 		# DHCP 서버의 DNS 정보를 resolv.conf 파일에 저장 여부를 설정
 		PEERDNS=yes
+		# 1차 DNS 서버의 주소
+		DNS1=
 		```
 
 
