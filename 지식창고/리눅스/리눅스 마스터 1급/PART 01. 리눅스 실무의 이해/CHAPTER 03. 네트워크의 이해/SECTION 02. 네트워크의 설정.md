@@ -98,6 +98,7 @@
 		# 옵션
 		options timeout:2 attempts:3 rotate
 		```
-
+	데비안 계열
+	
 
 
