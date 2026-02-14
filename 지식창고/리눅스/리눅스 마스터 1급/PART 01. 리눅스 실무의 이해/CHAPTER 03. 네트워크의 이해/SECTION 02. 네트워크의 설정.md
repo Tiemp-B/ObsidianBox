@@ -36,7 +36,8 @@
 1. 네트워크 설정 파일을 통한 IP 수동 설정
 	- 설정 파일에 직접 기입하여 설정이 가능
 	- 설정 후 "systemctl restart network"를 통해 서비스 재시작 필수
-	- /etc/sysconfig/network-scripts/ifcfg-ens33
+	Rocky Linux
+	- 파일: /etc/sysconfig/network-scripts/ifcfg-ens33
 		- 네트워크 인터페이스 별 설정이 가능
 		- 디바이스명, 프로토콜, IP 등의 설정이 가능
 		```bash
