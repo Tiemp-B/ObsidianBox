@@ -95,7 +95,8 @@
 		search example.com local
 		# 로컬 도메인 이름
 		domain example.com
-		options
+		# 옵션
+		options timeout:2 attempts:3 rotate
 		```
 
 
