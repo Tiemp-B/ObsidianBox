@@ -83,7 +83,8 @@
 		# 게이트웨이 장치명
 		GATEWAYDEV=
 		# NIS 도메인명
-		NIS
+		NISDOMAIN=
+		
 		```
 
 
