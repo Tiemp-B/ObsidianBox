@@ -29,7 +29,11 @@ tags:
 
 # 예제
 
-
+```bash
+# ifconfig
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST> mtu 1500
+	inet 10.0.2.15 netmask 255.255.255.0 broadcast 10.0.2.255
+```
 # 연관 명령어
 
 
