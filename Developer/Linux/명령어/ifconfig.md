@@ -25,7 +25,7 @@ tags:
 - Metric fkdnxld wjdqhfhtj rjflrkqt
 - Mask : 넷 마스크
 - Bcast : 브로드캐스트 주소
-- flags : 
+- flags : 상태 플래그(UP, BROADCAST, RUNNING, MULTICAST, DOWN)
 
 # 예제
 
