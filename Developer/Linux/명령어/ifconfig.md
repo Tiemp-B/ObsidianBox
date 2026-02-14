@@ -10,6 +10,7 @@ tags:
 탑재되어 있지 않다면 'yum install net-tools'를 통해 설치가 가능하다
 ```bash
 # RHEL
+yum
 
 ```
 # 옵션
