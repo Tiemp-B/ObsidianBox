@@ -84,8 +84,9 @@
 		GATEWAYDEV=
 		# NIS 도메인명
 		NISDOMAIN=
-		
 		```
+	- 파일: /etc/resolv.conf
+		- 네임 서버 설정, 기본 사용 도메인명
 
 
 
