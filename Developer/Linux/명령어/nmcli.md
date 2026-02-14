@@ -5,7 +5,7 @@ tags:
 ---
 
 # 명령어 역할
-
+network manager를 ㅅ
 
 # 옵션
 
