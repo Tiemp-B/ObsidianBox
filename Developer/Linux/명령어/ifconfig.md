@@ -4,7 +4,7 @@ tags:
 ---
 
 # 명령어 역할
-spxmdnjzm dlsxjvpdltmdp eogks ghksruftjdwjd tngod
+네트워크 인터페이스에 대한 환경설정을 수행
 
 # 옵션
 
