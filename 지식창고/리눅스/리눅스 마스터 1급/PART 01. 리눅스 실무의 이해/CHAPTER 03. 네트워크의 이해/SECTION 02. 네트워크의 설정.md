@@ -77,6 +77,9 @@
 		# 네트워크 연결 허용 여부
 		NETWORKING=
 		# 호스트명
+		HOSTNAME=
+		# 게이트웨이
+		GATEWAY=
 		```
 
 
