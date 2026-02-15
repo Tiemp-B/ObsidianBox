@@ -7,6 +7,7 @@ tags:
 # 명령어 역할
 network manager를 확인하는 명령어
 
+
 # 옵션
 
 
