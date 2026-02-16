@@ -39,7 +39,7 @@ nmcli [<옵션>] <개체> { <명령> | help}
 # 
 nmcli c m ens33 ipv4.method auto connection autoconnect yes
 # 
-nmcli c m ens33 ipv4.method manual connection.autoconnect yes ipv4.addresses 10.20.30.41/24 ipv4.gateway 10.20.30.254 ipv4.dns "168.126"
+nmcli c m ens33 ipv4.method manual connection.autoconnect yes ipv4.addresses 10.20.30.41/24 ipv4.gateway 10.20.30.254 ipv4.dns "168.126.63.1 168.126.63.2"
 ```
 
 # 연관 명령어
