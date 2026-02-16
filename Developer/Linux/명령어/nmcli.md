@@ -28,7 +28,12 @@ nmcli [<옵션>] <개체> { <명령> | help}
 	- -g, --get-values : `-m tabular -t -f` 옵션의 줄임 <필드,...>|all|common
 	- -h, --help : 이 도움말 표시
 	- -m, --mode tabular|multiline : 출력 모드
-	- -o, --overview : 개요 
+	- -o, --overview : 개요 모드
+	- -p, --pretty : 예쁜 출력
+	- -s, --show-secrets : 암호 표시 허용
+	- -t, --terse : 간결한 출력
+	- -v, --version : 프로그램 버전 표시
+	- -w, --wait <초> : 작업을 마칠 때 기다리는 제한 시간을 설정
 # 예제
 
 
