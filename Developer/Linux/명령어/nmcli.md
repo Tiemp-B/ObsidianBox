@@ -17,8 +17,8 @@ nmcli [<옵션>] <개체> { <명령> | help}
 	- c[onnection] : 네트워크 연결
 	- d[evice] : 관리하는 장치
 	- a[gent] : 비밀 에이전트 또는 polkit 에이전트 q
-	- m[onitor] : 
-	- r[adio] : 
+	- m[onitor] : 변경 사항을 모니터링
+	- r[adio] : 라디오 스위치
 	- n[etworking] : 
 
 # 예제
