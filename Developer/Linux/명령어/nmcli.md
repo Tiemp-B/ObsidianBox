@@ -24,8 +24,11 @@ nmcli [<옵션>] <개체> { <명령> | help}
 	- -a, --ask : 매개변수 누락되면 물어보기
 	- -c, --colors : 출력에 색을 사용할지 여부. auto|yes|no
 	- -e, --escape : 값에 열 구분 기호를 이스케이프. yes|no
-	- -f, --fields : <필드,...>|all|common 출력할 필드 지정
-	- -g, --get-values : `-m`
+	- -f, --fields : 출력할 필드 지정 <필드,...>|all|common
+	- -g, --get-values : `-m tabular -t -f` 옵션의 줄임 <필드,...>|all|common
+	- -h, --help : 이 도움말 표시
+	- -m, --mode tabular|multiline : 출력 모드
+	- -o, --overview : 개요 
 # 예제
 
 
