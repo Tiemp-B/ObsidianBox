@@ -13,10 +13,10 @@ nmcli [<옵션>] <개체> { <명령> | help}
 
 # 옵션
 - 개체
-	- g[eneral] : Network Manager의 전체 정보
+	- g[eneral] : Network Manager의 일반 상태 및 작업
 	- c[onnection] : 네트워크 연결
-	- d[evice] : 
-	- a[gent] : 
+	- d[evice] : 관리하는 장치
+	- a[gent] : 비밀 에이전트 또는 polkit 에이전트
 	- m[onitor] : 
 	- r[adio] : 
 	- n[etworking] : 
