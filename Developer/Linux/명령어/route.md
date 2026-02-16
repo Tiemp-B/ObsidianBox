@@ -10,6 +10,7 @@ tags:
 형식
 route
 route add [-net|-host]
+개ㅕㅅ
 ```
 
 # 옵션
