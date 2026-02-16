@@ -37,6 +37,7 @@ nmcli [<옵션>] <개체> { <명령> | help}
 # 예제
 ```bash
 # 
+nmcli c m ens33 ipv4.method auto co
 ```
 
 # 연관 명령어
