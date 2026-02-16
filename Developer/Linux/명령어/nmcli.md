@@ -37,7 +37,9 @@ nmcli [<옵션>] <개체> { <명령> | help}
 # 예제
 ```bash
 # 
-nmcli c m ens33 ipv4.method auto co
+nmcli c m ens33 ipv4.method auto connection autoconnect yes
+# 
+nmcli c m ens33 ipv4.method manual connection.autoconnect yes ipv4.addresses 10.20.30.41/24 ipv4.gateway 10.20.30.254 ipv4.dns "168.126"
 ```
 
 # 연관 명령어
