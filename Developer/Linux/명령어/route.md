@@ -9,8 +9,8 @@ tags:
 ```bash
 형식
 route
-route add [-net|-host]
-개ㅕㅅ
+route add [-net|-host] target [netmask Nm] [gw Gw] [[dev] If]
+route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 ```
 
 # 옵션
