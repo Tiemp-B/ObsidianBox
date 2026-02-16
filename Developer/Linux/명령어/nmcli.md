@@ -19,7 +19,7 @@ nmcli [<옵션>] <개체> { <명령> | help}
 	- a[gent] : 비밀 에이전트 또는 polkit 에이전트 q
 	- m[onitor] : 변경 사항을 모니터링
 	- r[adio] : 라디오 스위치
-	- n[etworking] : 
+	- n[etworking] : 네트워크 관리 전반
 
 # 예제
 
