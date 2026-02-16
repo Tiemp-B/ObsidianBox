@@ -2,6 +2,7 @@
 tags:
   - 리눅스
   - 네트워크
+  - 설정
 ---
 
 # 명령어 역할
@@ -43,5 +44,8 @@ nmcli c m ens33 ipv4.method manual connection.autoconnect yes ipv4.addresses 10.
 ```
 
 # 연관 명령어
+- [[arp]]
+- [[ifconfig]]
+- [[route]]
 
 

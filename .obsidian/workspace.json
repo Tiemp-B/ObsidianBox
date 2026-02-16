@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "487018fb659e5535",
@@ -335,13 +335,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "658631c494ffc3d0",
+  "active": "f4b7b401fe6b0b42",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/nmcli.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "Developer/국제 표준/RS-232.md",
     "Developer/Linux/명령어/ifconfig.md",
-    "Developer/Linux/명령어/nmcli.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/info.md",
     "Developer/Linux/명령어/fdisk.md",
