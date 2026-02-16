@@ -13,7 +13,7 @@ nmcli [<옵션>] <개체> { <명령> | help}
 
 # 옵션
 - 개체
-	- g : Network Manager의 전체 정보
+	- g[eneral] : Network Manager의 전체 정보
 	- cn, c, connection : 네트워크 연결
 	- d : 
 
