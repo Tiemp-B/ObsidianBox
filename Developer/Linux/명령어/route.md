@@ -40,7 +40,12 @@ route add default gw 10.0.2.2 dev eth0
 # del 옵션으로 디폴트 게이트웨이 삭제
 route del default gw 10.0.2.2 
 ```
-2. 특정 네트웤
+2. 특정 네트워크에 대한 라우팅 정보 추가/제거
+```bash
+# -net 옵션, netmask 옵션으로 특정 네트워크를 목적지로 하는 라우팅 정보 추가
+route add -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
+
+```
 
 
 # 연관 명령어
