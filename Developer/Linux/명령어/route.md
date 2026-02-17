@@ -30,7 +30,7 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 - Iface : 패킷을 내보낼 네트워크 인터페이스
 
 # 옵션
-
+- -v, --verbose : be verbose
 
 # 예제
 1. 디폴트 게이트웨이 추가/제거
@@ -56,5 +56,7 @@ route del -host 10.0.2.50 dev eth0
 ```
 
 # 연관 명령어
-
+- [[ifconfig]]
+- [[nmcli]]
+- [[arp]]
 
