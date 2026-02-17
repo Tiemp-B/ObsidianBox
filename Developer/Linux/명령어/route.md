@@ -47,11 +47,12 @@ route add -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
 # 제거
 route del -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
 ```
-3. 특정 호스트에 대한 라우팅 정보 추가 및 제거
+3. 특정 호스트에 대한 라우팅 정보 추가/제거
 ```bash
 # -host 옵션을 사용하여 특정 호스트를 목적지로 하는 라우팅 정보 추가
 route add -host 10.0.2.50 dev eth0
-# del 옵션과 -host 옵션을 사용하여 특정 호스트를 목적지로 하는 라우팅 정보 삭
+# 제거
+route del -host 10.0.2.50 dev eth0
 ```
 
 # 연관 명령어
