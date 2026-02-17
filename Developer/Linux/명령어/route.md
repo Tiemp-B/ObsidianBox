@@ -21,7 +21,9 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 - Flags : 라우팅 경로의 플래그
 	- U : 정보 유효
 	- H : 목적지가 호스트
-	- G : 목ㅈ
+	- G : 목적지로 가려면 게이트웨이 경유 필요
+	- D : 데몬 또는 ICMP 리다이렉트 메세지를 통해 설치된 상태
+	- M : 데몬 또는 ICMP 리다이렉트 메세지를 통해 수정된 상태
 
 # 옵션
 
