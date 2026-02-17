@@ -17,7 +17,11 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 ### 컬럼
 - Destination : 목적지 호스트나 네트워크의 주소
 - Gateway :  외부 네트워크와 연결되어 있는 게이트웨이 주소
-- Genmask : 
+- Genmask : 넷마스크 주소. 0.0.0.0 의 경우 내부 네트워크
+- Flags : 라우팅 경로의 플래그
+	- U : 정보 유효
+	- H : 목적지가 호스트
+	- G : 목ㅈ
 
 # 옵션
 
