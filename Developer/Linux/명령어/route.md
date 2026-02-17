@@ -34,7 +34,7 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 
 # 예제
 ```bash
-# add 옵션
+# add 옵션 default
 ```
 
 # 연관 명령어
