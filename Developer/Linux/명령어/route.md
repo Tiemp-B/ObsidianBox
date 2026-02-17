@@ -44,7 +44,8 @@ route del default gw 10.0.2.2
 ```bash
 # -net 옵션, netmask 옵션으로 특정 네트워크를 목적지로 하는 라우팅 정보 추가
 route add -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
-
+# 제거
+route del -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
 ```
 
 
