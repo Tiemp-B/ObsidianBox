@@ -24,6 +24,10 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 	- G : 목적지로 가려면 게이트웨이 경유 필요
 	- D : 데몬 또는 ICMP 리다이렉트 메세지를 통해 설치된 상태
 	- M : 데몬 또는 ICMP 리다이렉트 메세지를 통해 수정된 상태
+- Metric : 목적지 호스트나 네트워크까지 도달하기 위한 비용
+- Ref : 경로 참조 횟수
+- Use : 경로 탐색 횟수
+- Iface : 패킷을 내보낼 네트워크 인터페이스
 
 # 옵션
 
