@@ -14,7 +14,7 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 ```
 
 ## 설명
-### 컬럼
+### 테이블 정보
 - Destination : 목적지 호스트나 네트워크의 주소
 - Gateway :  외부 네트워크와 연결되어 있는 게이트웨이 주소
 - Genmask : 넷마스크 주소. 0.0.0.0 의 경우 내부 네트워크
@@ -33,7 +33,9 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 
 
 # 예제
-
+```bash
+# add 옵션
+```
 
 # 연관 명령어
 
