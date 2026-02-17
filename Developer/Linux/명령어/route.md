@@ -32,7 +32,8 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 # 옵션
 - -v, --verbose : be verbose
 - -n, --numeric : 약어(0.0.0.0 -> default)를 사용하지 않는다
-- -e, --extend : 추가 저
+- -e, --extend : 추가 정보
+- -F, --fib : 
 
 # 예제
 1. 디폴트 게이트웨이 추가/제거
