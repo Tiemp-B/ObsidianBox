@@ -47,7 +47,7 @@ route add -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
 # 제거
 route del -net 10.0.2.128 netmask 255.255.255.128 gw 10.0.2.2 dev eth0
 ```
-
+3. 
 
 # 연관 명령어
 
