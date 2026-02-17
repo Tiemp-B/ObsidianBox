@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 67.42671009771986,
+        "dimension": 31.95046439628483,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -82,7 +82,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 32.57328990228013,
+        "dimension": 68.04953560371517,
         "children": [
           {
             "id": "5f03ede822799ca3",
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:computer-science, operating-system, kernel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -335,11 +335,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4b7b401fe6b0b42",
+  "active": "51ebce24afdae266",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/arp.md",
     "Developer/Linux/명령어/ifconfig.md",
     "Developer/Linux/명령어/route.md",
-    "Developer/Linux/명령어/arp.md",
     "Developer/Linux/명령어/nmcli.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
