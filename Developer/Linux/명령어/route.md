@@ -33,12 +33,15 @@ route del [-net|-host] target [gw Gw] [netmask Nm] [[dev] If]
 
 
 # 예제
+1. 디폴트 게이트웨이 추가/제거
 ```bash
 # add 옵션 default gw 옵션으로 디폴트 게이트웨이 추가
 route add default gw 10.0.2.2 dev eth0
 # del 옵션으로 디폴트 게이트웨이 삭제
 route del default gw 10.0.2.2 
 ```
+2. 특정 네트웤
+
 
 # 연관 명령어
 
