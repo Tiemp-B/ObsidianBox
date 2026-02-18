@@ -12,6 +12,7 @@ tags:
 `ethtool [options] interface`
 # 옵션
 - -i : 인터페이스의 디바이스 드라이버 정보
+- 
 - --statistics, -S : 인터페이스의 통계 
 - --change, -s : 인터페이스의 설정 변경
 	`ethtool --change eth0 speed 100 duplex full`
