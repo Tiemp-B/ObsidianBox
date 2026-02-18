@@ -21,5 +21,10 @@ ifconfig의 대체
 
 
 # 연관 명령어
-
+- [[ping]]
+- [[netstat]]
+- [[traceroute]]
+- [[mii-tool]]
+- [[ss]]
+- [[ethtool]]
 
