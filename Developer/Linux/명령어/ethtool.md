@@ -15,11 +15,11 @@ tags:
 - 
 - --statistics, -S : 인터페이스의 통계 
 - --change, -s : 인터페이스의 설정 변경
-	`ethtool --change eth0 speed 100 duplex full`
+	`ethtool --change eth0 speed 100 duplex full autoneg off`
 
 # 예제
 
 
 # 연관 명령어
-
+- [[명령어/ip]]
 
