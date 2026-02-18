@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/arp.md",
+                "file": "Developer/Linux/명령어/ethtool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arp"
+              "title": "ethtool"
             }
           }
         ],
@@ -335,10 +335,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bac594e5ad088ef8",
+  "active": "f4b7b401fe6b0b42",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/arp.md",
+    "Developer/Linux/명령어/ethtool.md",
+    "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/ifconfig.md",
     "Developer/Linux/명령어/route.md",
     "Developer/Linux/명령어/nmcli.md",
@@ -364,7 +365,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/CHAPTER 01. 리눅스의 개요.md",
     "Developer/Linux/00. 리눅스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요/SECTION 01. 운영체제의 개요.md",
-    "Developer/Linux/Untitled.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해",
     "지식창고/리눅스/리눅스 마스터 1급",
