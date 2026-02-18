@@ -22,4 +22,10 @@ tags:
 
 # 연관 명령어
 - [[명령어/ip]]
+- [[ping]]
+- [[netstat]]
+- [[traceroute]]
+- [[mii-tool]]
+- [[ss]]
+- 
 
