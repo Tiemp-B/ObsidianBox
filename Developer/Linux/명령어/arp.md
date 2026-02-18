@@ -11,7 +11,10 @@ ARP: Address Resolution Protocol
 호스트 주소에 대한 MAC 주소를 알아내기 위해 ARP 프로토콜을 사용, 이 때 얻은 MAC 주소르르 ARP 캐시에 저장한다.
 이더넷 기반 IP 통신을 위해서 호스트 주소를 랜카드의 HW 주소, 즉 MAC 주소로 변환하는 것이 필요
 # 옵션
-
+- -s : IP주소와 MAC 주소 등록
+- -d : 제거
+- -n : numeric
+- -v : verbose
 
 # 예제
 

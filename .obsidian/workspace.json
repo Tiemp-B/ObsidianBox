@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:computer-science, operating-system, kernel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -335,7 +335,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4b7b401fe6b0b42",
+  "active": "bac594e5ad088ef8",
   "lastOpenFiles": [
     "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/arp.md",
