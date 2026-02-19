@@ -28,6 +28,13 @@ tags:
 - -t : TCP 소켓 정보
 - -u : UDP 소켓 정보
 - -g : 멀티캐스트 그룹 멤버십의 정보
+
+### 소켓의 상태
+- LISTEN
+- SYN_SENT
+- SYN_RECEIVED
+- ESTABLISHED
+
 # 예제
 
 
