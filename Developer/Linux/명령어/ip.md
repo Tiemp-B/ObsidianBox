@@ -35,7 +35,11 @@ ifconfig의 대체
 	```
 - neighbor : ARP 캐시 관리
 	```bash
-	ip nei
+	# ARP 캐시 출력
+	ip neighbor
+	ip neighbor show
+	# ARP 캐시에 정보 추가/제거
+	ip neighbor add 192.168.101.10 lladdr 11:22:33:44:55:66 dev eth
 	```
 
 
