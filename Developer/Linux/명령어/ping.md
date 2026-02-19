@@ -1,0 +1,24 @@
+---
+tags:
+  - 리눅스
+  - 네트워크
+  - 네트워크_진단
+---
+
+# 명령어 역할
+ICMP(Internet )
+
+# 옵션
+
+
+# 예제
+
+
+# 연관 명령어
+- [[netstat]]
+- [[traceroute]]
+- [[mii-tool]]
+- [[ss]]
+- [[ethtool]]
+- [[ip]]
+
