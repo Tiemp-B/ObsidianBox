@@ -21,7 +21,7 @@ tags:
 - -n, --numeric : 심볼릭 호스트, 사용자, 포트 대신 숫자 표기
 - -A, protocol-family : 주소 패밀리를 지정한다.
 	- inet, inet6, ax25, netrom, ipx, ddp, x25를 지정 가능
-- -c, --continuous : 매초
+- -c, --continuous : 매 초마다 정보 출력
 # 예제
 
 
