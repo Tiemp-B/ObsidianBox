@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/Untitled.md",
+                "file": "Developer/Linux/명령어/netstat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "netstat"
             }
           },
           {
@@ -338,7 +338,7 @@
   "active": "658631c494ffc3d0",
   "lastOpenFiles": [
     "Developer/Linux/명령어/ping.md",
-    "Developer/Linux/명령어/Untitled.md",
+    "Developer/Linux/명령어/netstat.md",
     "Developer/Linux/명령어/ip.md",
     "지식창고/Box/nud의 noarp와 perm의 차이.md",
     "Developer/Linux/명령어/ethtool.md",
