@@ -35,7 +35,7 @@ ifconfig의 대체
 	```
 - neighbor : ARP 캐시 관리
 	- nud(Neighbor Unreachability Detection, 이웃 도달 가능성 탐지 상태)
-		- perm : 영구적
+		- perm : 영구적, 재부팅 시 사라지나 부팅 스크립트나 네트워크 설정 파일을 수정하여 영구 설정 가능
 		- noarp : ARP 없이 항상 유효
 		- reachable : 도달 가능, 정상 상태
 		- stale : 오래됨, 재검증 필요
