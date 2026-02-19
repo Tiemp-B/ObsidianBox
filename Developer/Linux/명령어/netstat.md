@@ -11,7 +11,9 @@ tags:
 - 미지정 : 열려 있는 소켓의 모든 정보 출력
 - -r, --route : 라우팅 테이블 조회
 - -g, --groups : IPv4, IPv6를 위한 멀티캐스트 그룹 멤버십 정보를 조회
-- -i, --interfac
+- -i, --interfaces, -i : 모든 네트워크 인터페이스에 대한 정보 출력
+- -M, --masquerade : 마스커레이드 연결의 정보 출력
+- -s, --statistics : 각 프로토콜의 통계 정보 출력
 # 예제
 
 
