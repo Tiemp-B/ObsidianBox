@@ -20,7 +20,7 @@ ICMP(Internet Control Message Protocol: 인터넷 제어 메시지 프로토콜.
 - -I : interface 네트워크 인터페이스가 다수인 경우 전송할 인터페이스 지정
 
 - ttl : time to live : 도달하기 까지 거친 라우터의 수
-- 
+- rtt : round trip time : 페킷이 목적지로 이동한 후 다시 출발지로 돌아오는 시간
 # 예제
 
 
