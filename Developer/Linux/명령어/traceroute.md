@@ -9,6 +9,8 @@ tags:
 `traceroute hostname | address`
 # 옵션
 - -I : ICMP 방식으로 경로 추적
+- -T : TCP 방식 추적
+- -U : UDP 방식 추적
 
 # 예제
 
