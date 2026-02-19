@@ -12,10 +12,16 @@ ifconfig의 대체
 `ip [options] [commnad] [address [dev interface]`
 # 옵션 및 예제
 - route : 라우팅 테이블에 항목 추가/제거
-	```bash
-	
-	```
+
 - addr : 네트워크 인터페이스의 IP 정보를 출력
+		```
+		```
+		```
+	# 인터페이스 정보 출력
+	ip addr
+	ip addr show
+	ip addr list
+	
 - link : 네트워크 인터페이스의 상태 설정
 - neighbor : ARP 캐시 관리
 
