@@ -52,7 +52,13 @@ ifconfig의 대체
 	ip neighbor del 192.168.101.10 dev eth0
 	```
 - route : 라우팅 정보 관리
-	```
+	```bash
+	# 정보 출력
+	ip route
+	ip route list
+	# 정보 추가/제거
+	ip route add 10.0.2.128/25 via 10.0.2.130 dev eth0
+	ip route del 10.0.2.128/25
 	```
 
 # 예제
