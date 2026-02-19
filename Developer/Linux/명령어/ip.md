@@ -56,7 +56,7 @@ ifconfig의 대체
 	# 정보 출력
 	ip route
 	ip route list
-	# 정보 추가/제거
+	# 정보 추가/제거 [목적지]를 [경유지]를 통해 [장치]로 전송하라
 	ip route add 10.0.2.128/25 via 10.0.2.130 dev eth0
 	ip route del 10.0.2.128/25
 	```
