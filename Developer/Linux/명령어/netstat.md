@@ -22,6 +22,12 @@ tags:
 - -A, protocol-family : 주소 패밀리를 지정한다.
 	- inet, inet6, ax25, netrom, ipx, ddp, x25를 지정 가능
 - -c, --continuous : 매 초마다 정보 출력
+- -p, --program : 소켓과 연관된 프로그램 이름과 PID를 출력
+- -l, --listening : Listen 소켓에 대한 정보 출력
+- -a, --all : Listen 소켓, Listen이 아닌 소켓 모두 출력
+- -t : TCP 소켓 정보
+- -u : UDP 소켓 정보
+- -
 # 예제
 
 
