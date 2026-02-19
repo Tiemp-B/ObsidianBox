@@ -12,7 +12,8 @@ ICMP(Internet Control Message Protocol: 인터넷 제어 메시지 프로토콜.
 `ping options hostname|address`
 
 # 옵션
-
+- -c : count. ping을 보낼 횟수(기본: 무제한)
+- -i : interval. 
 
 # 예제
 
