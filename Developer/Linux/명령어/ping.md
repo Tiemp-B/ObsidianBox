@@ -15,7 +15,9 @@ ICMP(Internet Control Message Protocol: 인터넷 제어 메시지 프로토콜.
 - -c : count. ping을 보낼 횟수(기본: 무제한)
 - -i : interval. 보낼 시간 간격(기본: 1초)
 - -s : size. 보낼 데이터의 크기(최대 65507)
-- -f : flood. 최대한 많이 보낸다.
+- -f : flood. 최대한 많이 보낸다. -i 미설정 시 0으로 하여 최대한 많은 요청 전송
+- -w : seconds. ping 시작 후 몇 초 뒤에 실행을 멈출지 결정
+- -I : interface 네트워크 인터페이스가 다수인 경우 전송할 인터페이스 지정
 
 # 예제
 
