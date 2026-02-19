@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -335,11 +335,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4b7b401fe6b0b42",
+  "active": "658631c494ffc3d0",
   "lastOpenFiles": [
+    "지식창고/Box/nud의 noarp와 perm의 차이.md",
     "Developer/Linux/명령어/ip.md",
     "Developer/Linux/명령어/ethtool.md",
-    "지식창고/Box/nud의 noarp와 perm의 차이.md",
     "Developer/Linux/명령어/route.md",
     "Developer/Linux/명령어/arp.md",
     "Developer/CS/03. OS/커널.md",
