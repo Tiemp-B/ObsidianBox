@@ -10,8 +10,11 @@ ifconfig의 대체
 네트워크 인터페이스에 주소 할당이나 파라미터 설정 가능
 
 `ip [options] [commnad] [address [dev interface]`
-# 옵션
+# 옵션 및 예제
 - route : 라우팅 테이블에 항목 추가/제거
+	```bash
+	
+	```
 - addr : 네트워크 인터페이스의 IP 정보를 출력
 - link : 네트워크 인터페이스의 상태 설정
 - neighbor : ARP 캐시 관리
