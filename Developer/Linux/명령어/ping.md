@@ -19,7 +19,8 @@ ICMP(Internet Control Message Protocol: 인터넷 제어 메시지 프로토콜.
 - -w : seconds. ping 시작 후 몇 초 뒤에 실행을 멈출지 결정
 - -I : interface 네트워크 인터페이스가 다수인 경우 전송할 인터페이스 지정
 
-- ttl : time to live : 돋
+- ttl : time to live : 도달하기 까지 거친 라우터의 수
+- 
 # 예제
 
 
