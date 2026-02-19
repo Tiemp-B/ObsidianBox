@@ -38,15 +38,15 @@ ifconfig의 대체
 		- perm : 영구적
 		- noarp : ARP 없이 항상 유효
 		- reachable : 도달 가능, 정상 상태
-		- stale :
+		- stale : 오래됨, 재검증 필요
+		- incomplete : 주소 확인 진행중
+		- failed : 확인 실패
 	```bash
 	# ARP 캐시 출력
 	ip neighbor
 	ip neighbor show
 	# ARP 캐시에 정보 추가/제거
 	# lladdr : Link Layer Address 링크 계층 주소
-	# nud : 
-	# perm : 영구적 
 	ip neighbor add 192.168.101.10 lladdr 11:22:33:44:55:66 dev eth0 nud perm
 	ip neighbor del 192.168.101.10 dev eth0
 	```
