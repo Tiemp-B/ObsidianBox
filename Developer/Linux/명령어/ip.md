@@ -41,6 +41,7 @@ ifconfig의 대체
 		- stale : 오래됨, 재검증 필요
 		- incomplete : 주소 확인 진행중
 		- failed : 확인 실패
+		[[nud의 noarp와 perm의 차이]]
 	```bash
 	# ARP 캐시 출력
 	ip neighbor
