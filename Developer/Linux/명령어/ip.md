@@ -36,7 +36,7 @@ ifconfig의 대체
 - neighbor : ARP 캐시 관리
 	- nud(Neighbor Unreachability Detection, 이웃 도달 가능성 탐지 상태)
 		- perm : ARP 있이 항상 유효, 재부팅 시 사라지나 부팅 스크립트나 네트워크 설정 파일을 수정하여 영구 설정 가능
-		- noarp : ARP 없이 항상 유효
+		- noarp : ARP 없이 항상 유효, 재부팅 시 사라지나 부팅 스크립트나 네트워크 설정 파일을 수정하여 영구 설정 가능
 		- reachable : 도달 가능, 정상 상태
 		- stale : 오래됨, 재검증 필요
 		- incomplete : 주소 확인 진행중
@@ -51,7 +51,9 @@ ifconfig의 대체
 	ip neighbor add 192.168.101.10 lladdr 11:22:33:44:55:66 dev eth0 nud perm
 	ip neighbor del 192.168.101.10 dev eth0
 	```
-
+- route : 라우팅 정보 관리
+	```
+	```
 
 # 예제
 
