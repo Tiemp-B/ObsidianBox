@@ -34,13 +34,18 @@ ifconfig의 대체
 	ip link set mtu 9000 dev eth0
 	```
 - neighbor : ARP 캐시 관리
+	- nud(Neighbor Unreachability Detection, 이웃 도달 가능성 탐지 상태)
+		- perm : 영구적
+		- noarp : ARP 없이 항상 유효
+		- reachable : 도달 가능, 정상 상태
+		- stale :
 	```bash
 	# ARP 캐시 출력
 	ip neighbor
 	ip neighbor show
 	# ARP 캐시에 정보 추가/제거
 	# lladdr : Link Layer Address 링크 계층 주소
-	# nud : Neighbor Unreachability Detection, 이웃 도달 가능성 탐지 상태
+	# nud : 
 	# perm : 영구적 
 	ip neighbor add 192.168.101.10 lladdr 11:22:33:44:55:66 dev eth0 nud perm
 	ip neighbor del 192.168.101.10 dev eth0
