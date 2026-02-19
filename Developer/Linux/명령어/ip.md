@@ -39,7 +39,9 @@ ifconfig의 대체
 	ip neighbor
 	ip neighbor show
 	# ARP 캐시에 정보 추가/제거
-	# lladdr : Link La
+	# lladdr : Link Layer Address 링크 계층 주소
+	# nud : Neighbor Unreachability Detection, 이웃 도달 가능성 탐지 상태
+	# perm : 영구적 
 	ip neighbor add 192.168.101.10 lladdr 11:22:33:44:55:66 dev eth0 nud perm
 	ip neighbor del 192.168.101.10 dev eth0
 	```
