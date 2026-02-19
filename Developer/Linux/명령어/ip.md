@@ -21,10 +21,17 @@ ifconfig의 대체
 	ip addr list
 	# IP 할당/제거
 	ip addr add 192.168.100.100 dev eth0
-	ip addr add 192.168.100.100/255.255.2
+	ip addr add 192.168.100.100/255.255.255.0 dev eth0
+	ip addr add 192.168.100.100/24 dev eth0
+	ip addr del 192.168.100.100/24 dev eth0
 	```
-	
 - link : 네트워크 인터페이스의 상태 설정
+	```bash
+	# 활성화/비활성화
+	ip link set dev eth0 down
+	ip link set dev eth0 up
+	# 
+	```
 - neighbor : ARP 캐시 관리
 
 
