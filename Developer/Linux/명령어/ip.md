@@ -30,9 +30,13 @@ ifconfig의 대체
 	# 활성화/비활성화
 	ip link set dev eth0 down
 	ip link set dev eth0 up
-	# 
+	# MTU(Maximum Transfer Unit:네트워크를 통해 한 번에 전송 가능한 최대 데이터 패킷 크기)
+	ip link set mtu 9000 dev eth0
 	```
 - neighbor : ARP 캐시 관리
+	```bash
+	ip nei
+	```
 
 
 # 예제
