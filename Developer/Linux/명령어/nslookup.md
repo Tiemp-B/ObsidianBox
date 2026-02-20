@@ -14,6 +14,8 @@ tags:
 	- mx : Mail Record
 	- ns : NS 레코드. Namer Server Record
 	- cname : CNAME
+	- A : A레코드 (IPv4)
+	- AAAA : 
 # 예제
 
 
