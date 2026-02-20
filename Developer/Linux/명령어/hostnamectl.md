@@ -1,6 +1,8 @@
 ---
 tags:
   - 리눅스
+  - 네트워크
+  - DNS
 ---
 
 # 명령어 역할
@@ -16,7 +18,7 @@ tags:
 - deployment
 - location
 # 옵션
-- -H, --host : 
+- -H, --host :  Operate on remote host
 
 # 예제
 

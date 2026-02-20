@@ -337,8 +337,9 @@
   },
   "active": "117b0f902c146355",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/hostname.md",
+    "Developer/Linux/명령어/telnet.md",
     "Developer/Linux/명령어/hostnamectl.md",
+    "Developer/Linux/명령어/hostname.md",
     "Developer/Linux/명령어/host.md",
     "Developer/Linux/명령어/dig.md",
     "Developer/Linux/명령어/nslookup.md",
@@ -362,7 +363,6 @@
     "Developer/국제 표준/RS-232.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/info.md",
-    "Developer/Linux/명령어/fdisk.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
