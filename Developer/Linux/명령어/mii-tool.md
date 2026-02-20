@@ -18,6 +18,8 @@ MII란?
 - -V, --version :
 - -R, --reset : mii를 리셋하여 초기 상태로 설정한다.
 - -r, --restart : 초기화(auto-negotiation) 시작
+- -p, --phy : PHY 주소 설정
+- -l, --log : -w옵션과 ㅎ
 # 예제
 
 
