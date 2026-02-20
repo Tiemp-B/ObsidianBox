@@ -17,7 +17,7 @@ tags:
 	- A : IPv4
 	- AAAA : IPv6
 	- TXT : TXT 정보
-	- 
+	- 등...
 # 예제
 
 
