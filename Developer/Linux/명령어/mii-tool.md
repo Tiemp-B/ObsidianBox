@@ -19,7 +19,9 @@ MII란?
 - -R, --reset : mii를 리셋하여 초기 상태로 설정한다.
 - -r, --restart : 초기화(auto-negotiation) 시작
 - -p, --phy : PHY 주소 설정
-- -l, --log : -w옵션과 ㅎ
+- -w, --watch : link status의 변화를 감시한다.
+- -l, --log : -w옵션과 연계하여 syslog로 이벤트를 기록함
+- -A, --advertise : 특정 미디어
 # 예제
 
 
