@@ -18,8 +18,9 @@ tags:
 - -m, --memory : 소켓의 메모리 사용량
 - -p, --processes : 소켓을 사용하는 프로세스
 - -T, --threads : 소켓을 사용하는 스레드
-- -i, --info : 내부 TCP 정보
-- 
+- -i, --info, --tipcinfo : 내부 TCP 정보
+- -s, --summary : 소켓 사용량 요약
+- -b, bpf
 
 # 예제
 
