@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/ftp.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ftp"
+              "title": "SECTION 01. 사용자 관리"
             }
           },
           {
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 433.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -337,8 +337,13 @@
   },
   "active": "117b0f902c146355",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/telnet.md",
     "Developer/Linux/명령어/ftp.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/PART 02. 리눅스 시스템 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
+    "Developer/Linux/명령어/telnet.md",
     "Developer/Linux/명령어/hostnamectl.md",
     "Developer/Linux/명령어/hostname.md",
     "Developer/Linux/명령어/host.md",
@@ -360,9 +365,6 @@
     "Developer/Linux/명령어/ifconfig.md",
     "Developer/Linux/명령어/nmcli.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
-    "지식창고/리눅스/계정에 sudo 권한 부여.md",
-    "Developer/국제 표준/RS-232.md",
-    "Developer/Linux/명령어/man.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
@@ -371,8 +373,6 @@
     "학습일지/2026-02",
     "학습일지/2026-01",
     "Developer/Linux/특수 목적 파일",
-    "지식창고/Box",
-    "Developer/Linux/디렉터리",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
@@ -381,7 +381,4 @@
     "images/Pasted image 20260122231105.png",
     "images/Pasted image 20260122230944.png",
     "images/Pasted image 20260112030712.png",
-    "images/Pasted image 20260112030651.png",
-    "images/Pasted image 20251228200157.png"
-  ]
-}
+    "images/Pasted image 20260112030
