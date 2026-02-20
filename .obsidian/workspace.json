@@ -335,8 +335,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51ebce24afdae266",
+  "active": "f66168ea5f8fc71a",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/traceroute.md",
     "Developer/Linux/명령어/ethtool.md",
     "Developer/Linux/명령어/mii-tool.md",
@@ -348,7 +349,6 @@
     "Excalidraw/Drawing 2026-01-10 14.37.35.excalidraw.md",
     "Developer/Linux/명령어/route.md",
     "Developer/Linux/명령어/arp.md",
-    "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/ifconfig.md",
     "Developer/Linux/명령어/nmcli.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
