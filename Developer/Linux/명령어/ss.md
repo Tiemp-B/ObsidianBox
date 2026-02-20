@@ -20,7 +20,7 @@ tags:
 - -T, --threads : 소켓을 사용하는 스레드
 - -i, --info, --tipcinfo : 내부 TCP 정보
 - -s, --summary : 소켓 사용량 요약
-- -b, bpf
+- -f, --family : 해당하는 주소 패밀리의 소켓만 출력
 
 # 예제
 
