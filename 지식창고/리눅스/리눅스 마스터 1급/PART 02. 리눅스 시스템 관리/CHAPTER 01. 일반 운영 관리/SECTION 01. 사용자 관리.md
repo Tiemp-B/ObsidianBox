@@ -26,7 +26,9 @@ sudo를 사용하고 비밀 번호를 입력하여 root 권한 대행이 가능�
 ### 현 사용자를 root 사용자로 지정
 /etc/passwd 파일에서 사용자의 UID를 0으로 지정하면 root 권한을 가지게 된다
 ## 루트 계정 관리 방안
-- root 사용자는 시
+- root 사용자는 시스템의 초기 환경 설정 시에만 이용하고 SSH를 통해 root 사용자 로그인이 되않도록 설정해야 한다
+- root 계정은 유일해야 한다
+- PAM(Pluggable Authentication M)
 
 
 
