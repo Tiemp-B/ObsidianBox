@@ -8,10 +8,10 @@ tags:
 네트워크 장애 분석을 위해 패킷의 경로를 추적
 `traceroute hostname | address`
 # 옵션
-- -I : ICMP 방식으로 경로 추적
-- -T : TCP 방식 추적
-- -U : UDP 방식 추적
-
+- -I, --icmp : ICMP 방식으로 경로 추적
+- -T, --tcp : TCP 방식 추적
+- -U, --udp : UDP 방식 추적
+- -q, --queries : 
 # 출력
 각 홉(hop)마다 3번의 probe 패킷을 전송하고 각각의 응답 시간을 표시
 \*의 경우 미응답한 경우이다. 
