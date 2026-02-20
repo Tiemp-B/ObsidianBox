@@ -12,7 +12,7 @@ tags:
 # 옵션
 - -type=
 	- mx : Mail Record
-	- ns : 
+	- ns : NS 레코드. Namer Server Record
 
 # 예제
 
