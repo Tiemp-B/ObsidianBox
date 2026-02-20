@@ -11,7 +11,10 @@ tags:
 
 
 # 예제
-
+```bash
+ftp IP
+ft site.com
+```
 
 # 연관 명령어
 
