@@ -33,5 +33,11 @@ tags:
 
 
 # 연관 명령어
+- [[명령어/ip]]
+- [[ping]]
+- [[netstat]]
+- [[mii-tool]]
+- [[ss]]
+- [[ethtool]]
 
 
