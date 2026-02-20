@@ -20,7 +20,7 @@
 ```bash
 $ sudo passwd root
 ```
-
+- su 명령어로 root 사용자로 전환할 수 있다
 
 
 
