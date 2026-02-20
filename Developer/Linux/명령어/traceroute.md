@@ -11,7 +11,9 @@ tags:
 - -I, --icmp : ICMP 방식으로 경로 추적
 - -T, --tcp : TCP 방식 추적
 - -U, --udp : UDP 방식 추적
-- -q, --queries : 
+- -q, --queries : 각 홉당 probe 횟수 설정 (기본값: 3회)
+- -w, --wait : 각 probe 응답 대기 시간 설정 (기본값: 5초)
+- -N, --
 # 출력
 각 홉(hop)마다 3번의 probe 패킷을 전송하고 각각의 응답 시간을 표시
 \*의 경우 미응답한 경우이다. 
