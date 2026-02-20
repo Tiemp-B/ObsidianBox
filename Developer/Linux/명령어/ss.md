@@ -16,7 +16,10 @@ tags:
 - -o , --options : 타이머 정보 출력
 - -e, --extended : 세부 정보 출력
 - -m, --memory : 소켓의 메모리 사용량
-- -p, --processes : 소켓을 사용하는 프로세스 ㅈ
+- -p, --processes : 소켓을 사용하는 프로세스
+- -T, --threads : 소켓을 사용하는 스레드
+- -i, --info : 내부 TCP 정보
+- 
 
 # 예제
 
