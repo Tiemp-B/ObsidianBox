@@ -9,9 +9,11 @@ media independent interface tool. 네트워크 인터페이스의 연결 상태�
 `mii-tool [option] interface`
 
 # 옵션
-- -v : 상세 정보 출력
+- -v, --verbose : 상세 정보 출력
 - -r : 지정 네트워크 인터페이스 재시작
 - -F, --force : 네트워크 인터페이스의 정보를 강제 변경
+- -V, --version :
+- 
 # 예제
 
 
