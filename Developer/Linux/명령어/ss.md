@@ -8,7 +8,9 @@ tags:
 `ss [options] [filter]`
 
 # 옵션
-- -
+- -n, --numeric
+- -r, --resolve : 호스트의 이름으로 작성한다
+- -a, -
 
 # 예제
 
