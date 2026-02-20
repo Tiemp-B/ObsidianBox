@@ -13,7 +13,8 @@ tags:
 - -type=
 	- mx : Mail Record
 	- ns : NS 레코드. Namer Server Record
-
+- -q=
+	- cname : CNAME
 # 예제
 
 
