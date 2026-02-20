@@ -32,7 +32,8 @@ tags:
 - `traceroute 주소 [패킷크기]` : 바이트 단위 (기본값: 60)
 ### TOS (Type Of Service)
 - -t, --tos : TOS 비트 설정 `traceroute -t 0x10 [주소]`
-	QoS(Quality of Serv) 검사
+	TOS : IP 헤더의 특정 필드. 패킷의 우선순위와 처리 방식을 지정하는 8비트 필드
+	QoS(Quality of Service) 검사.
 
 # 출력
 각 홉(hop)마다 3번의 probe 패킷을 전송하고 각각의 응답 시간을 표시
