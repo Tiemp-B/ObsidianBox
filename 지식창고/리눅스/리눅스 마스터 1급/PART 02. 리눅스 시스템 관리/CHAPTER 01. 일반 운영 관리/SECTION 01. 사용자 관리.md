@@ -42,7 +42,7 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 ## SSH로 root 로그인 막기
 1. /etc/ssh/sshd_config 파일
 2. PermitRootLogin 항목을 no로 설정한다
-3. 
+3. `systemctl restart sshd` 혹은 `service sshd restart`로 sshd 서비스를 재시작한다
 
 
 
