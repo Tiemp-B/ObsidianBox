@@ -8,7 +8,12 @@ tags:
 이 명령어를 사용시 /etc/hostname 파일을 직접 수정할 필요 없다
 `hostnamectl [OPTIONS...] COMMANDS ...`
 
-# 
+# COMMAND
+- status : 현재 호스트 이름 설정 확인
+- set-hostname : 설정 변경
+- set-icon-name : 호스트를 위한 아이콘 이름 설정
+- set-chassis : 섀시 설정
+- ...
 # 옵션
 
 
