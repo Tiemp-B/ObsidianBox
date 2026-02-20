@@ -13,9 +13,10 @@ tags:
 - set-hostname : 설정 변경
 - set-icon-name : 호스트를 위한 아이콘 이름 설정
 - set-chassis : 섀시 설정
-- ...
+- deployment
+- location
 # 옵션
-
+- -H, --host : 
 
 # 예제
 
