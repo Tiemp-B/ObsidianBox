@@ -11,11 +11,13 @@ tags:
 옵션 없이 입력하는 경우 대화 모드에 진입한다.
 # 옵션
 - -type=, -q=
-	- mx : Mail Record
-	- ns : NS 레코드. Namer Server Record
-	- cname : CNAME
-	- A : A레코드 (IPv4)
-	- AAAA : 
+	- mx : Mail Record, 메일 서버
+	- ns : NS 레코드. Name Server Record
+	- CNAME, cname : 별칭
+	- A : IPv4
+	- AAAA : IPv6
+	- TXT : TXT 정보
+	- 
 # 예제
 
 
