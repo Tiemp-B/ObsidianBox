@@ -14,5 +14,9 @@ tags:
 
 
 # 연관 명령어
--
+- [[nslookup]]
+- [[dig]]
+- [[host]]
+- [[hostname]]
+- [[hostnamectl]]
 
