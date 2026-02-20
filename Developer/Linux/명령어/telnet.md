@@ -17,6 +17,8 @@ telnet 프로토콜 기반 대화형 통신을 위한 텔넷 서버에 접속하
 telnet site.com
 telnet 192.168.100.80
 
+# 포트와 사용자 계정 설정하며 접속
+telnet -l username site.com 6666
 ```
 
 # 연관 명령어
