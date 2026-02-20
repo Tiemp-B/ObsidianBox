@@ -22,7 +22,9 @@ $ sudo passwd root
 ```
 - su 명령어로 root 사용자로 전환할 수 있다
 ### root 사용자로 임시 전환
-
+sudo를 사용하고 비밀 번호를 입력하여 root 권한 대행이 가능하다
+### 현 사용자를 root 사용자로 지정
+/etc/passwd 파일
 
 
 
