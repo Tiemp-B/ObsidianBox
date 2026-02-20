@@ -54,12 +54,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/Untitled.md",
+                "file": "Developer/Linux/명령어/host.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "host"
             }
           },
           {
@@ -338,7 +338,7 @@
   "active": "117b0f902c146355",
   "lastOpenFiles": [
     "Developer/Linux/명령어/dig.md",
-    "Developer/Linux/명령어/Untitled.md",
+    "Developer/Linux/명령어/host.md",
     "Developer/Linux/명령어/nslookup.md",
     "Developer/Linux/명령어/traceroute.md",
     "Developer/Linux/명령어/ss.md",
