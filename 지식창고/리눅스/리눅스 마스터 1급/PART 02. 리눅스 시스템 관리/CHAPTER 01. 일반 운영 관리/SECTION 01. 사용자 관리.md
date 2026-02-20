@@ -30,8 +30,9 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 - root 계정은 유일해야 한다
 - PAM(Pluggable Authentication Modules)를 통하여 root 사용자로 로그인 할 수 없도록 설정
 - root 계정으로 로그인하는 것은 지양하며, sudo 명령을 권장한다
-## root 비밀번호 
-
+## root 비밀번호 분실 대응
+1. GRUB2 부트 메뉴에서 환경설정 변경을 위해 'e' 입력
+2. linux16의 옵션 중 ro를 rw로 변경
 
 
 
