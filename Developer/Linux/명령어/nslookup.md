@@ -10,10 +10,9 @@ tags:
 
 옵션 없이 입력하는 경우 대화 모드에 진입한다.
 # 옵션
-- -type=
+- -type=, -q=
 	- mx : Mail Record
 	- ns : NS 레코드. Namer Server Record
-- -q=
 	- cname : CNAME
 # 예제
 
