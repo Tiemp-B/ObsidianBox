@@ -11,11 +11,16 @@ nslookup과 큰 차이는 없으나 사용이 간결하고 출력이 풍부하�
 
 
 # 옵션
-
+nslookup과 유사
 
 # 예제
 
 
 # 연관 명령어
+- [[nslookup]]
+- [[dig]]
+- [[host]]
+- [[hostname]]
+- [[hostnamectl]]
 
 
