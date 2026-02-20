@@ -23,7 +23,7 @@ tags:
 - -p, --port : 포트 설정. `-p` 단일 설정은 UDP, `-T -p`로 TCP 설정
 ### 출력 형식
 - -n : no DNS, DNS 역방향 조회 생략, IP만 표시, 속도 향상됨. IP주소 뒤의 괄호 내 주소가 역방향 IP
-- -A, -- : 
+- -A, --as-path-lookups : Autonomous System 번호 표시
 
 # 출력
 각 홉(hop)마다 3번의 probe 패킷을 전송하고 각각의 응답 시간을 표시
