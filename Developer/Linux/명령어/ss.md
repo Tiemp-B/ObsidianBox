@@ -14,7 +14,9 @@ tags:
 - -l, --listening : listen 상태의 소켓들을 출력한다.
 - -B, --bound-inactive : display TCP bound but inactive sockets
 - -o , --options : 타이머 정보 출력
-- -e, --extended : 
+- -e, --extended : 세부 정보 출력
+- -m, --memory : 소켓의 메모리 사용량
+- -p, --processes : 소켓을 사용하는 프로세스 ㅈ
 
 # 예제
 
