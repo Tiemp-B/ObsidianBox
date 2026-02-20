@@ -13,7 +13,7 @@ media independent interface tool. 네트워크 인터페이스의 연결 상태�
 - -r : 지정 네트워크 인터페이스 재시작
 - -F, --force : 네트워크 인터페이스의 정보를 강제 변경
 - -V, --version :
-- 
+- -R, --reset : mii를 리셋하여
 # 예제
 
 
