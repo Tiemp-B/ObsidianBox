@@ -39,8 +39,8 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 6. `touch /.autorelabel` selinux 정보 갱신 
 7. `exit` chroot를 종료 
 8. `reboot` 리부트
-
-
+## SSH로 root 로그인 막기
+1. /etc/ssh/sshd_config 파일 내용 
 
 
 
