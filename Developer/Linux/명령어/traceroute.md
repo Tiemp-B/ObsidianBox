@@ -31,7 +31,8 @@ tags:
 ### 패킷 크기
 - `traceroute 주소 [패킷크기]` : 바이트 단위 (기본값: 60)
 ### TOS (Type Of Service)
-- -t :
+- -t, --tos : TOS 비트 설정 `traceroute -t 0x10 [주소]`
+	QoS(Quality of Serv) 검사
 
 # 출력
 각 홉(hop)마다 3번의 probe 패킷을 전송하고 각각의 응답 시간을 표시
