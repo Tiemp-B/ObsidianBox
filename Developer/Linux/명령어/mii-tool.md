@@ -21,7 +21,8 @@ MII란?
 - -p, --phy : PHY 주소 설정
 - -w, --watch : link status의 변화를 감시한다.
 - -l, --log : -w옵션과 연계하여 syslog로 이벤트를 기록함
-- -A, --advertise : 특정 미디어
+- -A, --advertise : 특정 미디어(지원하는 모드)를 대상에게 알려주는 기능
+	`mii-tool -A [media_type] eth0`
 # 예제
 
 
