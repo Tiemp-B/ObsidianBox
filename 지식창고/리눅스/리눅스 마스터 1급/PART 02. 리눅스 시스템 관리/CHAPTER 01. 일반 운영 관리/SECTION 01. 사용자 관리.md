@@ -34,10 +34,12 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 1. GRUB2 부트 메뉴에서 환경설정 변경을 위해 'e' 입력
 2. linux16의 옵션 중 `ro`를 `rw`로 변경하고 `init=/sysroot/bin/sh`를 추가로 입력
 3. `Ctrl + X`로 단일 사용자 모드로 부팅 시도
-4. 시스템에 접근을 위해 `chroot /sysroot` 입력
+4. `chroot /sysroot` 시스템에 접근
 5. `passwd root`로 비밀번호 설정
-6. selinux 정보 갱신 `touch /.autorelabel`
-7. chroot를 종료
+6. `touch /.autorelabel` selinux 정보 갱신 
+7. `exit` chroot를 종료 
+8. `reboot` 리부트
+
 
 
 
