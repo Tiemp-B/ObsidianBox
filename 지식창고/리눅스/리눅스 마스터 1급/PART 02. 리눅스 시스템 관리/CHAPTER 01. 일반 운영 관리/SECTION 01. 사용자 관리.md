@@ -45,7 +45,11 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 3. `systemctl restart sshd` 혹은 `service sshd restart`로 sshd 서비스를 재시작한다
 
 # 3. 시스템 계정 관리
-## 
+## 시스템 계정
+### 시스템 계정이란
+- 메일 관리, SSH 연결 등 시스템의 특정 서비스에 대한 권한을 행사가 가능한 계정
+- bin, daemon, adm, lp, sync, shutdown, halt, mail과 같은 계정들이 시스템 계정.
+- /etc/passwd 파일에
 
 
 
