@@ -1,4 +1,4 @@
-# 사용자의 분류
+# 1. 사용자의 분류
 ## 사용자의 종류
 1. 루트 계정
 	시스템에 대한 모든 권한을 가진 사용자
@@ -44,6 +44,7 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 2. PermitRootLogin 항목을 no로 설정한다
 3. `systemctl restart sshd` 혹은 `service sshd restart`로 sshd 서비스를 재시작한다
 
+# 3. 시스템 계정 관리
 
 
 
