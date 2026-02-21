@@ -49,7 +49,7 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 ### 시스템 계정이란
 - 메일 관리, SSH 연결 등 시스템의 특정 서비스에 대한 권한을 행사가 가능한 계정
 - bin, daemon, adm, lp, sync, shutdown, halt, mail과 같은 계정들이 시스템 계정.
-- /etc/passwd 파일에
+- /etc/passwd 파일에서 1~499의 UID를 가진다.
 
 
 
