@@ -24,7 +24,7 @@ passwd [옵션] 계정명
 - -e, --expire
 	패스워드 만료. 다음 로그인 시 패스워드를 변경해야 함
 - -i, --inactive
-	
+	패스워드 만료 이후
 - -n, --mindays
 - -q, --quiet
 - -w, --warndays
