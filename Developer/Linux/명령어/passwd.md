@@ -22,7 +22,9 @@ passwd [옵션] 계정명
 - -u, --unlock
 	계정을 lock 상태를 해제
 - -e, --expire
+	패스워드 만료. 다음 로그인 시 패스워드를 변경해야 함
 - -i, --inactive
+	
 - -n, --mindays
 - -q, --quiet
 - -w, --warndays
