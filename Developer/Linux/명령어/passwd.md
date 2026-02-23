@@ -13,14 +13,16 @@ tags:
 passwd [옵션] 계정명
 ```
 # 옵션
-- S
+- -S, --status
 	계정 상태 표시
-- d
+- -d, --delete
 	계정 패스워드 삭제
-- l
-	계정을 lock 상태로 변경
-- u
+- -l, --lock
+	계정을 lock 상태로 변경하여 로그인을 막는다
+- -u, --unlock
 	계정을 lock 상태를 해제
+- -e, --expire
+- -i, --inactive
 
 # 예제
 
