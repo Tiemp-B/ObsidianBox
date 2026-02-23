@@ -23,6 +23,8 @@ passwd [옵션] 계정명
 	계정을 lock 상태를 해제
 - -e, --expire
 - -i, --inactive
+- -n, --mindays
+- 
 
 # 예제
 
