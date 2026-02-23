@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -349,12 +349,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4c72c86cdd271e5",
+  "active": "117b0f902c146355",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/adduser.md",
+    "Developer/Linux/명령어/nslookup.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/alias.md",
     "Developer/Linux/명령어/apropos.md",
-    "Developer/Linux/명령어/adduser.md",
     "Developer/Linux/명령어/useradd.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/ftp.md",
@@ -367,7 +368,6 @@
     "Developer/Linux/명령어/hostname.md",
     "Developer/Linux/명령어/host.md",
     "Developer/Linux/명령어/dig.md",
-    "Developer/Linux/명령어/nslookup.md",
     "Developer/Linux/명령어/traceroute.md",
     "Developer/Linux/명령어/ss.md",
     "Developer/Linux/명령어/mii-tool.md",
