@@ -43,3 +43,6 @@ passwd [옵션] 계정명
 - [[useradd]]
 - [[passwd]]
 - [[su]]
+- [[usermod]]
+- [[userdel]]
+- [[change]]

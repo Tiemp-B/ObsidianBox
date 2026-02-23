@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/su.md",
+                "file": "Developer/Linux/명령어/passwd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "su"
+              "title": "passwd"
             }
           },
           {
@@ -351,8 +351,8 @@
   },
   "active": "d4c72c86cdd271e5",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/passwd.md",
     "Developer/Linux/명령어/su.md",
+    "Developer/Linux/명령어/passwd.md",
     "Developer/Linux/명령어/adduser.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/nslookup.md",
