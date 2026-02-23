@@ -39,5 +39,7 @@ passwd [옵션] 계정명
 
 
 # 연관 명령어
-
+- [[adduser]]
+- [[useradd]]
+- [[passwd]]
 
