@@ -69,7 +69,10 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 	- 레드햇 7 이후, OPENSUSE, 데비안 : 1000 이상
 	- /etc/login.defs에 저장되어 있다.
 ## 사용자 생성
-### useradd 명령
+### 명령어
+1. [[useradd]]
+2. [[adduser]]
+3. 
 
 
 
