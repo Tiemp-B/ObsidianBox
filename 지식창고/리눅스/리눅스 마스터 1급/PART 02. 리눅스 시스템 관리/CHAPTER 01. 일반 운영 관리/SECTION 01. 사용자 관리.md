@@ -72,9 +72,12 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 ### 명령어
 1. [[useradd]]
 2. [[adduser]]
-두 명령어의 차이
-- 레드햇에선 adduser는 useradd에대한 링크이므로 동일하다
-- 우분투에서 adduser를 사용하면 댛
+	두 명령어의 차이
+	- 레드햇에선 adduser는 useradd에대한 링크이므로 동일하다
+	- 우분투에서 adduser를 사용하면 대화힉으로 생성할 수 있다
+3. [[passwd]]
+
+
 
 
 
