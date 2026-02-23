@@ -26,6 +26,9 @@ useradd [옵션] 계정명
 	미지정시 /etc/default/useradd의 EXPIRE 필드를 따른다
 - c
 	파일 /etc/passwd에 새로운 사용자 설명을 추가
+- -g, --gid
+	사용자의 그룹(이미 존재)을 설정.
+		미설정시 /etc/login.defs의 USERGROUPS_ENAB 변수를 보고 
 - G
 	계정이 속한 그룹 외의 다른 그룹에 계정 추가
 
