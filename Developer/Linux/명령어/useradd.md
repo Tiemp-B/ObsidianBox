@@ -18,9 +18,10 @@ useradd [옵션] 계정명
 	계정의 홈 디렉터리를 지정
 - -f, --inactive
 	패스워드 만기된 후 계정이 영구히 말소될 때까지의 기간 지정
-	미설
-- e
+	미설정시 /etc/default/useradd의 INACTIVE 값을 따른다
+- -e, --expiredate
 	계정의 유효기간을 설정
+	alwlwjdtl /ㄷㅅㅊ
 - c
 	파일 /etc/passwd에 새로운 사용자 설명을 추가
 - G
