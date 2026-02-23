@@ -24,7 +24,12 @@ passwd [옵션] 계정명
 - -e, --expire
 - -i, --inactive
 - -n, --mindays
-- 
+- -q, --quiet
+- -w, --warndays
+	패스워드 만료 전 경고 날짜를 지정
+- x, --maxdays
+	패스워드 최대 사용기간을 설정
+
 
 # 예제
 
