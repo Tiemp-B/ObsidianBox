@@ -8,9 +8,18 @@ tags:
 # 명령어 역할
 사용자 셸, 홈 디렉터리, 그룹, UID, GID 등의 사용자 설정을 변경
 useradd 명령어에서의 설정 대부분을 수정 가능
-``
+`usermod [options] username`
 # 옵션
-
+- -a, --append
+- -c, --comment
+- -d, --home
+- -e, --expiredate
+- -f, --inactive
+- -g, --gid
+- -G, --groups
+- -l, --login
+- -L, --lock
+- -m, 
 
 # 예제
 
