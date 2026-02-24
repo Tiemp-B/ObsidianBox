@@ -10,9 +10,13 @@ tags:
 - -d, --lastday
 	패스워드를 변경해야 할 날짜 수를 지정
 - -E, --expiredate
+	계정 만령 일자 설정
 - -I, --inactive
+	계정 만료 후 패스워드가 비활성화될 때까지 유예기간 설정
 - -l, --list
+	계정의 패스워드 만료 정보 출력
 - -m, --mindays
+	패스워드 변경까지의 최소 나
 - -M, --maxdays
 - -W, --warndays
 
