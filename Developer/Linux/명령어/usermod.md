@@ -54,5 +54,11 @@ usermod -g newgroup blue
 
 
 # 연관 명령어
-
+- [[adduser]]
+- [[useradd]]
+- [[passwd]]
+- [[su]]
+- [[usermod]]
+- [[userdel]]
+- [[chage]]
 

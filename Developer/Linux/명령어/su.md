@@ -20,4 +20,10 @@ Switch User의 약자로 실행
 
 # 연관 명령어
 
-
+- [[adduser]]
+- [[useradd]]
+- [[passwd]]
+- [[su]]
+- [[usermod]]
+- [[userdel]]
+- [[chage]]
