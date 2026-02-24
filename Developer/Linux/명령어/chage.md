@@ -8,8 +8,9 @@ tags:
 `chage [options] username`
 # 옵션
 - -d, --lastday
-	패스워드를 변경해야 할 날짜 수를 지정
-	1970-01-01 
+	패스워드를 변경한 날짜를 지정
+	1970-01-01 기준으로 일수 지정 가능
+	YYYY-MM-DD 형식으로 지정 가능
 - -E, --expiredate
 	계정 만령 일자 설정
 - -I, --inactive
