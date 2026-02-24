@@ -9,6 +9,7 @@ tags:
 # 옵션
 - -d, --lastday
 	패스워드를 변경해야 할 날짜 수를 지정
+	1970-01-01 
 - -E, --expiredate
 	계정 만령 일자 설정
 - -I, --inactive
