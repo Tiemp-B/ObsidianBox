@@ -11,15 +11,22 @@ useradd 명령어에서의 설정 대부분을 수정 가능
 `usermod [options] username`
 # 옵션
 - -a, --append
+	사용자에게 그룹을 추가하기 위해 -G 옵션과 같이 사용
 - -c, --comment
+	사용자에 대한 정보 추가
 - -d, --home
+	홈 디렉터리 변경.
 - -e, --expiredate
 - -f, --inactive
 - -g, --gid
 - -G, --groups
 - -l, --login
 - -L, --lock
-- -m, 
+- -m, --move-home
+- -p, --password
+- -s, --shell
+- -u, --uid
+- -U, --unlock
 
 # 예제
 
