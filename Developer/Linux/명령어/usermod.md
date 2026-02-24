@@ -24,8 +24,9 @@ useradd 명령어에서의 설정 대부분을 수정 가능
 - -g, --gid
 	존재하는 그룹의 이름이나 GID를 입력하여 변경
 - -G, --groups
-	
+	guswo wlwjd rmfnqdp cnrkgkf rmfnqdfm wlwjd
 - -l, --login
+	사용자의 로그인 이름 변경
 - -L, --lock
 - -m, --move-home
 - -p, --password
