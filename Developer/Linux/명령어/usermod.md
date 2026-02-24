@@ -28,6 +28,7 @@ useradd 명령어에서의 설정 대부분을 수정 가능
 - -l, --login
 	사용자의 로그인 이름 변경
 - -L, --lock
+	사용자의 패스워드에 락을 걸어 로그인 막음
 - -m, --move-home
 - -p, --password
 - -s, --shell
