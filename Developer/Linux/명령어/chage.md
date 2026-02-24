@@ -16,12 +16,16 @@ tags:
 - -l, --list
 	계정의 패스워드 만료 정보 출력
 - -m, --mindays
-	패스워드 변경까지의 최소 나
+	패스워드 변경까지의 최소 날짜
 - -M, --maxdays
+	패스워드 변경까지의 최대 날짜
 - -W, --warndays
+	만료에 대한 경고 메시지 출력 시기
 
 # 예제
-
+```bash
+sudo chage -m 7 -M 365 -W 5 -l 3 test
+```
 
 # 연관 명령어
 - [[adduser]]
