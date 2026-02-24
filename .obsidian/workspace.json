@@ -82,16 +82,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/nslookup.md",
+                "file": "Developer/Linux/명령어/passwd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nslookup"
+              "title": "passwd"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "487018fb659e5535",
@@ -349,18 +349,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4c72c86cdd271e5",
+  "active": "f66168ea5f8fc71a",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/su.md",
-    "Developer/Linux/명령어/usermod.md",
-    "Developer/Linux/명령어/passwd.md",
+    "Developer/Linux/명령어/useradd.md",
     "Developer/Linux/명령어/adduser.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
+    "Developer/Linux/명령어/passwd.md",
+    "Developer/Linux/명령어/su.md",
     "Developer/Linux/명령어/nslookup.md",
+    "Developer/Linux/명령어/usermod.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/alias.md",
     "Developer/Linux/명령어/apropos.md",
-    "Developer/Linux/명령어/useradd.md",
     "Developer/Linux/명령어/ftp.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",

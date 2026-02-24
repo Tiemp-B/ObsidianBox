@@ -45,4 +45,4 @@ passwd [옵션] 계정명
 - [[su]]
 - [[usermod]]
 - [[userdel]]
-- [[change]]
+- [[chage]]

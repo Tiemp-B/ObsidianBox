@@ -53,6 +53,10 @@ useradd [옵션] 계정명
 
 
 # 연관 명령어
-- [[passwd]]
 - [[adduser]]
-
+- [[useradd]]
+- [[passwd]]
+- [[su]]
+- [[usermod]]
+- [[userdel]]
+- [[chage]]

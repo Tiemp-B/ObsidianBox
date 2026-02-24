@@ -16,7 +16,11 @@ tags:
 
 
 # 연관 명령어
-- [[useradd]]
 - [[adduser]]
+- [[useradd]]
 - [[passwd]]
+- [[su]]
+- [[usermod]]
+- [[userdel]]
+- [[chage]]
 
