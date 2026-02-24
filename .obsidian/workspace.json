@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 66.87306501547987,
+        "dimension": 52.59449071108264,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -82,21 +82,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/adduser.md",
+                "file": "Developer/Linux/명령어/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adduser"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 33.126934984520126,
+        "dimension": 47.40550928891736,
         "children": [
           {
             "id": "5f03ede822799ca3",
@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 314.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -349,15 +349,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f66168ea5f8fc71a",
+  "active": "117b0f902c146355",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/Untitled.md",
+    "Developer/Linux/명령어/adduser.md",
     "Developer/Linux/명령어/chage.md",
     "userdel.md",
     "Developer/Linux/명령어/usermod.md",
     "Developer/Linux/명령어/su.md",
     "Developer/Linux/명령어/passwd.md",
     "Developer/Linux/명령어/useradd.md",
-    "Developer/Linux/명령어/adduser.md",
     "Developer/Linux/명령어/nslookup.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/man.md",
@@ -378,7 +379,6 @@
     "Developer/Linux/명령어/mii-tool.md",
     "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/ethtool.md",
-    "지식창고/Box/nud의 noarp와 perm의 차이.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
