@@ -18,10 +18,13 @@ useradd 명령어에서의 설정 대부분을 수정 가능
 	홈 디렉터리 변경.
 	-m 옵션을 추가하여 현 홈 디렉터리 내용을 새로운 홈 디렉터리로 복사 및 강제 생성
 - -e, --expiredate
-	YYYY-MM-DD 형식으로 지정한 날짜 이후로
+	YYYY-MM-DD 형식으로 비활성화 날짜를 지정
 - -f, --inactive
+	패스워드 만료 후 계정 유효 기간
 - -g, --gid
+	존재하는 그룹의 이름이나 GID를 입력하여 변경
 - -G, --groups
+	
 - -l, --login
 - -L, --lock
 - -m, --move-home
