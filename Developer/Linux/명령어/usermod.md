@@ -44,6 +44,12 @@ useradd 명령어에서의 설정 대부분을 수정 가능
 # 예제
 ```bash
 # 디렉터리 변경
+usermod -d /home/whiteblue blue
+# 디렉터리 변경 -m으로 내용 복사
+usermod -dm /home/whiteblue blue
+
+# 그룹 설정
+usermod -g newgroup blue
 ```
 
 
