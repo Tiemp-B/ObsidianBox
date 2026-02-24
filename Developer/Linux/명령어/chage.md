@@ -26,7 +26,10 @@ tags:
 ```bash
 # 최소 사용 날짜 7일, 최대 사용 날짜 365일, 만료 5일 전부터 경고, 만료 후 3일까진 계정 유효
 sudo chage -m 7 -M 365 -W 5 -l 3 test
-# 
+# 계정 만료일을 지정
+sudo chage -E 2019-12-24 test
+# 패스워드 변경일 지정
+sudo chage -d 1000 test
 ```
 
 # 연관 명령어
