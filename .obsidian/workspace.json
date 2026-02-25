@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -349,10 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f66168ea5f8fc71a",
+  "active": "117b0f902c146355",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/gpasswd.md",
     "Developer/Linux/명령어/newgrp.md",
+    "Developer/Linux/명령어/gpasswd.md",
     "Developer/Linux/명령어/usermod.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/국제 표준/RS-232.md",
