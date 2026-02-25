@@ -14,7 +14,15 @@ tags:
 `gpasswd [options] groupname`
 
 # 옵션
-
+- -a, --add 
+	그룹에 사용자 추가
+- -d, --delete
+	그룹에서 사용자 삭제
+- -r, --remove-password
+	그룹 패스워드 제거
+- -R, --restric
+- -A, --administrators
+- -M, --members
 
 # 예제
 
