@@ -24,8 +24,9 @@ tags:
 - -R, --restrict
 	그룹의 접근 제한
 - -A, --administrators
-	지정 사용ㅈ
+	지정 사용자를 관리자로 지정한다
 - -M, --members
+	
 
 # 예제
 
