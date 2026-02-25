@@ -20,6 +20,7 @@ tags:
 	그룹에서 사용자 삭제
 - -r, --remove-password
 	그룹 패스워드 제거
+	그룹 멤버는 newgrp 명령어를 통해 그룹에 참가 가능
 - -R, --restric
 - -A, --administrators
 - -M, --members
