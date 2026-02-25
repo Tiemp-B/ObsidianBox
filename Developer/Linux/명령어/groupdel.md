@@ -18,5 +18,9 @@ tags:
 
 
 # 연관 명령어
-
+- [[groupadd]]
+- [[groupmod]]
+- [[groupdel]]
+- [[gpasswd]]
+- [[newgrp]]
 
