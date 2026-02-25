@@ -26,7 +26,7 @@ tags:
 - -A, --administrators
 	지정 사용자를 관리자로 지정한다
 - -M, --members
-	
+	그룹 멤버 설정
 
 # 예제
 
@@ -34,3 +34,8 @@ tags:
 # 연관 명령어
 
 
+- [[groupadd]]
+- [[groupmod]]
+- [[groupdel]]
+- [[gpasswd]]
+- [[newgrp]]
