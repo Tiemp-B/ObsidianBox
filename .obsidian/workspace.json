@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "487018fb659e5535",
@@ -349,15 +349,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "117b0f902c146355",
+  "active": "f66168ea5f8fc71a",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/gpasswd.md",
     "Developer/국제 표준/RS-232.md",
     "Developer/Linux/명령어/groupdel.md",
     "Developer/Linux/명령어/groupmod.md",
     "Developer/Linux/명령어/usermod.md",
     "Developer/Linux/명령어/groupadd.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/adduser.md",
     "Developer/Linux/명령어/chage.md",
     "userdel.md",
