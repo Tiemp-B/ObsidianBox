@@ -21,8 +21,10 @@ tags:
 - -r, --remove-password
 	그룹 패스워드 제거
 	그룹 멤버는 newgrp 명령어를 통해 그룹에 참가 가능
-- -R, --restric
+- -R, --restrict
+	그룹의 접근 제한
 - -A, --administrators
+	지정 사용ㅈ
 - -M, --members
 
 # 예제
