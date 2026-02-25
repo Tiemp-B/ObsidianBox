@@ -14,7 +14,11 @@ tags:
 	- -g 옵션하여 이미 존재하는 GID를 기입하면 자동으로 유일 GID를 배정한다
 - -r, --system
 	- 시스템 그룹 생성
-	- l
+	- login.defs 파일에 정의되어 있는 SYS_GID_MIN~SYS_GID_MAX의 값이 배정
+- -g, --gid
+	- GID 지정
+- -o, --non-unique
+	- 중복 GID 허용
 
 # 예제
 
