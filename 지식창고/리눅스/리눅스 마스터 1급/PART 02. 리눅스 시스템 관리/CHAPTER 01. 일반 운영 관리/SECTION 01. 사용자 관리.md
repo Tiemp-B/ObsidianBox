@@ -97,10 +97,15 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 크게 2 종류로 나눠진다
 - 계정 및 그룹 설정 파일
 	- /etc/passwd
+		사용자 계정의 아이디, 그룹 정보 등의 계정 정보
 	- /etc/shadow
+		암호화된 패스워드 및 정책 설정 정보
 	- /etc/group
 	- /etc/gshadow
-- 계정 환경설ㅈ
+- 계정 환경설정 파일
+	- /etc/default/useradd
+	- /etc/login.defs
+	- /etc/skel
 
 
 
