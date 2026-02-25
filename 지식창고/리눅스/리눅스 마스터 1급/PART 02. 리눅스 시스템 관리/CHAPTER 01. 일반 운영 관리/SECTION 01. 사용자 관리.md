@@ -101,11 +101,18 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 	- /etc/shadow
 		암호화된 패스워드 및 정책 설정 정보
 	- /etc/group
+		사용자 그룹의 기본 정보
 	- /etc/gshadow
+		사용자 그룹의 암호화된 패스워드 정보
 - 계정 환경설정 파일
 	- /etc/default/useradd
+		useradd 명령어의 기본 설정
 	- /etc/login.defs
+		로그인 수행 시 기본 설정
 	- /etc/skel
+		홈 디렉터리 생성 시 기본으로 제공하는 파일
+
+
 
 
 
