@@ -82,16 +82,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/Untitled.md",
+                "file": "Developer/Linux/명령어/groupadd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "groupadd"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "487018fb659e5535",
@@ -349,9 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "117b0f902c146355",
+  "active": "f66168ea5f8fc71a",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/Untitled.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
+    "Developer/Linux/명령어/groupadd.md",
     "Developer/Linux/명령어/adduser.md",
     "Developer/Linux/명령어/chage.md",
     "userdel.md",
@@ -360,7 +361,6 @@
     "Developer/Linux/명령어/passwd.md",
     "Developer/Linux/명령어/useradd.md",
     "Developer/Linux/명령어/nslookup.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/alias.md",
     "Developer/Linux/명령어/apropos.md",

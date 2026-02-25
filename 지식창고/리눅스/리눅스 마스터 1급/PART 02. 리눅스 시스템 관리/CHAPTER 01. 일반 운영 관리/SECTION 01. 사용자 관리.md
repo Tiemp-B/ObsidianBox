@@ -86,7 +86,7 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 - [[groupmod]]
 - [[groupdel]]
 - [[gpasswd]]
-- 
+- [[newgrp]]
 
 
 
