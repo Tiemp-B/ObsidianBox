@@ -147,7 +147,9 @@ username:x:12:100:example_user:/home/user:/bin/bash
 - F: 패스워드 만료 경고일
 - G: 만료 유예기간
 - H: 계정 비활성화 날짜
-### 3. /etc/group
+### 3. /etc/default/useradd
+
+
 ### 4. /etc/gshadow
 
 
