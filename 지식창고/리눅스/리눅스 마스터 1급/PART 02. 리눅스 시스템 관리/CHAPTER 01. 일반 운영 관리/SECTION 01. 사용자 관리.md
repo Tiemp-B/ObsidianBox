@@ -177,7 +177,9 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 - UID_MIN / UID_MAX
 - GID_MIN / GID_MAX
 - CREATE_HOME
-- UMA
+- UMASK
+- USERGROUPS_ENAB
+- ENCRYPT_METHOD
 
 
 
