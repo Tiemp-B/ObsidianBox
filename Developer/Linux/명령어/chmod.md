@@ -7,10 +7,13 @@ tags:
 
 # 명령어 역할
 파일 혹은 디렉터리의 권한을 수정한다
-`chmod`
+`chmod [option] mode file(s)`
 
 # 옵션
-
+- -R, --recursive : 특정 디렉터리 내의 파일과 디렉터리에 대하여 재귀적으로 허가권을 수정한다
+- -C, --changes : 변경된 파일이나 디렉터리에 대한 자세한 정보 출력
+- -f, --silent, --quite : 에러 메시지의 출력 제한
+- --reference : 모드 대신 파일
 
 # 예제
 
