@@ -135,12 +135,15 @@ username:x:12:100:example_user:/home/user:/bin/bash
 `A:B:C:D:E:F:G:H:`
 - A: 사용자명
 - B: 암호화된 패스워드. \$id\$salt\$hashed 형식이다
+	- $id란
+		- $1\$ : MD5
+		- 
 - C: 패스워드 변경일. 1970년 1월 1일 기준
-- D: 패스워드 최소 유지
-- E:
-- F:
-- G:
-- H:
+- D: 패스워드 최소 유지기간
+- E: 패스워드 최대 사용기간
+- F: 패스워드 만료 경고일
+- G: 만료 유예기간
+- H: 계정 비활성화 날짜
 ### 3. /etc/group
 ### 4. /etc/gshadow
 
