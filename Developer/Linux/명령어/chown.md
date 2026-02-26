@@ -22,11 +22,12 @@ chown username filename
 chown username:groupname filename
 # 그룹만
 chown :groupname filename
-# UIG
+# UID, GID
+chown 2000:2001 filename
 ```
 
 # 연관 명령어
 - [[chown]]
 - [[chmod]]
-- 
+- [[chgrp]]
 
