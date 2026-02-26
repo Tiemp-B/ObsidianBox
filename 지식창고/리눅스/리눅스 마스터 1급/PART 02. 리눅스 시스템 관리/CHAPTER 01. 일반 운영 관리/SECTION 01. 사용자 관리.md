@@ -148,7 +148,7 @@ username:x:12:100:example_user:/home/user:/bin/bash
 - G: 만료 유예기간
 - H: 계정 비활성화 날짜
 ### 3. /etc/default/useradd
-
+useradd 기본 생성
 
 ### 4. /etc/gshadow
 
