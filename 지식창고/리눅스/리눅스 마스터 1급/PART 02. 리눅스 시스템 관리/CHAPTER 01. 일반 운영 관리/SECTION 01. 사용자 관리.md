@@ -168,6 +168,17 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 ### 4. /etc/login.defs
 쉐도우 패스워드 스위트를 위한 읽기 전용 환경설정 파일
 
+항목
+- MAIL_DIR
+- PASS_MAX_DAYS
+- PASS_MIN_DAYS
+- PASS_MIN_LEN
+- PASS_WARN_AGE
+- UID_MIN / UID_MAX
+- GID_MIN / GID_MAX
+- CREATE_HOME
+- UMA
+
 
 
 
