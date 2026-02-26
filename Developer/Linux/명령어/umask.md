@@ -8,7 +8,6 @@ tags:
 `umask [option] [mask]`
 # 옵션
 - -S : 심볼릭 표기
-- 
 
 # 예제
 
