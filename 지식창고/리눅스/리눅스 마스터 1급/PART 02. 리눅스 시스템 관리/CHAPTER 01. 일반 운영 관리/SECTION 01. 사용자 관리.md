@@ -151,8 +151,10 @@ username:x:12:100:example_user:/home/user:/bin/bash
 useradd으로 사용자 생성 시 사용되는 기본 설정 값
 `useradd -D` 로도 확인 가능하다
 항목
-- GROUPO
+- GROUP
+	GID
 - HOME
+	홈 디렉터리를 생성할 기본 디렉터리
 - INACTIVE
 - EXPIRE
 - SHELL
