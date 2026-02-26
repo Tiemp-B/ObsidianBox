@@ -15,7 +15,15 @@ tags:
 - --reference : 지정한 파일/디렉터리의 소유권을 복사
 
 # 예제
-
+```bash
+# 사용자 소유권
+chown username filename
+# 사용자, 그룹 소유권
+chown username:groupname filename
+# 그룹만
+chown :groupname filename
+# UIG
+```
 
 # 연관 명령어
 - [[chown]]
