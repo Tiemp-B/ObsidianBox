@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -349,10 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d4c72c86cdd271e5",
+  "active": "117b0f902c146355",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/umask.md",
+    "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/chown.md",
     "Developer/Linux/명령어/chmod.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
