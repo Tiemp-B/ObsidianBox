@@ -160,7 +160,9 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 - EXPIRE
 	계정 만료일 YYYY-MM-DD 형식
 - SHELL
+	기본 로그인 셸
 - SKEL
+	홈 디렉터리 생성 시의 기본 파일 위치
 - CREATE_MAIL_SPOOL
 
 ### 4. /etc/gshadow
