@@ -130,8 +130,8 @@ username:x:12:100:example_user:/home/user:/bin/bash
 - F: 홈 디렉터리
 - G: 사용하는 셸 위치
 
-
 ### 2. /etc/shadow
+패스워드를 해시 알고리즘으로 암호화한 값과 패스워드와 연관된 여러 속성을 담고 있는 파일
 ### 3. /etc/group
 ### 4. /etc/gshadow
 
