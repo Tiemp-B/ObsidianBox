@@ -188,6 +188,8 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 파일 /etc/passwd의 GID는 사용자의 주 그룹이고, 이 파일은 사용자의 보조 그룹에 대한 정보이다.
 `groupname : x : 115(GID) : user1,user2`
 
+### 6. /etc/gshadow
+그룹의 암호화 비밀번호 정
 
 
 
