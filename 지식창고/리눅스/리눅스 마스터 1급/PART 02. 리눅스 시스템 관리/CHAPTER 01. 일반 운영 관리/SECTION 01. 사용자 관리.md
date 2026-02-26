@@ -134,8 +134,8 @@ username:x:12:100:example_user:/home/user:/bin/bash
 패스워드를 해시 알고리즘으로 암호화한 값과 패스워드와 연관된 여러 속성을 담고 있는 파일
 `A:B:C:D:E:F:G:H:`
 - A: 사용자명
-- B: 암호화된 패스워드. $id\$
-- C:
+- B: 암호화된 패스워드. \$id\$salt\$hashed 형식이다
+- C: 
 - D:
 - E:
 - F:
