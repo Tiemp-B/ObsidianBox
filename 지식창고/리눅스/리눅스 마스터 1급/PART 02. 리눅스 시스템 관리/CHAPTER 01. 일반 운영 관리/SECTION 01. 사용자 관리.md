@@ -156,8 +156,9 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 - HOME
 	홈 디렉터리를 생성할 기본 디렉터리
 - INACTIVE
-	비밀번호 만료
+	비밀번호 만료 후 계정 비활성화까지의 일수
 - EXPIRE
+	계정 만료일 YYYY-MM-DD 형식
 - SHELL
 - SKEL
 - CREATE_MAIL_SPOOL
