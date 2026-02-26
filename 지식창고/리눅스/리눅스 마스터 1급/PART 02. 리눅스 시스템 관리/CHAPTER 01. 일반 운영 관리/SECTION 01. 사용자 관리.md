@@ -135,8 +135,8 @@ username:x:12:100:example_user:/home/user:/bin/bash
 `A:B:C:D:E:F:G:H:`
 - A: 사용자명
 - B: 암호화된 패스워드. \$id\$salt\$hashed 형식이다
-- C: 
-- D:
+- C: 패스워드 변경일. 1970년 1월 1일 기준
+- D: 패스워드 최소 유지
 - E:
 - F:
 - G:
