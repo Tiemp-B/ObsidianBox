@@ -115,10 +115,11 @@ sudo를 사용하고 비밀번호를 입력하여 root 권한 대행이 가능�
 ### 1. /etc/passwd
 로그인 시 필요한 UID, GID, 홈 디렉터리, 셸 등의 사용자 계정 정보 포함
 모든 사용자가 읽을 수 있으나 루트 권한으로만 쓰기가 허용
+`사용자`
 ```bash
 root:x:0:0:root:/root:/bin/bash
 bin:x:1:1:bin:/bin:/sbin/nologin
-username:x:12:100:example_user:/usr
+username:x:12:100:example_user:/home/user:/bin/bash
 ```
 ### 2. /etc/shadow
 ### 3. /etc/group
