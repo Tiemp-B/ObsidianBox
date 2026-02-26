@@ -124,6 +124,7 @@ username:x:12:100:example_user:/home/user:/bin/bash
 `A:B:C:D:E:F:G`
 - A: 사용자명. 1~32자
 - B: x->암호화된 패스워드를 /etc/shadow에 보관중
+- C:
 
 
 ### 2. /etc/shadow
