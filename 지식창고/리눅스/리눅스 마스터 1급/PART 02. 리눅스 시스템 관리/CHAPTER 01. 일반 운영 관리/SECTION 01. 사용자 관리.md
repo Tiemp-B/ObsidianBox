@@ -164,7 +164,7 @@ useradd으로 사용자 생성 시 사용되는 기본 설정 값
 - SKEL
 	홈 디렉터리 생성 시의 기본 파일 위치
 - CREATE_MAIL_SPOOL
-	
+	사용자 생성 시 메일 파일 생성 여부 지정
 ### 4. /etc/gshadow
 
 
