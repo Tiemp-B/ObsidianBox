@@ -137,7 +137,10 @@ username:x:12:100:example_user:/home/user:/bin/bash
 - B: 암호화된 패스워드. \$id\$salt\$hashed 형식이다
 	- $id란
 		- $1\$ : MD5
-		- 
+		- \$2a$ : Blowfish
+		- $2y\$ : Blowfish
+		- $5\$ : SHA-256
+		- $6\$ : SHA-512
 - C: 패스워드 변경일. 1970년 1월 1일 기준
 - D: 패스워드 최소 유지기간
 - E: 패스워드 최대 사용기간
