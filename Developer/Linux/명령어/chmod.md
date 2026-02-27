@@ -23,6 +23,7 @@ tags:
 
 - 특수 비트
 	- Set-UID
+		`chmod u+s filename`
 	- Set-GID
 	- 스티키 비트
 
