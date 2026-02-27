@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -349,8 +349,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caecdf9836655b26",
+  "active": "117b0f902c146355",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/fdisk.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
     "Developer/Linux/명령어/ln.md",
     "Developer/Linux/01. 부트로더.md",
@@ -376,7 +377,6 @@
     "Developer/Linux/명령어/nslookup.md",
     "Developer/Linux/명령어/man.md",
     "Developer/Linux/명령어/alias.md",
-    "Developer/Linux/명령어/apropos.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
