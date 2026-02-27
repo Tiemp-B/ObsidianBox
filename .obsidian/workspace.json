@@ -133,7 +133,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/Linux/01. 부트로더.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,8 +351,9 @@
   },
   "active": "117b0f902c146355",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/커널.md",
+    "Developer/Linux/01. 부트로더.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
+    "Developer/CS/03. OS/커널.md",
     "Developer/Linux/명령어/umask.md",
     "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/chown.md",
@@ -376,7 +377,6 @@
     "Developer/Linux/명령어/alias.md",
     "Developer/Linux/명령어/apropos.md",
     "Developer/Linux/명령어/ftp.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
