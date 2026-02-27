@@ -27,7 +27,7 @@ tags:
 	- Set-GID
 		`chmod g+s filename`
 	- 스티키 비트
-		``
+		`chmod o+t filename`, `chmod 1777 filename`
 
 
 # 예제
