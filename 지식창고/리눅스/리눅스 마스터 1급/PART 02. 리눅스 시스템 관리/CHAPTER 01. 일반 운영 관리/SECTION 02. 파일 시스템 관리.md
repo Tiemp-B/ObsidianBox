@@ -96,6 +96,7 @@
 - [[head]]
 - [[tail]]
 - [[more]]
+- [[less]]
 - [[grep]]
 - [[wc]]
 - [[sort]]
