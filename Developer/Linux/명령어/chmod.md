@@ -25,6 +25,7 @@ tags:
 	- Set-UID
 		`chmod u+s filename`
 	- Set-GID
+		`chmod g+s filename`
 	- 스티키 비트
 
 
