@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 56.310057655349134,
+        "dimension": 47.53363228699551,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -96,7 +96,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 43.689942344650866,
+        "dimension": 52.46636771300448,
         "children": [
           {
             "id": "5f03ede822799ca3",
@@ -349,10 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "117b0f902c146355",
+  "active": "51ebce24afdae266",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/umask.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
+    "Developer/Linux/명령어/umask.md",
     "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/chown.md",
     "Developer/Linux/명령어/chmod.md",
