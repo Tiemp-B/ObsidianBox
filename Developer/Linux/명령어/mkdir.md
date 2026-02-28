@@ -10,8 +10,8 @@ tags:
 `mkdir [option] directory`
 
 # 옵션
-- -m, --mode : 
-- -
+- -m, --mode : 허가권 설정
+- -p, --parent : 상위 디렉터리도 필요시 생성
 
 # 예제
 
