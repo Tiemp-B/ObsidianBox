@@ -9,7 +9,8 @@ tags:
 
 # 옵션
 - -r, -R, --recursive : 하위 파일 및 디렉터리도 복사
-- -i, --interactive : 덮
+- -i, --interactive : 덮어쓰기가 필요한 경우 사용자 동의 요구
+- 
 
 # 예제
 
