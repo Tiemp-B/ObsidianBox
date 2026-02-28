@@ -10,7 +10,8 @@ tags:
 `mkdir [option] directory`
 
 # 옵션
-- -m
+- -m, --mode : 
+- -
 
 # 예제
 
