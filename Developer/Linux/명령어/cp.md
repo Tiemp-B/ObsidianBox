@@ -8,7 +8,8 @@ tags:
 파일 및 디렉터리 복사
 
 # 옵션
-- -r, -R, --recursive : 하위 파일 및 디렉ㅌ
+- -r, -R, --recursive : 하위 파일 및 디렉터리도 복사
+- -i, --interactive : 덮
 
 # 예제
 
