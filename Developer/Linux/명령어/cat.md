@@ -5,10 +5,14 @@ tags:
   - 텍스트
 ---
 # 명령어 역할
-파일의 텍스트 내용을 보거나 다른 새로운 파일로 복사 및 
-
+파일의 텍스트 내용을 보거나 다른 새로운 파일로 복사 및 기존 파일과 병합
+`cat [option] file`
 # 옵션
-
+- -b, --number-nonblank
+- -n, --number
+- -E, --show-ends
+- -T, --show-tabs
+- -
 
 # 예제
 
