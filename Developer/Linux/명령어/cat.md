@@ -20,7 +20,7 @@ tags:
 ```bash
 # 파일을 읽어 새 파일에 작성. 기존 파일을 덮어쓴다
 cat readme.txt > newreadme.txt
-# 파일을 읽어 
+# 파일을 읽어 파일에 작성. 기존 파일 뒤에 이어ㅂ
 cat readme.txt >> newreadme.txt
 ```
 
