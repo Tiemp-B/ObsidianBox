@@ -7,10 +7,10 @@ tags:
 
 # 명령어 역할
 지정 파일 및 디렉터리를 이동 및 이름 변경
-`mv [option`
+`mv [option] source ... destination`
 
 # 옵션
-
+- -I, --interactive : 
 
 # 예제
 
