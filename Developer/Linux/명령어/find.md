@@ -60,7 +60,7 @@ find . /home/usr1 /home/usr2
 # 지정 위치에서 특정 문자열이 포함된 파일
 find /home/usr1/target_directory -name '*target*'
 # 타입 유형 지정
-find /target_directory -name -type f
+find /target_directory -name 'target_name' -type f
 ```
 
 # 연관 명령어
