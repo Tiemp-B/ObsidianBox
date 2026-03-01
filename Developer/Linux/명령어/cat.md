@@ -20,10 +20,19 @@ tags:
 ```bash
 # 파일을 읽어 새 파일에 작성. 기존 파일을 덮어쓴다
 cat readme.txt > newreadme.txt
-# 파일을 읽어 파일에 작성. 기존 파일 뒤에 이어ㅂ
+# 파일을 읽어 파일에 작성. 기존 파일이 있다면 뒤에 이어쓴다.
 cat readme.txt >> newreadme.txt
 ```
 
 # 연관 명령어
-
+- [[cat]]
+- [[head]]
+- [[tail]]
+- [[more]]
+- [[less]]
+- [[grep]]
+- [[wc]]
+- [[sort]]
+- [[cut]]
+- [[split]]
 
