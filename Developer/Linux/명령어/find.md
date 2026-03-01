@@ -57,6 +57,7 @@ find
 find .
 # 지정 경로 이하의 모든 파일 및 디렉터리
 find . /home/usr1 /home/usr2 
+# 특정 문자가 포함된
 ```
 
 # 연관 명령어
