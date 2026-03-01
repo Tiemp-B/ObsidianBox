@@ -10,7 +10,9 @@ tags:
 `mv [option] source ... destination`
 
 # 옵션
-- -I, --interactive : 
+- -I, --interactive : 파일의 허가권과 관계없이 존재하는 파일을 덮어쓰기 전에 사용자 확인 요구
+- -f, --force : 강제 덮어쓰기
+- -
 
 # 예제
 
