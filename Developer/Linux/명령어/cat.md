@@ -18,7 +18,10 @@ tags:
 
 # 예제
 ```bash
-cat rea
+# 파일을 읽어 새 파일에 작성. 기존 파일을 덮어쓴다
+cat readme.txt > newreadme.txt
+# 파일을 읽어 
+cat readme.txt >> newreadme.txt
 ```
 
 # 연관 명령어
