@@ -23,7 +23,10 @@ tags:
 	- f : 파일
 	- l : 심볼릭 링크
 	- s : 소켓
-- -a
+- -atime : 마지막 access time
+- -ctime : 마지막 change time
+- -mtime : 마지막 modify time
+- -exec : 패턴
 
 
 # 예제
