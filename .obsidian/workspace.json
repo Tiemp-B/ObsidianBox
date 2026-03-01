@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -349,10 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "117b0f902c146355",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/ls.md",
     "Developer/Linux/명령어/find.md",
+    "Developer/Linux/명령어/ls.md",
     "Developer/Linux/명령어/mv.md",
     "Developer/Linux/명령어/rm.md",
     "Developer/Linux/명령어/cp.md",
