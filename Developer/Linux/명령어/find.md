@@ -26,7 +26,9 @@ tags:
 - -atime : 마지막 access time
 - -ctime : 마지막 change time
 - -mtime : 마지막 modify time
-- -exec : 패턴
+- -exec : 패턴에 부합하는 파일을 찾을 때마다 실행할 명령어 지정
+- -ok : -exec와 기능에 사용자 확인 요구
+- -print : 표준 출력으로 전체 파일 경로 출력. 개행 문자로 종료
 
 
 # 예제
