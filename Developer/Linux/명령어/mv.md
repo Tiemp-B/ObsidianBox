@@ -14,7 +14,7 @@ tags:
 - -f, --force : 강제 덮어쓰기
 - -b : 덮어쓰기 전에 기존 파일을 백업한다
 - -u, --update : 지정 파일이 수정 일자가 최신인 경우만
-- -t, --target-directory : 
+- -t, --target-directory : 모든 원본 파일을 지정 경로로 이동
 
 # 예제
 
