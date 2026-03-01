@@ -12,10 +12,14 @@ tags:
 - -n, --number
 - -E, --show-ends
 - -T, --show-tabs
-- -
+- -v, --show-nonprinting
+- -A, --show-all
+- -s, --squeeze-blank
 
 # 예제
-
+```bash
+cat rea
+```
 
 # 연관 명령어
 
