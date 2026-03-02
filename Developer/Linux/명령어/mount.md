@@ -15,13 +15,16 @@ tags:
 		- ro
 		- rw
 		- atime / noatime
+			- noatime(파일 접근 시간 변경 안함)의 비설정 / 설정
 		- auto / noauto
 		- remount
 	- ext2, ext3
 		- acl
+			- 접근 제어 리스트를 사용하여 마운트
 	- fat
 		- blocksize
 		- fat
+			- 12, 16, 32 지정
 	- iso9660
 		- block
 	- loop
