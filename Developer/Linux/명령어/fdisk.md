@@ -34,5 +34,9 @@ Command (m for help):
 ```
 
 # 연관 명령어
+- [[fdisk]] 
+- [[mount]] 
+- [[mkfs]]
+- [[mke2fs]] 
 
 

@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -335,8 +335,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e9e26212f4e7fcf",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/fdisk.md",
+    "Developer/국제 표준/RS-232.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
     "Developer/CS/03. OS/파일시스템.md",
     "Developer/보안/보안.md",
@@ -348,7 +350,6 @@
     "Developer/Linux/명령어/cp.md",
     "Developer/Linux/명령어/mkdir.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
-    "Developer/Linux/명령어/fdisk.md",
     "Developer/Linux/명령어/pwd.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/명령어/ln.md",
@@ -361,7 +362,6 @@
     "Developer/Linux/명령어/usermod.md",
     "Developer/Linux/명령어/newgrp.md",
     "Developer/Linux/명령어/gpasswd.md",
-    "Developer/국제 표준/RS-232.md",
     "Developer/Linux/명령어/groupdel.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
