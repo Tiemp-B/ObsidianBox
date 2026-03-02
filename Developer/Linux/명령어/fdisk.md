@@ -9,7 +9,8 @@ tags:
 `fdisk [option] device`
 
 # 옵션
-- -l : 지정 디슼
+- -l : 지정 디스크의 파티션 정보 출력. 디스크 미지정시 /proc/partitions의 장치의 파티션 정보 출력
+- -b : 
 
 # 예제
 
