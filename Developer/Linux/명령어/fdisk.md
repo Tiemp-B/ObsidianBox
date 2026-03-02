@@ -27,6 +27,8 @@ tags:
 ```bash
 # 지정 디스크에 대한 파티션 설정. 대화형
 fdisk /dev/sdb
+# 대화형
+Command (m for help): 
 
 ```
 
