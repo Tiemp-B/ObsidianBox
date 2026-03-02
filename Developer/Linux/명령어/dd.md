@@ -2,7 +2,7 @@
 tags:
   - 리눅스
   - 명령어
-  - 스왑
+  - 파일
 ---
 
 # 명령어 역할
@@ -19,7 +19,3 @@ dd if=/dev/zero of=/swapfile bs=1024 count=1048576
 
 # 연관 명령어
 - [[dd]]
-- [[mkswap]]
-- [[swapon]]
-- [[swapoff]]
-
