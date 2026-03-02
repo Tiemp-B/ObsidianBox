@@ -30,6 +30,7 @@ fdisk /dev/sdb
 # 대화형
 Command (m for help): 
 
+
 ```
 
 # 연관 명령어
