@@ -155,9 +155,13 @@
 	`mount -o remount 디스크`
 3. SELinux(Security-Enhanced Linux) 비활성화
 	`setenforce 0`
-4. 사용자를 위한 쿼터 파일 생성 및 디스크 사용량 설정
+4. 사용자/그룹을 위한 쿼터 파일 생성 및 디스크 사용량 설정
 	`quotacheck -mf 디스크`
-5. 
+	`quotacheck -gm 디스크`
+5. 특정 대상에 대해 쿼터 정책 설정
+	`edquota 사용자명`
+	`edquota -g 그룹명`
+6. 
 
 
 
