@@ -161,7 +161,11 @@
 5. 특정 대상에 대해 쿼터 정책 설정
 	`edquota 사용자명`
 	`edquota -g 그룹명`
-6. 
+6. 디스크 쿼터 기능을 시작
+	`quotaon 디스크`
+7. 쿼터 기능 설정 확인
+	`repquota 디스크`
+	`repquota -g 디스`
 
 
 
