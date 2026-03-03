@@ -167,7 +167,13 @@
 7. 쿼터 기능 설정 확인
 	`repquota 디스크`
 	`repquota -g 디스크`
-8. SELinux
+8. SELinux 활성화
+	`setenforce 1`
+
+### 관련 명령어
+- [[quotacheck]]
+- [[edquota]]
+- 
 
 
 
