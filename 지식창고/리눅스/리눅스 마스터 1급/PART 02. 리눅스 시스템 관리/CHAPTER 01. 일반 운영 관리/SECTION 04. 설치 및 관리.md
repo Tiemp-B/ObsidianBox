@@ -9,7 +9,10 @@
 |   레드햇    | rpm  |          yum           |
 |   데비안    | dpkg | apt-get, apt, aptitude |
 | openSUSE | rpm  |      zipper/YaST       |
-
+- 저수준 패키지
+	패키지의 설치, 업그레이드, 제거 등의 개별 동작
+- 고수준 패키지
+	패
 
 
 
