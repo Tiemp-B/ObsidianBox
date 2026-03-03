@@ -153,7 +153,7 @@
 	별도의 디스크를 생성하고 4번째 필드에 usrquota와 grpquota를 지정하여 사용자 쿼터와 그룹 쿼터를 활성화
 2. 반영을 위한 remount
 	`mount -o remount 디스크`
-3. SELinux 비활성화
+3. SELinux(Security-Enhanced Linux) 비활성화
 
 
 
