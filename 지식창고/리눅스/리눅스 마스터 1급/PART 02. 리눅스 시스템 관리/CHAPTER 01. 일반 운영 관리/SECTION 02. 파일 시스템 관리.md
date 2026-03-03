@@ -173,7 +173,9 @@
 ### 관련 명령어
 - [[quotacheck]]
 - [[edquota]]
-- 
+- [[repquota]]
+- [[quota]]
+- [[quotaon, quota]]
 
 
 
