@@ -150,8 +150,10 @@
 
 ### 설정 방법
 1. /etc/fstab 파일을 편집하여 디스크 쿼터 기능 활성화
-	별도의 디스크를 생성하고 4번째 필드에 usrquota와 grpquota를 지정하여 사용자 쿼터와 그ㅂ 쿼틀
-
+	별도의 디스크를 생성하고 4번째 필드에 usrquota와 grpquota를 지정하여 사용자 쿼터와 그룹 쿼터를 활성화
+2. 반영을 위한 remount
+	`mount -o remount 디스크`
+3. SELinux 비활성화
 
 
 
