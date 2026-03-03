@@ -20,7 +20,7 @@
 - 데비안
 	명령어 : [[dpkg]]
 	확장자 : deb
-	
+### rhtnwns vozlwl ehr
 
 
 
