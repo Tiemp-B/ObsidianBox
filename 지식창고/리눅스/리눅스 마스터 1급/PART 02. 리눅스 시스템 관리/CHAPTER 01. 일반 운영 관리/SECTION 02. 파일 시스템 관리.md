@@ -154,6 +154,10 @@
 2. 반영을 위한 remount
 	`mount -o remount 디스크`
 3. SELinux(Security-Enhanced Linux) 비활성화
+	`setenforce 0`
+4. 사용자를 위한 쿼터 파일 생성 및 디스크 사용량 설정
+	`quotacheck -mf 디스크`
+5. 
 
 
 
