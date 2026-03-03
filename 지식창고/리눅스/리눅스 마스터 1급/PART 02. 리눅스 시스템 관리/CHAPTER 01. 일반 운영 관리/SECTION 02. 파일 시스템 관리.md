@@ -165,7 +165,9 @@
 	`quotaon 디스크`
 7. 쿼터 기능 설정 확인
 	`repquota 디스크`
-	`repquota -g 디스`
+	`repquota -g 디스크`
+
+
 
 
 
