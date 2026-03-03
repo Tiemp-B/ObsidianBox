@@ -154,6 +154,7 @@
 2. 반영을 위한 remount
 	`mount -o remount 디스크`
 3. SELinux(Security-Enhanced Linux) 비활성화
+	SELinux는 파일시스템 접근을 차단하기에 aquota.user, aquota.group 파일 생성을 막는다
 	`setenforce 0`
 4. 사용자/그룹을 위한 쿼터 파일 생성 및 디스크 사용량 설정
 	`quotacheck -mf 디스크`
