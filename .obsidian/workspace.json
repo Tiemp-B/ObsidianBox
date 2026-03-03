@@ -351,8 +351,9 @@
   },
   "active": "caecdf9836655b26",
   "lastOpenFiles": [
-    "Developer/Linux/01. 부트로더.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 03. 프로세스 관리.md",
+    "Developer/Linux/01. 부트로더.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
     "지식창고/리눅스/SELinux.md",
     "Developer/Linux/명령어/dd.md",
@@ -368,7 +369,6 @@
     "Developer/Linux/명령어/rm.md",
     "Developer/Linux/명령어/cp.md",
     "Developer/Linux/명령어/mkdir.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 01. 사용자 관리.md",
     "Developer/Linux/명령어/pwd.md",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/명령어/ln.md",

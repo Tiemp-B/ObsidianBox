@@ -1,3 +1,15 @@
+```table-of-contents
+style: nestedList
+
+minLevel: 0
+
+maxLevel: 0
+
+includeLinks: true
+
+debugInConsole: false
+```
+---
 # 1. 사용자의 분류
 ## 사용자의 종류
 1. 루트 계정
