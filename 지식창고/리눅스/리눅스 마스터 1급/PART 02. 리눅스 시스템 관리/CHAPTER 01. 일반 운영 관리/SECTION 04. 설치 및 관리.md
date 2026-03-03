@@ -17,7 +17,9 @@
 # 2. 레드햇 패키지 도구
 ### 저수준 패키지 관리 도구 RPM
 - 개발사 : 레드햇
-- 사용 
+- 사용 배포판 : Novell NetWare, IBM's AIX, CentOS, Fedora, Oracle Linux 등
+- 패키지 파일 : .rpm
+- 명령어 [[rpm]]
 
 # 3. 데비안 패키지 도구
 
