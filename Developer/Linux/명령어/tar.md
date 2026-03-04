@@ -40,7 +40,15 @@ tags:
 - --keep-newer-files : 아카이브 사본보다 최신인 기존 파일은 바꾸지 않음
 - 등등
 
+### 확장 파일 속성 처리
+- --acls : POSIX ACL 지원 활성화
+- --no-acls : POSIX ACL 지원 비활성화
+- --no-selinux
+- --no-xattrs : 확장 속성 지원 비활성화
+- 등등
 
+### 장치 선택 및 전환
+- --force-local : 콜
 
 
 
