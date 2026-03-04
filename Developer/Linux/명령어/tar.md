@@ -85,7 +85,11 @@ tags:
 - -h, --dereference : 심볼릭 링크가 가리키는 파일도 아카이브한다
 등등
 
-### 정보 출
+### 정보 출력
+- -l, --check-links : 모든 링크의 덤프를 가져오지 않았을 때 메시지 출력
+- -R, --block-number : 각 메시지로 아카이브 블록 번호 표시
+- -v, --verbose : 처리 파일 목록 출력
+- -w, --interactive, --con
 
 
 
