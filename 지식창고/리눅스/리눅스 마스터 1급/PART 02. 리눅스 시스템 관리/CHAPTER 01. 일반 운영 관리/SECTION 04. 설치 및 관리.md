@@ -51,12 +51,14 @@
 ### 설명
 소스코드는 보통 tar로 아카이브한 후 파일 크기를 줄이기 위해 gzip이나 bzip2로 압축한다
 
-일반적으로 패키지는 소스코드인 .c, .h 파일 등의 코드 파일과 설치 보조를 하는 Makefile과 configure 파일을 가지고 있다. 빌드도
+일반적으로 패키지는 소스코드인 .c, .h 파일 등의 코드 파일과 설치 보조를 하는 Makefile과 configure 파일을 가지고 있다. 빌드도구로 설치를 진행한다
 ### 절차
 1. configure를 실행하여 config.h.in을 automake로 하여금 Makefile.in을 생성하게 하고, 환경변수와 관련 패키지 설치 유무 등을 고려하여 시스템을 위한 Makefile과 config.h 파일을 생성한다.
 2. [[make]] 명령어로 Makefile의 정의되어 있는 설치를 실행한다.
 
-##
+## 빌드 도구
+### CMake
+크로스플랫폼에서 빌드가 가능하도록 해당 시스템에 적합한 Makefile의 생성만을 수행하는 make의 발전된 빌드 도구. 즉, 직접 빌드가 아닌 Makefile만 생성
 
 
 
