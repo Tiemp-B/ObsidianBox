@@ -11,7 +11,7 @@ tags:
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
 # 옵션
-주 동작 모드
+### 주 동작 모드
 - -A, --catenate, --concatenate : tar 파ㅣㅇㄹ간의 병합
 - -c, --create : 새 아카이브 생성
 - --delete : 아카이브에서 삭제
@@ -21,7 +21,11 @@ tags:
 - -u, --update : 아카이브 내 사본보다 최신인 파일만 추가
 - -x, --extract, --get : 아카이브 파일 추출
 
-동작 조절 ㅇ
+### 동작 조절 옵션
+- --check-device : 증분 아카이브를 만들 때 장치 번호 검사
+- -g, --listed-incremental= : 최신 GNU 형식 증분 백업 처리
+- -S, --sparase : 
+
 
 
 아카이브 생성/추출
