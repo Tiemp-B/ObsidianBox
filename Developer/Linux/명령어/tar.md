@@ -15,7 +15,12 @@ tags:
 - -c, --create : 새로운 tar 생성
 - -x, --extract : tar 파일을 해체
 
+처리 정보
+- v, --verbose : 사용자에게 보여주는 정보량 증가
 
+인자
+- -f, --file : 생성되는 tar파일명 지정
+- -r, --append : tar 파일에 
 
 # 예제
 
