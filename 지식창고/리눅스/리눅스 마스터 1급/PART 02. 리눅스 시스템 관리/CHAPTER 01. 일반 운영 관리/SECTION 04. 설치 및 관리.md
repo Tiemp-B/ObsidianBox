@@ -17,7 +17,7 @@
 	패키지의 의존성까지 고려하여 저수준 패키지를 활용
 
 # 2. 레드햇 패키지 도구
-### 저수준 패키지 관리 도구 RPM
+### 저수준 패키지 관리 도구 RPM (Red Hat Package Manager)
 - 개발사 : 레드햇
 - 사용 배포판 : Novell NetWare, IBM's AIX, CentOS, Fedora, Oracle Linux 등
 - 패키지 파일 : .rpm
