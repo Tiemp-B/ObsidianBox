@@ -15,7 +15,14 @@ tags:
 - -A, --catenate, --concatenate : tar 파ㅣㅇㄹ간의 병합
 - -c, --create : 새 아카이브 생성
 - --delete : 아카이브에서 삭제
-- -d, --diff, --compare : 아카이브 및 파일 ㅅ
+- -d, --diff, --compare : 아카이브 및 파일 시스템 차이점 찾기
+- -r, --append : 아카이브에 파일 추가
+- --test-label : 아카이브 볼륨 레이블을 시험하고 빠져나간다
+- -u, --update : 아카이브 내 사본보다 최신인 파일만 추가
+- -x, --extract, --get : 아카이브 파일 추출
+
+동작 조절 ㅇ
+
 
 아카이브 생성/추출
 - -c, --create : 새로운 tar 생성
