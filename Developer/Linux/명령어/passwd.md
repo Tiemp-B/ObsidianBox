@@ -48,4 +48,7 @@ passwd [옵션] 계정명
 - [[userdel]]
 - [[chage]]
 비밀번호 관리
-[[ㅔㅈ]]
+- [[pwck]]
+- [[pwconv]]
+- [[pwunconv]]
+- [[vipw]]
