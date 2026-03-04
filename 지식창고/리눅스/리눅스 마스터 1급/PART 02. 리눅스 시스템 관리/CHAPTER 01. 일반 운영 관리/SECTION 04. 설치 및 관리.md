@@ -53,7 +53,7 @@
 
 일반적으로 패키지는 소스코드인 .c, .h 파일 등의 코드 파일과 설치 보조를 하는 Makefile과 configure 파일을 가지고 있다.
 
-1. configure를 실행하여 config.h.in, M
+1. configure를 실행하여 config.h.in을 automake로 하여금 Makefile.in을 생성하게 하고, 환경변ㅜ와 관련 패키지 설치 유무 등을 고려하여 시스템을 위한 Makefile과 config.h 파일을 생성한다.
 
 
 
