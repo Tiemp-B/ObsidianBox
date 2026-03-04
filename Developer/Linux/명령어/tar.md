@@ -11,7 +11,8 @@ tags:
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
 # 옵션
-
+- -c, --create : 새로운 tar 생성
+	`tar -c file1 file2`
 
 # 예제
 
