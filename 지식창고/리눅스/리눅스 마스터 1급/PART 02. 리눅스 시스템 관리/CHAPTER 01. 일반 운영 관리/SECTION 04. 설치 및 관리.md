@@ -51,7 +51,10 @@
 ### 설명
 소스코드는 보통 tar로 아카이브한 후 파일 크기를 줄이기 위해 gzip이나 bzip2로 압축한다
 
-일반적으로 패키지는 소스코드인 .c, .h 파일 등의 코드 파일과 설치 보조를 하는 Makefile과 configure 파일을 
+일반적으로 패키지는 소스코드인 .c, .h 파일 등의 코드 파일과 설치 보조를 하는 Makefile과 configure 파일을 가지고 있다.
+
+1. configure를 실행하여 config.h.in, M
+
 
 
 
