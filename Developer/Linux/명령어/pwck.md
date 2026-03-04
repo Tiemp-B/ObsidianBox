@@ -14,7 +14,7 @@ tags:
 	- UID/GID 이상 여부
 
 # 옵션
-
+- -r : read-only 점검
 
 # 예제
 
