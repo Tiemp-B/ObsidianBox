@@ -50,7 +50,19 @@ tags:
 ### 장치 선택 및 전환
 - --force-local : 콜론이 있어도 로컬 아카이브 파일로 간주
 - -f, --file=<아카이브> 아카이브 파일명 또는 장치명이 <아카이브>
-- -F, --info-script=<명칭>, --new-volume-script=<명칭> : 
+- -F, --info-script=<명칭>, --new-volume-script=<명칭> : 각 테이프 끝 부분 도달 시 스크립트 실행
+- 등등
+
+### 장치 블로킹
+
+
+### 아카이브 형식 선택
+- -H, --format=<형식>
+	형식 목록
+	- gnu
+	- oldgnu
+	- pax
+	- posix
 
 
 
