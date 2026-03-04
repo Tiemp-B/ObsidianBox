@@ -12,7 +12,7 @@ tags:
 
 # 옵션
 - -c, --create : 새로운 tar 생성
-	`tar -c file1 file2`
+- -x, --extract : 
 
 # 예제
 
