@@ -77,6 +77,7 @@ GNU에서 제작한 대부분의 프로그래밍 언어를 지원하는 컴파�
 
 ## 압축하기
 ### compress, uncompress
+[[compress, uncompress]]
 ncompress 패키지를 설치하면 둘 다 설치된다
 - 압축 알고리즘 : 렘펠지브(Lempel-Ziv)
 - 확장자 : .Z
