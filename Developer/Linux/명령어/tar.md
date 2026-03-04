@@ -69,7 +69,11 @@ tags:
 
 ### 압축 옵션
 - -a, --auto-compress
-- -I, --use-com
+- -I, --use-compress-program=<프로그램> : <프로그램>으로 압축 진행. -d 옵션으로 연계해야 한다.
+- -j, --bzip2 : bzip2로 아카이브를 필터링
+- -J, --xz : xz
+- --lzip : lzip
+- --lzma : 
 
 
 
