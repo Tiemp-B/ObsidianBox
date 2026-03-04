@@ -68,16 +68,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/tar.md",
+                "file": "Developer/Linux/명령어/find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tar"
+              "title": "find"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "487018fb659e5535",
@@ -335,18 +335,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caecdf9836655b26",
+  "active": "53642fb5ca983f8f",
   "lastOpenFiles": [
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 03. 프로세스 관리.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 04. 설치 및 관리.md",
+    "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/tar.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 03. 프로세스 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 04. 설치 및 관리.md",
     "Developer/Linux/명령어/vipw.md",
     "Developer/Linux/명령어/pwunconv.md",
     "Developer/Linux/명령어/pwconv.md",
     "Developer/Linux/명령어/pwck.md",
     "Developer/Linux/명령어/passwd.md",
-    "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/umask.md",
     "Developer/Linux/명령어/ln.md",
     "Developer/Linux/명령어/dd.md",
