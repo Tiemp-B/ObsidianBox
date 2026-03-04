@@ -58,7 +58,11 @@
 
 ## 빌드 도구
 ### CMake
-크로스플랫폼에서 빌드가 가능하도록 해당 시스템에 적합한 Makefile의 생성만을 수행하는 make의 발전된 빌드 도구. 즉, 직접 빌드가 아닌 Makefile만 생성
+크로스플랫폼에서 빌드가 가능하도록 해당 시스템에 적합한 Makefile의 생성만을 수행하는 make의 발전된 빌드 도구. 즉, 직접 빌드가 아닌 Makefile만 생성한다
+
+## 컴파일러
+### gcc(GNU Compiler Collection)
+
 
 
 
