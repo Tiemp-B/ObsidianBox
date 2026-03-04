@@ -75,7 +75,9 @@ GNU에서 제작한 대부분의 프로그래밍 언어를 지원하는 컴파�
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
 ## 압축하기
-### compress, uncom
+### compress, uncompress
+ncompress 패키지를 설치하면 둘 다 설치된다
+- 압축 알고리즘 : 렘펠지브(Lempel-Ziv)
 
 
 
