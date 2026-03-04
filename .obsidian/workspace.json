@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -363,10 +363,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9790b20d3d850b5a",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/pwunconv.md",
     "Developer/Linux/명령어/vipw.md",
+    "Developer/Linux/명령어/pwunconv.md",
     "Developer/Linux/명령어/pwconv.md",
     "Developer/Linux/명령어/pwck.md",
     "Developer/Linux/명령어/passwd.md",
