@@ -63,6 +63,13 @@ tags:
 	- oldgnu
 	- pax
 	- posix
+	- ustar
+	- v7
+- -V, --label=<텍스트> : <텍스트> 볼륨 이름을 지닌 아카이브 생성.
+
+### 압축 옵션
+- -a, --auto-compress
+- -I, --use-com
 
 
 
