@@ -37,7 +37,11 @@ tags:
 
 ### 덮어쓰기 관리
 - -k, --keep-old-files : 추출 시 기존 파일을 바꾸지 않고 오류로 간주
-- --keep-newer-
+- --keep-newer-files : 아카이브 사본보다 최신인 기존 파일은 바꾸지 않음
+- 등등
+
+
+
 
 
 
