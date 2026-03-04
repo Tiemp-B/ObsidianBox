@@ -39,6 +39,7 @@ passwd [옵션] 계정명
 
 
 # 연관 명령어
+계정관리
 - [[adduser]]
 - [[useradd]]
 - [[passwd]]
@@ -46,3 +47,5 @@ passwd [옵션] 계정명
 - [[usermod]]
 - [[userdel]]
 - [[chage]]
+비밀번호 관리
+[[ㅔㅈ]]
