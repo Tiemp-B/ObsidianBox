@@ -73,7 +73,12 @@ tags:
 - -j, --bzip2 : bzip2로 아카이브를 필터링
 - -J, --xz : xz
 - --lzip : lzip
-- --lzma : 
+- --lzma : xz --format=lzma로 필터링
+- --lzop : lzop
+- --no-auto-compress : 후위 확장자 사용 안함
+- -zstd : zstd
+- -z, --gzip, --gunzip, --ungzip : gzip으로 필터링
+- -Z, --compress, --uncompress
 
 
 
