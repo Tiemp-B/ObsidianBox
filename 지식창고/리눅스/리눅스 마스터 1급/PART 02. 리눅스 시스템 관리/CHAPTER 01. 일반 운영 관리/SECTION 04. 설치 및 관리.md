@@ -93,7 +93,7 @@ ncompress 패키지를 설치하면 둘 다 설치된다
 - 압축 효율은 좋으나 속도가 느리다
 
 ### xz, unxz
-- 압축 알고리즘 : LZMA
+- 압축 알고리즘 : LZMA(Lempel–Ziv–Markov chain algorithm)
 - 확장자 : .xz
 
 
