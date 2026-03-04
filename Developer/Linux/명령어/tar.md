@@ -24,7 +24,12 @@ tags:
 ### 동작 조절 옵션
 - --check-device : 증분 아카이브를 만들 때 장치 번호 검사
 - -g, --listed-incremental= : 최신 GNU 형식 증분 백업 처리
-- -S, --sparase : 
+- -S, --sparase : 성긴 파일을 제대로 처리
+- 등등
+
+### 로컬 파일 이름 선택
+- --add-file=<파일> : 설정 <파일>을 아카이브에 추가
+- -C, --directory=<디렉터리> : 디렉터리
 
 
 
