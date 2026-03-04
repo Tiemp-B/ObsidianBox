@@ -95,6 +95,7 @@ ncompress 패키지를 설치하면 둘 다 설치된다
 ### xz, unxz
 - 압축 알고리즘 : LZMA(Lempel–Ziv–Markov chain algorithm)
 - 확장자 : .xz
+- 
 
 
 
