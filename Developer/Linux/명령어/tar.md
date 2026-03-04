@@ -11,6 +11,12 @@ tags:
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
 # 옵션
+주 동작 모드
+- -A, --catenate, --concatenate : tar 파ㅣㅇㄹ간의 병합
+- -c, --create : 새 아카이브 생성
+- --delete : 아카이브에서 삭제
+- -d, --diff, --compare : 아카이브 및 파일 ㅅ
+
 아카이브 생성/추출
 - -c, --create : 새로운 tar 생성
 - -x, --extract : tar 파일을 해체
