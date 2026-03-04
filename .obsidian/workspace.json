@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -335,7 +335,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53642fb5ca983f8f",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 04. 설치 및 관리.md",
     "Developer/Linux/명령어/tar.md",
