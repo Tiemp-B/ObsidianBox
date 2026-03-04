@@ -24,7 +24,11 @@ tags:
 - -r, --append : tar 파일에 또 다른 파일 추가
 - -h, --derefernce : 링크 파일이 가리키고 있는 원본 파일도 tar에 포함
 - -C, --directory : 명령을 수행할 디렉터리 지정
-- -p, --preserve-permissions: tar 파일에서 파일
+- -p, --preserve-permissions: tar 파일에서 파일을 추출할 때 사용자 권한 유지
+
+압축 기법
+- -Z, --compress, --uncompress : compress를 사용하여 압축
+	tar.Z 파일을 생성한다.
 
 # 예제
 
