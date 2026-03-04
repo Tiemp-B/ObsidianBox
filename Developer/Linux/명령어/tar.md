@@ -20,7 +20,8 @@ tags:
 
 인자
 - -f, --file : 생성되는 tar파일명 지정
-- -r, --append : tar 파일에 
+- -r, --append : tar 파일에 또 다른 파일 추가
+- -t, --list
 
 # 예제
 
