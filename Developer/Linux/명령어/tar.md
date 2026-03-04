@@ -78,7 +78,11 @@ tags:
 - --no-auto-compress : 후위 확장자 사용 안함
 - -zstd : zstd
 - -z, --gzip, --gunzip, --ungzip : gzip으로 필터링
-- -Z, --compress, --uncompress
+- -Z, --compress, --uncompress : compress
+
+### 로컬 파일 선택
+- -h, --dereference : 심볼릭 링크가 가리키는 파일도 아카이브한다
+- -K
 
 
 
