@@ -11,8 +11,11 @@ tags:
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
 # 옵션
+아카이브 생성/추출
 - -c, --create : 새로운 tar 생성
-- -x, --extract : 
+- -x, --extract : tar 파일을 해체
+
+
 
 # 예제
 
