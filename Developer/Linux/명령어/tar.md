@@ -48,7 +48,9 @@ tags:
 - 등등
 
 ### 장치 선택 및 전환
-- --force-local : 콜
+- --force-local : 콜론이 있어도 로컬 아카이브 파일로 간주
+- -f, --file=<아카이브> 아카이브 파일명 또는 장치명이 <아카이브>
+- -F, --info-script=<명칭>, --new-volume-script=<명칭> : 
 
 
 
