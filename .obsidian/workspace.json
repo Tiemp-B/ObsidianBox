@@ -75,21 +75,9 @@
               "icon": "lucide-file",
               "title": "SECTION 01. 장치의 설치 및 관리"
             }
-          },
-          {
-            "id": "f2a2dea59970cd56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.4"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "487018fb659e5535",
@@ -347,7 +335,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a2dea59970cd56",
+  "active": "53642fb5ca983f8f",
   "lastOpenFiles": [
     "Developer/Linux/명령어/find.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 01. 장치의 설치 및 관리.md",
