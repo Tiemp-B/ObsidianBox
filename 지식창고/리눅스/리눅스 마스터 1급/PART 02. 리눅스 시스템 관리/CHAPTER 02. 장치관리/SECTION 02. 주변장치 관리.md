@@ -26,6 +26,7 @@
 	- BSD 프린팅 시스템
 		- 서버에서 동작하는 라인 프린터 데몬
 		- 프린트 요청을 위한 lpr 명령어를 포함하는 클라이언트
+		- ㅅ
 2. 스풀링(Spooling : Simultaneous Peripheral OPeration On Line)
 	기존 라인프린터의 느린 속도를 개선함.
 
