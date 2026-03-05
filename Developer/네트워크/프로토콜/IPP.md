@@ -1,8 +1,8 @@
 ---
+cssclasses: cornell-note 
 tags:
-  - 네트워크
-  - 프로토콜
 ---
+
 # Summary
 
 IPP(Internet Printing Protocol)는 인터넷을 통해 프린터와 클라이언트가 통신하기 위한 표준 프로토콜이다. HTTP를 기반으로 동작하며, 인쇄 작업의 제출·조회·취소 및 프린터 상태 확인 등을 원격으로 수행할 수 있게 해준다. 현재 macOS, Linux, Windows 등 대부분의 운영체제에서 기본 지원된다.
