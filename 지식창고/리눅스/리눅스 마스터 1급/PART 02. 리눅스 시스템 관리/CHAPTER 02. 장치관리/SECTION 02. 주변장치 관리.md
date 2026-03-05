@@ -32,3 +32,6 @@
 
 ## CUPS (Common Unix Printing System)
 ### 개요 
+- 다양한 프린터를 지원하기 위한 모듈러 프린팅 시스템
+### 특징
+- 
