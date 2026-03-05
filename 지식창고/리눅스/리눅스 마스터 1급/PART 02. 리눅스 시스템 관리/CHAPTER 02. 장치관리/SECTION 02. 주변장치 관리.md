@@ -23,5 +23,5 @@
 ### 역사
 1. 초기 프린터
 	고정 크기, 단일 폰트를 갖는 텍스 혀식으로 한 줄씩 출력하는 라인 프린터 사용
-2. 스풀링
+2. 스풀링(Spooling, Simultaneous Peripheral OPeration On Line)
 	
