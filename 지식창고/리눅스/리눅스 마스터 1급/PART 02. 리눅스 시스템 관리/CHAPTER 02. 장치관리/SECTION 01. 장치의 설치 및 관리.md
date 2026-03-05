@@ -44,7 +44,13 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 - 사용자 프로그램이 아닌 커널의 일부분으로 시스템 제약 없이 기능 수행
 - 잘못된 동작은 시스템을 패닉에 빠뜨린다.
 	- OS 내의 복구 불가능한 치명적 오류가 발생하여 OS를 중단하고 오류를 보여준다.
-- 시스템의 모듈은 일반적으로 /lib/modules/kernel-versiohn/kernel ㅇ
+- 시스템의 모듈은 일반적으로 /lib/modules/kernel-versiohn/kernel 이하에 위치한다.
+
+### 명령어
+- [[lsmod]]
+- [[insmod]]
+- [[rmmod]]
+- [[modpro]]
 
 
 
