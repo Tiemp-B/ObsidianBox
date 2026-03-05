@@ -50,7 +50,13 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 - [[lsmod]]
 - [[insmod]]
 - [[rmmod]]
-- [[modpro]]
+- [[modprobe]]
+- [[modinfo]]
+
+### 관련 설정 파일
+1. /etc/modprobe.d
+2. modules.dep
+
 
 
 
