@@ -24,6 +24,7 @@
 1. 초기 프린터
 	고정 크기, 단일 폰트를 갖는 텍스 혀식으로 한 줄씩 출력하는 라인 프린터 사용
 	- BSD 프린팅 시스템
+		- 라인 프린터 데
 2. 스풀링(Spooling : Simultaneous Peripheral OPeration On Line)
 	기존 라인프린터의 느린 속도를 개선함.
 
