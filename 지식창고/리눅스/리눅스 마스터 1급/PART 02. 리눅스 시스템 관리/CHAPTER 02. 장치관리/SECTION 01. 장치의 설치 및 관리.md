@@ -12,7 +12,8 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 
 1. 커널 소스코드 다운로드.
 	kernel.org 에서 원하는 커널의 소스코드의 타르볼이나 깃허브를 통해 다운이 가능하다.
-2. 컴파일 핈
+2. 컴파일 필수 도구 설치
+	`dnf install -y ncurses-devel make gcc bc bison flex elfutils-libelf-devel openssl-devel grub2`
 
 
 
