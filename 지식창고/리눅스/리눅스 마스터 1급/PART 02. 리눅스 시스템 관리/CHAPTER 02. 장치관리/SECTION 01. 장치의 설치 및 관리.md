@@ -68,7 +68,6 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 		options 모듈명 옵션명=값
 		# 모듈 적재 대신 명령 실행
 		install 모듈명 명령어
-		# remove
 		# 
 		```
 - modules.dep
