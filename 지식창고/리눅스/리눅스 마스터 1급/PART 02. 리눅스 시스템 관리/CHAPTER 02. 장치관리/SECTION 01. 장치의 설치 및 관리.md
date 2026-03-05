@@ -57,7 +57,7 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 - /etc/modprobe.d
 	modprobe 명령을 위한 환경설정 디렉터리
 	\*.conf인 파일을 생성하면 된다.
-	/etc/modprboe.conf 파일 하나에 모든 설정을 담았었으나 현재는 폴더에 여러 conf 파일을 넣는
+	/etc/modprboe.conf 파일 하나에 모든 설정을 담았었으나 현재는 폴더에 여러 conf 파일을 넣는 형식이다.
 - modules.dep
 
 
