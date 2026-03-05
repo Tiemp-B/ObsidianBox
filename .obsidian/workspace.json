@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/네트워크/00. 네트워크.md",
+                "file": "_templates/Cornell Type.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "00. 네트워크"
+              "title": "Cornell Type"
             }
           }
         ],
@@ -337,6 +337,7 @@
   },
   "active": "53642fb5ca983f8f",
   "lastOpenFiles": [
+    "Developer/네트워크/00. 네트워크.md",
     "Developer/네트워크/01. 프로토콜/01. 프로토콜.md",
     "Developer/네트워크/01. 프로토콜",
     "Developer/네트워크/네트워크.md",
@@ -364,7 +365,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 02. 파일 시스템 관리.md",
     "지식창고/리눅스/SELinux.md",
     "Developer/Linux/명령어/fdisk.md",
-    "Developer/CS/03. OS/파일시스템.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
