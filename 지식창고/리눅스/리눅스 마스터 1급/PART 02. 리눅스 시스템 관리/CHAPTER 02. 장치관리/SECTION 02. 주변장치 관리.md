@@ -29,4 +29,6 @@
 		- 프로토콜 : Line Printer Daemon Protocol
 2. 스풀링(Spooling : Simultaneous Peripheral OPeration On Line)
 	기존 라인프린터의 느린 속도를 개선함.
-	
+
+## CUPS (Common Unix Printing System)
+### 개요 
