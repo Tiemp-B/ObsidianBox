@@ -54,8 +54,10 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 - [[modinfo]]
 
 ### 관련 설정 파일
-1. /etc/modprobe.d
-2. modules.dep
+- /etc/modprobe.d
+	modprobe 명령을 위한 환경설정 디렉터리
+	\*.conf 파일이 
+- modules.dep
 
 
 
