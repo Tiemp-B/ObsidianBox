@@ -15,6 +15,7 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 2. 컴파일 필수 도구 설치
 	`dnf install -y ncurses-devel make gcc bc bison flex elfutils-libelf-devel openssl-devel grub2`
 3. 커널 환경 설정
+	
 
 
 
