@@ -18,8 +18,13 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 	```bash
 	# 기존 파일 제거
 	make mrproper
+	# 환경 설정
+	make menuconfig
 	```
-
+4. 커널 컴파일
+	커널 이미지 생성을 위해 컴파일한다.
+	1MB 미만 : zImage
+	그 이상 : bzImage
 
 
 
