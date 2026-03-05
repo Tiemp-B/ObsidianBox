@@ -70,7 +70,7 @@
               "state": {
                 "file": "Developer/네트워크/01. 프로토콜.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "01. 프로토콜"
