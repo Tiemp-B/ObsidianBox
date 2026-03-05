@@ -1,8 +1,9 @@
 ---
-cssclasses: cornell-note 
+cssclasses: cornell-note
 tags:
+  - 네트워크
+  - 프로토콜
 ---
-
 # Summary
 
 SMB(Server Message Block)는 네트워크 상에서 파일, 프린터, 직렬 포트 등의 자원을 공유하기 위한 클라이언트-서버 기반의 애플리케이션 계층 프로토콜이다. 1983년 IBM이 설계하고 Microsoft가 발전시켜 Windows 네트워크의 핵심 프로토콜로 자리잡았다. 버전이 거듭될수록 성능과 보안이 크게 향상되었으나, 구버전(SMB 1.0)의 심각한 취약점으로 인해 WannaCry, NotPetya 등 대규모 랜섬웨어 공격의 경로가 된 바 있다.

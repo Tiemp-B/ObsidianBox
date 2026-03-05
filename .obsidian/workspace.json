@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 55.092889173606665,
+        "dimension": 57.78347213324791,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -69,7 +69,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/네트워크/프로토콜/SMB.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -82,7 +82,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 44.907110826393335,
+        "dimension": 42.21652786675208,
         "children": [
           {
             "id": "5f03ede822799ca3",
@@ -335,10 +335,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12722f53561fd3eb",
+  "active": "619d71c622df240e",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/tar.md",
     "Developer/네트워크/프로토콜/SMB.md",
+    "Developer/Linux/명령어/tar.md",
     "Developer/네트워크/프로토콜/IPP.md",
     "Developer/Linux/01. 부트로더.md",
     "Developer/네트워크/프로토콜/프로토콜.md",
