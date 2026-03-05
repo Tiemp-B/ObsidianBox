@@ -75,7 +75,7 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 		```
 - modules.dep
 	depmod 명령을 사용하여 생성한 모듈 의존성 파일
-	/lib/module
+	/lib/module/${uname -r} 디렉터리 이하의 모듈을 검사하여 해당 디렉터리에 modules.dep 파일을 생성
 
 
 
