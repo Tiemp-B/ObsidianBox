@@ -65,7 +65,8 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 		# 별칭
 		alias 별칭 모듈명
 		# 커널 적재시 옵션 설정
-		options 
+		options 모듈명 옵션명=값
+		
 		```
 - modules.dep
 
