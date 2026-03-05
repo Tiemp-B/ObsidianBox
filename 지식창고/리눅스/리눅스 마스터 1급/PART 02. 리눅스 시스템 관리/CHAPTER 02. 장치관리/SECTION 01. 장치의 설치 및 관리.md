@@ -74,7 +74,8 @@ GNU GPL v2 라이선스 하에 모두에게 무료로 공개됨
 		blacklist 모듈명
 		```
 - modules.dep
-
+	depmod 명령을 사용하여 생성한 모듈 의존성 파일
+	/lib/module
 
 
 
