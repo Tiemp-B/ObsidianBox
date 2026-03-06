@@ -77,12 +77,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 42.21652786675208,
+        "dimension": 42.21652786675209,
         "children": [
           {
             "id": "5f03ede822799ca3",
@@ -195,7 +195,7 @@
             }
           },
           {
-            "id": "0b684012f2708a3d",
+            "id": "c663085f30f9fa5f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -335,12 +335,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "619d71c622df240e",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "Developer/Linux/01. 부트로더.md",
     "Developer/네트워크/프로토콜/SMB.md",
     "Developer/Linux/명령어/tar.md",
     "Developer/네트워크/프로토콜/IPP.md",
-    "Developer/Linux/01. 부트로더.md",
     "Developer/네트워크/프로토콜/프로토콜.md",
     "Developer/네트워크/01. 프로토콜.md",
     "Developer/네트워크/프로토콜",
