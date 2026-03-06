@@ -70,7 +70,9 @@ IP 통신을 통한 로그 기능 구현을 목적
 			- Rules(slector + action) : 로그 규칙 설정
 				- selector : ';'으로 여러 개 지정 가능
 					- facility
-					- priority : ','으로 여러 facility 설정 가
+						로그 메시지를 발생하는 프로그램 지
+					- priority 
+						','으로 여러 facility 설정 가능
 				- action
 	
 - /etc/sysconfig/
