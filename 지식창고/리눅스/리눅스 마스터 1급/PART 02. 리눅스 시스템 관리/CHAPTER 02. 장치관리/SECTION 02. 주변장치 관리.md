@@ -109,7 +109,10 @@ libsane.so 동적 라이브러리
 - 리눅스
 - 유닉스
 - OS/2
-- 
+- 윈도우
+- macOS
+### 오픈소스 라이선스
+- GPL
 
 
 ## XSANE(X based Interface for SANE)
