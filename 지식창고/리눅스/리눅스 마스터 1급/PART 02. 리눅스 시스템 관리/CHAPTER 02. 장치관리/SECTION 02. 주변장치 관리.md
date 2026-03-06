@@ -90,7 +90,14 @@
 ### 명령어
 - [[alsactl]]
 - [[alsamixer]]
-- 
+- [[cdparanoia]]
+
+# 4. 스캐너
+## SANE(Scanner Access Now Easy)
+
+## XSANE(X based Interface for SANE)
+
+
 
 
 
