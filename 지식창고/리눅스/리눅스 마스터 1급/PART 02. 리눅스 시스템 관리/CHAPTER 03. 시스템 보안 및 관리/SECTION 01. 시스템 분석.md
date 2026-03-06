@@ -55,7 +55,9 @@ IP 통신을 통한 로그 기능 구현을 목적
 - 멀티 스레드 지원
 - 지원 프로토콜 : TCP, SSL, TLS, RELP
 - 지원 데이터베이스 : MySQL, PostgreSQL, Oracle 등
-- 
+
+관련 파일
+- /etc/rc.d/init.d/rsyslog
 
 
 
