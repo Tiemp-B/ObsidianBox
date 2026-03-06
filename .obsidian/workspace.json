@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
+                "file": "지식창고/클로드 안켜질 때.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECTION 01. 시스템 분석"
+              "title": "클로드 안켜질 때"
             }
           },
           {
@@ -339,8 +339,9 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 02. 주변장치 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
+    "지식창고/클로드 안켜질 때.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 02. 주변장치 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/CHAPTER 03. 시스템 보안 및 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
@@ -369,7 +370,6 @@
     "Developer/Linux/명령어/vipw.md",
     "Developer/Linux/명령어/pwunconv.md",
     "Developer/Linux/명령어/pwconv.md",
-    "Developer/Linux/명령어/pwck.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
