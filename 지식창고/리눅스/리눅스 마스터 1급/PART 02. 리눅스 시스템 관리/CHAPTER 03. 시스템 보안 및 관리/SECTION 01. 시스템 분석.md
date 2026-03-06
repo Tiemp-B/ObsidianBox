@@ -65,8 +65,9 @@ IP 통신을 통한 로그 기능 구현을 목적
 		- 섹션
 			- Global Directives : 데몬의 전역 설정, 메시지 큐 크기, 외부 모듈 로드 등
 			- Templates : 로그 메시지의 형식 보관. Rules에서 사용
-			- Output channels : 
-			- Rules(slector + action)
+			- Output channels : 출력 채널에 대한 세부 설정을 저장
+				`$cosjfaud, vkdlfdlfma, chleozmrl, chleozmrl tl tlfgod audfud`
+			- Rules(slector + action) : 로그 규칙 설정
 				- selector
 					- facility
 					- priority
