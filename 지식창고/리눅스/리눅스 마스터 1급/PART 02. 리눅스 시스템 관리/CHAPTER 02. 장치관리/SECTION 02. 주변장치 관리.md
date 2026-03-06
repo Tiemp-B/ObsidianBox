@@ -101,7 +101,15 @@ libsane.so 동적 라이브러리
 - pnm 파일
 - mustek 스캐너
 - 네트워크 스캐너
-- libsane-dll.do
+- libsane-dll.do라는 드라이버를 링크
+
+외부 시스템은 saned 데몬통해 처리를 대리하여 libsane.so로 스캐너 제어
+
+### 지원 OS
+- 리눅스
+- 유닉스
+- OS/2
+- 
 
 
 ## XSANE(X based Interface for SANE)
