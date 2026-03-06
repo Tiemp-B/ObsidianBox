@@ -41,6 +41,8 @@
 - 초기에는 syslog 패키지를 통하여 로그를 수집
 - 원격 로깅 기능이 가능항 rsyslog 패키지의 등장
 - 레드햇 6.5부터는 syslog가 아닌 syslogd가 기본 탑재
+### syslog
+80년대 sendmail 프로젝트의 일부로 에릭 알만이 개발
 
 
 
