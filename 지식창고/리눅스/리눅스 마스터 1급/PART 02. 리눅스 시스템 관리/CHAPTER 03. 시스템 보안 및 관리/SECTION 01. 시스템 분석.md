@@ -24,11 +24,11 @@
 | dmesg     |          | 디바이스 드라이버가 남기는 로그<br>dmesg 명령어로 로그 확인 가능       |
 | faillog   |          | 로그인 실패 시 로그가 기록<br>무차별 대입 공격과 같은 해킹에 대한 간단한 점검 |
 | cron      |          | 예약 작업 수행 시 발생하는 로그 기록                          |
-| yum.log   |          |                                                |
-| httpd     |          |                                                |
-| mysql.log |          |                                                |
-| xferlog   |          |                                                |
-| lastlog   |          |                                                |
+| yum.log   |          | yum 명령어를 통해 패키지 설치, 삭제 등 명령 수행 시 기록            |
+| httpd     |          | 웹 서버 아파치의 httpd 데몬이 기록하는 로그                    |
+| mysql.log |          | 데이터베이스 mysql 데몬이 기록하는 로그 파일                    |
+| xferlog   |          | FTP 접속 연관된 로그 파일                               |
+| lastlog   |          | 각 사용자의 마지막 로그인 기록을 보과                          |
 | wtmp      |          |                                                |
 | btmp      |          |                                                |
 | utmp      |          |                                                |
