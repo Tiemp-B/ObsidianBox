@@ -116,6 +116,10 @@ libsane.so 동적 라이브러리
 
 
 ## XSANE(X based Interface for SANE)
+### 설명
+- SANE의 프론트엔드 기능을 수행하는 GTK+로 개발된 그래픽 기반 응용 프로그램
+- 대부분의 OS 지원. 윈도우의 경우 네트워
+
 
 ## 스캐너 명령어
 
