@@ -60,9 +60,14 @@ IP 통신을 통한 로그 기능 구현을 목적
 - /etc/rc.d/init.d/rsyslog
 	시스템 시작시 데몬을 실행하는 스크립트
 - /etc/rsyslog.conf
+	rsyslogd 데몬의 환경설정 파일
+	
 	
 - /etc/sysconfig/
+	rsyslogd 데몬을 실행할 때 옵션 설정
+	rsyslog v3 부터는 옵션을 사용하지 않고 rsyslog.conf 설정 파일을 사용
 - /sbin/rsyslogd
+	rsyslogd 데몬의 파일 경로
 
 
 
