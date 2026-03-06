@@ -53,7 +53,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 - /etc/rc.d/init.d/syslogd 스크립트를 통해 부팅 시 데몬 시작
 - /etc/rsyslog.conf 설정 파일 기반 /var/log 디렉터리에 로그 생성
 - 멀티 스레드 지원
-- 지원 프로토콜 : T
+- 지원 프로토콜 : TCP
 
 
 
