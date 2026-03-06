@@ -63,12 +63,13 @@ IP 통신을 통한 로그 기능 구현을 목적
 	rsyslogd 데몬의 환경설정 파일
 	- 기본 구조
 		- 섹션
-			- Global Directives
-			- Templates
-			- Output channels
+			- Global Directives : 데몬의 전역 설정, 메시지 큐 크기, 외부 모듈 로드 등
+			- Templates : 로그 메시지의 형식 보관. Rules에서 사용
+			- Output channels : 
 			- Rules(slector + action)
 				- selector
-					- 
+					- facility
+					- priority
 				- action
 	
 - /etc/sysconfig/
