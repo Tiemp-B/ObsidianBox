@@ -56,7 +56,10 @@
 ## 개요
 ### 리눅스 사운드 오픈소스
 1. OSS (Open Sound System)
-2. ALSA(Advanced Linux Sound Ar)
+	유닉스 및 유닉스 호환 시스템 지원
+2. ALSA(Advanced Linux Sound Architecture)
+	
+
 
 
 
