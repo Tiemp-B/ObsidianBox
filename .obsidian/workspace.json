@@ -44,7 +44,7 @@
               "state": {
                 "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "SECTION 01. 시스템 분석"
