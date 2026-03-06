@@ -19,7 +19,12 @@
 | messages | syslog   | 전체 시스템으 모든 동작 사항과 정보 메시지와 이벤트         |
 | secure   | auth.log | 시스템의 로그인 행위에 대하여 성공, 실패, 인증 과정에 대한 로그 |
 | boot.log |          | 부팅 시 발생하는 메시지와 부팅 정보                  |
-| mail     |          |                                       |
+| maillog  |          |                                       |
+| kern     |          |                                       |
+| dmesg    |          |                                       |
+| faillog  |          |                                       |
+| cron     |          |                                       |
+|          |          |                                       |
 
 
 
