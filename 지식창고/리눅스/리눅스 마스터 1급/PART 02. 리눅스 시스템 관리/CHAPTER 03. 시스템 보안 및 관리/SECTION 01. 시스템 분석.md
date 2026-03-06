@@ -63,8 +63,13 @@ IP 통신을 통한 로그 기능 구현을 목적
 	rsyslogd 데몬의 환경설정 파일
 	- 기본 구조
 		- 섹션
-			- Global Diectives
-			- 
+			- Global Directives
+			- Templates
+			- Output channels
+			- Rules(slector + action)
+				- selector
+					- 
+				- action
 	
 - /etc/sysconfig/
 	rsyslogd 데몬을 실행할 때 옵션 설정
