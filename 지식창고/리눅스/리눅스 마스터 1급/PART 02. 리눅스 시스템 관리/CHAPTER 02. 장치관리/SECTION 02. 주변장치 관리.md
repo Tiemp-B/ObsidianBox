@@ -95,7 +95,9 @@
 # 4. 스캐너
 ## SANE(Scanner Access Now Easy)
 ### 설명
+이미지 스캐너 및 카메라 하드웨어에 대한 표준화 액세스 제공
 ### 아키텍처
+
 ## XSANE(X based Interface for SANE)
 
 ## 스캐너 명령어
