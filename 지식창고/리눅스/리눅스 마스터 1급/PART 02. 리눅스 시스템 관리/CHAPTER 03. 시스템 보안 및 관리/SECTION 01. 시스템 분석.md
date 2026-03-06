@@ -43,7 +43,7 @@
 - 레드햇 6.5부터는 syslog가 아닌 syslogd가 기본 탑재
 ### syslog
 80년대 sendmail 프로젝트의 일부로 에릭 알만이 개발
-
+- /etc/syslog.conf 설정 
 
 
 

@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발자 뉴스/오픈 클로.md",
-                "mode": "preview",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "오픈 클로"
+              "title": "SECTION 01. 시스템 분석"
             }
           },
           {
@@ -339,8 +339,8 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "Developer/Linux/01. 부트로더.md",
     "개발자 뉴스/오픈 클로.md",
+    "Developer/Linux/01. 부트로더.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
     "Developer/Linux/명령어/tar.md",
     "지식창고/클로드 안켜질 때.md",
