@@ -44,8 +44,32 @@
 ### BSD 프린터 조작
 - [[lpr]] : 출력
 - [[lprm]] : 취소
-- [[lpc]] : 프린
-
+- [[lpc]] : 프린터 작업 및 큐 관리
+- [[lpq]] : 프린터 eorlduf tkdxo cnffur
 ### System V 프린터 조작
 - [[lp]]
 - [[cancel]]
+- [[lpstat]]
+
+
+# 3. 사운드 카드
+### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
