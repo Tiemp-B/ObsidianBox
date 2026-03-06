@@ -97,6 +97,11 @@
 ### 설명
 이미지 스캐너 및 카메라 하드웨어에 대한 표준화 액세스 제공
 ### 아키텍처
+libsane.so 동적 라이브러리
+- pnm 파일
+- mustek 스캐너
+- 네트워크 스캐너
+- libsane-dll.do
 
 
 ## XSANE(X based Interface for SANE)
