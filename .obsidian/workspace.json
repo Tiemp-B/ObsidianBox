@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 02. 주변장치 관리.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECTION 02. 주변장치 관리"
+              "title": "SECTION 01. 시스템 분석"
             }
           },
           {
@@ -339,6 +339,10 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 02. 주변장치 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 01. 시스템 분석.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/CHAPTER 03. 시스템 보안 및 관리.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
     "Developer/Linux/특수 목적 파일/특수 목적 파일.md",
     "Developer/Linux/01. 부트로더.md",
@@ -354,7 +358,6 @@
     "Developer/네트워크/01. 프로토콜",
     "Developer/네트워크/네트워크.md",
     "Developer/Linux/Linux.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 02. 주변장치 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 01. 장치의 설치 및 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 03. 프로세스 관리.md",
     "Developer/Linux/명령어/find.md",
@@ -367,14 +370,12 @@
     "Developer/Linux/명령어/pwunconv.md",
     "Developer/Linux/명령어/pwconv.md",
     "Developer/Linux/명령어/pwck.md",
-    "Developer/Linux/명령어/passwd.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 02. 리눅스 시스템의 이해",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 01. 리눅스의 개요",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해",
-    "지식창고/리눅스/리눅스 마스터 1급",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
@@ -383,7 +384,6 @@
     "images/Pasted image 20260122231105.png",
     "images/Pasted image 20260122230944.png",
     "images/Pasted image 20260112030712.png",
-    "images/Pasted image 20260112030651.png",
-    "images/Pasted image 20251228200157.png"
+    "images/Pasted image 20260112030651.png"
   ]
 }
