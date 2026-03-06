@@ -58,6 +58,11 @@ IP 통신을 통한 로그 기능 구현을 목적
 
 관련 파일
 - /etc/rc.d/init.d/rsyslog
+	시스템 시작시 데몬을 실행하는 스크립트
+- /etc/rsyslog.conf
+	
+- /etc/sysconfig/
+- /sbin/rsyslogd
 
 
 
