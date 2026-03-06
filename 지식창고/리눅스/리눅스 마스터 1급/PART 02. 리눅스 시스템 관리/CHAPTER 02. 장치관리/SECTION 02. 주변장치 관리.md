@@ -53,7 +53,10 @@
 
 
 # 3. 사운드 카드
-### 
+## 개요
+### 리눅스 사운드 오픈소스
+1. OSS (Open Sound System)
+2. ALSA(Advanced Linux Sound Ar)
 
 
 
