@@ -48,7 +48,8 @@
 ### rsyslog
 2004년 레이너 게르하드를 주축으로 오픈소스 프로젝트로 시작.
 IP 통신을 통한 로그 기능 구현을 목적
-
+- rsyslog : the Rocket-fast SYStem for log processing
+- 
 
 
 
