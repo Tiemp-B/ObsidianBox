@@ -68,9 +68,9 @@ IP 통신을 통한 로그 기능 구현을 목적
 			- Output channels : 출력 채널에 대한 세부 설정을 저장
 				`$cosjfaud, vkdlfdlfma, chleozmrl, chleozmrl tl tlfgod audfud`
 			- Rules(slector + action) : 로그 규칙 설정
-				- selector
+				- selector : ';'으로 여러 개 지정 가능
 					- facility
-					- priority
+					- priority : ','으로 여러 facility 설정 가
 				- action
 	
 - /etc/sysconfig/
