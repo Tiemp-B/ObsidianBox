@@ -92,7 +92,8 @@ IP 통신을 통한 로그 기능 구현을 목적
 					- user : 지정한 사용자가 로그인한 터미널로 전달
 					- 콘솔 또는 터미널 : 지정 터미널로 메시지 전달
 			```bash
-			# 셀렉터1 => 모든 facility의 crit 수준의 메시지만
+			# 셀렉터1 => 모든 facility의 crit 수준의 메시지만 해당 경로에 기록
+			# 셀렉터2 => user 서비스의 경우 로그메시지 출력 안
 			*.=crit;user.none    /var/log/critical
 			
 			```
