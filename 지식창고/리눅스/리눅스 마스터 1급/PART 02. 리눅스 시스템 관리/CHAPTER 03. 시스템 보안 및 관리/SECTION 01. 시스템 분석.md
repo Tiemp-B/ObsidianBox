@@ -49,7 +49,11 @@
 2004년 레이너 게르하드를 주축으로 오픈소스 프로젝트로 시작.
 IP 통신을 통한 로그 기능 구현을 목적
 - rsyslog : the Rocket-fast SYStem for log processing
-- /sbin/rsyslogd 데몬을 통해 로그 기능
+- /sbin/rsyslogd 데몬을 통해 로그 기능을 수행
+- /etc/rc.d/init.d/syslogd 스크립트를 통해 부팅 시 데몬 시작
+- /etc/rsyslog.conf 설정 파일 기반 /var/log 디렉터리에 로그 생성
+- 멀티 스레드 지원
+- 지원 프로토콜 : T
 
 
 
