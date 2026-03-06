@@ -43,7 +43,9 @@
 - 레드햇 6.5부터는 syslog가 아닌 syslogd가 기본 탑재
 ### syslog
 80년대 sendmail 프로젝트의 일부로 에릭 알만이 개발
-- /etc/syslog.conf 설정 
+로그 파일에 로그를 출력하는 기능을 수행하는 syslogd 데몬이 필요
+- /etc/syslog.conf 설정 파일 기반 /var/log/ 디렉터리에 로그 생성
+### rsyslog
 
 
 
