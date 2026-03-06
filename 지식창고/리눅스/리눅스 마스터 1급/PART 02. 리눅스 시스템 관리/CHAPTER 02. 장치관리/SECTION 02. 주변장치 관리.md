@@ -94,10 +94,11 @@
 
 # 4. 스캐너
 ## SANE(Scanner Access Now Easy)
-
+### 설명
+### 아키텍처
 ## XSANE(X based Interface for SANE)
 
-
+## 스캐너 명령어
 
 
 
