@@ -58,7 +58,8 @@
 1. OSS (Open Sound System)
 	유닉스 및 유닉스 호환 시스템 지원
 2. ALSA(Advanced Linux Sound Architecture)
-	
+	리눅스에서만 지원
+	리눅스 커널 2.4까지는 OSS API를 포함했으나 그후에 OSS쪽은 제거하고 ALSA가 추가됨
 
 
 
