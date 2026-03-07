@@ -49,7 +49,10 @@
 	- sysctl은 /proc/sys 디렉터리 이하의 커널 매개변수를 확인하거나 설정하는 명령어로서 세커널을 통해 리눅스 보안 강화
 	- /proc/sys/net 이하에는 네트워크 관련 커널 설정을 할 수 있는 경로
 	- [[sysctl]]
-# 2. SELinux
+# 2. SELinux(Security-Enhanced Linux)
+## SELinux의 개요
+### SELinux의 정의
+- 미국의 NSA(National Security Agency)
 
 
 
