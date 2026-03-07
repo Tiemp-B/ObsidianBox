@@ -121,7 +121,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 	# 최대 4번의 로테이트 수행
 	rotate n
 	# 각 로테이션을 마치고 빈 로그 파일 생성
-	create
+	create 허
 	# 각 로그 파일의 마지막에 날짜를 붙인다
 	dateext
 	# 로그 파일 압축
@@ -131,7 +131,10 @@ IP 통신을 통한 로그 기능 구현을 목적
 	
 	# 특정 로그에 대한 설정
 	/var/log/wtmp{
-	mot
+	    mothnly
+		create 0664 root utmp
+		minsize 1M
+		rotate 1
 	}
 	```
 
