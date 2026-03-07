@@ -141,7 +141,9 @@ IP 통신을 통한 로그 기능 구현을 목적
 	# nomissingok
 	# compress
 	# nocompress
-	# delaycomprea
+	# delaycompress : 다음 로테이션 때 압축
+	# copytruncate : 파일 복사 후 원본 삭제
+	# maxage N : N일 이상된 파일 삭제
 	/var/log/btmp {
 		missingok
 	}
