@@ -166,9 +166,13 @@ session		required	pam_unix.so
 	retry=3은 3회의 수정 기회 제공
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
 	pam_unix.so가 제공하는 passwd 인터페이스를 통해 패스워드 변경 진행
-	shadow : 새 패스워드는 shadow 패
-	
+	shadow : 새 패스워드는 shadow 파일에 암호화 저장
+	nullok : 공백 허용
+	use_authtok : 재입력 요구 안함
 8. `session	required	pam_unix.so`
+	pam_unix.so
+	세션 시작/종료 시 로그 기록
+	로그인/로그아웃 정보를 syslog에 기록
 
 
 
