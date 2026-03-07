@@ -20,8 +20,9 @@
 	- 무작위 대입 공격을 방어하기 위해 강력한 패스워드 설정
 		- Joh The Ripper 등의 크래킹 도구를 대비하여 랜덤 문자열 단어의 패스워드
 	- 강력한 패스워드 입력을 강제하기 위해 PAM(Pluggable Authentication Modules) 중 pam_cracklib.so를 사용
-	- 사용자
+	- chage 명령어나 User Manager 애플리케이션으로 특정 사용자의 패스워드 만료일을 설정하여 정기적으로 변경하도록 유도
 - 관리자 계정 보안
+	- su, sudo 명령어를 통해 필요할 때 일시적으로 권한 부여
 
 
 
