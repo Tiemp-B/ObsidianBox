@@ -46,7 +46,7 @@
 	- [[setfacl]]
 ### 네트워크 보안
 - sysctl을 통한 보안 강화
-	- 
+	- sysctl은 /proc/sys 디렉터리 이하의 커널 매개변
 
 
 
