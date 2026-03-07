@@ -123,6 +123,11 @@ PAM은 저수준 인증 모듈을 고수준의 API로 통합하여 애플리케�
 - 주요 파일
 	- /etc/pam.conf : 파일
 	- /etc/pam.d : 디렉터리. 위 파일보다 우선된다 
+- 환경설정 항목
+	- `module-type`
+	- `control-flag`
+	- `module-name`
+	- ``
 
 
 
