@@ -152,7 +152,9 @@ session		required	pam_unix.so
 1. `#%PAM-1.0`
 	PAM 라이브러리로 하여금 PAM 버전 1.0 형식의 설정파일임을 알 수 있도록 함
 2. `auth	required	pam_securetty.so`
+	사용자가 root 권한으로 로그인하려고 할 때 /etc/security 파일에 해당 사용자가 존재하는지 체크
 3. `auth	required	pam_unix.so	nullok`
+	사용자에
 4. `auth	required	pam_nologin.so`
 5. `account	required	pam_unix.so`
 6. `password	required	pam_cracklib.so	retry=3`
