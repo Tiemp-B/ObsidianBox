@@ -126,7 +126,13 @@ IP 통신을 통한 로그 기능 구현을 목적
 	dateext
 	# 로그 파일 압축
 	compress
-	# 
+	# 지정 경로의 환경설정 파일도 적용
+	include /etc/logrotate.d
+	
+	# 특정 로그에 대한 설정
+	/var/log/wtmp{
+	mot
+	}
 	```
 
 
