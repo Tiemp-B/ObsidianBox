@@ -93,6 +93,7 @@
 - `ssh-keygen -t dsa혹은rsa`
 	홈 디렉터리의 .ssh 디렉터리에 개인키인 id_dsa와 공개키 id_dsa.pub가 생성된다
 - ssh 서버에 .ssh 디렉터리를 생성
+	`ssh IP주소 mkdir .ssh`
 	
 
 
