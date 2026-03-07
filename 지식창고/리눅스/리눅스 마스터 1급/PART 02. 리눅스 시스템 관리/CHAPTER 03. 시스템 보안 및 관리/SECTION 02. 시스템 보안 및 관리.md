@@ -165,7 +165,9 @@ session		required	pam_unix.so
 	새 패스워드의 해킹 난이도 점검 수행
 	retry=3은 3회의 수정 기회 제공
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
-	pamu
+	pam_unix.so가 제공하는 passwd 인터페이스를 통해 패스워드 변경 진행
+	shadow : 새 패스워드는 shadow 패
+	
 8. `session	required	pam_unix.so`
 
 
