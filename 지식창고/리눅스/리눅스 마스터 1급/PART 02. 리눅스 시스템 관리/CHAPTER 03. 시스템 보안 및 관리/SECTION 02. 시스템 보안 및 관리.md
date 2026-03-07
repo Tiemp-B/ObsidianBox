@@ -73,7 +73,9 @@
 - 호스트와 클라이언트 간의 패킷을 암호화하여 송수신
 - 포트 번호 22번
 ### ssh 연결 방법
-1. 
+1. 패키지 설치
+	- 레드햇 : `yum install -y openssh-clients`
+	- 데비안 : `apt install -y openssh-server`
 
 
 
