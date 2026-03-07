@@ -152,9 +152,12 @@ session		required	pam_unix.so
 1. `#%PAM-1.0`
 	PAM 라이브러리로 하여금 PAM 버전 1.0 형식의 설정파일임을 알 수 있도록 함
 2. `auth	required	pam_securetty.so`
-	
+	root 로그인을 /etc/securetty 에 등록된 안전한 터미널에서만 허용
 3. `auth	required	pam_unix.so	nullok`
+	유닉스 표준 패스워드 인증(/etc/shadow 확인)
+	nullok : 패스워드가 공백이어도 허용
 4. `auth	required	pam_nologin.so`
+	마지막 인
 5. `account	required	pam_unix.so`
 6. `password	required	pam_cracklib.so	retry=3`
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
