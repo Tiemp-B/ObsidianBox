@@ -161,7 +161,7 @@ session		required	pam_unix.so
 5. `account	required	pam_unix.so`
 	패스워드 인증 전 계정 유효성 검사. -> 계정 만료, 패스워드 만료, 계정 잠금 여부 등
 6. `password	required	pam_cracklib.so	retry=3`
-	패스워드 복잡도 검사
+	패스워드 만료시 pam_cracklib.so는 새로운 패스
 	
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
 8. `session	required	pam_unix.so`
