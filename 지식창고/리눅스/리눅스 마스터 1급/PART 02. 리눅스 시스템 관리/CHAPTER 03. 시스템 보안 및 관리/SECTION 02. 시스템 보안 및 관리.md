@@ -173,8 +173,10 @@ session		required	pam_unix.so
 	pam_unix.so가 세션 관리 역할 수행.
 	세션 시작/종료 시 로그 기록
 	로그인/로그아웃 정보를 syslog에 기록
-	/var/log/secure에 로그 저장
+	레드햇 계열: /var/log/secure에 로그 저장
+	데비안 계열: /var/log/auth.log
 
+## 
 
 
 
