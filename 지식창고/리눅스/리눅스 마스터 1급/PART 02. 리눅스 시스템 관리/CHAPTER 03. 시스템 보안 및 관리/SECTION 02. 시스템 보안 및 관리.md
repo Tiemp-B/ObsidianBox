@@ -149,7 +149,8 @@ password	required	pam_cracklib.so		retry=3
 password	required	pam_unix.so			shadow	nullok	use_authtok
 session		required	pam_unix.so
 ```
-1. ``
+1. `#%PAM-1.0`
+2. 
 
 
 
