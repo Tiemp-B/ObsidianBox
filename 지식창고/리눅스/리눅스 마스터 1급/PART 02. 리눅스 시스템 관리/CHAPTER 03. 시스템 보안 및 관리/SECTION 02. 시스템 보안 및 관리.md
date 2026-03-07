@@ -131,7 +131,7 @@ PAM 관련 모듈은 아키텍처에 따라 /lib/security 혹은 /lib64/security
 		- password : 패스워드 갱신 및 auth 모듈 연동
 		- session : 세션의 시작, 종료 관련 작업
 	- `control-flag` : 인증 성공, 실패에 따른 처리 방안을 정한다
-		- 
+		- requisite
 	- `module-name`
 	- `module-arguments`
 		
