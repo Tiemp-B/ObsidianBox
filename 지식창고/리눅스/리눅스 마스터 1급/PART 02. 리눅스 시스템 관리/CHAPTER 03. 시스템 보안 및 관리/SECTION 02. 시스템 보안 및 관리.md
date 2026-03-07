@@ -102,8 +102,18 @@
 - 클라이언트 환경설정 : /etc/ssh/ssh_config
 - 데몬 스크립트 : /usr/lib/systemd/system/sshd.service
 
-sshd 주요 환경설정 항목
-- 
+- sshd 주요 환경설정 항목
+
+|항목|설명|
+|:---|
+
+- Port
+- PermitRootLogin
+- AllowUsers
+- LoginGraceTime
+- PasswordAuthentication
+- PubkeyAuthentication
+- TCPKeepAlive
 
 
 
