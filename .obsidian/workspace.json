@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "487018fb659e5535",
@@ -337,8 +337,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caecdf9836655b26",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/chage.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/find.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 02. 시스템 보안 및 관리.md",
@@ -369,7 +370,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/CHAPTER 01. 일반 운영 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 04. 설치 및 관리.md",
-    "Developer/Linux/명령어/vipw.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 01. 리눅스 실무의 이해/CHAPTER 03. 네트워크의 이해",
