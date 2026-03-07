@@ -63,7 +63,7 @@
 - enforce
 - permissive
 - disable
-
+### 모드
 
 
 
