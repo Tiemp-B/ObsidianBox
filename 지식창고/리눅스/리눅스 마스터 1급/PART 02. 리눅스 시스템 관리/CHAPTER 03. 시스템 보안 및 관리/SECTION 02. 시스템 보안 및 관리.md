@@ -104,15 +104,15 @@
 
 - sshd 주요 환경설정 항목
 
-| 항목                     | 설명                              |
-| :--------------------- | ------------------------------- |
-| Port                   | ssh 사용 포트(기본값 22)               |
-| PermitRootLogin        | yes 설정시 root로 로그인 가능            |
-| AllowUsers             | 허용된 사용자만 ssh 접속 허가 (미설정시 전원 가능) |
-| LoginGraceTime         | 로그인 대기 시간                       |
-| PasswordAuthentication |                                 |
-| PubkeyAuthentication   |                                 |
-| TCPKeepAlive           |                                 |
+| 항목                     | 설명                                              |
+| :--------------------- | ----------------------------------------------- |
+| Port                   | ssh 사용 포트(기본값 22)                               |
+| PermitRootLogin        | yes 설정시 root로 로그인 가능                            |
+| AllowUsers             | 허용된 사용자만 ssh 접속 허가 (미설정시 전원 가능)                 |
+| LoginGraceTime         | 로그인 대기 시간                                       |
+| PasswordAuthentication | 비밀번호 인증을 통한 접속 활성화 여부 설정<br>공개키 인증을 비활성화하려면 Yes |
+| PubkeyAuthentication   |                                                 |
+| TCPKeepAlive           |                                                 |
 
 - Port
 - PermitRootLogin
