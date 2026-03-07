@@ -52,7 +52,8 @@
 # 2. SELinux(Security-Enhanced Linux)
 ## SELinux의 개요
 ### SELinux의 정의
-- 미국의 NSA(National Security Agency)
+- 미국의 NSA(National Security Agency)에 의해 연구된 프로젝트
+- 강제 접근 제어(MAC : Mandatory Access Control)와 같은 접근 제어 정책을 제공하는 
 
 
 
