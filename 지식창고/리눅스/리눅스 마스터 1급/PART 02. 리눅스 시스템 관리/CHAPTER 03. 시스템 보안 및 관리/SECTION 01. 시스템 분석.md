@@ -139,14 +139,17 @@ IP 통신을 통한 로그 기능 구현을 목적
 	# 파일 처리
 	# missingok : missing ok 로그파일이 없어도 에러를 출력하지 않는다
 	# nomissingok : 로그파일 없으면 에러 출력
-	# compress : 
-	# nocompress
+	# compress : gzip 압축
+	# nocompress : 압축 안함
 	# delaycompress : 다음 로테이션 때 압축
 	# copytruncate : 파일 복사 후 원본 삭제
 	# maxage N : N일 이상된 파일 삭제
 	/var/log/btmp {
 		missingok
 	}
+	# 스크립트
+	# prerotate : 로테이션 전 실스크립트
+	# postrotate : 로테이션 후 
 	```
 
 
