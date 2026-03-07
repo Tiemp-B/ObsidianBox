@@ -118,7 +118,15 @@ IP 통신을 통한 로그 기능 구현을 목적
 	```bash
 	# 로그 파일 로테이트
 	# daily, weekly, monthly, yearly
-	
+	# 최대 4번의 로테이트 수행
+	rotate n
+	# 각 로테이션을 마치고 빈 로그 파일 생성
+	create
+	# 각 로그 파일의 마지막에 날짜를 붙인다
+	dateext
+	# 로그 파일 압축
+	compress
+	# 
 	```
 
 
