@@ -129,7 +129,8 @@ PAM은 저수준 인증 모듈을 고수준의 API로 통합하여 애플리케�
 		- auth : 사용자 실제 인증
 		- password : 패스워드 갱신 및 auth 모듈 연동
 		- session : 세션의 시작, 종료 관련 작업
-	- `control-flag`
+	- `control-flag` : 인증 성공, 실패에 따른 처리 방안
+		- 
 	- `module-name`
 	- `module-arguments`
 		
