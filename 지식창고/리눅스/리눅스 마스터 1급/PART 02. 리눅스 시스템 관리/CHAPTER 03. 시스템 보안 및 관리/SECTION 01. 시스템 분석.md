@@ -129,13 +129,16 @@ IP 통신을 통한 로그 기능 구현을 목적
 	# 지정 경로의 환경설정 파일도 적용
 	include /etc/logrotate.d
 	
-	# 특정 로그에 대한 설정
-	# missingo
+	# 특정 로그에 대한 설정 
 	/var/log/wtmp{
 	    mothnly
 		create 0664 root utmp
 		minsize 1M
 		rotate 1
+	}
+	# missingok : missing ok 로그파일이 없어도 에러를 출력하지 않는다
+	/var/log/btmp {
+		missingok
 	}
 	```
 
