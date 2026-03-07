@@ -63,7 +63,10 @@
 - enforce
 - permissive
 - disable
-### 모드
+### 명령어
+- [[sestatus]]
+- [[setenforce]]
+- /etc/sysconfig/selinux 파일에 SELINUX 변수의 값을 수정하여 영구 반영 가능
 
 
 
