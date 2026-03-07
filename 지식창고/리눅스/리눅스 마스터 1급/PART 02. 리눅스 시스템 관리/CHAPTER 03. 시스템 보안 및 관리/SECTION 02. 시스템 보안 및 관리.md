@@ -180,7 +180,10 @@ session		required	pam_unix.so
 ### sudo란?
 임시적인 root 권한을 요구하는 명령어
 /etc/sudoers 파일에 등록된 사용자만 사용 가능
-해당 파일은 안전 편지
+해당 파일은 안전 편집을 위해 visudo를 사용하는 것을 권장
+
+### sudoer 파일 편집
+형식 : `user hostname=(계정명:그룹명) 명령어`
 
 
 
