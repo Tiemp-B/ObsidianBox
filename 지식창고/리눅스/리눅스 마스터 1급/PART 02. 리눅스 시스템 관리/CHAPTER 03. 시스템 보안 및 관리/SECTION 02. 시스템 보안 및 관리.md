@@ -18,8 +18,8 @@
 	- root 사용자는 허가되고 제한된 사용자에게만 제한을 걸어야 한다. UID가 0인 root가 아닌 사용자가 있는지 점검한다.
 	- /etc/shadow 를 사용하여 해시를 사용한다
 	- 무작위 대입 공격을 방어하기 위해 강력한 패스워드 설정
-		- 공격자
-			- Joh The Ripper 등의 크래킹 도구를 대비하여 랜덤 문자열 단어의 
+		- Joh The Ripper 등의 크래킹 도구를 대비하여 랜덤 문자열 단어의 패스워드
+	- 강력한 패스워드 입력을 강제하기 위해 PAM(Pluggable Authentication Modules) 중  
 
 
 
