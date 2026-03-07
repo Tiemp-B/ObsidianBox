@@ -176,7 +176,11 @@ session		required	pam_unix.so
 	레드햇 계열: /var/log/secure에 로그 저장
 	데비안 계열: /var/log/auth.log
 
-## 
+## sudo(Super User DO)
+### sudo란?
+임시적인 root 권한을 요구하는 명령어
+/etc/sudoers 파일에 등록된 사용자만 사용 가능
+해당 파일은 안전 편지
 
 
 
