@@ -117,6 +117,10 @@
 ## PAM(Pluggable Authentication Module)
 ### PAM이란?
 사용자 동적 인증 공유 라이브러리 스위트
+PAM은 저수준 인증 모듈을 고수준의 API로 통합하여 애플리케이션에 대한 동적 인증 지원 제공
+
+### PAM 환경설정
+- 주요 파일
 
 
 
