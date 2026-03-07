@@ -114,6 +114,9 @@
 | PubkeyAuthentication   | 보안 강화를 위해 공개키 기반 인증을 사용                                                   |
 | TCPKeepAlive           | yes 설정하면 지속적으로 keepalive 메시지를 전송하여 연결상태 체크<br>네트워크 문제 발생 시 리소스 반환 및 연결 종료 |
 
+## PAM(Pluggable Authentication Module)
+### PAM이란?
+사용자 동적 인증 공유 라이브러리 스위트
 
 
 
