@@ -141,8 +141,12 @@ PAM 관련 모듈은 아키텍처에 따라 /lib/security 혹은 /lib64/security
 ## PAM 환경설정 샘플
 ```bash
 #%PAM-1.0
-auth	required	pam_securetty.so
-auth	required	pam_unix.so	nullok	
+auth		required	pam_securetty.so
+auth		required	pam_unix.so			nullok	
+auth		required	pam_nologin.so
+account		required	pam_unix.so
+password	required	pam_cracklib.so		retry=3
+password	required	pam_unix.so			shadow	nullok	use_autho
 ```
 		
 
