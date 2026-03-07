@@ -23,6 +23,8 @@
 	- chage 명령어나 User Manager 애플리케이션으로 특정 사용자의 패스워드 만료일을 설정하여 정기적으로 변경하도록 유도
 - 관리자 계정 보안
 	- su, sudo 명령어를 통해 필요할 때 일시적으로 권한 부여
+		- root 사용자의 로그인 제한은 /etc/passwd에서 root 사ㅇ자의 셸 설정을 /sbin/nologin으로 변경한다.
+	- SSH 프로토콜을 통한 root 
 
 
 
