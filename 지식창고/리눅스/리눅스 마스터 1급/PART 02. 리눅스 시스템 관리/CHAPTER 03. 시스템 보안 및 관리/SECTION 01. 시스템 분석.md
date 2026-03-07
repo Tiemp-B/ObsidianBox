@@ -130,6 +130,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 	include /etc/logrotate.d
 	
 	# 특정 로그에 대한 설정
+	# missingo
 	/var/log/wtmp{
 	    mothnly
 		create 0664 root utmp
