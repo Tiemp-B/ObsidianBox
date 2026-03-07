@@ -138,8 +138,8 @@ IP 통신을 통한 로그 기능 구현을 목적
 	}
 	# 파일 처리
 	# missingok : missing ok 로그파일이 없어도 에러를 출력하지 않는다
-	# nomissingok
-	# compress
+	# nomissingok : 로그파일 없으면 에러 출력
+	# compress : 
 	# nocompress
 	# delaycompress : 다음 로테이션 때 압축
 	# copytruncate : 파일 복사 후 원본 삭제
