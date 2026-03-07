@@ -24,7 +24,10 @@
 - 관리자 계정 보안
 	- su, sudo 명령어를 통해 필요할 때 일시적으로 권한 부여
 		- root 사용자의 로그인 제한은 /etc/passwd에서 root 사ㅇ자의 셸 설정을 /sbin/nologin으로 변경한다.
-	- SSH 프로토콜을 통한 root 사용자 로그인을 막기 위해서 /etc/ssh/sshd_config 파일에서 P
+	- SSH 프로토콜을 통한 root 사용자 로그인을 막기 위해서 /etc/ssh/sshd_config 파일에서 `PermitRootLogin no`를 기입한다
+### 서비스 및 운영 보안
+- 필수 서비스만 사용
+	- 최소 설치 및 필요 내용만 추가하는 것이 
 
 
 
