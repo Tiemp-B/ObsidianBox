@@ -99,7 +99,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 			# 모든 facility에 대해 alert 이상 메시지가 발생하면 모든 사용자에
 			*.alert    *
 			# mail의 로그 중 debug가 아닌 것만 기록
-			mail.*;
+			mail.*;mail.!=debug     /var/log/mail-messages
 			```
 	
 - /etc/sysconfig/
