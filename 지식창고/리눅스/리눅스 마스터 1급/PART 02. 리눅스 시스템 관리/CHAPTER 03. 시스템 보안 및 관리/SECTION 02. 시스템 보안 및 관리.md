@@ -109,7 +109,7 @@
 | Port                   | ssh 사용 포트(기본값 22)               |
 | PermitRootLogin        | yes 설정시 root로 로그인 가능            |
 | AllowUsers             | 허용된 사용자만 ssh 접속 허가 (미설정시 전원 가능) |
-| LoginGraceTime         | 로그인 대기 시                        |
+| LoginGraceTime         | 로그인 대기 시간                       |
 | PasswordAuthentication |                                 |
 | PubkeyAuthentication   |                                 |
 | TCPKeepAlive           |                                 |
