@@ -83,7 +83,9 @@
 	- `systemctl start sshd`
 	- 부팅 시 자동 실행
 		`systemctl enable sshd`
-
+4. 접속
+	`ssh -l 유저명 IP주소`
+	`ssh 유저명@IP주소`
 
 
 
