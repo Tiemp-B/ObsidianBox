@@ -79,7 +79,7 @@
 2. 서버 패키지 설치
 	- 레드햇 : `yum install -y openssh-server`
 	- 데비안 : `apt install -y openssh-server`
-3. 서비스 시작
+3. 서비스 시작. ssh 서비스는 sshd 데몬이 관리한다.
 	- `systemctl start sshd`
 	- 부팅 시 자동 실행
 		`systemctl enable sshd`
@@ -97,8 +97,8 @@
 2. [[scp]] 명령어로 .ssh 디렉터리의 id_dsa.pub을 authorized_keys 이름으로 복사한다
 	`scp id_dsa.pub IP주소:.ssh/authorized_keys`
 
-	
-
+### sshd 환경설정
+- 데몬환경설정 파일 : /etc/ssh/sshd_config
 
 
 
