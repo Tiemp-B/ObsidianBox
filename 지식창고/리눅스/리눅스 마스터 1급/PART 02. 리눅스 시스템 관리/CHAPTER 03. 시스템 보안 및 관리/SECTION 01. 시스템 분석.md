@@ -136,7 +136,12 @@ IP 통신을 통한 로그 기능 구현을 목적
 		minsize 1M
 		rotate 1
 	}
+	# 파일 처리
 	# missingok : missing ok 로그파일이 없어도 에러를 출력하지 않는다
+	# nomissingok
+	# compress
+	# nocompress
+	# delaycomprea
 	/var/log/btmp {
 		missingok
 	}
