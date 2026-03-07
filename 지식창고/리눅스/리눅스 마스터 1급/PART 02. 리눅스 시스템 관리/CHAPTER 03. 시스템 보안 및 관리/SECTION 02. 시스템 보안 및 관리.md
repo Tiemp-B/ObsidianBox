@@ -197,6 +197,9 @@ session		required	pam_unix.so
 TCP 포트의 개폐를 확인하기 위해 SYN 패킷을 보내서 상대가 SYN/ACK 패킷 전송시 열려 있고, RST 패킷을 보내면 닫힌 포트로 판단.
 
 
+## tcpdump
+[[tcpdump]]는  네트워크 트래픽 모니터링 도구이다.
+네트워크 인터페이스의 송수신 패킷 캡쳐를 수행하는 명령행에서 실행 가능
 
 
 
