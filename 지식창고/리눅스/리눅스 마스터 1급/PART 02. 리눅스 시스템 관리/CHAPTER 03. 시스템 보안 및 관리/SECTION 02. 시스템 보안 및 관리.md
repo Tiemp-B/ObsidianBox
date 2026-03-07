@@ -170,9 +170,10 @@ session		required	pam_unix.so
 	nullok : 공백 허용
 	use_authtok : 재입력 요구 안함
 8. `session	required	pam_unix.so`
-	pam_unix.so
+	pam_unix.so가 세션 관리 역할 수행.
 	세션 시작/종료 시 로그 기록
 	로그인/로그아웃 정보를 syslog에 기록
+	/var/log/secure에 로그 저장
 
 
 
