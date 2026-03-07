@@ -127,8 +127,8 @@ PAM은 저수준 인증 모듈을 고수준의 API로 통합하여 애플리케�
 	- `module-type`
 	- `control-flag`
 	- `module-name`
-		- `module-arguments`
-
+	- `module-arguments`
+		
 
 
 
