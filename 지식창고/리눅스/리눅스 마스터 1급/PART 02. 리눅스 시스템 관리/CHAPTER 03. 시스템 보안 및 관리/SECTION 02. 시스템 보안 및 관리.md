@@ -98,8 +98,9 @@
 	`scp id_dsa.pub IP주소:.ssh/authorized_keys`
 
 ### sshd 환경설정
-- 데몬환경설정 파일 : /etc/ssh/sshd_config
-
+- 데몬 환경설정 파일 : /etc/ssh/sshd_config
+- 클라이언트 환경설정 : /etc/ssh/ssh_config
+- 데몬 스크립트 : /usr/lib/systemd/system/sshd.service
 
 
 
