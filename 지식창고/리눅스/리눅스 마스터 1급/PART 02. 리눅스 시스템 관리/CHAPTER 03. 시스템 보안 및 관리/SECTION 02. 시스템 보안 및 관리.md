@@ -67,6 +67,9 @@
 - [[sestatus]]
 - [[setenforce]]
 - /etc/sysconfig/selinux 파일에 SELINUX 변수의 값을 수정하여 영구 반영 가능
+# 3. 시스템 보안 유틸리티
+## ssh(Secure SHell)
+### ssh의 정의
 
 
 
