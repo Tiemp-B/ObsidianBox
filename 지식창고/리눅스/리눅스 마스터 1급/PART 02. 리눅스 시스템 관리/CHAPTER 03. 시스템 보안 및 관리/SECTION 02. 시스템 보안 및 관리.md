@@ -104,8 +104,15 @@
 
 - sshd 주요 환경설정 항목
 
-|항목|설명|
-|:---|
+| 항목                     | 설명                |
+| :--------------------- | ----------------- |
+| Port                   | ssh 사용 포트(기본값 22) |
+| PermitRootLogin        |                   |
+| AllowUsers             |                   |
+| LoginGraceTime         |                   |
+| PasswordAuthentication |                   |
+| PubkeyAuthentication   |                   |
+| TCPKeepAlive           |                   |
 
 - Port
 - PermitRootLogin
