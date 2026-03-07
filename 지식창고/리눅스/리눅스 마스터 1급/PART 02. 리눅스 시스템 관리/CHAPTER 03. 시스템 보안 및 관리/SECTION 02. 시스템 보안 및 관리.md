@@ -157,8 +157,9 @@ session		required	pam_unix.so
 	유닉스 표준 패스워드 인증(/etc/shadow 확인)
 	nullok : 패스워드가 공백이어도 허용
 4. `auth	required	pam_nologin.so`
-	마지막 인
+	마지막 인증단계로 /etc/nologin 파일이 존재하고 사용자가 root가 아니라면 인증 실패
 5. `account	required	pam_unix.so`
+	패스워드 인증에 앞서 계정에 대한 검증 작업 수행
 6. `password	required	pam_cracklib.so	retry=3`
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
 8. `session	required	pam_unix.so`
