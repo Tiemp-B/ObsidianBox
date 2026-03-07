@@ -100,6 +100,8 @@ IP 통신을 통한 로그 기능 구현을 목적
 			*.alert    *
 			# mail의 로그 중 debug가 아닌 것만 기록
 			mail.*;mail.!=debug     /var/log/mail-messages
+			# A와 B의 alert 로그를 UDP로 전달
+			A,B.=alert    @192.168.0.1
 			```
 	
 - /etc/sysconfig/
