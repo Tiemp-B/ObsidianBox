@@ -56,7 +56,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 - 지원 프로토콜 : TCP, SSL, TLS, RELP
 - 지원 데이터베이스 : MySQL, PostgreSQL, Oracle 등
 
-관련 파일
+**관련 파일**
 - /etc/rc.d/init.d/rsyslog
 	시스템 시작시 데몬을 실행하는 스크립트
 - /etc/rsyslog.conf
