@@ -134,9 +134,11 @@ PAM 관련 모듈은 아키텍처에 따라 /lib/security 혹은 /lib64/security
 		- requisite : 반드시 성공되어야 한다. 실패시 즉시 실패 반환
 		- required : 반드시 성공되어야 한다. 실패시 해당 모듈타입의 체크를 모두 수행 후 실반환
 		- sufficient : 성공 시 나머지 모듈의 체크 진행 안함
-		- optional : 다른 모듈의 체크가 몯
-	- `module-name`
-	- `module-arguments`
+		- optional : 다른 모듈의 체크가 모두 성공시 이 모듈의 결과를 응용 프로그램에 반환
+		- include : 지정한 환경설정 파일을 로드하여 적용
+	- `module-name` : 설정의 대상이 되는 모듈의 이름
+	- `module-arguments` : 모듈이름에서 지정한 모듈에게 전달하려는 파라미터
+### 
 		
 
 
