@@ -96,8 +96,10 @@ IP 통신을 통한 로그 기능 구현을 목적
 			# 셀렉터1 => 모든 facility의 crit 수준의 메시지만 해당 경로에 기록
 			# 셀렉터2 => user 서비스의 경우 로그메시지 출력 안
 			*.=crit;user.none    /var/log/critical
-			# 모든 facility에 대해 aler 이상 메시지가 발생하면 모든 사용자에
-			
+			# 모든 facility에 대해 alert 이상 메시지가 발생하면 모든 사용자에
+			*.alert    *
+			# mail의 로그 중 debug가 아닌 것만 기록
+			mail.*;
 			```
 	
 - /etc/sysconfig/
