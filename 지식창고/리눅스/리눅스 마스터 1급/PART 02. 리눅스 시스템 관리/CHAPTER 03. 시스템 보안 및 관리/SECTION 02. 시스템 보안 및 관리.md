@@ -77,7 +77,12 @@
 	- 레드햇 : `yum install -y openssh-clients`
 	- 데비안 : `apt install -y openssh-client`
 2. 서버 패키지 설치
-	- 레드햇 : 
+	- 레드햇 : `yum install -y openssh-server`
+	- 데비안 : `apt install -y openssh-server`
+3. 서비스 시작
+	- `systemctl start sshd`
+	- 부팅 시 자동 실행
+		`systemctl enable sshd`
 
 
 
