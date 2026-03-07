@@ -90,9 +90,8 @@
 ### ssh 인증키
 - [[ssh-keygen]] 명령어로 개인키와 공개키를 생성하고 공개키를 원격 서버에 복사해두면 비밀번 없이 ssh 접속이 가능하다
 - ssh-keygen 명령어로 개인키와 공개키를 생성한다. -t 옵션을 통해 알고리즘을 결정할 수 있다. [[RSA]], [[DSA]] 등을 지정 가능
-	```bash
-	ssh-keygen -t dsa
-	```
+- `ssh-keygen -t dsa혹은rsa`
+	홈 디렉터리의 .ssh 디렉터리에 개인키인 id_dsa와 공개키 id_dsa.pub가 생ㅅ
 
 
 
