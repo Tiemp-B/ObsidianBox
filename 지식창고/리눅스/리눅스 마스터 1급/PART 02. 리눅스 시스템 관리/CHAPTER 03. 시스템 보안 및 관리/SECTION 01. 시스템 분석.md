@@ -148,8 +148,14 @@ IP 통신을 통한 로그 기능 구현을 목적
 		missingok
 	}
 	# 스크립트
-	# prerotate : 로테이션 전 실스크립트
-	# postrotate : 로테이션 후 
+	# prerotate : 로테이션 전 실행 스크립트
+	# postrotate : 로테이션 후 실행 스크립트
+	# sharedscripts : 여러 파일에 스크립트 한번만 실행
+	
+	# 기타
+	# ifempty : 비어 있어도 로테이션
+	# notifempty 
+	# mail : 삭제전 메일 전송
 	```
 
 
