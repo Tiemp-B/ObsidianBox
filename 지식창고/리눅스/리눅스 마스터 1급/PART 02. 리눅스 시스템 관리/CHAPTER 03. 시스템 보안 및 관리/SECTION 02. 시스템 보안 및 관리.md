@@ -53,8 +53,9 @@
 ## SELinux의 개요
 ### SELinux의 정의
 - 미국의 NSA(National Security Agency)에 의해 연구된 프로젝트
-- 강제 접근 제어(MAC : Mandatory Access Control)와 같은 접근 제어 정책을 제공하는 
-
+- 강제 접근 제어(MAC : Mandatory Access Control)와 같은 접근 제어 정책을 제공하는 리눅스 커널 보안 모듈
+- MAC는 모든 주체와 객체에 대해 국부적으로 허가하는 접근 제어 정책
+### 
 
 
 
