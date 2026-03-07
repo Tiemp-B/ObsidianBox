@@ -114,7 +114,7 @@ IP 통신을 통한 로그 기능 구현을 목적
 1. logrotate 명령어
 2. logrotate 환경설정
 	/etc/logrotate.conf로 시스템 전체에 대한 환경설정
-	개별 서비스를 위한 /etc/
+	/etc/logrotate.d로 개별 서비스를 위한 설정
 	```bash
 	
 	```
