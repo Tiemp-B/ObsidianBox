@@ -158,7 +158,10 @@ IP 통신을 통한 로그 기능 구현을 목적
 	# mail : 삭제전 메일 전송
 	```
 
-
+## journalctl을 통한 로그 관리
+### journalctl이란?
+systemd에서 제공하는 커널 및 저널 로그를 관리하기 위한 명령어
+[[journalctl]]
 
 
 
