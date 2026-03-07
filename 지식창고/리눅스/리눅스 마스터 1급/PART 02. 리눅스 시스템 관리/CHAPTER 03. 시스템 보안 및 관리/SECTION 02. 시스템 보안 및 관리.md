@@ -138,7 +138,12 @@ PAM 관련 모듈은 아키텍처에 따라 /lib/security 혹은 /lib64/security
 		- include : 지정한 환경설정 파일을 로드하여 적용
 	- `module-name` : 설정의 대상이 되는 모듈의 이름
 	- `module-arguments` : 모듈이름에서 지정한 모듈에게 전달하려는 파라미터
-### 
+## PAM 환경설정 샘플
+```bash
+#%PAM-1.0
+auth	required	pam_securetty.so
+auth	required	pam_unix.so	nullok	
+```
 		
 
 
