@@ -58,7 +58,11 @@
 ### SELinux의 특징
 - 리눅스 커널의 기본 기능으로 포함됨
 - [[제로데이 공격]]으로 공격받더라도 피해 최소화
-
+## SELinux의 설정 및 해제
+### 동작 모드
+- enforce
+- permissive
+- disable
 
 
 
