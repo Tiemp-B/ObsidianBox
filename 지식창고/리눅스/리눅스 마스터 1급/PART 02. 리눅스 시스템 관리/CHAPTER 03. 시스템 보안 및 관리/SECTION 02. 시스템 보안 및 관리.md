@@ -146,7 +146,8 @@ auth		required	pam_unix.so			nullok
 auth		required	pam_nologin.so
 account		required	pam_unix.so
 password	required	pam_cracklib.so		retry=3
-password	required	pam_unix.so			shadow	nullok	use_autho
+password	required	pam_unix.so			shadow	nullok	use_authtok
+session		required	pam_unix.so
 ```
 		
 
