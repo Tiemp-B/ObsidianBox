@@ -124,7 +124,11 @@ PAM은 저수준 인증 모듈을 고수준의 API로 통합하여 애플리케�
 	- /etc/pam.conf : 파일
 	- /etc/pam.d : 디렉터리. 위 파일보다 우선된다 
 - 환경설정 항목
-	- `module-type`
+	- `module-type` : 모듈의 유형
+		- account : 사용자의 패스워드 만료, 서비스 접근 허가 등의 계정 검증
+		- auth : 사용자 실제 인증
+		- password : 패스워드 갱신 및 auth 모듈 연동
+		- session : 세션의 시작, 종료 관련 작업
 	- `control-flag`
 	- `module-name`
 	- `module-arguments`
