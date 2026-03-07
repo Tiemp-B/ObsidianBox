@@ -96,7 +96,7 @@
 	`ssh IP주소 mkdir .ssh`
 2. [[scp]] 명령어로 .ssh 디렉터리의 id_dsa.pub을 authorized_keys 이름으로 복사한다
 	`scp id_dsa.pub IP주소:.ssh/authorized_keys`
-3. ss
+3. 
 	
 
 
