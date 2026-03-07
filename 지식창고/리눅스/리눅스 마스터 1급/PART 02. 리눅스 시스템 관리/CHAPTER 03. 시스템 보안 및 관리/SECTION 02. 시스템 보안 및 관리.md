@@ -131,8 +131,10 @@ PAM 관련 모듈은 아키텍처에 따라 /lib/security 혹은 /lib64/security
 		- password : 패스워드 갱신 및 auth 모듈 연동
 		- session : 세션의 시작, 종료 관련 작업
 	- `control-flag` : 인증 성공, 실패에 따른 처리 방안을 정한다
-		- requisite : 반드시 성공되어야 한다. 실패시 실패 반환
+		- requisite : 반드시 성공되어야 한다. 실패시 즉시 실패 반환
 		- required : 반드시 성공되어야 한다. 실패시 해당 모듈타입의 체크를 모두 수행 후 실반환
+		- sufficient : 성공 시 나머지 모듈의 체크 진행 안함
+		- optional : 다른 모듈의 체크가 몯
 	- `module-name`
 	- `module-arguments`
 		
