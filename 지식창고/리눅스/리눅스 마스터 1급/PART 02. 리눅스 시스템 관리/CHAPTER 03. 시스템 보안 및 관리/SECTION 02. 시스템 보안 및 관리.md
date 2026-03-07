@@ -92,8 +92,11 @@
 - ssh-keygen 명령어로 개인키와 공개키를 생성한다. -t 옵션을 통해 알고리즘을 결정할 수 있다. [[RSA]], [[DSA]] 등을 지정 가능
 - `ssh-keygen -t dsa혹은rsa`
 	홈 디렉터리의 .ssh 디렉터리에 개인키인 id_dsa와 공개키 id_dsa.pub가 생성된다
-- ssh 서버에 .ssh 디렉터리를 생성
+1.  ssh 서버에 .ssh 디렉터리를 생성
 	`ssh IP주소 mkdir .ssh`
+2. [[scp]] 명령어로 .ssh 디렉터리의 id_dsa.pub을 authorized_keys 이름으로 복사한다
+	`scp id_dsa.pub IP주소:.ssh/authorized_keys`
+3. ss
 	
 
 
