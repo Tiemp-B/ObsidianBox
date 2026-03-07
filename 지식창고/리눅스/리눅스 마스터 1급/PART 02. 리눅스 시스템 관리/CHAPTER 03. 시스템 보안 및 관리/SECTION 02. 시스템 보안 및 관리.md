@@ -159,8 +159,10 @@ session		required	pam_unix.so
 4. `auth	required	pam_nologin.so`
 	마지막 인증단계로 /etc/nologin 파일이 존재하고 사용자가 root가 아니라면 인증 실패
 5. `account	required	pam_unix.so`
-	패스워드 인증에 앞서 계정에 대한 검증 작업 수행
+	패스워드 인증 전 계정 유효성 검사. -> 계정 만료, 패스워드 만료, 계정 잠금 여부 등
 6. `password	required	pam_cracklib.so	retry=3`
+	패스워드 복잡도 검사
+	
 7. `password	required	pam_unix.so	shadow	nullok	use_authtok`
 8. `session	required	pam_unix.so`
 
