@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "487018fb659e5535",
@@ -351,8 +351,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1610ab05b8d5132c",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/dd.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "Developer/Linux/명령어/cpio.md",
     "Developer/Linux/명령어/chmod.md",
@@ -381,7 +382,6 @@
     "Developer/네트워크/프로토콜",
     "Developer/네트워크/01. 프로토콜/01. 프로토콜.md",
     "_templates/Cornell Type.md",
-    "Developer/네트워크/00. 네트워크.md",
     "Developer/네트워크/01. 프로토콜",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
