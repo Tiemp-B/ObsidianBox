@@ -18,7 +18,18 @@ tags:
 - -c : -H newc 명령어와 동일하며 SVR4 형식을 사용한다.
 - -d, --make-directories : 디렉터리 생성
 - -t, --list : 입력으로 들어오는 목록 출력
-- -F, --files : 표준 입출력을 상
+- -F, --files : 표준 입출력을 사용하지 않고 아카이브할 파일 지정
+- -B : 5120바이트 단위 복사. 미사용시 512바이트 단위 복사
+- -H, --format : 아카이브할 포맷 형식
+	- bin
+	- odc
+	- newc
+	- crc
+	- tar
+	- hpbin
+	- hpodc
+	- 등
+- -0
 # 예제
 
 
