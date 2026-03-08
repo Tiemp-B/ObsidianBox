@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -337,8 +337,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12722f53561fd3eb",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/chmod.md",
     "Developer/Linux/명령어/chown.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/네트워크/프로토콜/SMB.md",
@@ -368,7 +369,6 @@
     "_templates/Cornell Type.md",
     "Developer/네트워크/00. 네트워크.md",
     "Developer/네트워크/01. 프로토콜",
-    "Developer/네트워크/네트워크.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",

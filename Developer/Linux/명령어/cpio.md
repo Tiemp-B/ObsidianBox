@@ -40,6 +40,8 @@ tags:
 	# backup.cpio 내의 파일 목록만을 출력
 	cpio -ivt < home/account/backup.cpio
 	```
+- copy-pass
+	` f`
 # 연관 명령어
 
 
