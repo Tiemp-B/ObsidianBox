@@ -38,7 +38,7 @@ tags:
 	# 추출
 	cpio -iv < home/account/backup.cpio
 	# backup.cpio 내의 파일 목록만을 출력
-	cpio 
+	cpio -ivt < home/account/backup.cpio
 	```
 # 연관 명령어
 
