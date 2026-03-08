@@ -41,7 +41,7 @@ tags:
 	cpio -ivt < home/account/backup.cpio
 	```
 - copy-pass
-	` f`
+	`% find . -depth -print0 | cpio --null `
 # 연관 명령어
 
 
