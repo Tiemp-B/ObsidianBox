@@ -36,6 +36,9 @@ tags:
 - copy-in
 	```bash
 	# 추출
+	cpio -iv < home/account/backup.cpio
+	# backup.cpio 내의 파일 목록만을 출력
+	cpio 
 	```
 # 연관 명령어
 
