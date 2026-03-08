@@ -221,7 +221,8 @@ Nessus Essentials는 교육용 목적으로 무료 제공되며 유료 제공으
 - TCP/IP 스택의 패킷을 악의적으로 조작하는 서비스 거부 공격의 수행 탐지
 
 ### GnuPG(GNU Privacy Guard)
-PGP(Pretty Good Privacy, 메일 보안용)
+PGP(Pretty Good Privacy, 메일 보안용)의 대체하는 자유 소프트웨어
+GnuPG는 공개키 기반 암호화와 디지털 서명 관련 기능 제공
 
 
 
