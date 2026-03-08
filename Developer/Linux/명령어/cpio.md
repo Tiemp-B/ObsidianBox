@@ -15,7 +15,7 @@ tags:
 	- `cpio -p destination-directory < name-list` : cpio-pass 모드. 지정 디렉터리로 복사
 
 - -v, --verbose : 처리중인 파일들의 목록 출력
-- -c : -H
+- -c : -H newc 명령어와
 # 예제
 
 
