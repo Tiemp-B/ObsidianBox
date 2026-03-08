@@ -10,7 +10,9 @@ tags:
 
 # 옵션
 - 모드
-	- `cpio -o <name-list>` : cpio-out 모드. name-list의 파일을 대상으로 아카이브 생성
+	- `cpio -o < name-list > archive` : cpio-out 모드. name-list의 파일을 대상으로 아카이브 생성
+	- `cpio -i < archive` : cpio-in 모드
+	- `cpio -p destination-directory < name-list`
 
 # 예제
 
