@@ -41,7 +41,9 @@ tags:
 	cpio -ivt < home/account/backup.cpio
 	```
 - copy-pass
-	`% find . -depth -print0 | cpio --null `
+	find로 찾은 파일 목록을 new-dir로 복사한다.
+	`% find . -depth -print0 | cpio --null -pvd new-dir`
+	
 # 연관 명령어
 
 
