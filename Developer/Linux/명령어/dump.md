@@ -9,7 +9,9 @@ tags:
 주로 파티션 단위 백업할 때 사용하는 명령어
 `dump [options] [backup_device] [backup_file_or_device]`
 # 옵션
-
+- -0~9 : 레벨. 0은 전체 백업 그 후로는 부분 백업
+- -f : 장치/파일 지정
+- -u : dump 완료 후 /etc/dumpdates 라는 파일에 백업 정보 기록
 
 # 예제
 
