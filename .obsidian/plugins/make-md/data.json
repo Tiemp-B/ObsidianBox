@@ -122,7 +122,6 @@
     "//지식창고/지식창고/리눅스 설정",
     "//지식창고/지식창고/Box",
     "//_templates",
-    "//Developer/Developer/Linux/Developer/Linux/디렉터리",
     "//Developer/Developer/Linux/Developer/Linux/특수 목적 파일",
     "//학습일지/학습일지/2026-01",
     "//학습일지/학습일지/2026-02",
@@ -141,7 +140,8 @@
     "//개발자 뉴스",
     "//지식창고/지식창고/리눅스",
     "//Developer/Developer/보안/Developer/보안/암호화",
-    "//Developer/Developer/Linux/Developer/Linux/명령어"
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
