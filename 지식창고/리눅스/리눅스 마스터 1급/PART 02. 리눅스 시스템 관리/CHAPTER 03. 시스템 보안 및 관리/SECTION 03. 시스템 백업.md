@@ -50,10 +50,11 @@
 [[tar]]
 
 ## cpio
+copy-in, copy-out
 아카이브로 파일을 복사 및 아카이브에서 파일 추출에 사용
 지원 포맷 : .cpio, .tar 등
 지원 아카이브 형식 : 바이너리, ASCII, HP-UX 바이너리, tar 형식
-
+cpi
 
 
 
