@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/보안/암호화/RSA.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 02. 시스템 보안 및 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA"
+              "title": "SECTION 02. 시스템 보안 및 관리"
             }
           },
           {
@@ -338,6 +338,7 @@
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
     "Developer/보안/암호화/AES.md",
+    "Developer/보안/암호화/RSA.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 02. 시스템 보안 및 관리.md",
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "Developer/Linux/명령어/명령어.md",
@@ -366,7 +367,6 @@
     "Developer/Linux/Linux.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/SECTION 01. 장치의 설치 및 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리/SECTION 03. 프로세스 관리.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리/CHAPTER 02. 장치관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
