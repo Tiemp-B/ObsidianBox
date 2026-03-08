@@ -32,10 +32,11 @@ tags:
 - -0, --null : 개행문자가 아닌 null 문자로 종료되는 파일 목록을 읽는다.
 # 예제
 - copy-out
+	`ls | cpio -ov  -H tar > home/account/backup.tar`
+- copy-in
 	```bash
-	
+	# 추출
 	```
-
 # 연관 명령어
 
 
