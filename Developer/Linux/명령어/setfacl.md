@@ -30,7 +30,11 @@ ACL 규칙 형식
 ```bash
 setfacl -m u:user1:rw 파일명
 setfacl -m g:group1:r 파일명
-setfacl -
+setfacl -x u:user1 파일명
+setfacl -b 파일명
+
+# 디렉터리에 기본 ACL 설정. 하위에 자동 적용
+setfacl -d -m u:user1:rw 디렉터리명
 ```
 
 # 연관 명령어
