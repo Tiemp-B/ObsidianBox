@@ -24,5 +24,7 @@ tags:
 
 
 # 연관 명령어
-- [[la]]
+- [[last]]
+- [[lastb]]
+- [[lastlog]]
 
