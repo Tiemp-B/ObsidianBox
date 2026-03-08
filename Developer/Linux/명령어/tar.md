@@ -10,9 +10,11 @@ tags:
 유닉스의 TAR는 순수하게 파일을 아카이브하는 역할만 수행
 리눅스의 TAR는 COMPRESS, GZIP, BZIP2, XZ 등으로 압축하는 것도 지원
 
+백업을 하는 데에도 사용 가능하다
+
 # 옵션
 ### 주 동작 모드
-- -A, --catenate, --concatenate : tar 파ㅣㅇㄹ간의 병합
+- -A, --catenate, --concatenate : tar 파일 간의 병합
 - -c, --create : 새 아카이브 생성
 - --delete : 아카이브에서 삭제
 - -d, --diff, --compare : 아카이브 및 파일 시스템 차이점 찾기
@@ -95,6 +97,11 @@ tags:
 
 # 예제
 
+```bash
+# 증분 백업
+# 최초 백업 파일
+
+```
 
 # 연관 명령어
 
