@@ -100,8 +100,9 @@ tags:
 ```bash
 # 증분 백업
 # 최초 백업 파일
-tar -g snapshot -cvfp 백업0파일.tar 백업대상
-# 
+tar -g snapshot -cvfp 백업파일0.tar 백업대상
+# 이후의 백업
+tar -g snapshot -cvfp 백업파일1.tar 백업대상
 ```
 
 # 연관 명령어
