@@ -54,14 +54,12 @@
             "id": "1610ab05b8d5132c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Linux/명령어/dd.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Linux/명령어"
               },
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "명령어"
             }
           },
           {
@@ -93,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "487018fb659e5535",
@@ -351,11 +349,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "78c082c82548532e",
   "lastOpenFiles": [
-    "Developer/CS/02. 알고리즘/12. 고급 기법/델타 전송.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "Developer/Linux/명령어/dd.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
+    "Developer/CS/02. 알고리즘/12. 고급 기법/델타 전송.md",
     "Developer/Linux/명령어/cpio.md",
     "Developer/Linux/명령어/chmod.md",
     "Developer/Linux/명령어/chown.md",
