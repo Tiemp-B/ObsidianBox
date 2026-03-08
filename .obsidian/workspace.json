@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/chown.md",
+                "file": "Developer/Linux/명령어/chmod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chown"
+              "title": "chmod"
             }
           }
         ],
@@ -339,6 +339,7 @@
   },
   "active": "12722f53561fd3eb",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/chown.md",
     "Developer/Linux/명령어/명령어.md",
     "Developer/네트워크/프로토콜/SMB.md",
     "Developer/Linux/명령어/cpio.md",
@@ -368,7 +369,6 @@
     "Developer/네트워크/00. 네트워크.md",
     "Developer/네트워크/01. 프로토콜",
     "Developer/네트워크/네트워크.md",
-    "Developer/Linux/Linux.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리",
