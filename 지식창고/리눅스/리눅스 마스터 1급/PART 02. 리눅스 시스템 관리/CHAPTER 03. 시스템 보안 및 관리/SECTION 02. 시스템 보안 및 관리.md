@@ -220,6 +220,8 @@ Nessus Essentials는 교육용 목적으로 무료 제공되며 유료 제공으
 - 시스템 계정의 빈 패스워드나 기본 패스워드 등을 탐지
 - TCP/IP 스택의 패킷을 악의적으로 조작하는 서비스 거부 공격의 수행 탐지
 
+### GnuPG(GNU Privacy Guard)
+PGP(Pretty Good Privacy, 메일 보안용)
 
 
 
