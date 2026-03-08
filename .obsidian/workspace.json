@@ -54,14 +54,12 @@
             "id": "1610ab05b8d5132c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Linux/명령어/setfacl.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Linux/명령어"
               },
               "icon": "lucide-file",
-              "title": "setfacl"
+              "title": "명령어"
             }
           },
           {
@@ -351,10 +349,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1610ab05b8d5132c",
+  "active": "460ed48dc36bb572",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/restore.md",
     "Developer/Linux/명령어/setfacl.md",
+    "Developer/Linux/명령어/restore.md",
     "Developer/Linux/명령어/dump.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "Developer/Linux/명령어/명령어.md",
