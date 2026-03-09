@@ -150,7 +150,8 @@ HyperText Transfer Protocol
 
 - 요청 헤더
 	- Method, URL, HTTP 버전 : `Get /example/test.html HTTP/1.1`
-	- Accept : 
+	- Accept : 서버로부터 받는 컨텐츠의 MIME 타입을 지정
+	- If-Modified_Since : 지정 날짜 이후로 변경ㄷ
 
 
 
