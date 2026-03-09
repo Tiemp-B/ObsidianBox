@@ -160,6 +160,13 @@ HyperText Transfer Protocol
 	- Referer : 이번 요청 이전의 페이지 주소 지정
 
 - 응답 헤더
+	- HTTP 버전, 응답 코드 : HTTP 버전 정보
+	- Server : 웹 서버의 정보 명시
+	- Location : 응답코드 301, 302 리다이렉션 상태에서 위치 정보 지정
+	- Set-Cookie : 클라이언트에 저장할 쿠키 정보 지정
+		- Expires, Secure 등을 같이 설정 가능
+	- Expires : 리소스 유효 일시
+	- A
 
 
 
