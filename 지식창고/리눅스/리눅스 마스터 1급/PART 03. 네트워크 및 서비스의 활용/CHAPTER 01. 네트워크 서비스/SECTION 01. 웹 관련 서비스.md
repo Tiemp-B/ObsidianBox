@@ -154,7 +154,10 @@ HyperText Transfer Protocol
 		- Accept-Charset, Accept-Language 등
 	- If-Modified_Since : 지정 날짜 이후로 변경된 경우만 수신 `Mon, 18 Jul 2016 12:15:00 GMT`
 	- User-Agent : 웹 브라우저(클라이언트)의 정보 지정
-	- Cookie : 
+	- Cookie : 웹 서버의 요청에 의해 클라이언트에 저장해 놓은 쿠키를키와 값의 쌍으로 전송
+	- Host
+	- Origin : 요청이 어느 주소에서 시작되었는지 명시
+	- Referer : 이번 요청 이전의 페이지 주소 지정
 
 
 
