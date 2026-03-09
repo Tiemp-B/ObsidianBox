@@ -112,7 +112,15 @@ HyperText Transfer Protocol
 	- 404 : 존재하지 않는 리소스 
 	- 405 : 지정 방식의 요청 불가
 	- 406 : 불가
-	- 407 : 프록시 인증
+	- 407 : 프록시 인증 필요
+	- 408 : 요청 시간 초과
+	- 409 : 충돌
+	- 410 : Gone
+	- 411 : Length Required
+	- 412 : Precondition Failed
+	- 413 : Request Entity Too Large
+	- 414 : Request URI Too Large
+	- 415 : Unsupported Media Type
 
 
 
