@@ -198,7 +198,9 @@ HyperText Transfer Protocol
 			- DSO(Dynamic Shared Object)
 			- 서버 실행 이후 사용자 요청시 모듈 적재
 		- 특징
-			- 모
+			- 모듈의 추가 삭제가 편리
+			- 모듈을 적재하는 시간이 필요 -> 응답 시간 지연
+### PHP(PHP-Hypertext Preprocessor)
 
 
 
