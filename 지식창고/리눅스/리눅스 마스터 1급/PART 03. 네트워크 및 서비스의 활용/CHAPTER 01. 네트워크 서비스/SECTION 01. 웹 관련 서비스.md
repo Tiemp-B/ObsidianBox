@@ -61,3 +61,6 @@
 - 웹서버
 - WAS:Web Application Server
 - DB
+### 동작 원리
+1. 주소 입력
+2. DNS 조회를 통해 
