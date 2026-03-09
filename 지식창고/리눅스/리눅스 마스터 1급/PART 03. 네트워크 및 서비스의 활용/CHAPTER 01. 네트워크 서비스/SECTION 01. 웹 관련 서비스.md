@@ -104,6 +104,7 @@ HyperText Transfer Protocol
 	- 303 : See Other
 	- 304 : Not Modified
 	- 305 : Use Proxy
+	4xx
 
 
 
