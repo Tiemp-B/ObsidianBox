@@ -201,7 +201,7 @@ HyperText Transfer Protocol
 			- 모듈의 추가 삭제가 편리
 			- 모듈을 적재하는 시간이 필요 -> 응답 시간 지연
 ### PHP(PHP-Hypertext Preprocessor)
-- 웹 서비스의 로직 구현하고 
+- 웹 서비스의 로직 구현하고 동적으로 페이지를 생성하도록
 
 
 
