@@ -199,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:네트워크, 프로토콜",
+                "query": "tag:#HTTP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
