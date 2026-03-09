@@ -96,7 +96,14 @@ HyperText Transfer Protocol
 	- 203 : Non-Authoritative Info
 	- 204 : No Content
 	- 205 : Reset Content
-	- 206 : 
+	- 206 : Partial Content
+	3xx
+	- 300 : Multiple Choices
+	- 301 : Moved Permanently
+	- 302 : Moved Temporary
+	- 303 : See Other
+	- 304 : Not Modified
+	- 305 : 
 
 
 
