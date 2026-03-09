@@ -87,6 +87,16 @@ HyperText Transfer Protocol
 상태코드는 HTTP 규약(RFC2616)에 정의된 값으로, 응답 정보 및 서버의 상태 확인이 가능
 - HTTP 상태 코드
 	1xx
+	- 100 : Continue
+	- 101 : Switching Protocols
+	2xx
+	- 200 : com
+	- 201 : 
+	- 202 : 
+	- 203 : 
+	- 204 : 
+	- 205 : 
+	- 206 : 
 
 
 
