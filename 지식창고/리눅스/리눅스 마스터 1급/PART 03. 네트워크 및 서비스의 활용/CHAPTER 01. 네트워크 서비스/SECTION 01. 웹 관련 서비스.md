@@ -166,7 +166,7 @@ HyperText Transfer Protocol
 	- Set-Cookie : 클라이언트에 저장할 쿠키 정보 지정
 		- Expires, Secure 등을 같이 설정 가능
 	- Expires : 리소스 유효 일시
-	- A
+	- Allow 응답 코드 405 상태에서 서버가 제공할 수 있는 HTTP 메서드 지정
 
 
 
