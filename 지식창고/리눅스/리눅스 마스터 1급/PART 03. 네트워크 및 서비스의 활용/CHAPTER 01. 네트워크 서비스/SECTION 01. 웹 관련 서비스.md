@@ -134,8 +134,8 @@ HyperText Transfer Protocol
 
 헤더의 종류
 - 공통 헤더
-	- Date : 메시지 생성한 일시. ``
-	- Connection
+	- Date : 메시지 생성한 일시. `Tue, 19 Nov 2019 04:13:24 GMT`
+	- Connection : Keep-Alive 설정
 	- Cache-Control
 	- Content-Type
 	- Content-Encoding
