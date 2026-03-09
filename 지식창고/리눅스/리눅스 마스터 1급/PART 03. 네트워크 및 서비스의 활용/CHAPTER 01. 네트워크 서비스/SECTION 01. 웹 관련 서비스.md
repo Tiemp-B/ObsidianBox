@@ -175,7 +175,8 @@ HyperText Transfer Protocol
 	- 아파치 2.x 는 MPM을 지원하며, 프로세스, 스레드를 이용하여 요청 처리
 	- MPM은 prefork와 worker의 두가지 방식으로 요청을 자식 프로세스에 할당
 		- prefork
-			- 아
+			- 아파치 1.x와 같은 하나의 프로세스가 하나의 스레드를 갖는다
+			- 실행중인 프로세스를 복제(fork)하여 미리 동작시켜
 		- worker
 
 
