@@ -139,7 +139,11 @@ HyperText Transfer Protocol
 	- Cache-Control : 캐시 속성 설정
 		- no-store
 		- no-cache
-		- must-
+		- must-revalidate
+		- public
+		- private
+		- max-age
+		- 등
 	- Content-Type
 	- Content-Encoding
 	- Content-Length
