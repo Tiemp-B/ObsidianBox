@@ -129,7 +129,9 @@ HyperText Transfer Protocol
 	- 504 : Gateway Timeout
 	- 505 : HTTP Version Not Supported
 ## HTTP 헤더 구조
-프로토콜의 ㅇ
+프로토콜의 요청과 응답은 헤더(부가 정보)와 바디(실 데이터)로 구성된다
+헤더와 바디는 `\r\n`의 개행문자로 구분된다
+### 헤더의 종류
 
 
 
