@@ -86,10 +86,10 @@ HyperText Transfer Protocol
 
 상태코드는 HTTP 규약(RFC2616)에 정의된 값으로, 응답 정보 및 서버의 상태 확인이 가능
 - HTTP 상태 코드
-	1xx
+	1xx (조건)
 	- 100 : Continue
 	- 101 : Switching Protocols
-	2xx
+	2xx (성공)
 	- 200 : complete
 	- 201 : Created
 	- 202 : Accepted
@@ -97,14 +97,14 @@ HyperText Transfer Protocol
 	- 204 : No Content
 	- 205 : Reset Content
 	- 206 : Partial Content
-	3xx
+	3xx (리다이렉션)
 	- 300 : Multiple Choices
 	- 301 : Moved Permanently
 	- 302 : Moved Temporary
 	- 303 : See Other
 	- 304 : Not Modified
 	- 305 : Use Proxy
-	4xx
+	4xx (요청 오류)
 
 
 
