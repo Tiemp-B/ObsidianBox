@@ -90,7 +90,7 @@ HyperText Transfer Protocol
 	- 100 : Continue
 	- 101 : Switching Protocols
 	2xx
-	- 200 : com
+	- 200 : complete
 	- 201 : 
 	- 202 : 
 	- 203 : 
