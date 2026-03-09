@@ -86,7 +86,7 @@ HyperText Transfer Protocol
 
 상태코드는 HTTP 규약(RFC2616)에 정의된 값으로, 응답 정보 및 서버의 상태 확인이 가능
 - HTTP 상태 코드
-	1xx (조건)
+	1xx (조건부 응답, 정보 교환)
 	- 100 : Continue
 	- 101 : Switching Protocols
 	2xx (성공)
@@ -105,6 +105,12 @@ HyperText Transfer Protocol
 	- 304 : Not Modified
 	- 305 : Use Proxy
 	4xx (요청 오류)
+	- 400 : 클라이언트의 잘못된 요청(문법 오류 등)
+	- 401 : 요청에 대한 권한 부족
+	- 402 : 결재 필요한 요청
+	- 403 : 리소스에 대한 권한 부족
+	- 404 : 존재하지 않는 리소스 
+	- 405 
 
 
 
