@@ -103,7 +103,7 @@ HyperText Transfer Protocol
 	- 302 : Moved Temporary
 	- 303 : See Other
 	- 304 : Not Modified
-	- 305 : 
+	- 305 : Use Proxy
 
 
 
