@@ -91,11 +91,11 @@ HyperText Transfer Protocol
 	- 101 : Switching Protocols
 	2xx
 	- 200 : complete
-	- 201 : 
-	- 202 : 
-	- 203 : 
-	- 204 : 
-	- 205 : 
+	- 201 : Created
+	- 202 : Accepted
+	- 203 : Non-Authoritative Info
+	- 204 : No Content
+	- 205 : Reset Content
 	- 206 : 
 
 
