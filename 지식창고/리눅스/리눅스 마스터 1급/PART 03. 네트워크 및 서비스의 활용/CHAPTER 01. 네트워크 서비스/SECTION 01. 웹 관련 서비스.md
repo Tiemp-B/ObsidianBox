@@ -14,4 +14,10 @@
 - Apache, IIS, Nginx, GWS 등의 웹서버가 존재
 	- Apache 
 		- 아파치 재단이 주도하는 대표적 오픈소스 웹 서버
-		- 
+		- 요청에 따라 프로세스, 스레드를 생성하여 처리
+		- Loadable Module 기능을 제공하여 서버의 동작 확장 가능
+	- IIS
+		- 마이크로소프트가 개발 및 제공
+		- 마이크로소프트 ASP(Active Server Page)를 지원
+		- GUI기반의 관리콘솔 제공
+	- 
