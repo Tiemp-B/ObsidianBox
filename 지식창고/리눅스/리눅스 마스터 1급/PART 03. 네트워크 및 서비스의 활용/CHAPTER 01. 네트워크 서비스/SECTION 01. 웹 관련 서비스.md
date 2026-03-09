@@ -136,7 +136,10 @@ HyperText Transfer Protocol
 - 공통 헤더
 	- Date : 메시지 생성한 일시. `Tue, 19 Nov 2019 04:13:24 GMT`
 	- Connection : Keep-Alive 설정
-	- Cache-Control
+	- Cache-Control : 캐시 속성 설정
+		- no-store
+		- no-cache
+		- must-
 	- Content-Type
 	- Content-Encoding
 	- Content-Length
