@@ -71,3 +71,4 @@
 7. TCP 4way 연결 종료 방식으로 연결 종료
 ## HTTP 프로토콜
 HyperText Transfer Protocol
+웹 클라이언트와 웹 서버 사이의 데이터 요청/전송 표준 규약
