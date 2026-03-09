@@ -171,7 +171,12 @@ HyperText Transfer Protocol
 # 3. 웹 관련 서비스의 설치 및 설정
 ## 웹 서비스 구성을 위한 설치 목록과 고려 사항
 ### 아파치 웹 서버
-
+- 특징
+	- 아파치 2.x 는 MPM을 지원하며, 프로세스, 스레드를 이용하여 요청 처리
+	- MPM은 prefork와 worker의 두가지 방식으로 요청을 자식 프로세스에 할당
+		- prefork
+			- 
+		- worker
 
 
 
