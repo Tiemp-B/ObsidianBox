@@ -208,7 +208,8 @@ HyperText Transfer Protocol
 - RDBMS(관계형 데이터베이스 관리 시스템)
 - C, C++, JAVA, PHP 등 다양한 언어 인터페이스 제공
 - 기본적으로 3306 포트 사용.
-- PHP는 /tmp
+- PHP는 /tmp/mysql.sock 파일을 소켓으로 접속함
+### 웹 관련 서비스 컴파일 및 설치 시 고려사항
 
 
 
