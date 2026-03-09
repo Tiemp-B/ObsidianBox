@@ -76,7 +76,12 @@ HyperText Transfer Protocol
 - GET
 - HEAD
 - POST
-- 
+- PUT
+- DELETE
+- CONNECT
+- TRACE
+- OPTIONS
+### 응답, 응답 코드
 
 
 
