@@ -57,3 +57,7 @@
 # 2. 웹의 동작 원리와 HTTP 프로토콜
 ## 웹의 동작 원리
 ### 기본 구조
+- 방화벽
+- 웹서버
+- WAS:Web Application Server
+- DB
