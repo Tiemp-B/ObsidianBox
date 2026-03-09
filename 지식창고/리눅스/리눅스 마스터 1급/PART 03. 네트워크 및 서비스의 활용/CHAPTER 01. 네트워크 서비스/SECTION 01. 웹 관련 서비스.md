@@ -85,7 +85,8 @@ HyperText Transfer Protocol
 응답으로 웹 서버는 HTTP 프로토콜 버전, 웹서버 정보, 상태코드, 데이터 정보 등을 전송한다
 
 상태코드는 HTTP 규약(RFC2616)에 정의된 값으로, 응답 정보 및 서버의 상태 확인이 가능
-
+- HTTP 상태 코드
+	1xx
 
 
 
