@@ -148,7 +148,9 @@ HyperText Transfer Protocol
 	- Content-Encoding
 	- Content-Length
 
-
+- 요청 헤더
+	- Method, URL, HTTP 버전 : `Get /example/test.html HTTP/1.1`
+	- Accept : 
 
 
 
