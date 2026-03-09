@@ -206,7 +206,9 @@ HyperText Transfer Protocol
 - DSO 방식 동작
 ### MySQL
 - RDBMS(관계형 데이터베이스 관리 시스템)
-- 
+- C, C++, JAVA, PHP 등 다양한 언어 인터페이스 제공
+- 기본적으로 3306 포트 사용.
+- PHP는 /tmp
 
 
 
