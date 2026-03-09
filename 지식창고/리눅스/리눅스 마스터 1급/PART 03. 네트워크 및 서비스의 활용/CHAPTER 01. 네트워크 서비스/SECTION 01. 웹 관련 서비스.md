@@ -25,4 +25,6 @@
 		- 로드밸런스, HTTP 캐시, 리버스 프록시 등의 기능을 기본으로 제공
 	- GWS
 		- 구글이 제공한는 웹서버
-		- 
+- 최근의 웹서버는 동적 페이지, 로그인 및 세션 관리, 다중 웹 호스팅, QoS(Quality of Service) 제한 등의 다양한 기능을 제공한다
+- MSA : Micro Service Architecture
+	- 많은 서비스들이 웹을 기반
