@@ -121,6 +121,15 @@ HyperText Transfer Protocol
 	- 413 : Request Entity Too Large
 	- 414 : Request URI Too Large
 	- 415 : Unsupported Media Type
+	5xx (서버 오류)
+	- 500 : 서버 내부 오류
+	- 501 : Not Implemented
+	- 502 : Bad Gateway
+	- 503 : Service Unavailable
+	- 504 : Gateway Timeout
+	- 505 : HTTP Version Not Supported
+## HTTP 헤더 구조
+프로토콜의 ㅇ
 
 
 
