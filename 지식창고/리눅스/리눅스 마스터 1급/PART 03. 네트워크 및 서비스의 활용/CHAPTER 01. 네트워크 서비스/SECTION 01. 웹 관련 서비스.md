@@ -159,6 +159,7 @@ HyperText Transfer Protocol
 	- Origin : 요청이 어느 주소에서 시작되었는지 명시
 	- Referer : 이번 요청 이전의 페이지 주소 지정
 
+- 응답 헤더
 
 
 
