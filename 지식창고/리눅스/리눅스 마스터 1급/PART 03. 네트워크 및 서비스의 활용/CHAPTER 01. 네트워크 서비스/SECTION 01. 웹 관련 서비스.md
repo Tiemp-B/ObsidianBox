@@ -5,4 +5,4 @@
 
 ## 웹의 구성 요소
 ### 웹 문서(HTML)
-- HTML은 W3C(World Wide Web Consortium. 웹 표준을 개발하는)에서 주관하여 관리
+- HTML은 W3C(World Wide Web Consortium. 웹 표준을 개발하는 국제 컨ㅗ시엄)에서 주관하여 관리
