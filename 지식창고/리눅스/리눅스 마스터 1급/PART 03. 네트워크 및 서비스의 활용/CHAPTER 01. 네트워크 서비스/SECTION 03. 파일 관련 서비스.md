@@ -12,7 +12,7 @@
 - CIFS(Common Internet File System)는 SMB를 인터넷까지 확장한 표준 프로토콜
 ### 구성
 1. 서버
-	- nmbd
+	- nmbd (NetBIOS message Block daemon)
 		137, 138 포트로 브로드 캐스팅 방식으로 검색한 후, 139 포트로 접속
 		- NetBIOS Name Service (UDP 137)
 		- NetBIOS Datagram Service (UDP 138)
