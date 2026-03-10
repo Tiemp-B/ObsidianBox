@@ -18,6 +18,7 @@ tags:
 - -k : --block-size=1K와 동일
 - -l, --local : 로컬 파일 시스템 한정
 - -P, --portability : POSIX 형식 출력
+- -t, --type= : 특정 타입
 # 예제
 
 
