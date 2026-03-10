@@ -30,7 +30,8 @@
 	- smb.conf 설정 파일과 설정파일 검사하는 testparm 등
 - samba-client : sambaclient, smbtree 등의 삼바 클라이언트 관련 명령어
 - samba-swat : 삼바 설정파일을 웹으로 이용 및 관리. 901포트
-## 삼바 서비스 설정 파일 smb.conf
+
+## 삼바 서비스 서버 설정 파일 smb.conf
 설정 파일 : `/etc/samba/smb.conf`
 ### smb.conf의 주요 구성
 두 영역으로 구분되며, `[]`으로 세부 섹션을 구성한다
