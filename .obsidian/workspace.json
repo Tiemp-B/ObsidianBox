@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "487018fb659e5535",
@@ -351,10 +351,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caecdf9836655b26",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
-    "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/SAMBA/SAMBA란.md",
+    "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "Developer/Linux/명령어/cpio.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
