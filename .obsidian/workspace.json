@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 62.6521460602178,
+        "dimension": 46.95707879564382,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -68,14 +68,12 @@
             "id": "12722f53561fd3eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/Linux/명령어/chmod.md",
-                "mode": "source",
-                "source": false
+                "path": "Developer/Linux/명령어"
               },
               "icon": "lucide-file",
-              "title": "chmod"
+              "title": "명령어"
             }
           }
         ],
@@ -84,7 +82,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 37.34785393978219,
+        "dimension": 53.04292120435618,
         "children": [
           {
             "id": "1610ab05b8d5132c",
@@ -92,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
+                "file": "Developer/Linux/명령어/rpcinfo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "smbpasswd"
+              "title": "rpcinfo"
             }
           },
           {
@@ -156,8 +154,7 @@
               "title": "useradd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,14 +348,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "1610ab05b8d5132c",
   "lastOpenFiles": [
-    "지식창고/리눅스/SAMBA/SAMBA란.md",
+    "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
+    "Developer/Linux/명령어/rpcinfo.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "Developer/Linux/명령어/명령어.md",
+    "Developer/Linux/명령어/chmod.md",
+    "지식창고/리눅스/SAMBA/SAMBA란.md",
     "Developer/Linux/명령어/df.md",
     "Developer/CS/03. OS/시스템 콜.md",
-    "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "Developer/Linux/명령어/cpio.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "지식창고/리눅스/SAMBA/명령어/명령어.md",
@@ -379,10 +378,8 @@
     "Developer/Linux/명령어/dump.md",
     "Developer/Linux/명령어/dd.md",
     "Developer/CS/02. 알고리즘/12. 고급 기법/델타 전송.md",
-    "Developer/Linux/명령어/chmod.md",
     "Developer/Linux/명령어/chown.md",
     "Developer/네트워크/프로토콜/SMB.md",
-    "Developer/Linux/명령어/tar.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
     "Developer/네트워크/프로토콜",
