@@ -13,5 +13,9 @@
 ### 구성
 1. 서버
 	- nmbd
-		- NetBIOS Name Service (UDP)
+		- NetBIOS Name Service (UDP 137)
+		- NetBIOS Datagram Service (UDP 138)
+		- NetBIOS Session Service (TCP 139)
 	- smbd
+		- Direct SMB(TCP 445)
+2. 클라이언트
