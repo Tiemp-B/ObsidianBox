@@ -79,7 +79,8 @@
 # 3. NFS(Network File System) 서비스
 ## 개요
 ### 특징
-- TCP/IP
+- TCP/IP를 이용하여 원격 기기의 파일 시스템을 마운트하는 서비스
+- RPC를 이용
 
 
 
