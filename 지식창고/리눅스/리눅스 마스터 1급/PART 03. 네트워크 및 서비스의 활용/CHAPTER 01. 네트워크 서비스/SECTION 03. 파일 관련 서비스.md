@@ -82,11 +82,11 @@
 - TCP/IP를 이용하여 원격 기기의 파일 시스템을 마운트하는 서비스
 - RPC를 이용하므로 rpcbind 데몬 필요
 ### 주요 패키지
-- rpcbind
+- rpcbind : rpcbind 데몬, RPC 서비스 명령어
 - nfs-utils : NFS 관련 데몬 및 명령어
 ## 설치
-rpcbind
-### 
+#### NFS 서버 설정
+
 
 
 
