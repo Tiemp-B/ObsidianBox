@@ -103,7 +103,12 @@
 - all_squash : 모든 사용자의 권한을 nobody로 매핑
 - anonuid : 특정 계정의 권한(UID)를 할당
 
-
+## 관련 명령어
+- [[nfs]]
+- [[rpcinfo]]
+- [[exportfs]]
+- [[showmount]]
+- [[]]
 
 
 
