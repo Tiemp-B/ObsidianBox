@@ -94,7 +94,7 @@
 옵션
 - ro
 - rw
-- no_subtree_check : 하위 디렉터리 검사 
+- no_subtree_check : 하위 디렉터리 검사 금지
 - async : 비동기적 처리
 - sync : 데이터 변경을 기록할 때 동기적으로 처리. 기본 설정 
 - secure : 포트 번호가 1024 요청만 허가. 기본 설정
@@ -102,6 +102,7 @@
 - root_squash : root 권한 접근 거부를 위해 
 - all_squash : 모든 사용자의 권한을 nobody로 매핑
 - anonuid : 특정 계정의 권한(UID)를 할당
+
 
 
 
