@@ -22,7 +22,7 @@
 - MDA : Mail Deliver Agent
 	- 메일 박스에 도착한 메일을 전달하는 대리인 역할
 - MUA : Mail User Agent
-	- 메일을 수신/발신에 사용되
+	- 메일을 수신/발신에 사용하는 프로그램
 
 
 
