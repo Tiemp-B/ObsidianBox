@@ -127,6 +127,7 @@
 	4. Client.2221 -> "OK" -> Server.20
 - FTP 수동 모드
 	1. Client.2220 -> "PASV" -> Server.21
+	2. Server.21 -> "OK 3333()"
 	
 
 
