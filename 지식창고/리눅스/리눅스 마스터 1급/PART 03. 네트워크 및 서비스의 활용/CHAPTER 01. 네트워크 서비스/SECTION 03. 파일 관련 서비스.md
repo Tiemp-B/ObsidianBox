@@ -88,9 +88,20 @@
 #### NFS 서버 설정
 - 설정 파일 : /etc/exports
 - 형식 : `[공유 디렉터리] [접속 허가 호스트](옵션) ...`
-	`/home/targetdirectory 192.168.1.1`
+	`/home/targetdirectory 192.168.1.1/24(rw,no_root_squash)`
 - 접속 허가 호스트는 IP 주소, 도메인 이름 등
 
+옵션
+- ro
+- rw
+- no_subtree_check
+- async
+- sync
+- secure
+- no_root_squash
+- root_squash
+- all_squash
+- anonuid
 
 
 
