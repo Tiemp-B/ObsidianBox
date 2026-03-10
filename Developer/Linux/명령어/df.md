@@ -20,7 +20,8 @@ tags:
 - -P, --portability : POSIX 형식 출력
 - -t, --type= : 특정 타입의 파일시스템만 출력
 - -T, --print-type : 출력에 Type  추가
-- -
+- -x, --exclude-type= : 특정 타입 제외
+- 등
 # 예제
 
 
