@@ -12,7 +12,8 @@
 - 예 : NIS(Network Information Service), LDAP(Lightweight Directory Access Protocl) 등
 
 ## NIS(Network Information Service)
-
+- Sun 사가 개발
+- 호스트명, 사용자명, 사용자 암호 등
 
 
 
