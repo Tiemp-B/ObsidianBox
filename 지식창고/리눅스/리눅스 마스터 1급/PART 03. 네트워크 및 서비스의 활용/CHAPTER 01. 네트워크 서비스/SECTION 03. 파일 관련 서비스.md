@@ -25,5 +25,6 @@
 ### 관련 패키지
 - samba : samba 데몬, 관련 라이브러리 및 스크립트 등을 포함
 - samba-common : 삼바 서버, 클라이언트에서 공통으로 사용하는 설정 및 명령어
+	- smb.conf 설정 파일과 
 - samba-client : sambaclient, smbtree 등의 삼바 클라이언트 관련 명령어
-- 
+- samba-swat : 삼바 설정파일을 웹으로 이용 및 관리. 901포트
