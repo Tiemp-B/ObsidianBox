@@ -30,7 +30,10 @@
 - samba-swat : 삼바 설정파일을 웹으로 이용 및 관리. 901포트
 ## 삼바 서비스 설정 파일 smb.conf
 설정 파일 : `/etc/samba/smb.conf`
-### 
+### smb.conf의 주요 구성
+두 영역으로 구분되며, `[]`
+- Global Section
+- Share Definition
 
 
 
