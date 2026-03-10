@@ -41,7 +41,7 @@
 - workgroup : 공유 그룹명 지정, 윈도우의 작업 그룹과 같이 동작
 - server string : 서버에 대한 설명 - `server string = Samba Server Version %v`
 - netbios name : 이름을 이용하여 접속할 때 사용하는 명칭
-- interfaces
+- interfaces : 
 - hosts allow
 - log file
 - max log size 
