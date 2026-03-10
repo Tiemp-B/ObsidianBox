@@ -17,5 +17,6 @@ tags:
 # 연관 명령어
 - [[smbpasswd]]
 - [[pdbedit]]
+- [[smbclient]]
 - 
 
