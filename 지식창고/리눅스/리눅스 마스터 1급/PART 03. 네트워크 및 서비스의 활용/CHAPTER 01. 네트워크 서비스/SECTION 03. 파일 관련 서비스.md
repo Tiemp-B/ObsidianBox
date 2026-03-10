@@ -13,6 +13,7 @@
 ### 구성
 1. 서버
 	- nmbd
+		137, 138 포트로 브로드 캐스팅 방식으로 검색한 후, 139 포트로 접속
 		- NetBIOS Name Service (UDP 137)
 		- NetBIOS Datagram Service (UDP 138)
 		- NetBIOS Session Service (TCP 139)
