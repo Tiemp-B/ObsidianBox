@@ -44,6 +44,10 @@
 - interfaces
 - hosts allow
 - log file
+- max log size 
+- security
+- passdb backend
+- hide dot files = no
 
 
 
