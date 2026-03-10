@@ -141,6 +141,7 @@
 	- anon_mkdir_write_enable
 	- local_enable
 	- write_enable
+	- 등의 여러 설정 항목이 있다.
 - /etc/pam.d/vsftpd : PAM 설정 파일
 - /etc/vsftpd/ftpusers : PAM 연관 설정파일. FTP 서비스에 접근 불가한 계정 지정
 - /etc/vsftpd/user_list : vsftpd.conf의 설정에 따라 다른 동작
