@@ -19,6 +19,8 @@
 		- NetBIOS Session Service (TCP 139)
 	- smbd
 		- Direct SMB(TCP 445)
+	- winbindd
+		- Windows 도메인 인증 연동. 필수 아님
 2. 클라이언트
 
 ## 삼바 서비스 설치
