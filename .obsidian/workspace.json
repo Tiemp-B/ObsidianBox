@@ -58,7 +58,7 @@
               "state": {
                 "file": "지식창고/리눅스/SAMBA/SAMBA란.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "SAMBA란"
