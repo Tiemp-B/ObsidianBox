@@ -11,8 +11,8 @@ tags:
 # 옵션
 - -a, --all : 모든 파일 시스템 출력
 - -B, --block-size=SIZE : 단위 출력. 기본 바이트
-- --direct : 
-
+- --direct : 파일에 대한 통계 출력
+- -h, --human-readable : 
 # 예제
 
 
