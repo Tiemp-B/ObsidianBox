@@ -86,3 +86,8 @@ Apple은 OS X 10.9(Mavericks)부터 자체 AFP 프로토콜을 버리고 SMB2를
 - **Raspberry Pi**: 가정용 미디어 서버, 개인 클라우드 구축에 광범위하게 사용
 - **Active Directory 통합**: Linux 서버를 Windows AD 도메인에 멤버로 참여시키거나 AD DC로 운영
 - **PlugFest**: SMB 프로토콜 구현체 간 상호운용성 테스트를 위한 연례 행사에 Samba 팀 참여
+
+---
+
+<aside>관련 명령어</aside>
+
