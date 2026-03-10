@@ -39,18 +39,18 @@
 
 ### Global Section
 
-| 설정 항목               | 설정 설명                                                                                                                                    |
-| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| workgroup           | 공유 그룹명 지정                                                                                                                                |
-| server string       | 서버에 대한 설명<br>기본값: `server string = Samba Server Version %v`                                                                              |
-| netbios name        | 이름을 이용한 접속에 사용                                                                                                                           |
-| interfaces          | 사용할 네트워크 인터페이스 설정 <br>`interfaces = lo eth0 192.168.12.2/24 192.168.13.2/24`                                                             |
-| hosts allow         | 접근 가능한 호스트 지정                                                                                                                            |
-| log file            | 삼바 서버의 로그파일 지정<br>기본값: `log file = /var/log/samba/log.%m`                                                                                |
-| max log size        | 로그 파일의 최대 KB 설정<br>초과시 기존 파일은 .old 로 변환 후 새 로그 파일 생성                                                                                     |
-| security            | 클라이언트가 삼바 서버에 접근할 때 인증 레벨을 부여하는 보안 옵션<br>- user : OS에 로그온한 사용자명으로 패스워드 확인<br>- share : 인증없이 서버 접근 가능 (비사용 권장)<br>- server : <br>- domain |
-| passdb backend      | security가 user인 경우 사용하는 패스워드 저장 방식<br>기본값 : `passdb backend = tdbsam`                                                                    |
-| hide dot files = no | 리눅스의 숨길 파일이 윈도우 OS의 파일 목록에 표시                                                                                                            |
+| 설정 항목               | 설정 설명                                                                                                                                                                                                                             |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| workgroup           | 공유 그룹명 지정                                                                                                                                                                                                                         |
+| server string       | 서버에 대한 설명<br>기본값: `server string = Samba Server Version %v`                                                                                                                                                                       |
+| netbios name        | 이름을 이용한 접속에 사용                                                                                                                                                                                                                    |
+| interfaces          | 사용할 네트워크 인터페이스 설정 <br>`interfaces = lo eth0 192.168.12.2/24 192.168.13.2/24`                                                                                                                                                      |
+| hosts allow         | 접근 가능한 호스트 지정                                                                                                                                                                                                                     |
+| log file            | 삼바 서버의 로그파일 지정<br>기본값: `log file = /var/log/samba/log.%m`                                                                                                                                                                         |
+| max log size        | 로그 파일의 최대 KB 설정<br>초과시 기존 파일은 .old 로 변환 후 새 로그 파일 생성                                                                                                                                                                              |
+| security            | 클라이언트가 삼바 서버에 접근할 때 인증 레벨을 부여하는 보안 옵션<br>- user : OS에 로그온한 사용자명으로 패스워드 확인<br>- share : 인증없이 서버 접근 가능 (비사용 권장)<br>- server : 윈도우 서버와 같은 다른 삼바 서버에 사용자명과 패스워드를 전달하여 확인 (비사용 권장)<br>- domain : 윈도우 서버의 도메인 컨트롤러에 사용자명과 패스워드를 전달하여 확인 |
+| passdb backend      | security가 user인 경우 사용하는 패스워드 저장 방식<br>기본값 : `passdb backend = tdbsam`                                                                                                                                                             |
+| hide dot files = no | 리눅스의 숨길 파일이 윈도우 OS의 파일 목록에 표시                                                                                                                                                                                                     |
 - workgroup : 공유 그룹명 지정, 윈도우의 작업 그룹과 같이 동작
 - server string : 서버에 대한 설명 - `server string = Samba Server Version %v`
 - netbios name : 이름을 이용하여 접속할 때 사용하는 명칭
