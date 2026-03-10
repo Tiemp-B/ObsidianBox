@@ -99,9 +99,9 @@
 - sync
 - secure
 - no_root_squash
-- root_squash
-- all_squash : 
-- anonuid : 모든 사용자의 권한을 nobody로 매핑
+- root_squash : root 권한 접근 거부를 위해 
+- all_squash : 모든 사용자의 권한을 nobody로 매핑
+- anonuid : 
 
 
 
