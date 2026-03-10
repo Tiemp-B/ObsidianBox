@@ -19,7 +19,7 @@
 - telnet, samba, ssh 등의 서비스에서 사용 가능
 - 발전된 형태인 NIS+는 RPC에서 데이터 암호화와 인증을 지원하고, 권한 설정/복제 등을 지원
 
-## LDAP()
+## LDAP(Lightweight Directory Access Protocol)
 
 
 
