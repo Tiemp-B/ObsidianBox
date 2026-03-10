@@ -69,7 +69,7 @@
 ### Samba 사용자 등록 및 패스워드 설정
 1. 리눅스 계쩡 등록
 2. `/etc/samba/smbusers` 설정 파일을 이용하여 리눅스 계정과 삼바 이용자명을 매핑
-3. `smbpass`
+3. `smbpasswd`
 
 
 
