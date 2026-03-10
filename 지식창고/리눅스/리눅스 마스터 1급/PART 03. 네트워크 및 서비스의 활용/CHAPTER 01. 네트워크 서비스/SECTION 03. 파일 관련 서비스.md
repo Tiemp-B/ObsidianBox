@@ -114,6 +114,8 @@
 ## 개요
 ### FTP란?
 - TCP/IP를 사용하여 파일을 전송하기 위한 프로토콜
+- 기본적으로 등록된 사용자만 접속 가능
+- vsftpd (Very Secure FTP daemon)기본 제공하는 
 
 
 
