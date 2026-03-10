@@ -10,7 +10,8 @@ tags:
 `df [옵션] [파일시스템 경로]`
 # 옵션
 - -a, --all : 모든 파일 시스템 출력
-- -B, --block-size=SIZE : 
+- -B, --block-size=SIZE : 단위 출력. 기본 바이트
+- --direct : 
 
 # 예제
 
