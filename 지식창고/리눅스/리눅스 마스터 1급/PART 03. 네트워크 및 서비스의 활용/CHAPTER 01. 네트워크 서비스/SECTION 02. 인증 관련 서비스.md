@@ -42,7 +42,7 @@
 - `/home/username/targetfile`의 경우, 전체가 DN, 상위 엔트리의 DN이 `/home/username`이 되고 RDN은 `tragetfile`이 된다
 
 # 2. NIS 서비스 사용
-## NIS 서버 설치와 구성
+## NIS 서버 설치와 구
 
 
 
