@@ -39,7 +39,11 @@
 
 ### Global Section
 - workgroup
-- server str
+- server string
+- netbios name
+- interfaces
+- hosts allow
+- log file
 
 
 
