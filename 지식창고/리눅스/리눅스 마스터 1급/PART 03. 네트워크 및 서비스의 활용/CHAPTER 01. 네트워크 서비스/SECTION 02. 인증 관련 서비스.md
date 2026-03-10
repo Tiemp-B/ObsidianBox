@@ -13,7 +13,10 @@
 
 ## NIS(Network Information Service)
 - Sun 사가 개발
-- 호스트명, 사용자명, 사용자 암호 등
+- 호스트명, 사용자명, 사용자 암호 등의 시스템 정보의 검색, 관리.
+- RPC(Remote Procedure Call)를 사용
+- NIS 서버에 등록된 사용자 계정, 암호, 그룹 정보 등을 네트워크를 이용하여 다른 시스템에 제공
+- telnet, samba, ssh 등의 서비스에서 사용 가능
 
 
 
