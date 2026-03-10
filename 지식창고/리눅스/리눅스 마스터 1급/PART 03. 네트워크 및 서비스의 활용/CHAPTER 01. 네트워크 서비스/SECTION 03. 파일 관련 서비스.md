@@ -31,10 +31,11 @@
 ## 삼바 서비스 설정 파일 smb.conf
 설정 파일 : `/etc/samba/smb.conf`
 ### smb.conf의 주요 구성
-두 영역으로 구분되며, `[]`
+두 영역으로 구분되며, `[]`으로 세부 섹션을 구성한다
 - Global Section
 - Share Definition
 
+### Global Section
 
 
 
