@@ -57,8 +57,8 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/리눅스/SAMBA/SAMBA란.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SAMBA란"
@@ -156,7 +156,8 @@
               "title": "useradd"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -352,12 +353,13 @@
   },
   "active": "caecdf9836655b26",
   "lastOpenFiles": [
+    "Developer/CS/03. OS/시스템 콜.md",
+    "지식창고/리눅스/SAMBA/SAMBA란.md",
+    "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "Developer/Linux/명령어/cpio.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
-    "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "지식창고/리눅스/SAMBA/명령어/명령어.md",
-    "지식창고/리눅스/SAMBA/SAMBA란.md",
     "지식창고/리눅스/SAMBA/명령어",
     "지식창고/리눅스/SAMBA/SAMBA.md",
     "지식창고/리눅스/SAMBA",
@@ -381,7 +383,6 @@
     "Developer/네트워크/프로토콜/SMB.md",
     "Developer/Linux/명령어/tar.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 02. 시스템 보안 및 관리.md",
-    "Developer/보안/암호화/AES.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
     "Developer/네트워크/프로토콜",

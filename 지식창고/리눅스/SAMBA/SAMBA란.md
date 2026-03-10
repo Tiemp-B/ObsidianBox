@@ -1,4 +1,6 @@
 ---
+cssclasses: cornell-note
+
 tags:
   - 리눅스
   - 공유시스템
@@ -91,3 +93,6 @@ Apple은 OS X 10.9(Mavericks)부터 자체 AFP 프로토콜을 버리고 SMB2를
 
 <aside>관련 명령어</aside>
 
+- [[smbpasswd]]
+- [[pdbedit]]
+- [[smbclient]]
