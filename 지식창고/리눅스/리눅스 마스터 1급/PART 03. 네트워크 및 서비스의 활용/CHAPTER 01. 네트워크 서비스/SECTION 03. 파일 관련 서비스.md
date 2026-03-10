@@ -66,9 +66,9 @@
 | create mask = 값         | 기본 접근 권한 지정                 |
 | follow symlinks = no    | 심볼릭 링크를 따르지 않도록 설정          |
 | printable = yes         | 삼바 프린터를 네트워크 프린터로 공유        |
-
-
-
+### Samba 사용자 등록 및 패스워드 설정
+1. 리눅스 계쩡 등록
+2. `/etc/`
 
 
 
