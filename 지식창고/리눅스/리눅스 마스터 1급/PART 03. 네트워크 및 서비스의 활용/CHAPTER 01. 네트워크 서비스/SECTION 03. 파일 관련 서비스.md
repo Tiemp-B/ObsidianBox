@@ -38,7 +38,8 @@
 - Share Definition
 
 ### Global Section
-
+- workgroup
+- server str
 
 
 
