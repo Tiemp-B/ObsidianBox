@@ -16,11 +16,13 @@
 	- 메일 서버에 도착한 메일을 수신하는 프로토콜
 	- POP과 다르게 메일을 서버에 남겨두고 나중에 삭제 가능
 	- TCP 143 포트
-### 관련 프로그램
+### 관련 프로그램 분류
 - MTA : Mail Transfer Agent
 	- SMTP 메일 전송 프로그램
-- MDA
-- MUA
+- MDA : Mail Deliver Agent
+	- 메일 박스에 도착한 메일을 전달하는 대리인 역할
+- MUA : Mail User Agent
+	- 메일을 수신/발신에 사용되
 
 
 
