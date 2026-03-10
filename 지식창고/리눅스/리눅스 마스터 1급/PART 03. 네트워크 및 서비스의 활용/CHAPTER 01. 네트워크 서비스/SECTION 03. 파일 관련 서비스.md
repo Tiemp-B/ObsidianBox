@@ -110,7 +110,10 @@
 - [[nfsstat]]
 
 
-# 3. FTP
+# 3. FTP(File Transport Protocol) 서비스 사용
+## 개요
+### FTP란?
+- TCP/IP를 사용하여 파일을 전송하기 위한 프로토콜
 
 
 
