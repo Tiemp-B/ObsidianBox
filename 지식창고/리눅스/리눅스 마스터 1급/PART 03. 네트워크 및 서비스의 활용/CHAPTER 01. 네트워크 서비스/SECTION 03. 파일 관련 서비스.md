@@ -85,7 +85,8 @@
 - rpcbind
 - nfs-utils : NFS 관련 데몬 및 명령어
 ## 설치
-
+rpcbind
+### 
 
 
 
