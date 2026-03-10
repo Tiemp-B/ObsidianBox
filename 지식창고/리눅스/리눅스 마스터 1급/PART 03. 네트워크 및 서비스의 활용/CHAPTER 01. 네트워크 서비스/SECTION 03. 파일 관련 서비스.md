@@ -38,12 +38,15 @@
 - Share Definition
 
 ### Global Section
+
+|workgroup|설정 설명|
+
 - workgroup : 공유 그룹명 지정, 윈도우의 작업 그룹과 같이 동작
 - server string : 서버에 대한 설명 - `server string = Samba Server Version %v`
 - netbios name : 이름을 이용하여 접속할 때 사용하는 명칭
-- interfaces : 사용할 ㅇ네트워크 인터페이스 설정
-- hosts allow
-- log file
+- interfaces : 사용할 ㅇ네트워크 인터페이스 설정 `interfaces = lo eth0 192.168.12.2/24 192.168.13.2/24`
+- hosts allow : 접근 가능한 호스트 지정
+- log file : 
 - max log size 
 - security
 - passdb backend
