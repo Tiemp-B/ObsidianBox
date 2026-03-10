@@ -12,8 +12,10 @@ tags:
 - -a, --all : 모든 파일 시스템 출력
 - -B, --block-size=SIZE : 단위 출력. 기본 바이트
 - --direct : 파일에 대한 통계 출력
-- -h, --human-readable : 1024 배수 용량 출력
-- -H, --si 
+- -h, --human-readable : 1024 배수 용량 출력 (1023M)
+- -H, --si : 1000 배수의 용량 출력 (1.1G)
+- -i, --inodes : 블록 사용량 대신 아이노드 사용량
+- -k : --block-size=1K와 동일
 # 예제
 
 
