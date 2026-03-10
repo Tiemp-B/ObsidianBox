@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 57.78347213324791,
+        "dimension": 62.6521460602178,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -84,7 +84,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 42.21652786675209,
+        "dimension": 37.34785393978219,
         "children": [
           {
             "id": "1610ab05b8d5132c",
@@ -107,7 +107,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/CS/03. OS/시스템 콜.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -199,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HTTP",
+                "query": "tag:computer-science, ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -351,13 +351,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb34c6cdcd9a366",
+  "active": "5f03ede822799ca3",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "지식창고/리눅스/SAMBA/SAMBA란.md",
     "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "Developer/Linux/명령어/cpio.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 03. 시스템 백업.md",
     "지식창고/리눅스/SAMBA/명령어/명령어.md",
     "지식창고/리눅스/SAMBA/명령어",
