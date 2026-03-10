@@ -136,12 +136,18 @@
 - vsftpd
 ### 주요 파일
 - /etc/vsftpd/vsftpd.conf : 주 설정 파일
+	- anonymou_enable
+	- anon_upload_enable
+	- anon_mkdir_write_enable
+	- local_enable
+	- write_enable
 - /etc/pam.d/vsftpd : PAM 설정 파일
 - /etc/vsftpd/ftpusers : PAM 연관 설정파일. FTP 서비스에 접근 불가한 계정 지정
 - /etc/vsftpd/user_list : vsftpd.conf의 설정에 따라 다른 동작
 	- `userlist_enable=YES` => 기본값. 해당 파일 사용
 	- `userlist_deny=YES` => 파일에 등록된 계정 접근 불가. 기본값
-	- `userlist_deny=NO` => 파일에 등록된 계정 접근 가능
+	- `userlist_deny=NO` => 파일에 등록된 계정만 접근 가능
+
 
 
 
