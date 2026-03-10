@@ -65,7 +65,8 @@
 | public = no             | 개인 사용자만 사용 가능               |
 | browseable = no         | 이용 가능 공유 리스트에 표시되지 않음       |
 | create mask = 값         | 기본 접근 권한 지정                 |
-| follow symlinks = no    | 심볼릭 링클                      |
+| follow symlinks = no    | 심볼릭 링크를 따르지 않도록 설정          |
+| printable = yes         | 삼바 프린터를 네트워크 프린터로 공유        |
 
 
 
