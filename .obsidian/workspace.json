@@ -40,12 +40,14 @@
             "id": "9fb34c6cdcd9a366",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/Linux/명령어"
+                "file": "Developer/Linux/명령어/df.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "명령어"
+              "title": "df"
             }
           },
           {
@@ -349,8 +351,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10ffe8a43920ed3a",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "Developer/Linux/명령어/df.md",
+    "Developer/Linux/명령어/명령어.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/SAMBA/SAMBA란.md",
@@ -370,7 +374,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/PART 03. 네트워크 및 서비스의 활용.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용",
     "Developer/Linux/명령어/last.md",
-    "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/setfacl.md",
     "Developer/Linux/명령어/restore.md",
     "Developer/Linux/명령어/dump.md",
@@ -380,7 +383,6 @@
     "Developer/Linux/명령어/chown.md",
     "Developer/네트워크/프로토콜/SMB.md",
     "Developer/Linux/명령어/tar.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리/SECTION 02. 시스템 보안 및 관리.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
     "Developer/네트워크/프로토콜",
