@@ -123,8 +123,10 @@
 - FTP 능동 모드
 	1. Client.2220 -> "PORT 2221(수신포트)" -> Server.21
 	2. Server.21 -> "OK" -> Client.2220
-	3. Server.20 -> DATA CHANNER
+	3. Server.20 -> DATA CHANNEL -> Client.2221
+	4. Client.2221 -> "OK" -> Server.20
 - FTP 수동 모드
+	1. Client.2220 -> "PASV" -> Server.21
 	
 
 
