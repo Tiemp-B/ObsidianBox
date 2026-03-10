@@ -9,7 +9,10 @@
 - 다수의 시스템을 운영할 경우 사용자 등록, 패스워드 관리 등의 어려움 발생
 	-> 네트워크 기반 인증서비스가 필요
 - 네트워크 기반 인증 서비스 : 인증에 필요한 정보를 인증 서버에 등록한 후, 필요한 시스템에 인증 관련 정보 제공
-- 예 : NIS()
+- 예 : NIS(Network Information Service), LDAP(Lightweight Directory Access Protocl) 등
+
+## NIS(Network Information Service)
+
 
 
 
