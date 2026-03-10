@@ -38,7 +38,7 @@
 - Share Definition
 
 ### Global Section
-- workgroup
+- workgroup : 공유 그룹명 지정, 윈도우의 작업 그룹과 같이 동작
 - server string
 - netbios name
 - interfaces
