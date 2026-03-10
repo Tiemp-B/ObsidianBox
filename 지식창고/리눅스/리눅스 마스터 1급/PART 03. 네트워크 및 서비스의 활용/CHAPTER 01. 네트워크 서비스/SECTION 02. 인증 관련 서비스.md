@@ -45,7 +45,8 @@
 ## NIS 서버 설치와 구성
 ### 사전 작업
 1. RPC를 사용하므로 RPC 데몬을 구동시켜야 한다
-
+	`systemctl start rpcbind`
+2. 꼧 rnehddmf godi
 
 
 
