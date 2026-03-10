@@ -127,10 +127,12 @@
 	4. Client.2221 -> "OK" -> Server.20
 - FTP 수동 모드
 	1. Client.2220 -> "PASV" -> Server.21
-	2. Server.21 -> "OK 3333(포트 지정)" -> Client.2220
+	2. Server.21 -> "OK 3333(포트 지정. 보통 1024 이후의 포트)" -> Client.2220
 	3. Client.2221 -> DATA CHANNER -> Server.3333
 	4. Server.3333 -> "OK" -> Client.2221
-	
+
+## 설치 및 세팅
+###
 
 
 
