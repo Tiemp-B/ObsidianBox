@@ -100,8 +100,8 @@
 - secure
 - no_root_squash
 - root_squash
-- all_squash
-- anonuid
+- all_squash : 
+- anonuid : 모든 사용자의 권한을 nobody로 매핑
 
 
 
