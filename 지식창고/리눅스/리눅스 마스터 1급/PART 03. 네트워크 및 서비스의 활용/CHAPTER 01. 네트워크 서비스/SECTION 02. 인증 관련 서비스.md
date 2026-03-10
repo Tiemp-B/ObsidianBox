@@ -36,10 +36,10 @@
 | l      | 도시/지역       | sn              | 성         |
 | street | 도로주소        | givenName       | 이름        |
 | dn     | 조직 내 고유 식별자 | dc              | 도메인 네임 요소 |
-| rdn    | 상대저 DN      | mail            | 이메일 주소    |
+| rdn    | 상대적 DN      | mail            | 이메일 주소    |
 | o      | 조직 이름       | telephoneNumber | 전화번호      |
 
-- `/home/username/targetfile`
+- `/home/username/targetfile`의 경우, 전체가 DN, 상위 엔트리의 DN이 `/home/username`이 되고 RDN은 `tragetfile`이 된다
 
 
 
