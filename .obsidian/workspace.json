@@ -58,7 +58,7 @@
               "state": {
                 "file": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "SECTION 03. 파일 관련 서비스"
