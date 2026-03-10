@@ -36,7 +36,6 @@
 두 영역으로 구분되며, `[]`으로 세부 섹션을 구성한다
 - Global Section
 - Share Definition
-
 ### Global Section
 
 | 설정 항목               | 설정 설명                                                                                                                                                                                                                                                                                        |
