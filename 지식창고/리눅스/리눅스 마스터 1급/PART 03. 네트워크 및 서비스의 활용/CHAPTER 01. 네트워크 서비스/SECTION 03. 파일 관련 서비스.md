@@ -85,7 +85,7 @@
 - rpcbind : rpcbind 데몬, RPC 서비스 명령어
 - nfs-utils : NFS 관련 데몬 및 명령어
 ## 설치
-#### NFS 서버 설정
+### NFS 서버 설정
 - 설정 파일 : /etc/exports
 - 형식 : `[공유 디렉터리] [접속 허가 호스트](옵션) ...`
 	`/home/targetdirectory 192.168.1.1/24(rw,no_root_squash)`
@@ -108,6 +108,9 @@
 - [[exportfs]]
 - [[showmount]]
 - [[nfsstat]]
+
+
+# 3. FTP
 
 
 
