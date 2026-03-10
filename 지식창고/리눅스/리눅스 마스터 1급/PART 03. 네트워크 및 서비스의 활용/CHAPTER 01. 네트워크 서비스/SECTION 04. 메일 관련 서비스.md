@@ -11,10 +11,17 @@
 - POP/POP3 : Post Office Protocol
 	- 메일 서버에 도착한 메일을 수신하는 프로토콜
 	- 클라이언트 프로그램으로 메일을 가져온 후 서버에서 삭제
-	- TCP 110번 포트 이용
+	- TCP 110 포트
 - IMAP : Internet Messaging Access Protocol
 	- 메일 서버에 도착한 메일을 수신하는 프로토콜
-	- POPㄱ
+	- POP과 다르게 메일을 서버에 남겨두고 나중에 삭제 가능
+	- TCP 143 포트
+### 관련 프로그램
+- MTA : Mail Transfer Agent
+	- SMTP 메일 전송 프로그램
+- MDA
+- MUA
+
 
 
 
