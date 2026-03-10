@@ -12,7 +12,8 @@ tags:
 - -a, --all : 모든 파일 시스템 출력
 - -B, --block-size=SIZE : 단위 출력. 기본 바이트
 - --direct : 파일에 대한 통계 출력
-- -h, --human-readable : 
+- -h, --human-readable : 1024 배수 용량 출력
+- -H, --si 
 # 예제
 
 
