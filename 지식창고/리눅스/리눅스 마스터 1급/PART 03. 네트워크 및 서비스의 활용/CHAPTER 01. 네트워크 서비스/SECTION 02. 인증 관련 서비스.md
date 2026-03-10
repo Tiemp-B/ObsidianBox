@@ -46,7 +46,8 @@
 ### 사전 작업
 1. RPC를 사용하므로 RPC 데몬을 구동시켜야 한다
 	`systemctl start rpcbind`
-2. 꼧 rnehddmf godi
+	서버와 클라이언트 호스트 모두 해당 데몬을 구동시켜야 한다
+
 
 
 
