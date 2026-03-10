@@ -132,7 +132,11 @@
 	4. Server.3333 -> "OK" -> Client.2221
 
 ## 설치 및 세팅
-###
+### 설치 패키지
+- vsftpd
+### 주요 파일
+- /etc/vsftpd/vsftpd.conf : 주 설정 파일
+- /etc/
 
 
 
