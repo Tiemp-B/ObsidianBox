@@ -22,3 +22,8 @@
 2. 클라이언트
 
 ## 삼바 서비스 설치
+### 관련 패키지
+- samba : samba 데몬, 관련 라이브러리 및 스크립트 등을 포함
+- samba-common : 삼ㅂ
+- samba-client
+- 
