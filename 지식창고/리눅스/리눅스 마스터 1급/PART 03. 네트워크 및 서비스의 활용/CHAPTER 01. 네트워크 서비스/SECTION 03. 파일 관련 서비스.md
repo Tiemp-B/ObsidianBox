@@ -51,7 +51,12 @@
 | security            | 클라이언트가 삼바 서버에 접근할 때 인증 레벨을 부여하는 보안 옵션<br>- user : OS에 로그온한 사용자명으로 패스워드 확인<br>- share : 인증없이 서버 접근 가능 (비사용 권장)<br>- server : 윈도우 서버와 같은 다른 삼바 서버에 사용자명과 패스워드를 전달하여 확인 (비사용 권장)<br>- domain : 윈도우 서버의 도메인 컨트롤러에 사용자명과 패스워드를 전달하여 확인. samba 3.0부터 값을 ads으로 지정하여 Active directory Service를 이용 가능 |
 | passdb backend      | security가 user인 경우 사용하는 패스워드 저장 방식<br>기본값 : `passdb backend = tdbsam`                                                                                                                                                                                                                        |
 | hide dot files = no | 리눅스의 숨길 파일이 윈도우 OS의 파일 목록에 표시                                                                                                                                                                                                                                                                |
+### Share Definition
+공유 폴더의 주요 설정 옵션
 
+| ㅇ   | 설명  |
+| :-- | :-- |
+|     |     |
 
 
 
