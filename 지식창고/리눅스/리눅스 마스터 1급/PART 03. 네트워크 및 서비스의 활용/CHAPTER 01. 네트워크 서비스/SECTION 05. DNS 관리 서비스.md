@@ -97,7 +97,8 @@ zone [도메인명] IN {
 ### 구조
 ```zone
 $TTL 1D
-@	
+@	IN SOA ns.ihd.or.kr. kait.ihd.or.kr (
+)
 ```
 
 
