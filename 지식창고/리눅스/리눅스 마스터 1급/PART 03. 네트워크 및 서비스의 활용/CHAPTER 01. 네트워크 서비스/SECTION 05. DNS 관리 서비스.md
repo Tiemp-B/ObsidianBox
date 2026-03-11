@@ -26,13 +26,18 @@
 - bind-libs
 - bind-utils
 ### 관련 파일
+기본
 - /etc/named.conf : 파일
 	- zone 파일, reverse zone 파일을 비롯한 주요 환경 설정 파일
 	- zone 파일은 도메인명과 IP 주소 혹은 관련 리소스간 매핑을 포함
 	- 리버스 존 파일을 이요하여 IP 주소에 대한 도메인 정보 조회 제공
 - /var/named : 디렉터리
 	- root 도메인 서버의 정보를 담은 named.ca, 사용자가 설정한 zone 파일 등을 저장하는 디렉터리
-	
+`bind-chroot`로 보안 강화
+- /etc/named.conf -> /var/named/chroot/etc/named.conf
+- /var/named -> /var/named/chroot/var/named
+
+## 
 
 
 
