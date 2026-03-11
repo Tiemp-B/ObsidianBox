@@ -61,7 +61,7 @@ sendmail의 기본 동작 방식 지정
 - O DaemonPortOptions : SMTP 데몬의 옵션 설정
 	- 기본값 : `O DaemonPortOptions=Port=smtp,Addr=127.0.0.1, Name=MTA`
 - O DeliveryMode : sendmail의 동작 방식
-- 
+- O Timeout.queuereturn : 지정 기간동안 메일이 발송되지 않을 경우 반송
 
 
 
