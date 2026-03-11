@@ -36,8 +36,14 @@
 `bind-chroot`로 보안 강화
 - /etc/named.conf -> /var/named/chroot/etc/named.conf
 - /var/named -> /var/named/chroot/var/named
-
-## 
+## 설정 파일 내용
+- options 구문
+- loggin 구문
+- 
+### 주요 설정 항목
+- directory
+- dump-file
+- 
 
 
 
