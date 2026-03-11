@@ -80,10 +80,11 @@ acl "ihd" { 192.168.2.24; 192.168.4,4/24; };
 도메인 관리를 위한 데이터 파일 
 ```bash
 zone [도메인명] IN {
-	type [master | slave | hin]
+	type [master | slave | hint];
+	file [존 파일명];
 };
 ```
-
+- hind
 
 
 
