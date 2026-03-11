@@ -123,7 +123,9 @@ www1 IN CNAME www
 - Contact_email_address : `계정.도메인`형식으로 관리자 이메일 지정
 - Serial_number : `YYYYMMDDNN`. N은 수정 횟수
 - Refresh_number : 보조 네임 서버가 주 네임 서버에 접근/점검 주기
-- Retry_number 
+- Retry_number : 보조 네임 서버가 주 네임 서버로 접근 실패시 재시도 주기
+- Expire_number : Retry 만기 시간 지정
+- Minimum_nu
 
 
 
