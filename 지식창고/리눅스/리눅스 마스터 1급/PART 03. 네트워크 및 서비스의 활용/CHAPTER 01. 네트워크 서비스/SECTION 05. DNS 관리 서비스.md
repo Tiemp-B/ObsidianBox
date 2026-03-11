@@ -15,7 +15,7 @@
 - Primary Name Server : Master Server라고도 하며, 필수 항목
 - Secondary Name Server : Slave DNS라고도 하며 Primary의 zone 파일 백업한다.
 - Caching Name Server : 도메인 관리 없이 리졸빙 역할만 수행
-- 도메인에 대한 리졸빙 결과를 저장하고 해당 요청이 있을시 바로 응답하여 속도 향상
+	리졸빙 결과를 저장하고 해당 요청이 있을시 바로 응답하여 속도 향상
 
 
 
