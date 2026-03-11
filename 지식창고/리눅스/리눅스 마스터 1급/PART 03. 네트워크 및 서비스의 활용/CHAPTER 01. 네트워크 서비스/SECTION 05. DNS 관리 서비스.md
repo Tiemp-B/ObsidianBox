@@ -98,7 +98,8 @@ zone [도메인명] IN {
 ```zone
 $TTL 1D
 @	IN SOA ns.ihd.or.kr. kait.ihd.or.kr (
-	2020080302
+	2020080302	;Serial
+	7200		;Refresh
 )
 ```
 
