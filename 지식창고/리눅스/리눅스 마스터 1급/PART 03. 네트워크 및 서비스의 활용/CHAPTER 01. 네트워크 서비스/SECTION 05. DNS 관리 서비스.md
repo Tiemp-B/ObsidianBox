@@ -100,6 +100,7 @@ $TTL 1D
 @	IN SOA ns.ihd.or.kr. kait.ihd.or.kr (
 	2020080302	;Serial
 	7200		;Refresh
+	3600
 )
 ```
 
