@@ -95,13 +95,21 @@ zone [도메인명] IN {
 - 일반적으로 `도메인.zone`을 따르고, 리버스 존 파일명은 `도메인명.rev`를 따른다
 - ';'을 이용하여 주석 추가
 ### 구조
+예제
 ```zone
 $TTL 1D
 @	IN SOA ns.ihd.or.kr. kait.ihd.or.kr (
 	2020080302	;Serial
 	7200		;Refresh
-	3600
+	3600		;Retry
+	1209600		;Expire
+	3600		;Minimum
 )
+IN NS ns.ihd.or.kr.
+IN A 192.168.12.22
+IN MX 10 ihd.or.kr.
+www IN A 192.168.12.22
+www1 IN CNAME www
 ```
 
 
