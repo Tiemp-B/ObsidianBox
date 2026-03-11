@@ -60,7 +60,11 @@ options {
 - allow-transfer
 - datasize
 - recursion
-
+### logging
+bind 네임 서버의 로깅 방식 설정
+```bash
+logging
+```
 
 
 
