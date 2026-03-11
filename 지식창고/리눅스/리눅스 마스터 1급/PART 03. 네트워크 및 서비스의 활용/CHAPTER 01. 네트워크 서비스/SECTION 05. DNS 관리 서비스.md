@@ -46,7 +46,7 @@
 options {
 	listen-on port 53 { 127.0.0.1; };
 	listen-on-v6 port 53 {::;};
-}
+};
 ```
 와 같은 형식을 지닌다.
 ### options 구문 주요 설정 항목
@@ -60,12 +60,18 @@ options {
 - allow-transfer
 - datasize
 - recursion
-### logging
+### logging 구문
 bind 네임 서버의 로깅 방식 설정
 ```bash
-logging
+logging {
+	channel default_debug{
+		file "data/named.run";
+		severity dynamic;
+	};
+};
 ```
 
+### acl 구문
 
 
 
