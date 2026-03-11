@@ -51,7 +51,13 @@ options {
 - directory
 - dump-file
 - statistics-file
-- recursing
+- recursing-file
+- forward
+- forwarders
+- allow-query
+- allow-transfer
+- datasize
+- recursion
 
 
 
