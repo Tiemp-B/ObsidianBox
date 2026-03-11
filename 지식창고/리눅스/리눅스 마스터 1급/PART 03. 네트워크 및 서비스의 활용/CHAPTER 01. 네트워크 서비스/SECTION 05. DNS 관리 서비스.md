@@ -128,10 +128,12 @@ www1 IN CNAME www
 - Minimum_number : 일종의 TTL. 정보의 최소 보관 기간
 ### 개별 도메인의 주요 속성
 - 도메인명
-- IN
-- Class
+- IN : 인터넷의 클래스
+- Class : 레코드에 대한 클래스
 - Record Type
 
+
+정보 추가 요망
 
 
 
