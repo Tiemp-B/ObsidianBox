@@ -44,8 +44,10 @@
 | ~/.forward                 | 사용자 개인이 수신한 메일을 다른 메일로 포워딩 설정                                                                                                                                                                                                 |
 ### /etc/mail/sendmail/cf
 sendmail의 기본 동작 방식 지정
-- Cw : 메일 수신 호스트의 이름 설정. 보통 도메인명. 기본`Cwlocalhost`
+- Cw : 메일 수신 호스트의 이름 설정. 보통 도메인명. 
+	기본값 `Cwlocalhost`
 - Fw : 여러 개의 도메인명을 수신 호스트의 이름으로 이용
+	기본값 `Fw/etc/mail/local-host-names`
 
 
 
