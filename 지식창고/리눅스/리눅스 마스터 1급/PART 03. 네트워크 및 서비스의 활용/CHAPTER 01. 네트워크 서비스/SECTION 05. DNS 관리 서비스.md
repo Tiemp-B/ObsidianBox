@@ -50,7 +50,8 @@ options {
 ### options 구문 주요 설정 항목
 - directory
 - dump-file
-- 
+- statistics-file
+- recursing
 
 
 
