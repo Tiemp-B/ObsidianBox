@@ -117,7 +117,7 @@ www1 IN CNAME www
 	- Start Of Authority의 약자로 도메인 관리자 메일, 일련번호 등 DNS 핵심 정보 지정
 	- '@' => /etc/named.conf에서 설정한 Origin 도메인. 도메인 직접 지정시 마지막에 '.'을 붙여야 함
 - 개별 도메인
-	- `[도메인명] [IN] [Class]`
+	- `[도메인명] [IN] [Class] []`
 
 
 
