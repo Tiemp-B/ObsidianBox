@@ -9,7 +9,8 @@
 - TCP/53, UDP/53 포트 
 1. 클라이언트에서 주소 입력 시 **Local DNS**에 질의
 2. Local DNS에 없는 경우 **Root DNS**에 질의
-3. Root DNS에 없는 경우 다른 DNS(****)
+3. Root DNS에 없는 경우 다른 DNS(**com DNS**)에 질의
+4. com DNS에도 없는 경우 다른 DNS 서버의 주소를 받아 재질의
 
 
 
