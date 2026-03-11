@@ -47,7 +47,7 @@ options {
 }
 ```
 와 같은 형식을 지닌다.
-### op 주요 설정 항목
+### options 구문 주요 설정 항목
 - directory
 - dump-file
 - 
