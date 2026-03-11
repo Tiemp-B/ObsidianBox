@@ -26,8 +26,10 @@
 - bind-libs
 - bind-utils
 ### 관련 파일
-- /etc/named.conf : zone 파일, reverse zone 파일을 비롯한 주요 환경 설정 파일
-- 
+- /etc/named.conf : 
+	- zone 파일, reverse zone 파일을 비롯한 주요 환경 설정 파일
+	- zone 파일은 도메인명과 IP 주소 혹은 관련 리소스간 매핑을 포함
+	- 리버스 존 파일
 
 
 
