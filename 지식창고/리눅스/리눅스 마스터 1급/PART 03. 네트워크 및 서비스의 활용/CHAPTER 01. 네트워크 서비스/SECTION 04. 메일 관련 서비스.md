@@ -42,7 +42,8 @@
 | /etc/mail/virtusertable    | 가상의 메일 계정으로 들어오는 메일을 특정 계정으로 전달하는 정보                                                                                                                                                                                          |
 | /etc/mail/local-host-names | sendmail에서 수신할 메인과 도메인과 호스트, 즉 메일 수신지 설정                                                                                                                                                                                      |
 | ~/.forward                 | 사용자 개인이 수신한 메일을 다른 메일로 포워딩 설정                                                                                                                                                                                                 |
-### e
+### /etc/mail/sendmail/cf
+
 
 
 
