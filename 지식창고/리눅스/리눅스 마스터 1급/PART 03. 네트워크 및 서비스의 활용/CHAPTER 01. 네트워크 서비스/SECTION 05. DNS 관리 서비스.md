@@ -44,6 +44,8 @@
 - zone
 ```bash
 options {
+	listen-on port 53 { 127.0.0.1; };
+	listen-on-v6 port 53 {};
 }
 ```
 와 같은 형식을 지닌다.
