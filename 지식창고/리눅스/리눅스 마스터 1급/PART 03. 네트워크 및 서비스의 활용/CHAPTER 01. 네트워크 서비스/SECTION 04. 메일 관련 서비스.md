@@ -48,6 +48,8 @@ sendmail의 기본 동작 방식 지정
 	기본값 `Cwlocalhost`
 - Fw : 여러 개의 도메인명을 수신 호스트의 이름으로 이용
 	기본값 `Fw/etc/mail/local-host-names`
+- Ft : 메일 발신 시 발송자의 주소를 변경할 수 있는 Trusted user 설정
+- Dj : 메일 발송 시 발신 도메인 이름 강제 지정
 
 
 
