@@ -111,7 +111,8 @@ IN MX 10 ihd.or.kr.
 www IN A 192.168.12.22
 www1 IN CNAME www
 ```
-
+### 구성항목
+- $TTL : Time To Live. 다른 DNS 서버에서 조회한 내용의 보관 시간. 기본 Sec, 
 
 
 
