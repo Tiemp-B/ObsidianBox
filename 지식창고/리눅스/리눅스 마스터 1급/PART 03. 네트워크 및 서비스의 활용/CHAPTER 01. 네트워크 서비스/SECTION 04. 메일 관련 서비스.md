@@ -51,7 +51,8 @@ sendmail의 기본 동작 방식 지정
 - Ft : 메일 발신 시 발송자의 주소를 변경할 수 있는 Trusted user 설정
 - Dj : 메일 발송 시 발신 도메인 이름 강제 지정
 - Dn : sendmail이 회신 메일 보낼 때 사용하는 사용자 이름 지정
-- FR-o : 
+- FR-o : Relay를 허용할 도메인 설정
+- Kvirtuser
 
 
 
