@@ -17,6 +17,12 @@
 - Caching Name Server : 도메인 관리 없이 리졸빙 역할만 수행
 	리졸빙 결과를 저장하고 해당 요청이 있을시 바로 응답하여 속도 향상
 
+# 2. DNS 서비스 사용
+## 설치
+### 패키지
+- bind
+- bind-libs
+- bind-utils
 
 
 
