@@ -114,7 +114,8 @@ www1 IN CNAME www
 ### 구성항목
 - $TTL : Time To Live. 다른 DNS 서버에서 조회한 내용의 보관 시간. 기본 Sec이며 W,D,M 설정 가능
 - SOA 레코드:
-	- 
+	- Start Of Authority의 약자로 도메인 관리자 메일, 일련번호 등 DNS 핵심 정보 지정
+	- '@'
 
 
 
