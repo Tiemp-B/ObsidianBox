@@ -64,6 +64,9 @@ sendmail의 기본 동작 방식 지정
 - O Timeout.queuereturn : 지정 기간동안 메일이 발송되지 않을 경우 발신자에게 반송
 - O QueueDirectory : 메일 전송 시 사용하는 큐 디렉터리 지정
 	기본값 : `O QueueDirectory=/var/spool/mqueue`
+## 명령어
+- sendmail
+- mailq
 
 
 
