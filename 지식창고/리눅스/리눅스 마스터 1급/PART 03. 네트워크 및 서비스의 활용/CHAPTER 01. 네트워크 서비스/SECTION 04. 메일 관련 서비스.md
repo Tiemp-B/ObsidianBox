@@ -58,7 +58,8 @@ sendmail의 기본 동작 방식 지정
 - O MaxMessageSize : 메일 최대 사이즈 지정. 바이트 단위
 - O ForwardPath : 개인이 수신한 메일을 다른 메일로 포워딩
 	`O ForwardPath=$z/.forward.$w:$z/.forward`
-- 
+- O DaemonPortOptions : SMTP 데몬의 옵션 설정
+	- 기본값 : `O DaemonPortOptions=Port=smtp,Addr=127.0.0.1, Name=MTA`
 - O DeliveryMode : sendmail의 동작 방식
 - 
 
