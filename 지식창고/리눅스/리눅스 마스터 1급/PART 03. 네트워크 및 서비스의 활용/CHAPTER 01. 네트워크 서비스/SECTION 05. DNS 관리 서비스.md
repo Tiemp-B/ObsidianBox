@@ -76,7 +76,13 @@ Access Control List. 여러 호스트들을 하나의 이름으로 지정하여 
 ```bash
 acl "ihd" { 192.168.2.24; 192.168.4,4/24; };
 ```
-### 
+### zone 구문
+도메인 관리를 위한 데이터 파일 
+```bash
+zone [도메인명] IN {
+	type [master | slave | hin]
+};
+```
 
 
 
