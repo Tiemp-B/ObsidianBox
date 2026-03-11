@@ -37,10 +37,17 @@
 - /etc/named.conf -> /var/named/chroot/etc/named.conf
 - /var/named -> /var/named/chroot/var/named
 ## 설정 파일 내용
-- options 구문
-- loggin 구문
-- 
-### 주요 설정 항목
+구문 종류
+- options
+- logging
+- acl
+- zone
+```bash
+options {
+}
+```
+와 같은 형식을 지닌다.
+### op 주요 설정 항목
 - directory
 - dump-file
 - 
