@@ -119,7 +119,9 @@ www1 IN CNAME www
 - 개별 도메인(리소스 레코드)
 	- `[도메인명] [IN] [Class] [Record Type] [우선순위] [도메인 혹은 IP]`
 ### SOA 레코드의 주요 속성
-
+- Nameserver : 네임 서버의 호스트명과 도메인명 지정
+- Contact_email_address : `계정.도메인`형식으로 관리자 이메일 지정
+- Serial_number : 
 
 
 
