@@ -116,8 +116,9 @@ www1 IN CNAME www
 - SOA 레코드:
 	- Start Of Authority의 약자로 도메인 관리자 메일, 일련번호 등 DNS 핵심 정보 지정
 	- '@' => /etc/named.conf에서 설정한 Origin 도메인. 도메인 직접 지정시 마지막에 '.'을 붙여야 함
-- 개별 도메인
-	- `[도메인명] [IN] [Class] [Record Type] [우선순위] [도메인 혹은 IP] `
+- 개별 도메인(리소스 레코드)
+	- `[도메인명] [IN] [Class] [Record Type] [우선순위] [도메인 혹은 IP]`
+### SOA 레코드의 주요 속성
 
 
 
