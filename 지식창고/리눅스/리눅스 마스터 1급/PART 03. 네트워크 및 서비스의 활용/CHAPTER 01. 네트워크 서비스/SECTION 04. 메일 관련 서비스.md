@@ -56,9 +56,11 @@ sendmail의 기본 동작 방식 지정
 - Kaccess : sendmail의 접근 제어 담당. 특정 호스트/도메인에 대한 접근 허가 여부 설정
 - O AliasFile : 특정 계정으로 전송된 메일을 다른 계정으로 전달할 수 있도록 설정한 파일 지정
 - O MaxMessageSize : 메일 최대 사이즈 지정. 바이트 단위
-- O ForwardPAth : 개인이 수신한 메일을 다른 메일로 포워딩
+- O ForwardPath : 개인이 수신한 메일을 다른 메일로 포워딩
 	`O ForwardPath=$z/.forward.$w:$z/.forward`
+- 
 - O DeliveryMode : sendmail의 동작 방식
+- 
 
 
 
