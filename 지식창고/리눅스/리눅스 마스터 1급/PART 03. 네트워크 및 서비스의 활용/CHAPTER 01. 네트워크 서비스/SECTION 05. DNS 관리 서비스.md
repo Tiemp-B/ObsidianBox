@@ -121,7 +121,9 @@ www1 IN CNAME www
 ### SOA 레코드의 주요 속성
 - Nameserver : 네임 서버의 호스트명과 도메인명 지정
 - Contact_email_address : `계정.도메인`형식으로 관리자 이메일 지정
-- Serial_number : 
+- Serial_number : `YYYYMMDDNN`. N은 수정 횟수
+- Refresh_number : 보조 네임 서버가 주 네임 서버에 접근/점검 주기
+- Retry_number 
 
 
 
