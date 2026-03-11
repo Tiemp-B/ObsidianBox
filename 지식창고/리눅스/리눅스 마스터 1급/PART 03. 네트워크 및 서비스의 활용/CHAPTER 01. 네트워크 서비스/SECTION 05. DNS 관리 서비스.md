@@ -71,7 +71,11 @@ logging {
 };
 ```
 ### acl 구문
-Access Control List. 여러 호스트들을 하나의 이름으로 지정하
+Access Control List. 여러 호스트들을 하나의 이름으로 지정하여 options 구문에 적용
+따라서 options의 설정이 선행되야 한다
+```bash
+acl "ihd" { 192.168.2.24; 192.168.4/24; };
+```
 
 
 
