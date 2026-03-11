@@ -71,7 +71,7 @@ logging {
 };
 ```
 ### acl 구문
-Access
+Access Control List. 여러 호스트들을 하나의 이름으로 지정하
 
 
 
