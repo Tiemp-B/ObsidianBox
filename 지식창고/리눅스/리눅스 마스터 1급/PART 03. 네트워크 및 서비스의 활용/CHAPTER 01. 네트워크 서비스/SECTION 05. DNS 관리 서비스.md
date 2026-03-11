@@ -88,10 +88,6 @@ zone [도메인명] IN {
 - master : 1차 네임 서버 지정
 - slave : 2차 네임 서버 지정
 
-### 팁
-/etc/named.conf 파일을 복잡하지 않게 관리하기 위해 root zone을 제외한 zone 정보를 /etc/named.rfc1912.zones에 설정한 후 include 구문으로 포함하는 것을 권장
-```
-```
 
 
 
