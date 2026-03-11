@@ -125,7 +125,12 @@ www1 IN CNAME www
 - Refresh_number : 보조 네임 서버가 주 네임 서버에 접근/점검 주기
 - Retry_number : 보조 네임 서버가 주 네임 서버로 접근 실패시 재시도 주기
 - Expire_number : Retry 만기 시간 지정
-- Minimum_nu
+- Minimum_number : 일종의 TTL. 정보의 최소 보관 기간
+### 개별 도메인의 주요 속성
+- 도메인명
+- IN
+- Class
+- Record Type
 
 
 
