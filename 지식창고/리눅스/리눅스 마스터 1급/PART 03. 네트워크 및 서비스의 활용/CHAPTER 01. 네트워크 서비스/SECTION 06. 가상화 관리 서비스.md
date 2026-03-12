@@ -56,7 +56,9 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 - VHD(Virtual Hard Disk)
 - VMDK(Virtual Machine DisK)
 # 2. 관련 명령어
+### virt-top
 - [[virt-top]]
+### 
 - [[virsh]]
 - [[virt-manager]]
 - [[libvirt]]
