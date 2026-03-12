@@ -156,7 +156,10 @@ telnet이 아닌 in.telnetd이 맞다
     - acl 구문
         `acl [별칭] src [IP 주소 대역]`
         `acl [별칭] dst [IP 주소 대역]`
-        `acl [`
+        `acl [별칭] port [포트 번호]`
+        `acl [별칭] srcdomain [도메인명]`
+        `acl [별칭] dstdomain [도메인명]`
+        
 
 
 
