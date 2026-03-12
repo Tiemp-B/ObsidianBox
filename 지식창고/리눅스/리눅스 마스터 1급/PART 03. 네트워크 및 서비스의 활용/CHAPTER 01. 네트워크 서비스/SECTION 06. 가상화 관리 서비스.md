@@ -59,7 +59,9 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 - [[virt-top]]
 - [[virsh]]
 - [[virt-manager]]
-- 
+- [[libvirt]]
+- [[libvirtd]]
+- [[xm]]
 
 
 
