@@ -173,7 +173,7 @@ Dynamic Host Configuration Protocol
 - 저장 장치가 없는 호스트에게 IP를 자동으로 부여하고 네트워크 부팅을 지원하기 위해 사용. BOOTP(Bootstrap Protocol) 프로토콜을 사용한다
 - UDP 프로토콜, 브로드캐스트 통신 방식 이용
 ### 패키지
-`dhcp-ser`
+`dhcp-server`
 ## 설정
 
 
