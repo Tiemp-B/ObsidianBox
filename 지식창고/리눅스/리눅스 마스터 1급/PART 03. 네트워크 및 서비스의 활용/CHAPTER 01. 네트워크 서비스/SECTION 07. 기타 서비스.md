@@ -43,11 +43,11 @@
     - service : 서비스 명
     - type : 유형 (RPC, INTERNAL(`/etc/services`에 서비스로 등록), UNLISTED 등)
     - disable : no로 설정하여 서비스 사용
-    - socket_type 
-    - port
-    - wait
-    - user
-    - server
+    - socket_type : TCP->stream, UDP->dgram, IP직접 접근->raw
+    - port : 서비스 포트 지정
+    - wait : 요청 받은 즉시 처리, 대기 후 처리
+    - user : 서비스 실행 권한
+    - server : 
     - server_args
     - log_on_failure
     - access_times
