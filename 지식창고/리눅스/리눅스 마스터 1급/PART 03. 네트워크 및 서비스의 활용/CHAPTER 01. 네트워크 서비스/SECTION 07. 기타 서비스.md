@@ -248,7 +248,11 @@ Virtual Network Computing
 IP:디스플레이번호
 
 # 5. NTP 서비스 
-
+Network Time Protocol
+##  NTP 개요
+### 특징
+- 컴퓨터 간 시간을 동기화하는 NTP 프로토콜을 이용하여 NTP 서버와 시간을 동기화
+- NTP는 
 
 
 
