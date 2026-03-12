@@ -62,7 +62,8 @@
 - 설정 파일
     - `/etc/hosts.allow`
     - `/etc/hosts.deny`
-- allow -> deny 순으로 적용. allow가 우선
+- allow -> deny 순으로 적용. 중복 시 allow를 따른다
+- 
 
 
 
