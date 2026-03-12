@@ -147,7 +147,9 @@ telnet이 아닌 in.telnetd이 맞다
 ### squid 특징
 - 리눅스에서 사용하는 대표적인 프록시 서버
 - GPL 오픈소스 SW. 
-- Caching으로 HTTP, FTP, gopher 등 서비스
+- Caching으로 HTTP, FTP, gopher 등 서비스의 데이터 응답속도 향상
+- TCP/3128 이용
+### 설정 파일
 
 
 
