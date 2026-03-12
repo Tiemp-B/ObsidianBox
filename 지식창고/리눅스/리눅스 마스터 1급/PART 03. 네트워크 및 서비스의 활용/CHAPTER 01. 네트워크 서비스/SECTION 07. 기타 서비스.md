@@ -23,10 +23,21 @@
 	{
 		log_type		= SYSLOG daemon info
 		log_on_failure	= HOST
-		log_on_success	= 
+		log_on_success	= PID HOST DURATION EXIT
+		...생략
 	}
 	```
-
+3. `/etc/xinetd.conf` 주요 설정
+    - instances
+    - log_type
+    - log_on_success
+    - log_on_failure
+    - cps
+    - only_from
+    - per_source
+    - enabled
+    - disabled
+    - included
 
 
 
