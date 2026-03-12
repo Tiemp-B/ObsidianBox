@@ -35,7 +35,7 @@
     - cps : 초당 최대 요청 및 초과시 접속 제한 시간 설정
     - only_from : 이용 가능 호스트 지정
     - per_source : 동일한 IP 주소로부터 접속할 수 있는 최대 접속 수 지정
-    - enabled
+    - enabled : 
     - disabled
     - includedir /etc/xinetd.d
 
