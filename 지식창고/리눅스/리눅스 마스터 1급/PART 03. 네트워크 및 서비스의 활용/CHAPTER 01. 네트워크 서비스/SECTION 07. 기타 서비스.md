@@ -178,7 +178,12 @@ Dynamic Host Configuration Protocol
 - 데몬 : `dhcpd`
 - 설정 파일 : `/etc/dhcp/dchpd.conf`
 - 문법 : 설정 문장 뒤에는 반드시 ';' 가 요구된다.
-### 
+### 문법
+```bash
+# 로그 메시지를 다른 곳으로 전달
+log-facility local7;
+
+```
 
 
 
