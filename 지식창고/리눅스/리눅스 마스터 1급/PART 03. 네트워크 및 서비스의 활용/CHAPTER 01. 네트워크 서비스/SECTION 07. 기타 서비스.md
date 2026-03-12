@@ -222,7 +222,8 @@ Virtual Network Computing
 - tigervnc-server
 ## 설정 및 실행
 ### 서버 접속 방법
-1. 세션 공유 방법
+1. 세션 공유 접속 방법
+    - 로컬과 원격 호스트가 화면, 키보드, 마우스를 공
 2. 독립 세션 방법
 
 
