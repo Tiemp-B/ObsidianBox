@@ -116,7 +116,11 @@
     # 192.168.9.7 에 sshd 서비스 허용. syslog 기록
     [hosts.allow]
     sshd : 192.168.9.7 : severity local0.alert
-    # 912.168.
+    # deny로 접근 금지
+    [hosts.allow]
+    sshd : 192.168.9.2 : deny
+    # 특정 호스트가 telnetd 서비스 사용 불가 설정. 접속 시도 시 메시지 전달
+     
     ```
 
 
