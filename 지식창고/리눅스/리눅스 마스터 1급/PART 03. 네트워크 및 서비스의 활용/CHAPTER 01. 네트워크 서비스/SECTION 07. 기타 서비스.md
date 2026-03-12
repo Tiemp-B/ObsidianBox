@@ -153,7 +153,10 @@ telnet이 아닌 in.telnetd이 맞다
 - `/etc/squid/squid.conf`
     - `cache_dir [옵션]`
     - `http_port [포트 번호]`
-    - `acl [별칭]`
+    - acl 구문
+        `acl [별칭] src [IP 주소 대역]`
+        `acl [별칭] dst [IP 주소 대역]`
+        `acl [`
 
 
 
