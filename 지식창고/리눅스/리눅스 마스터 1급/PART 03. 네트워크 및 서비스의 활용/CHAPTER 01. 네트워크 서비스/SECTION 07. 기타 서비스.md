@@ -229,8 +229,8 @@ Virtual Network Computing
     - 별도의 세션으로 접속
     - 환경설정 파일인 `/usr/lib/systemd/system/vncserver@.service` 관련 항목 설정
 ### 서비스 설정
-환경설정 파일 `/usr/lib/systemd/system/vncserver@.service`
-
+- 환경설정 파일 `/usr/lib/systemd/system/vncserver@.service`
+- 설정 파일의 안내에 따라 `/etc/systemd/system/vncserver@.service`로 복사할 경우
 
 
 
