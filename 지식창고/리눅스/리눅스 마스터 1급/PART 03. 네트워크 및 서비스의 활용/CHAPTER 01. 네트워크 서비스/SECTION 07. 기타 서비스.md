@@ -150,6 +150,8 @@ telnet이 아닌 in.telnetd이 맞다
 - Caching으로 HTTP, FTP, gopher 등 서비스의 데이터 응답속도 향상
 - TCP/3128 이용
 ### 설정 파일
+- `/etc/squid/squid.conf`
+    - 
 
 
 
