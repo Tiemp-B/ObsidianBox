@@ -41,9 +41,9 @@
         - 파일명은 서비스명
 4. 서비스 주요 설정
     - service : 서비스 명
-    - type : 
-    - disable
-    - socket_type
+    - type : 유형 (RPC, INTERNAL(`/etc/services`에 서비스로 등록), UNLISTED 등)
+    - disable : no로 설정하여 서비스 사용
+    - socket_type 
     - port
     - wait
     - user
