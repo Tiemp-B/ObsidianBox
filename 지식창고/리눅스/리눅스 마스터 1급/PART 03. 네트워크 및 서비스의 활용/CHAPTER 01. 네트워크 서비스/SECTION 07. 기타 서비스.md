@@ -12,7 +12,10 @@
 ### 서비스 관리 방식
 - xinetd 방식(inetd의 개선판. 요청의 중앙 관리 슈퍼 데몬)의 많은 서비스가 단독 데몬으 전환되거나 systemd에 의한 관리 방식으로 통합(ex. rsync, telnet 등)
 - systemd 방식 : socket 기능(On-demand Activation : 소켓에 요청이 들어오면 서비스 실행)
-- TCP Wrapper를 사용하려면 x
+### xinetd
+1. 특징
+	- 리눅스 커널 2.4 이후 inetd의 확장판 xinetd 사용
+	- 
 
 
 
