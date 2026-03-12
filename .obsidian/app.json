@@ -3,5 +3,6 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "images",
-  "useTab": false
+  "useTab": true,
+  "tabSize": 4
 }
