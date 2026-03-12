@@ -31,7 +31,7 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 ### KVM
 - 인텔 CPU가 지원하는 VT-x 및 AMD-V를 기반으로 CPU 전가상화 기술
 - CPU 에뮬레이터인 QEMU로 다중 가상머신 운영
-- 
+- CPU 반가상화 미지원
 
 
 
