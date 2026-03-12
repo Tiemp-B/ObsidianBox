@@ -50,9 +50,10 @@
     - server : 실행 데몬 파일의 절대 경로
     - server_args : 데몬에 전달할 인자
     - log_on_failure : +/- 로 xinet.conf에서 지정한 log_on_failure 항목으로 변경
-    - access_times : `1600`
-    - redirect
-    - nice
+    - access_times : `16:00-17:00`형식의 서비스 이용 가능 시간 지정
+    - redirect : 다른 서버로 포워딩
+    - nice : 우선순위. -20~19
+
 
 
 
