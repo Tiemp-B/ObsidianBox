@@ -20,4 +20,4 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 	- 사용 프로그램: VMware, VirtualBox, QEMU(기본 모드), KVM(초기 단계)
 2. 반가상화
 	- 게스트 OS를 수정하여 하이퍼바이저로만 API 호출하는 방식
-	- 게스트 OS가 가상화 환경
+	- 게스트 OS가 가상화 환경을 인식하고, 하이퍼바이저와 협력적 작동
