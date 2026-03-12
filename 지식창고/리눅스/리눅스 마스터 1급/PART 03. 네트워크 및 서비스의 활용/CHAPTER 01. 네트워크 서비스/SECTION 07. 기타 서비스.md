@@ -182,7 +182,8 @@ Dynamic Host Configuration Protocol
 ```bash
 # 로그 메시지를 다른 곳으로 전달
 log-facility local7;
-
+# 특정 IP를 할당할 경우 fixed-address 항목 사용.
+h
 ```
 
 
