@@ -84,14 +84,14 @@
 - 목록 지정을 위한 주요 예약어
     - ALL : 모든 서비스 데몬/ 클라이언트
     - LOCAL : '.'을 포함하지 않는 모든 호스트
-    - KNOWN : IP와 호스트명을
-    - UNKNOWN
-    - PARANOID
-    - EXCEPT
+    - KNOWN : IP와 호스트명을 알 수 있는 경우
+    - UNKNOWN : IP와 호스트명을 알지 못하는 경우
+    - PARANOID : DNS lookup을 이용하여 호스트 이름으로 IP를 확인 가능한 경우
+    - EXCEPT : 예외 항목 지정
 - 셸 명령어의 주요 특수 문자
-    - %a
-    - %A
-    - %c
+    - %a : 클라이언트의 IP 주소
+    - %A : 서버의 IP 주소
+    - %c : 사용자명, 호스트명, IP 주소 등의 클라이
     - %d
     - %h
     - %H
