@@ -37,7 +37,7 @@
     - per_source
     - enabled
     - disabled
-    - included
+    - includedir /etc/xinetd.d
 
 
 
