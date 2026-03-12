@@ -161,7 +161,7 @@ telnet이 아닌 in.telnetd이 맞다
         `acl [별칭] port [포트 번호]`
         `acl [별칭] srcdomain [도메인명]`
         `acl [별칭] dstdomain [도메인명]`
-        
+    - 
 
 
 
