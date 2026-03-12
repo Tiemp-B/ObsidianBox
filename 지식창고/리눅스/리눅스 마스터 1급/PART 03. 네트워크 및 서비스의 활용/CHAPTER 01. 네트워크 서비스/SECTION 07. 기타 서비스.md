@@ -109,7 +109,9 @@
     # telnetd를 제외한 모든 서비스에 대하여 모든 클라이언트의 접속을 허가
     [hosts.allow]
     ALL EXEPT in.telnetd : ALL
-    # 
+    # www.sample.com을 제외한 sample.com 도메인의 모든 호스트에 대하여 telnetd 서비스 접근 허가
+    [hosts.allow]
+    in.telnetd : .sample.com EX
     ```
 
 
