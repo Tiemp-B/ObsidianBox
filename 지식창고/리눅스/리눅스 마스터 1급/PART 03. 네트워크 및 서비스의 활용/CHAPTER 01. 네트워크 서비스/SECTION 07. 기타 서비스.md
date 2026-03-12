@@ -238,6 +238,9 @@ Virtual Network Computing
 - vncpasswd
 - Xvnc
 - vncconfig
+### 실행
+`systemctl start vncserver@:디스플레이번호.service`
+`systemctl enable vncserver@:디스플레이번호.service`
 
 
 
