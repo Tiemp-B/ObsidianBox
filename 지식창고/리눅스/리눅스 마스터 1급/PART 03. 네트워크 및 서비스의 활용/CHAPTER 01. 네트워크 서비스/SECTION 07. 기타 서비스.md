@@ -154,9 +154,9 @@ telnet이 아닌 in.telnetd이 맞다
     - `cache_dir [옵션]` : 캐시 데이터 저장 경로
         - `ufs [경로] [캐시 데이터 크기, MB] [첫번째 디렉터리 수] [두번째 디렉터리 수]`
         - ufs: squid 저장 포맷
-    - `http_port [포트 번호]` 
+    - `http_port [포트 번호]` : 포트 지정
     - acl 구문
-        `acl [별칭] src [IP 주소 대역]`
+        `acl [별칭] src [IP 주소 대역]` :
         `acl [별칭] dst [IP 주소 대역]`
         `acl [별칭] port [포트 번호]`
         `acl [별칭] srcdomain [도메인명]`
