@@ -209,7 +209,12 @@ subnet 192.168.10.0 netmask 255.255.255.0 {
 - max-lease-time
 - option subnet-mask
 - fixed-address
+# 4. VNC 서비스
+Virtual Network Computing
+## VNC 개요
+### 특징
 - 
+
 
 
 
