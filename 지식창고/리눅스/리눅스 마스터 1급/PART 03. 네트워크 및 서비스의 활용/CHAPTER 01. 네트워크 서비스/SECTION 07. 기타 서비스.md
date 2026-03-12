@@ -10,7 +10,7 @@
 - 설정 파일 : `/etc/inetd.conf` 
 - 접근 제어 : TCP Wrapper(네트워크 서비스에 대한 IP 기반 접근 제어 보안 도구)
 ### 서비스 관리 방식
-- xinetd 방식(inetd의 개선판. 요청의 중앙 관리 슈퍼 데몬)의 많은 서비스가 단독 데몬으 전환되거나 systemd에 의한 관리 방식으로 통합(ex. rsync, telnet 등). Cent
+- xinetd 방식(inetd의 개선판. 요청의 중앙 관리 슈퍼 데몬)의 많은 서비스가 단독 데몬으 전환되거나 systemd에 의한 관리 방식으로 통합(ex. rsync, telnet 등). CentOS 6 이후부터 systemd 방식으로 넘어가고 있다
 - systemd 방식 : socket 기능(On-demand Activation : 소켓에 요청이 들어오면 서비스 실행)
 ### xinetd
 1. 특징
