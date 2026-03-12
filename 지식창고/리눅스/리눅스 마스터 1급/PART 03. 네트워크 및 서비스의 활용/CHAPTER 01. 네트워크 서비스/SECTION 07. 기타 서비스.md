@@ -192,9 +192,15 @@ subnet 192.168.10.0 netmask 255.255.255.0 {
     range 192.168.10.10 192.168.10.200;
     option domain-name "sample-dhcp.com";
     option domain-name-servers name.sample.com;
+    option routers 192.168.10.1;
+    option broadcast-address 192.168.10.255;
+    default-lease-time 600;
+    max-lease-time 7200;
 }
 ```
-
+### dhcpd.conf 주요 설정 항목
+- range
+- 
 
 
 
