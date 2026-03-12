@@ -232,7 +232,13 @@ Virtual Network Computing
 - 환경설정 파일 `/usr/lib/systemd/system/vncserver@.service`
 - 설정 파일의 안내에 따라 `/etc/systemd/system/vncserver@.service`로 복사하면 복사한 파일을 참조
 - 특정 user에 대한 사용자 계정명 설정 가능
-- 푸쳄ㄴㄵ
+- `vncpasswd` 명령으로 VNC 서버에 접속할 때 사용할 비밀번호 설정
+    - 패스워드는 사용자 홈디렉터리 ~/.vnc/passwd에 저장
+### 관련 명령어
+- vncpasswd
+- Xvnc
+- vncconfig
+- 
 
 
 
