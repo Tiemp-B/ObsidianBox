@@ -167,7 +167,8 @@ telnet이 아닌 in.telnetd이 맞다
 Dynamic Host Configuration Protocol
 ## DHCP 개요
 ### 특징
-
+- 클라이언트 호스트가 사용할 IP 주소, 게이트웨이 주소, 네임 서버 주소 등을 자동으로 할당하는 서비스
+- 제한된 IP 주소 Poo
 
 
 
