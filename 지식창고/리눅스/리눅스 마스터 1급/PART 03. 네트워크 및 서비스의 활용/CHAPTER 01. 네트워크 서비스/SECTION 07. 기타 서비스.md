@@ -62,7 +62,7 @@
 - 설정 파일
     - `/etc/hosts.allow`
     - `/etc/hosts.deny`
-- allow -> deny 순으로 적용. 
+- allow -> deny 순으로 적용. allow가 우선
 
 
 
