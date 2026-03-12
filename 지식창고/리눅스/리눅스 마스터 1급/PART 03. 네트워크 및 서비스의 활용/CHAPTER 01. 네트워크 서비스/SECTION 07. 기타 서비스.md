@@ -64,7 +64,12 @@
     - `/etc/hosts.deny`
 - allow -> deny 순으로 적용. 중복 시 allow를 따른다
 - Rocky Linux 8은 기본적으로 TCP Wrapper 미지원.
-## 설정 파일
+### hosts.allow, hosts.deny 설정 파일
+- 하나의 줄에 하나의 규칙
+- 2줄 이상 깃
+
+
+
 
 
 
