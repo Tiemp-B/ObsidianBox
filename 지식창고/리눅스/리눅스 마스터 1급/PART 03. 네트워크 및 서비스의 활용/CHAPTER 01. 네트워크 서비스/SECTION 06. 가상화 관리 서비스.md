@@ -54,7 +54,12 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 ## 가상화 지원 소프트웨어의 디스크 이미지 형식
 - VDI(Virtual Disk Image)
 - VHD(Virtual Hard Disk)
-- VMDK(VirtualMachineDis)
+- VMDK(Virtual Machine DisK)
+# 2. 관련 명령어
+- [[virt-top]]
+- [[virsh]]
+- [[virt-manager]]
+- 
 
 
 
