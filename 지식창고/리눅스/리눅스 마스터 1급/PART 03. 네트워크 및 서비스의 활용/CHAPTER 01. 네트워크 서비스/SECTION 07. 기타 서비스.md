@@ -38,7 +38,17 @@
     - enabled : 사용 가능한 서비스 목록
     - disabled : 금지 서비스 목록
     - includedir /etc/xinetd.d : 각각의 서비스에 대한 개별 설정 디렉터리
-        - 파일명은 서비스명이며 
+        - 파일명은 서비스명
+4. 서비스 주요 설정
+    - service
+    - type
+    - disable
+    - socket_type
+    - port
+    - wait
+    - user
+    - server
+    - log_on
 
 
 
