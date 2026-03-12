@@ -120,7 +120,9 @@
     [hosts.allow]
     sshd : 192.168.9.2 : deny
     # 특정 호스트가 telnetd 서비스 사용 불가 설정. 접속 시도 시 메시지 전달
-     
+    [hosts.deny]
+    in.telnetd : 192.168.9.10 : twist /bin/echo \
+    "%a is denied" 
     ```
 
 
