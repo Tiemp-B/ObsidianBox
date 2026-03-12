@@ -25,6 +25,7 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 	- 단점: 게스트 OS 커널 수정 필요 -> 사용에 어려움
 	- 사용 프로그램: Xen(PV 모드), KVM(일부 모드), L4Linux 등
 ### 호스트 기반 가상화 방식
+- 호
 
 
 
