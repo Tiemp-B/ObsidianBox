@@ -113,7 +113,9 @@
     [hosts.allow]
     in.telnetd : .sample.com EXCEPT \
     www.sample.com
-    # 192.168.9.7 에서 sshd
+    # 192.168.9.7 에 sshd 서비스 허용. syslog 기록
+    [hosts.allow]
+    sshd : 192.168.9.7 : severity local0.alert
     ```
 
 
