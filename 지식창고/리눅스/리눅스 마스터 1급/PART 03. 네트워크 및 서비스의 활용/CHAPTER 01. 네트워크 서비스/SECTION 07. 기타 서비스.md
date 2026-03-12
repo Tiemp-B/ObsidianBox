@@ -270,8 +270,12 @@ Network Time Protocol
     - restrict : NTP 서버에 접근할 수 있는 클라이언트 제한
     - server : NTP 서버 지정
     - keys : 대칭키 암호화를 위한 키 파일 지정
-        - ``
-
+        - `/etc/ntp/keys`
+### 명령어
+- ntpdate
+- ntpq
+### 비고
+최근에는 ntp 대신 chrony기
 
 
 
