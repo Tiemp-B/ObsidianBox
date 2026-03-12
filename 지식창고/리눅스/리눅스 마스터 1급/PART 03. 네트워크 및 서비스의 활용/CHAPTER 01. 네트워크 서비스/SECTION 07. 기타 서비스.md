@@ -106,7 +106,10 @@
     # 192.168.9.0 에 속한 모든 클라이언트 허가
     [hosts.allow]
     ALL : 192.168.9.0/255.255.255.0
-    # telnetd를 제외한 모든 서비스
+    # telnetd를 제외한 모든 서비스에 대하여 모든 클라이언트의 접속을 허가
+    [hosts.allow]
+    ALL EXEPT in.telnetd : ALL
+    # 
     ```
 
 
