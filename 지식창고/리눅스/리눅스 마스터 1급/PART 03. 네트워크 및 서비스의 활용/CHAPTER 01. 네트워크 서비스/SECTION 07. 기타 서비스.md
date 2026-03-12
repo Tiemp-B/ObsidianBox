@@ -63,7 +63,7 @@
     - `/etc/hosts.allow`
     - `/etc/hosts.deny`
 - allow -> deny 순으로 적용. 중복 시 allow를 따른다
-- 
+- Rocky Linux 8은 기본적으로 TCP WRa
 
 
 
