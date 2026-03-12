@@ -27,7 +27,9 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 ### 호스트 기반 가상화 방식
 - 호스트 기반 가상화는 호스트 운영체제에 VMM을 설치하고 가상머신을 생성
 - 예) VirtualBox, VMware Player 등
-
+## 리눅스의 가상화 기술
+### KVM
+- 인텔 CPU가 지원하는 VT-x
 
 
 
