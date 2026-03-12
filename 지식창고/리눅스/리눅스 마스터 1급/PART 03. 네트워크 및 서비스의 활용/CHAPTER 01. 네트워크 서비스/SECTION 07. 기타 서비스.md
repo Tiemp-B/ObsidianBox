@@ -151,7 +151,8 @@ telnet이 아닌 in.telnetd이 맞다
 - TCP/3128 이용
 ### 설정 파일
 - `/etc/squid/squid.conf`
-    - `cache_dir [옵션]`
+    - `cache_dir [옵션]` : 캐시 데이터 저장 경로
+        - 
     - `http_port [포트 번호]`
     - acl 구문
         `acl [별칭] src [IP 주소 대역]`
