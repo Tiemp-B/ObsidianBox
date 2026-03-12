@@ -145,7 +145,9 @@ telnet이 아닌 in.telnetd이 맞다
         - 프록시 서버에 설치된 백신으로 요청 컨텐츠의 악성코드 여부 점검
 ## 리눅스 프록시 서버 Squid
 ### squid 특징
-
+- 리눅스에서 사용하는 대표적인 프록시 서버
+- GPL 오픈소스 SW. 
+- Caching으로 HTTP, FTP, gopher 등 서비스
 
 
 
