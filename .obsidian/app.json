@@ -2,5 +2,6 @@
   "spellcheck": false,
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "useTab": false
 }
