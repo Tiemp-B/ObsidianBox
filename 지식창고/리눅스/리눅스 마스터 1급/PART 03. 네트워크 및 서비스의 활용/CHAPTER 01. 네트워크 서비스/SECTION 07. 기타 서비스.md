@@ -10,7 +10,8 @@
 - 설정 파일 : `/etc/inetd.conf` 
 - 접근 제어 : TCP Wrapper
 ### 서비스 관리 방식
-- xinetd 방식(inetd의 개선판. 요청을 중앙 관ㄹ)
+- xinetd 방식(inetd의 개선판. 요청의 중앙 관리 슈퍼 데몬)의 많은 서비스가 단독 데몬으 전환되거나 systemd에 의한 관리 방식으로 통합
+- systemd 방식 : s
 
 
 
