@@ -190,7 +190,8 @@ host sample_pc {
 # 클라이언트에 할당할 IP 주소의 대역을 서브넷과 넷마스크 정보와 함께 지정
 subnet 192.168.10.0 netmask 255.255.255.0 {
     range 192.168.10.10 192.168.10.200;
-    
+    option domain-name "sample-dhcp.com";
+    option domain-name-servers name.sample.com;
 }
 ```
 
