@@ -241,8 +241,14 @@ Virtual Network Computing
 - Xvnc
 - vncconfig
 ### 실행
+서버
 `systemctl start vncserver@:디스플레이번호.service`
 `systemctl enable vncserver@:디스플레이번호.service`
+클라이언트
+IP:디스플레이번호
+
+# 5. NTP 서비스 
+
 
 
 
