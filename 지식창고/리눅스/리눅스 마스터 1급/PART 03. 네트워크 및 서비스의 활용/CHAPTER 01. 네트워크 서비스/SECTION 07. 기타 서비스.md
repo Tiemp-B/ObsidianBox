@@ -183,7 +183,11 @@ Dynamic Host Configuration Protocol
 # 로그 메시지를 다른 곳으로 전달
 log-facility local7;
 # 특정 IP를 할당할 경우 fixed-address 항목 사용.
-h
+host sample_pc {
+    hardware ethernet 08:00:07:12:c0:a5;
+    fixed-address 192.168.12.22;
+}
+# 클라이언트에 
 ```
 
 
