@@ -230,7 +230,9 @@ Virtual Network Computing
     - 환경설정 파일인 `/usr/lib/systemd/system/vncserver@.service` 관련 항목 설정
 ### 서비스 설정
 - 환경설정 파일 `/usr/lib/systemd/system/vncserver@.service`
-- 설정 파일의 안내에 따라 `/etc/systemd/system/vncserver@.service`로 복사할 경우
+- 설정 파일의 안내에 따라 `/etc/systemd/system/vncserver@.service`로 복사하면 복사한 파일을 참조
+- 특정 user에 대한 사용자 계정명 설정 가능
+- 푸쳄ㄴㄵ
 
 
 
