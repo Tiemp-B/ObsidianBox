@@ -29,8 +29,8 @@
 	```
 3. `/etc/xinetd.conf` 주요 설정
     - instances : 최대 동시 서비스 서버 수
-    - log_type : 로그 기록 방식 지정 \[SYSL]
-    - log_on_success
+    - log_type : 로그 기록 방식 지정 \[SYSLOG/FILE]
+    - log_on_success : 서버 시작, 종룍 및 접속 시 기록할 내용 지정
     - log_on_failure
     - cps
     - only_from
