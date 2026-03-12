@@ -213,7 +213,9 @@ subnet 192.168.10.0 netmask 255.255.255.0 {
 Virtual Network Computing
 ## VNC 개요
 ### 특징
-- 비트맵 이미지 기반의 RF
+- 비트맵 이미지 기반의 RFB(Remote Frame Buffer) 프로토콜을 이용하고 GUI 방식으로 원격 컴퓨터에 접속 및 사용하는 기능 제공
+- 클라이언트는 서버의 화면을 전송받아 표시
+- 서버는 클라이언트에성
 
 
 
