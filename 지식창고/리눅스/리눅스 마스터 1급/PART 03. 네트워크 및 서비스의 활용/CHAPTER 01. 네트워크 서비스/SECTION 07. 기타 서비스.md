@@ -60,7 +60,9 @@
 - inetd 데몬에 의해 관리되는 서비스에 대한 접근 제어
 - 데몬명 : **tcpd**
 - 설정 파일
-    - `/etc/hosts`
+    - `/etc/hosts.allow`
+    - `/etc/hosts.deny`
+- allow -> deny 순으로 적용. 
 
 
 
