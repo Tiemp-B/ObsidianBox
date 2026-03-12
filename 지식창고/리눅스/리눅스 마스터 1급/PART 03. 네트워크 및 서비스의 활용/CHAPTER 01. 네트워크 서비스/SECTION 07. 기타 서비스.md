@@ -15,8 +15,11 @@
 ### xinetd
 1. 특징
 	- 리눅스 커널 2.4 이후 inetd의 확장판 xinetd 사용
-	- 
-
+	- 기본 설정 파일 : `/etc/xinetd.conf`
+	- 패키지 : xinetd
+2. tjfwjd vkdlf
+	```bash
+	```
 
 
 
