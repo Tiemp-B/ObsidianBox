@@ -47,10 +47,10 @@
     - port : 서비스 포트 지정
     - wait : 요청 받은 즉시 처리, 대기 후 처리
     - user : 서비스 실행 권한
-    - server : 
-    - server_args
-    - log_on_failure
-    - access_times
+    - server : 실행 데몬 파일의 절대 경로
+    - server_args : 데몬에 전달할 인자
+    - log_on_failure : +/- 로 xinet.conf에서 지정한 log_on_failure 항목으로 변경
+    - access_times : `1600`
     - redirect
     - nice
 
