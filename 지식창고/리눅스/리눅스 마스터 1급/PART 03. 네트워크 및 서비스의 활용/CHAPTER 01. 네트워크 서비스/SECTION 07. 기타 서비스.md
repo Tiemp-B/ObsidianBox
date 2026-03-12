@@ -176,7 +176,9 @@ Dynamic Host Configuration Protocol
 `dhcp-server`
 ## 설정
 - 데몬 : `dhcpd`
-- 설정 파일 : `/etc/dhc`
+- 설정 파일 : `/etc/dhcp/dchpd.conf`
+- 문법 : 설정 문장 뒤에는 반드시 ';' 가 요구된다.
+
 
 
 
