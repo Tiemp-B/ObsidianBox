@@ -21,7 +21,9 @@
 	```bash
 	defaults
 	{
-		log_type
+		log_type		= SYSLOG daemon info
+		log_on_failure	= HOST
+		log_on_success	= 
 	}
 	```
 
