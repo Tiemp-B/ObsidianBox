@@ -213,7 +213,7 @@ subnet 192.168.10.0 netmask 255.255.255.0 {
 Virtual Network Computing
 ## VNC 개요
 ### 특징
-- 
+- 비트맵 이미지 기반의 RF
 
 
 
