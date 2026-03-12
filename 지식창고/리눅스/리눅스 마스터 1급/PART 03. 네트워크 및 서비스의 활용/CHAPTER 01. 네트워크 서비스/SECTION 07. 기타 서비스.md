@@ -37,7 +37,7 @@
     - per_source : 동일한 IP 주소로부터 접속할 수 있는 최대 접속 수 지정
     - enabled : 사용 가능한 서비스 목록
     - disabled : 금지 서비스 목록
-    - includedir /etc/xinetd.d
+    - includedir /etc/xinetd.d : 각각의 서비스에 대한 개별 설정 디렉터리
 
 
 
