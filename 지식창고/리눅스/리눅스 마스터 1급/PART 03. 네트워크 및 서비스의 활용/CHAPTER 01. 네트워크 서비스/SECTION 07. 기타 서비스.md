@@ -265,10 +265,12 @@ Network Time Protocol
 - 데몬 : ntpd
 ### 설정
 - 설정 파일 : `/etc/ntp.conf`
-    - driftfile : ntpd에 의해 자동으로 생성되는 
-    - restric
-    - server
-    - keys
+    - driftfile : ntpd에 의해 자동으로 생성되는 driftfile 지정
+        - driftfile : 시간 오차의 평균값을 저장하여 시간을 정확하게 유지
+    - restrict : NTP 서버에 접근할 수 있는 클라이언트 제한
+    - server : NTP 서버 지정
+    - keys : 대칭키 암호화를 위한 키 파일 지정
+        - ``
 
 
 
