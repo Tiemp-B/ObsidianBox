@@ -175,7 +175,8 @@ Dynamic Host Configuration Protocol
 ### 패키지
 `dhcp-server`
 ## 설정
-
+- 데몬 : `dhcpd`
+- 설정 파일 : `/etc/dhc`
 
 
 
