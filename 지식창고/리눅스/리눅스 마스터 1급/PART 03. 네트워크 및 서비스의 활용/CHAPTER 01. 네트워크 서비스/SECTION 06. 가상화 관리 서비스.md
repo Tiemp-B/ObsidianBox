@@ -60,12 +60,14 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 - [[virt-top]]
 ### libvirt-client
 - [[virsh]]
+### virt-manager
 - [[virt-manager]]
 ### libvirt, libvirt-daemon
 - [[libvirt]]
 - [[libvirtd]]
 ### xen
 - [[xm]]
+
 
 
 
