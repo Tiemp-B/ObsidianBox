@@ -227,7 +227,9 @@ Virtual Network Computing
     - 암호, 알림 등의 정보 설정
 2. 독립 세션 방법
     - 별도의 세션으로 접속
-    - 환경설정 파일인 /usr/
+    - 환경설정 파일인 `/usr/lib/systemd/system/vncserver@.service` 관련 항목 설정
+### 서비스 설정
+환경설정 파일 `/usr/lib/systemd/system/vncserver@.service`
 
 
 
