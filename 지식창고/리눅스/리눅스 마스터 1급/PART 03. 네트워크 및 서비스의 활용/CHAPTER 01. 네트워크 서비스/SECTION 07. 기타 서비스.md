@@ -220,6 +220,8 @@ Virtual Network Computing
 - 동시에 여러 클라이언트 접속하여 화면을 공유
 ### 패키지
 - tigervnc-server
+- vnc
+- 
 ## 설정 및 실행
 ### 서버 접속 방법
 1. 세션 공유 접속 방법
