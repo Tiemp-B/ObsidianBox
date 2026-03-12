@@ -276,6 +276,8 @@ Network Time Protocol
 - ntpq
 ### 비고
 최근에는 ntp 대신 chrony가 기본 NTP 프로그램으로 사용된다
+패키지 : cnrony
+데몬 : chronyd
 
 
 
