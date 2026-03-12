@@ -264,8 +264,11 @@ Network Time Protocol
 - 패키지 : ntp
 - 데몬 : ntpd
 ### 설정
-- 설정 파일 : ``
-
+- 설정 파일 : `/etc/ntp.conf`
+    - driftfile : ntpd에 의해 자동으로 생성되는 
+    - restric
+    - server
+    - keys
 
 
 
