@@ -17,5 +17,6 @@ VMM(Virtual Machine Monitor)로 물리적인 하드웨어를 가상머신의 하
 	- 하이퍼바이저가 CPU 명령어와 하드웨어 자원을 완전 에뮬레이션
 	- 장점: 게스트 OS 수정 불필요
 	- 단점: 하드웨어 명령을 소프트웨어가 에뮬레이션하므로 성능 손실 발생
-	- 사용 프로그램: VMware, VirtualBox, QEMU,
+	- 사용 프로그램: VMware, VirtualBox, QEMU(기본 모드), KVM(초기 단계)
 2. 반가상화
+	- 게스트 OS를 수정하여 하드웨어에
