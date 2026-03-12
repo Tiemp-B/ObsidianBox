@@ -40,7 +40,7 @@
     - includedir /etc/xinetd.d : 각각의 서비스에 대한 개별 설정 디렉터리
         - 파일명은 서비스명
 4. 서비스 주요 설정
-    - service
+    - service : 
     - type
     - disable
     - socket_type
@@ -48,7 +48,11 @@
     - wait
     - user
     - server
-    - log_on
+    - server_args
+    - log_on_failure
+    - access_times
+    - redirect
+    - nice
 
 
 
