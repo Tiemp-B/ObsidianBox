@@ -18,7 +18,7 @@
 ### 기법
 1. IP Spoofing
     - 공격자가 자신의 IP를 변조하여 IP 기반 인증 등의 서비스 무력화
-    - 대응 방안 : 
+    - 대응 방안 : IP 인증 최소화 및 TCP sequence 번호()를 무작위로 구성
 2. ARP Spoofing
     - 
 3. DNS Spoofing
