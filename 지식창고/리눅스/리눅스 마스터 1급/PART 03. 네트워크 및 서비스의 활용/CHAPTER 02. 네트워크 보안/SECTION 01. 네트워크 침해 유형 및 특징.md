@@ -11,6 +11,10 @@
 - TCP Dump 명령어 : [[tcpdump]]
 ### 대응 방법
 - 암호화 통신 방식(ex. SSL:SSecure Socket Layer) 이용
+## 스푸핑
+### 개념
+
+
 
 
 
