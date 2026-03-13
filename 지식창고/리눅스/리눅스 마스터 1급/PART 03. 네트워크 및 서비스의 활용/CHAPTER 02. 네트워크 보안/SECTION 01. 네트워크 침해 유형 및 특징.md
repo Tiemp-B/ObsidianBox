@@ -45,8 +45,9 @@
     - TCP 3-way handshaking 연결 방식에서 SYN flag를 대량으로 발송하며 TCP 연결 처리를 지속적으로 발생하도록 하여 문제 유발 
 4. UDP Flooding
     - 대량의 UDP 패킷을 전송하여 공격 대상의 자원 소모
-    - 공격 시
+    - 공격 시 발신자의 IP가 변조(spoofing)되므로 응답 메시지는 공격자에게 가지 않음
 5. Land Attack
+    - 공격 대상에 IP 패킷을 보낼 때 `발신자 IP, 수신자 IP를 모두 공격 대상의 IP`로 하여 
 6. Smurf Attack
 7. Mail Bomb
 8. NTP 증폭 공격
