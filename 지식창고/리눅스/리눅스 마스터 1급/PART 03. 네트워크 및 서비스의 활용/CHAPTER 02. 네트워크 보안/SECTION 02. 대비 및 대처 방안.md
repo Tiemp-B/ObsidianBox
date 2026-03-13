@@ -169,7 +169,13 @@
 - match : 
     - -s, --source : 출발지 IP, 도메인 설정
     - -d, --destination : 목적지 IP, 도메인 설정
-    - ! : 뒤
+    - ! : 뒤에 따라오는 규칙 제외
+    - -p, --protocol : 프로토콜 설정
+    - -i, --in-interface : 입력 네트워크 인터페이스
+    - -o, --out-interface : 출력 네트워크 인터페이스
+    - --sport : 소스 포트 지정. ':'로 범위 지정 가능
+    - --dport : 타깃 포트 지정. ':'로 범위 지정 가능
+    - --tcp-flags : 
 
 
 
