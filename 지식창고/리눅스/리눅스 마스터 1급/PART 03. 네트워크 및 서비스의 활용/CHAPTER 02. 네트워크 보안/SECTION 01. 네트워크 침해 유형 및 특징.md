@@ -42,7 +42,7 @@
 2. Teardrop Attack
     - IP fragmentation에 따라 패킷 재조립시 오프셋을 임의 변조하여 문제 유발
 3. TCP SYN Flooding
-    - TCP 3-way handshaking 연결 방식에서 SYN flag를 대량으로 발송하며 
+    - TCP 3-way handshaking 연결 방식에서 SYN flag를 대량으로 발송하며 TCP 연결 처리를 하도록 하여 
 4. UDP Flooding
 5. Land Attack
 6. Smurf Attack
