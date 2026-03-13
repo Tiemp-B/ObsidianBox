@@ -26,8 +26,9 @@
     - DNS 요청에 위조 정보를 응답
     - 변조된 악의적 서비스로 접근 유도
 ## DoS/DDoS
-###
-    
+### DoS의 개념
+- Denial of Service
+- 
 
 
 
