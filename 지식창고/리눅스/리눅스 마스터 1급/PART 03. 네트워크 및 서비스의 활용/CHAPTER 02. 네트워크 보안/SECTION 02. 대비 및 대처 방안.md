@@ -194,6 +194,6 @@
 
 ### 예제
 - `iptables -A INPUT -s 192.168.10.7 -d localhost -j DROP`
-
-
+- `iptables -A INPUT -p tcp -dport 10:100 -j DROP`
+## 설정 정책 저장과 자동 적용
 
