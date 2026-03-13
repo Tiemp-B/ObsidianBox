@@ -212,5 +212,7 @@ iptables로 설정한 정보는 리부팅 시 제거되기에 파일로 저장�
         - Exclude NAT : NAT을 적용하지 않는 host/network 지정
         - Redirect NAT : 지정한 곳으로 포워딩
     - IP 개수, 고정 여부
-        - Dynamic NA
+        - Dynamic NAT : 다수의 사설 IP와 다수의 공인 IP를 동적 매핑
+        - Static NAT : 1대1 고정 매핑
+    - 주소 변경 여부
 
