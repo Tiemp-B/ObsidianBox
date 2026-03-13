@@ -6,8 +6,8 @@
 - 한 서브 네트워크 내에서 전송되는 패킷의 내용을 임의로 확인하는 기법
 ### 네트워크 무차별 모드와 TCP Dump
 - 네트워크 설정을 **무차별 모드**로 변경한 후 **TCP Dump**를 이용하면 네트워크 내 모든 패킷 확인 가능
-- `ifconfig [네트우`
-
+- 무차별 모드 설정: `ifconfig [Network Interface Name] promisc`
+- 일반 모드 설정: `ifconfig [네트워크 인터페이스 이름] `
 
 
 
