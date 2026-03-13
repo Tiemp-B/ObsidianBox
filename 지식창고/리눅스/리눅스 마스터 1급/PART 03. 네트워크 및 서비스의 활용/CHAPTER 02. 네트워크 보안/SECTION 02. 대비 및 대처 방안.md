@@ -108,7 +108,8 @@
 - NAT(Network Address Translation : IP주소를 변환해 라우팅을 원할하게 함)에도 사용 가능
 - 커널의 넷필터 모듈로 네트워크 패킷 필터링
 - 최근은 firewalld를 기본 방화벽으로 하나 iptables로 상세하고 명확한 규칙 설정이 가능하다
-- 
+### 패킷 흐름
+
 
 
 
