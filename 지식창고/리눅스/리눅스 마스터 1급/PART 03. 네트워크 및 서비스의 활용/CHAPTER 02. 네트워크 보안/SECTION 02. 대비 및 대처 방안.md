@@ -198,4 +198,6 @@
 ## 설정 정책 저장과 자동 적용
 iptables로 설정한 정보는 리부팅 시 제거되기에 파일로 저장하고 부팅 시 재설정해야 한다
 - `iptables-save > 세이브파일.sh`
+- `iptables-restore < 세이브파일.sh`
+- `service iptables save` 정책을 `/etc/sysconfig/iptables`에 저장되며 자동으로 읽어
 
