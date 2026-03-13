@@ -153,14 +153,17 @@
 `iptables [-t 테이블명] [action] [체인 이름] [match 규칙] [-j 타깃]` 형식
 - -t 테이블 : filter, nat, mangle, raw 테이블 지정 가능. 생략시 filter
 - action : 체인을 대상으로 수행할 명령 지정
+    체인을 대상 action
     - -N, --new-chain : 새 정책
     - -X, --delete-chain : 비어 있는 정책 체인 제거
     - -L, --list : 현재 정책 체인 목록 표시
     - -F, --flush : 지정 체인에 설정된 모든 정책 삭제
     - -C : 패킷 테스트
     - -P, --policy : 체인의 기본 정책 설정
-    - -Z, --zero : 체인 내의 모든 규칙의 패킷과 바이트 
-
+    - -Z, --zero : 체인 내의 모든 규칙의 패킷과 바이트 카운트를 0으로 설정
+    체인 내부를 대상 action
+    - -A, --append : 새로운 정책을 가장 마지막에 추가
+    - -I \[체인] []
 
 
 
