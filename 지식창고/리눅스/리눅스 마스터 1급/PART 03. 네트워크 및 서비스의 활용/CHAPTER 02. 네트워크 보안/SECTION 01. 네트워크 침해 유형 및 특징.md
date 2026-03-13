@@ -38,8 +38,9 @@
     - 과도한 패킷 유발로 대역폭 고갈 목적
 ### DoS 세부 기법
 1. Ping of Death
-    - 
+    - ICMP Echo 패킷을 매우 크게 전송하여 문제 유발
 2. Teardrop Attack
+    - 
 3. TCP SYN Flooding
 4. UDP Flooding
 5. Land Attack
