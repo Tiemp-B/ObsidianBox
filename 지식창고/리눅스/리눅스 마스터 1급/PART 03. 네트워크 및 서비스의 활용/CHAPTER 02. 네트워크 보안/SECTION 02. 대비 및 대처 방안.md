@@ -78,7 +78,16 @@
 ## snort의 Rule 설정
 ### Rule 구조
 - 헤더
+    - action
+    - protocol
+    - source
+    - direction
+    - destination
 - 룰 옵션
+    - General
+    - Payload
+    - non-payload
+    - post-detection
 
 
 
