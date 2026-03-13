@@ -89,7 +89,16 @@
     - Payload
     - non-payload
     - post-detection
-
+- 룰 옵션 주요 항목
+    - msg
+    - sid
+    - content
+    - depth
+    - offset
+    - distance
+    - within
+    - nocase
+    - sameip
 
 
 
