@@ -207,6 +207,10 @@ iptables로 설정한 정보는 리부팅 시 제거되기에 파일로 저장�
 - 하나의 공인 IP를 다수의 호스트가 공유 가능
 - 운영 방식
     - Network 구분 
-        - Normal NAT
-        - 
+        - Normal NAT : 사설 IP -> 공인 IP
+        - Reverse NAT : 공인 IP -> 사설 IP
+        - Exclude NAT : NAT을 적용하지 않는 host/network 지정
+        - Redirect NAT : 지정한 곳으로 포워딩
+    - IP 개수, 고정 여부
+        - Dynamic NA
 
