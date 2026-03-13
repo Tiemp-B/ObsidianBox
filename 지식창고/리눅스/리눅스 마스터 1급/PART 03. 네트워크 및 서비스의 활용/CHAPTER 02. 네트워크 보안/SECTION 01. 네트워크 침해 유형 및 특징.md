@@ -44,6 +44,7 @@
 3. TCP SYN Flooding
     - TCP 3-way handshaking 연결 방식에서 SYN flag를 대량으로 발송하며 TCP 연결 처리를 지속적으로 발생하도록 하여 문제 유발 
 4. UDP Flooding
+    - 대량의 UDP 패킷을 전송하여 
 5. Land Attack
 6. Smurf Attack
 7. Mail Bomb
