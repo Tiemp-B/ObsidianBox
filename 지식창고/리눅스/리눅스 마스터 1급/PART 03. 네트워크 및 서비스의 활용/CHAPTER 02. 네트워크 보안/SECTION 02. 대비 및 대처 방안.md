@@ -114,11 +114,11 @@
 
 ## 구조
 ### 종류
-- filter : 기본 테이블. 패킷 필터링 
-- nat
-- mangle
-- raw
-- security
+- filter : 기본 테이블. 패킷 필터링 기능
+- nat : NAT: IP주소 및 포트 변환 관리
+- mangle : 성능 향상을 위한 TOS(Type Of Service) 설정과 같이 패킷 데이터 변경하는 특수 규칙
+- raw : 연결 추적을 위한 세부 기능
+- security : SELinux에서 사용하는 접근
 
 
 
