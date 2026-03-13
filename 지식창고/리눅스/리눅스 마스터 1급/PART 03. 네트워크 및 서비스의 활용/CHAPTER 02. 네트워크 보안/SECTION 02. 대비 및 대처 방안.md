@@ -152,7 +152,10 @@
 ## iptable 사용
 `iptables [-t 테이블명] [action] [체인 이름] [match 규칙] [-j 타깃]` 형식
 - -t 테이블 : filter, nat, mangle, raw 테이블 지정 가능. 생략시 filter
-- action : 체인을 대상으로 수행할 명
+- action : 체인을 대상으로 수행할 명령 지정
+    - -N, --new-chain : 새 정책
+    - -X, --delete-chain : 비어 있는 정책 체인 제거
+    - -L, --list
 
 
 
