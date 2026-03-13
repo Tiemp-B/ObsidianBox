@@ -24,6 +24,9 @@
     - 대응 방안 : `arp -s [IP] [MAC]`로 정적 aRP 매핑 정보 등록
 3. DNS Spoofing
     - DNS 요청에 위조 정보를 응답
+    - 변조된 악의적 서비스로 접근 유도
+## DoS/DDoS
+###
     
 
 
