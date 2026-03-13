@@ -175,7 +175,14 @@
     - -o, --out-interface : 출력 네트워크 인터페이스
     - --sport : 소스 포트 지정. ':'로 범위 지정 가능
     - --dport : 타깃 포트 지정. ':'로 범위 지정 가능
-    - --tcp-flags : 
+    - --tcp-flags : SYN, ACK, FIN, RST, URG, PSH, ALL, NOTE 등의  TCP flag 지정
+    - --syn : TCP flag로 SYN만 가진 것을 지정
+    - --icmp-type : ICMP 타입지정
+    - -m, --match : 특정 모듈/규칙과 매치
+    - --state 
+    - --string
+- 기타 옵션
+    - -n
 
 
 
