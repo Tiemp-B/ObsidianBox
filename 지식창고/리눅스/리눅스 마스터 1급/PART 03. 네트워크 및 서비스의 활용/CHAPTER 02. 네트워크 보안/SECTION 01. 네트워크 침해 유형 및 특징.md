@@ -61,7 +61,13 @@
 Distributed DoS
 ### DDoS 개념
 - 공격을 위한 에이전트를 분산된 시스템에 배치 후 동시 공격
-- Agent에 명령을 내리
+- Agent에 명령을 내리는 C&C 서버
+- Agent가 설치된 PC를 좀비 PC
+### 사용 도구
+- Stacheldraht
+- TFN
+- TFN 2K
+- 
 
 
 
