@@ -130,7 +130,8 @@
     - ACCEPT
     - DROP
     - REJECT
-### 
+### nat 테이블
+
 
 
 
