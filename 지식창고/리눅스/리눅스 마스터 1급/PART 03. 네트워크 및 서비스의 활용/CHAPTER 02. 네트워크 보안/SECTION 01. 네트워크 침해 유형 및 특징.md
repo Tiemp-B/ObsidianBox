@@ -38,10 +38,14 @@
     - 과도한 패킷 유발로 대역폭 고갈 목적
 ### DoS 세부 기법
 1. Ping of Death
+    - 
 2. Teardrop Attack
 3. TCP SYN Flooding
 4. UDP Flooding
-5. L
+5. Land Attack
+6. Smurf Attack
+7. Mail Bomb
+8. NTP 증폭 공격
 
 
 
