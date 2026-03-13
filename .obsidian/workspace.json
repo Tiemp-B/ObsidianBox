@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/Linux/명령어/tar.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 01. 웹 관련 서비스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tar"
+              "title": "SECTION 01. 웹 관련 서비스"
             }
           },
           {
@@ -350,10 +350,12 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/CHAPTER 01. 네트워크 서비스.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 01. 네트워크 침해 유형 및 특징.md",
+    "Developer/Linux/명령어/tar.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 02. 대비 및 대처 방안.md",
     "images/Pasted image 20260313192526.png",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/CHAPTER 02. 네트워크 보안.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 01. 네트워크 침해 유형 및 특징.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
@@ -363,7 +365,6 @@
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 06. 가상화 관리 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 05. DNS 관리 서비스.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/CHAPTER 01. 네트워크 서비스.md",
     "Developer/국제 표준/RS-232.md",
     "지식창고/리눅스/리눅스 마스터 1급/NFS/NFS.md",
     "지식창고/리눅스/리눅스 마스터 1급/NFS",
