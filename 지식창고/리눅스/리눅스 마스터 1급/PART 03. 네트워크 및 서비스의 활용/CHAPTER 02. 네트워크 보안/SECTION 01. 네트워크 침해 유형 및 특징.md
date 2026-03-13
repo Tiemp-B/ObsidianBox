@@ -10,7 +10,7 @@
 - 일반 모드 설정: `ifconfig [네트워크 인터페이스 이름] -promisc`
 - TCP Dump 명령어 : [[tcpdump]]
 ### 대응 방법
-- 암호화 통신 방식(ex. SSL:SSecure Socket )
+- 암호화 통신 방식(ex. SSL:SSecure Socket Layer) 이용
 
 
 
