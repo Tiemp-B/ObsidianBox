@@ -49,6 +49,7 @@
 5. Land Attack
     - 공격 대상에 IP 패킷을 보낼 때 `발신자 IP, 수신자 IP를 모두 공격 대상의 IP`로 하여문제 유발
 6. Smurf Attack
+    - 공격 대상의 IP 주소를 발신자로 브로드 캐스트를 통해 다수의 시스템에 ICMP Request 패킷을 전송.
 7. Mail Bomb
 8. NTP 증폭 공격
 
