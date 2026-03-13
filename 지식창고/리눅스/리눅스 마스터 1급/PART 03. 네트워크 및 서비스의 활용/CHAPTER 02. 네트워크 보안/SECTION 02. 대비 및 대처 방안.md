@@ -77,6 +77,7 @@
 - 네트워크 IDS
 ## snort의 Rule 설정
 ### Rule 구조
+`액션 프로토콜 소스IP 소스포트 방향 목표IP 목표포트 (ㅡㄶ:"")`
 - 헤더
     - action
     - protocol
