@@ -40,12 +40,14 @@
             "id": "9fb34c6cdcd9a366",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안"
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 02. 대비 및 대처 방안.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CHAPTER 02. 네트워크 보안"
+              "title": "SECTION 02. 대비 및 대처 방안"
             }
           },
           {
@@ -346,11 +348,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e5c87cbca8615d0",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 02. 대비 및 대처 방안.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/CHAPTER 02. 네트워크 보안.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 01. 네트워크 침해 유형 및 특징.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/CHAPTER 02. 네트워크 보안.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 07. 기타 서비스.md",
@@ -377,7 +380,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 02. 인증 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 01. 웹 관련 서비스.md",
     "Developer/Linux/01. 부트로더.md",
-    "Developer/Linux/명령어/lastlog.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
