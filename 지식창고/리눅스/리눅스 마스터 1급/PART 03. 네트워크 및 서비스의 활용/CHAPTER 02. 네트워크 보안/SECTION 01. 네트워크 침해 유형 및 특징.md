@@ -17,8 +17,12 @@
 - 주소 등의 정보를 변조하여 공격의 탐지 및 역추적이 난해
 ### 기법
 1. IP Spoofing
+    - 
 2. ARP Spoofing
-3. DNS Spoo
+    - 
+3. DNS Spoofing
+    -
+    
 
 
 
