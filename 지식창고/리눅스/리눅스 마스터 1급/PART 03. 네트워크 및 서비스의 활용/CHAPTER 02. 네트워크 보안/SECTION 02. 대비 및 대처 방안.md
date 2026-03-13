@@ -215,4 +215,7 @@ iptables로 설정한 정보는 리부팅 시 제거되기에 파일로 저장�
         - Dynamic NAT : 다수의 사설 IP와 다수의 공인 IP를 동적 매핑
         - Static NAT : 1대1 고정 매핑
     - 주소 변경 여부
+        - SNAT : 소스 IP 주소 변경
+        - DNAT : 목적지 IP 주소 변경
+        - 
 
