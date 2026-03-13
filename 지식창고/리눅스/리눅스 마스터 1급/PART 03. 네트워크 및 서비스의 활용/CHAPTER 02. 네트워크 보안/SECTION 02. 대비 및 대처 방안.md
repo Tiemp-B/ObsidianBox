@@ -182,7 +182,15 @@
     - --state 
     - --string
 - 기타 옵션
-    - -n
+    - -n, --numeric
+    - -v, --verbose
+    - --line-numbers
+- -j 타깃
+    - ACCEPT
+    - REJECT
+    - DROP
+    - LOG
+    - RETURN
 
 
 
