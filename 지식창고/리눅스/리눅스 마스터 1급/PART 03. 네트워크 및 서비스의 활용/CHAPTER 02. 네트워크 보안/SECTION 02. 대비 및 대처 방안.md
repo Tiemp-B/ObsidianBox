@@ -149,7 +149,10 @@
 | OUTPUT      | 로컬 프로세스 발생 직후  | 로컬에서 나가는 패킷 변조 |
 | FORWARD     | 라우팅 후 전달 중     | 경유 패킷 변조       |
 
-## iptable 
+## iptable 사용
+`iptables [-t 테이블명] [action] [체인 이름] [match 규칙] [-j 타깃]` 형식
+- -t 테이블 : filter, nat, mangle, raw 테이블 지정 가능. 생략시 filter
+- action : 체인을 대상으로 수행할 명
 
 
 
