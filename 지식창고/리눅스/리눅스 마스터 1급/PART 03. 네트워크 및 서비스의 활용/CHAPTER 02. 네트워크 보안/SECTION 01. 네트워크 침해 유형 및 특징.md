@@ -36,7 +36,11 @@
     - 반복 처리로 CPU, 메모리 등의 자원 고갈 목적
 3. 네트워크 자원 고갈 공격
     - 과도한 패킷 유발로 대역폭 고갈 목적
-
+### DoS 세부 기법
+1. Ping of Death
+2. Teardrop Attack
+3. TCP SYN Flooding
+4. 
 
 
 
