@@ -40,8 +40,9 @@
 1. Ping of Death
     - ICMP Echo 패킷을 매우 크게 전송하여 문제 유발
 2. Teardrop Attack
-    - 
+    - IP fragmentation에 따라 패킷 재조립시 오프셋을 임의 변조하여 문제 유발
 3. TCP SYN Flooding
+    - TCP 3-way 
 4. UDP Flooding
 5. Land Attack
 6. Smurf Attack
