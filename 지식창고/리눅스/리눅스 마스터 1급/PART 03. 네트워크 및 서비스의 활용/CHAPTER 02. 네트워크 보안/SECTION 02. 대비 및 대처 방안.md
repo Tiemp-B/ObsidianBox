@@ -105,7 +105,7 @@
 ### 특징
 - 리눅스 방화벽
 - 패킷 필터링 정책으로 특정 패킷을 분석하고 허용/차단
-- NAT(Network Address Translation)에도 사용 가능
+- NAT(Network Address Translation : 트래픽 라우팅 장치를 경유하는 동안 패킷의 IP 헤더에 있는 네트워크 주소 정보를 수정하여 하나의 주소 공간을 다른 주소 공간으로 매핑)에도 사용 가능
 - 
 
 
