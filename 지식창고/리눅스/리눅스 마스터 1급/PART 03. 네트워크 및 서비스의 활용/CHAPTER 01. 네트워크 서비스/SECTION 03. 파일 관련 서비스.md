@@ -62,6 +62,7 @@
 | read only = yes         | 읽기 전용                       |
 | writable = yes          | 쓰기 가능                       |
 | write list = \[사용자 리스트] | 쓰기 가능한 사용자 지정. @으로 그룹 지정 가능 |
+| valid users = \[사용자명]   | 접근 가능한 사용자 지정. 미지정시 전체 접그   |
 | public = no             | 개인 사용자만 사용 가능               |
 | browseable = no         | 이용 가능 공유 리스트에 표시되지 않음       |
 | create mask = 값         | 기본 접근 권한 지정                 |
