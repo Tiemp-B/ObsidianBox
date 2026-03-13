@@ -192,6 +192,8 @@
     - LOG
     - RETURN
 
+### 예제
+- `iptables -A INPUT -s 192.168.10.7 -d localhost -j DROP`
 
 
 
