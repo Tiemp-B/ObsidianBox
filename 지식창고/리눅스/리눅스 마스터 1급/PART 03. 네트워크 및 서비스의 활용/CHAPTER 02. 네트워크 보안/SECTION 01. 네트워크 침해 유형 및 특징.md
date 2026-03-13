@@ -25,7 +25,7 @@
 3. DNS Spoofing
     - DNS 요청에 위조 정보를 응답
     - 변조된 악의적 서비스로 접근 유도
-## DoS/DDoS
+## DoS
 ### DoS의 개념
 - Denial of Service
 - 공격 대상의 취약점을 공격하여 과도한 부하 발생시키는 가용성 침해 공격
@@ -57,8 +57,12 @@
 8. NTP 증폭 공격
     - monlist 요청 방식을 악용한 DDoS
     - 공격자의 적은 패킷이 증폭되어 공격 대상에게 전송
+## DDoS
+Distributed DoS
+### DDoS 개념
+- 공격을 위한 에이전트를 분산된 시스템에 배치 후 동시 공격
+- Agent에 명령을 내리
 
-### DDoS
 
 
 
