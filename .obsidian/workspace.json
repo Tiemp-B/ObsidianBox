@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
+                "file": "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 01. 네트워크 침해 유형 및 특징.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SECTION 04. 메일 관련 서비스"
+              "title": "SECTION 01. 네트워크 침해 유형 및 특징"
             }
           },
           {
@@ -350,6 +350,10 @@
   },
   "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 01. 네트워크 침해 유형 및 특징.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/CHAPTER 02. 네트워크 보안.md",
+    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 07. 기타 서비스.md",
     "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
@@ -358,7 +362,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 06. 가상화 관리 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 05. DNS 관리 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/CHAPTER 01. 네트워크 서비스.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
     "Developer/국제 표준/RS-232.md",
     "지식창고/리눅스/리눅스 마스터 1급/NFS/NFS.md",
     "지식창고/리눅스/리눅스 마스터 1급/NFS",
@@ -378,15 +381,12 @@
     "Developer/Linux/01. 부트로더.md",
     "Developer/Linux/명령어/lastlog.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/PART 03. 네트워크 및 서비스의 활용.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용",
-    "Developer/Linux/명령어/last.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
     "Developer/네트워크/프로토콜",
     "Developer/네트워크/01. 프로토콜",
     "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 02. 장치관리",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 01. 일반 운영 관리",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
