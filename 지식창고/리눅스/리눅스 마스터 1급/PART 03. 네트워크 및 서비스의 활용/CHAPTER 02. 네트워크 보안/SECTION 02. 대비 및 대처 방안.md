@@ -83,7 +83,7 @@
     - source
     - direction
     - destination
-- 룰 옵션
+- 룰 옵션 분류
     - General
     - Payload
     - non-payload
