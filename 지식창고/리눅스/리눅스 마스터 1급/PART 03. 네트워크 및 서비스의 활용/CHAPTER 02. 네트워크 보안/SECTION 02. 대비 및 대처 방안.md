@@ -110,9 +110,15 @@
 - 최근은 firewalld를 기본 방화벽으로 하나 iptables로 상세하고 명확한 규칙 설정이 가능하다
 ### 패킷 흐름
 
+![[Pasted image 20260313192526.png]]
 
-
-
+## 구조
+### 종류
+- filter : 기본 테이블. 패킷 필터링 
+- nat
+- mangle
+- raw
+- security
 
 
 
