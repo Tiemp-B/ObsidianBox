@@ -196,5 +196,6 @@
 - `iptables -A INPUT -s 192.168.10.7 -d localhost -j DROP`
 - `iptables -A INPUT -p tcp -dport 10:100 -j DROP`
 ## 설정 정책 저장과 자동 적용
-iptables로 설정한 정보는 리부팅 시 제거되기에
+iptables로 설정한 정보는 리부팅 시 제거되기에 파일로 저장하고 부팅 시 재설정해야 한다
+- `iptables-sav`
 
