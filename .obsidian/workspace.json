@@ -51,18 +51,6 @@
             }
           },
           {
-            "id": "d72e325eec826283",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
-            }
-          },
-          {
             "id": "caecdf9836655b26",
             "type": "leaf",
             "state": {
@@ -220,7 +208,7 @@
             }
           },
           {
-            "id": "ebd4f19c1d319e59",
+            "id": "4d367dc18fb14649",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -360,7 +348,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d72e325eec826283",
+  "active": "caecdf9836655b26",
   "lastOpenFiles": [
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 02. 대비 및 대처 방안.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 07. 기타 서비스.md",
