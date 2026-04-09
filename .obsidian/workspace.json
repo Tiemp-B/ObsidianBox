@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "Developer/언어/Cpp/스마트 포인터.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f021eddd3038fdf",
