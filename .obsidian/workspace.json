@@ -58,7 +58,7 @@
               "state": {
                 "file": "Developer/언어/Cpp/스마트 포인터.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "스마트 포인터"
