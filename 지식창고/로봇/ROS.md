@@ -40,7 +40,7 @@ Ubuntu상에서 동작하며, 여러 기능들을 모듈화하고 서로 통신�
 7. 마스터
     - 노드들이 서로 찾을 수 있도록 돕는 중앙 등록소
     - roscore 명령어
-    - ROS2에서는 DDS(Data Distribution ㄴㄷㄱ퍛ㄷ) 기반으로 변경
+    - ROS2에서는 DDS(Data Distribution Service) 기반으로 변경
 
 ---
 
