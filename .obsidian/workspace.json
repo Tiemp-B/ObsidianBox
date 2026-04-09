@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사건일지/2026-04/청년수당.md",
+                "file": "지식창고/로봇/ROS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "청년수당"
+              "title": "ROS"
             }
           },
           {
@@ -350,8 +350,11 @@
   },
   "active": "caecdf9836655b26",
   "lastOpenFiles": [
-    "images/2026-1차 참여자 안내책자.pdf",
     "사건일지/2026-04/청년수당.md",
+    "지식창고/로봇/ROS.md",
+    "지식창고/로봇/로봇.md",
+    "지식창고/로봇",
+    "images/2026-1차 참여자 안내책자.pdf",
     "사건일지/2026-04/2026-04.md",
     "학습일지/2026-01/2026-01.md",
     "지식창고/리눅스/SAMBA/SAMBA란.md",
@@ -380,14 +383,11 @@
     "Developer/Linux/명령어/명령어.md",
     "Developer/Linux/명령어/chmod.md",
     "Developer/Linux/명령어/df.md",
-    "Developer/CS/03. OS/시스템 콜.md",
     "지식창고/리눅스/SAMBA/명령어",
     "지식창고/리눅스/SAMBA",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 02. 리눅스 시스템 관리/CHAPTER 03. 시스템 보안 및 관리",
     "images/Pasted image 20260306180752.png",
-    "Developer/네트워크/프로토콜",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
