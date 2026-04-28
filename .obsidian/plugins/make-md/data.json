@@ -135,10 +135,11 @@
     "//학습일지",
     "//학습일지/학습일지/2026-02",
     "//사건일지/사건일지/2026-04",
-    "//지식창고",
     "//Developer",
-    "//Developer/Developer/언어",
-    "//Developer/Developer/언어/Developer/언어/Cpp"
+    "//Developer/Developer/언어/Developer/언어/Cpp",
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/10. 수학"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
