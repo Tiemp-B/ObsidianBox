@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사건일지/청년수당/2026.04.09-2026.05.29.md",
+                "file": "사건일지/2026-05/보안관리 LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.04.09-2026.05.29"
+              "title": "보안관리 LLM"
             }
           }
         ],
@@ -352,9 +352,12 @@
   },
   "active": "526e68ee29b3f1bf",
   "lastOpenFiles": [
+    "사건일지/2026-05/보안관리 LLM.md",
+    "사건일지/2026-05/2026-05.md",
+    "사건일지/청년수당/2026.04.09-2026.05.29.md",
+    "사건일지/2026-05",
     "images/Pasted image 20260430012348.png",
     "사건일지/청년수당/청년수당 팜플렛.md",
-    "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "사건일지/청년수당/청년수당.md",
     "사건일지/청년수당",
     "지식창고/클로드 안켜질 때.md",
@@ -387,9 +390,7 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 04. 메일 관련 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 03. 파일 관련 서비스.md",
-    "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "지식창고/리눅스/리눅스 마스터 1급/NFS",
-    "지식창고/리눅스/SAMBA/명령어",
     "images/Pasted image 20260306180752.png",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
@@ -397,7 +398,6 @@
     "images/Pasted image 20260122231525.png",
     "images/Pasted image 20260122231126.png",
     "images/Pasted image 20260122231105.png",
-    "images/Pasted image 20260122230944.png",
-    "images/Pasted image 20260112030712.png"
+    "images/Pasted image 20260122230944.png"
   ]
 }
