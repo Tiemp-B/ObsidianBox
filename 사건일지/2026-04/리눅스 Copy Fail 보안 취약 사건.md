@@ -23,5 +23,7 @@ AF_ALG는 커널의 암호화 서브시스템을 사용자 공간에서 접근�
                 |페이지 참조만 전달=복사 없음
 ```
 
-
+## authencesn
+Linux 커널 암호화 서브시스템의 AEAD(Authenticated Encryption with Associated Data) 래퍼 알고리즘.
+IPsec의 확장 시퀀스 번호(ESN) 지원을 윟
 
