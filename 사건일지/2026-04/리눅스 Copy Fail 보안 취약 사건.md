@@ -55,7 +55,10 @@ struct scatterlist{
 1. `/usr/bin/su` 관련 페이지들을 읽으며 page cache에 로드.
     - 이후 su 권한을 디스크가 아닌 page cache를 사용한다
 2. splice()로 page cache 페이지를 AF_ALG scatterlist에 넣음
-    1. s
+    1. 파이프 생성
+    2. splice(su_fd -> pipe) : su의 page cache 페이지가 파이프 버퍼에 참조로 연결
+    3. splice(pipe -> AF_ALG 소켓) : 참조를 거쳐 해당 페이지가 AF_ALG scatterlist에 연결됨
+    
 3. authencesn의 scratch write -> page cache에 4바이트 직접 기록
 4. execve("/usr/bin/su") -> OS가 page cache에서 로드
 5. 변조된 shellcode 실행 -> setuid 비트 -> root
