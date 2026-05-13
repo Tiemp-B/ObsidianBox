@@ -32,3 +32,6 @@ IPsec의 확장 시퀀스 번호(ESN) 지원을 위해 설계
 - authencesn : authenc의 ESN 버전
 - ESN : 64비트 확장 시퀀스 번호
 
+기존 authenc의 최적화를 위해 페이지 캐시를 scatterlist에 splice로 직접 연결하였고, 이로 인해 보안 문제가 발생하게 되었다.
+
+###
