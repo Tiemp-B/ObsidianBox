@@ -36,7 +36,14 @@ IPsec의 확장 시퀀스 번호(ESN) 지원을 위해 설계
 
 ## scatterlist
 물리적으로 비연속적인 메모리 영역을 논리적으로 하나의 연속된 버퍼처럼 표현하는 Linux 커널 자료 구조
-
+```c
+struct scatterlist{
+    unsigned long page_link;   // 페이지 포인터
+    unsigned int  offset;      // 페이지 내 오프셋
+    unsigned int  length;      // 데이터 길이
+    dma_addr_t    dma_address; // DMA 주소
+}
+```
 
 # 발동 방식
 ## 구조
