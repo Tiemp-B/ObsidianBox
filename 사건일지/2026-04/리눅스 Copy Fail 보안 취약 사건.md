@@ -52,4 +52,7 @@ struct scatterlist{
 3. 이를 4바이트 단위로 잘라 sendmsg()와 splice()를 반복
 
 ## 메모리 오염
-1. page cache에 /
+1. page cache에 `/usr/bin/su` 관련 페이지들이 등록
+2. splice()로 page cache 페이지를 AF_ALG scatterlist에 넣음
+3. authencesn의 scratch write -> page cache에 4바이트 직접 기록
+4. execve("/usr/bin/su") -> OS
