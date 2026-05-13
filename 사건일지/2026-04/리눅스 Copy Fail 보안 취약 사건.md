@@ -50,3 +50,6 @@ struct scatterlist{
 1. AF_ALG 소켓을 열어 authencesn 알고리즘에 바인딩.
 2. 타겟이 되는 `/usr/bin/su`등의 setuid 바이너리를 열어 그 페이지 캐시페이지를 splice로 소켓의 TX scatterlist에 주입
 3. 이를 4바이트 단위로 잘라 sendmsg()와 splice()를 반복
+
+## 메모리 오염
+1. page cache에 /
