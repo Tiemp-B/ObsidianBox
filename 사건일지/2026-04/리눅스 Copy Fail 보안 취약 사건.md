@@ -52,8 +52,10 @@ struct scatterlist{
 3. 이를 4바이트 단위로 잘라 sendmsg()와 splice()를 반복
 
 ## 메모리 오염과 루트 권한 획득 과정
-1. page cache에 `/usr/bin/su` 관련 페이지들이 등록
+1. `/usr/bin/su` 관련 페이지들을 읽으며 page cache에 로드.
+    - 이후 su 권한을 디스크가 아닌 page cache를 사용한다
 2. splice()로 page cache 페이지를 AF_ALG scatterlist에 넣음
+    1. s
 3. authencesn의 scratch write -> page cache에 4바이트 직접 기록
 4. execve("/usr/bin/su") -> OS가 page cache에서 로드
 5. 변조된 shellcode 실행 -> setuid 비트 -> root
