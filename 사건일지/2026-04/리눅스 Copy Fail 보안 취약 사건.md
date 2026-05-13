@@ -51,8 +51,9 @@ struct scatterlist{
 2. 타겟이 되는 `/usr/bin/su`등의 setuid 바이너리를 열어 그 페이지 캐시페이지를 splice로 소켓의 TX scatterlist에 주입
 3. 이를 4바이트 단위로 잘라 sendmsg()와 splice()를 반복
 
-## 메모리 오염
+## 메모리 오염과 루트 권한 획득 과정
 1. page cache에 `/usr/bin/su` 관련 페이지들이 등록
 2. splice()로 page cache 페이지를 AF_ALG scatterlist에 넣음
 3. authencesn의 scratch write -> page cache에 4바이트 직접 기록
-4. execve("/usr/bin/su") -> OS
+4. execve("/usr/bin/su") -> OS가 page cache에서 로드
+5. 변조된 shellcode 실행 -> setuid 비트 -> root
