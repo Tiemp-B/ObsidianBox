@@ -64,4 +64,5 @@ struct scatterlist{
     - scatterlist에 연결된 페이지 캐시에 4바이트 직접 기록
 4. execve("/usr/bin/su") -> OS가 page cache에서 로드
     1.
-5. 변조된 shellcode 실행 -> setuid 비트 -> root
+5. 변조된 shellcode 실행 -> setuid 비트 -> root 권한 획득
+6. 
