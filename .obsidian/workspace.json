@@ -77,9 +77,21 @@
               "icon": "lucide-file",
               "title": "2026.04.09-2026.05.29"
             }
+          },
+          {
+            "id": "415d7ba8b1698ef0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20260430012348.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260430012348"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "487018fb659e5535",
@@ -350,8 +362,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "526e68ee29b3f1bf",
+  "active": "415d7ba8b1698ef0",
   "lastOpenFiles": [
+    "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "사건일지/청년수당/청년수당.md",
     "사건일지/2026-04/리눅스 Copy Fail 보안 취약 사건.md",
     "사건일지/청년수당/청년수당 팜플렛.md",
@@ -361,7 +374,6 @@
     "사건일지/2026-04/2026-04.md",
     "사건일지/2026-05/보안관리 LLM.md",
     "사건일지/2026-05/2026-05.md",
-    "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "사건일지/2026-05",
     "images/Pasted image 20260430012348.png",
     "사건일지/청년수당",
