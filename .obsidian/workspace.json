@@ -82,12 +82,14 @@
             "id": "415d7ba8b1698ef0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20260430012348.png"
+                "file": "Developer/Linux/명령어/tar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260430012348"
+              "icon": "lucide-file",
+              "title": "tar"
             }
           }
         ],
@@ -364,6 +366,8 @@
   },
   "active": "415d7ba8b1698ef0",
   "lastOpenFiles": [
+    "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
+    "images/Pasted image 20260430012348.png",
     "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "사건일지/청년수당/청년수당.md",
     "사건일지/2026-04/리눅스 Copy Fail 보안 취약 사건.md",
@@ -375,7 +379,6 @@
     "사건일지/2026-05/보안관리 LLM.md",
     "사건일지/2026-05/2026-05.md",
     "사건일지/2026-05",
-    "images/Pasted image 20260430012348.png",
     "사건일지/청년수당",
     "지식창고/클로드 안켜질 때.md",
     "Developer/CS/02. 알고리즘/10. 수학/03. 소수 판별.md",
@@ -399,7 +402,6 @@
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안/SECTION 02. 대비 및 대처 방안.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 07. 기타 서비스.md",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/SECTION 01. 웹 관련 서비스.md",
-    "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 01. 네트워크 서비스/CHAPTER 01. 네트워크 서비스.md",
     "images/Pasted image 20260313192526.png",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
     "지식창고/리눅스/리눅스 마스터 1급/NFS",
