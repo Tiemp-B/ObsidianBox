@@ -222,7 +222,7 @@
             }
           },
           {
-            "id": "246bd8cc6d8532b7",
+            "id": "8790545a730dda2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -362,7 +362,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4c19c58b9ac8c17",
+  "active": "180c6af876308dec",
   "lastOpenFiles": [
     "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/명령어.md",
