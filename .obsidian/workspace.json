@@ -6,7 +6,7 @@
       {
         "id": "18d355444d973c06",
         "type": "tabs",
-        "dimension": 81.80653427290198,
+        "dimension": 54.452274183215884,
         "children": [
           {
             "id": "ff7105c001c3f49e",
@@ -98,7 +98,7 @@
       {
         "id": "487018fb659e5535",
         "type": "tabs",
-        "dimension": 18.193465727098015,
+        "dimension": 45.547725816784116,
         "children": [
           {
             "id": "1610ab05b8d5132c",
@@ -224,7 +224,7 @@
             }
           },
           {
-            "id": "8790545a730dda2a",
+            "id": "a9b2b8edd6c50366",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -364,7 +364,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "415d7ba8b1698ef0",
+  "active": "a9b2b8edd6c50366",
   "lastOpenFiles": [
     "Developer/Linux/명령어/usermod.md",
     "Developer/Linux/명령어/명령어.md",

@@ -9,8 +9,8 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-local-rest-api",
   "mcp-tools",
   "templater-obsidian",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "obsidian-local-rest-api"
 ]
