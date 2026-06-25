@@ -82,12 +82,14 @@
             "id": "415d7ba8b1698ef0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Developer/Linux/명령어"
+                "file": "Developer/Linux/명령어/usermod.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "명령어"
+              "title": "usermod"
             }
           }
         ],
@@ -362,10 +364,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "180c6af876308dec",
+  "active": "415d7ba8b1698ef0",
   "lastOpenFiles": [
-    "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/명령어.md",
+    "Developer/Linux/명령어/chgrp.md",
     "Developer/Linux/명령어/tar.md",
     "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
     "images/Pasted image 20260430012348.png",
