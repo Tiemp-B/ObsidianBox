@@ -224,7 +224,7 @@
             }
           },
           {
-            "id": "a9b2b8edd6c50366",
+            "id": "b07e355004249706",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -364,7 +364,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9b2b8edd6c50366",
+  "active": "b07e355004249706",
   "lastOpenFiles": [
     "Developer/Linux/명령어/usermod.md",
     "Developer/Linux/명령어/명령어.md",
