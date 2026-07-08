@@ -82,14 +82,12 @@
             "id": "415d7ba8b1698ef0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/자동제어/PID 제어.md",
-                "mode": "source",
-                "source": false
+                "path": "지식창고/Box"
               },
               "icon": "lucide-file",
-              "title": "PID 제어"
+              "title": "Box"
             }
           }
         ],
@@ -364,8 +362,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "415d7ba8b1698ef0",
+  "active": "b07e355004249706",
   "lastOpenFiles": [
+    "지식창고/Box/Box.md",
+    "Developer/자동제어/PID 제어.md",
     "Developer/자동제어/자동제어.md",
     "Developer/Linux/02. 파티션.md",
     "Developer/Linux/명령어/usermod.md",
@@ -396,10 +396,8 @@
     "지식창고/로봇/ROS.md",
     "Developer/언어/C/C.md",
     "Developer/언어/C",
-    "지식창고/로봇/로봇.md",
     "지식창고/로봇",
     "images/2026-1차 참여자 안내책자.pdf",
-    "학습일지/2026-01/2026-01.md",
     "사건일지/2026-04",
     "사건일지",
     "images/Pasted image 20260313192526.png",
