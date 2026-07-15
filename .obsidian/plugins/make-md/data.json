@@ -91,7 +91,6 @@
     "//Developer/Developer/CS/Developer/CS/04. 컴퓨터 구조/Developer/CS/04. 컴퓨터 구조/03. 네트워크",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어/Developer/CS/01. 프로그래밍/언어/C",
     "//Developer/Developer/CS/Developer/CS/01. 프로그래밍/Developer/CS/01. 프로그래밍/언어",
-    "//Developer/Developer/CS/Developer/CS/12. 확장 분야",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/장애대응",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/임베디드 소프트웨어",
     "//Developer/Developer/임베디드기사 기출/Developer/임베디드기사 기출/재분류/Developer/임베디드기사 기출/재분류/임베디드 플랫폼",
@@ -139,7 +138,9 @@
     "//학습일지/학습일지/2026-01",
     "//학습일지/학습일지/2026-01/학습일지/2026-01/2026-01-28",
     "//사건일지/사건일지/청년수당",
-    "//Developer/Developer/자동제어"
+    "//Developer/Developer/CS",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘",
+    "//Developer/Developer/CS/Developer/CS/02. 알고리즘/Developer/CS/02. 알고리즘/10. 수학"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

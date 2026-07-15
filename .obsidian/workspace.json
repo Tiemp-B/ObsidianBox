@@ -82,12 +82,14 @@
             "id": "415d7ba8b1698ef0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "지식창고/Box"
+                "file": "Developer/CS/02. 알고리즘/10. 수학/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Box"
+              "title": "Untitled"
             }
           }
         ],
@@ -362,8 +364,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b07e355004249706",
+  "active": "415d7ba8b1698ef0",
   "lastOpenFiles": [
+    "Developer/CS/02. 알고리즘/10. 수학/Untitled.md",
     "지식창고/Box/Box.md",
     "Developer/자동제어/PID 제어.md",
     "Developer/자동제어/자동제어.md",
@@ -394,7 +397,6 @@
     "Developer/언어/Cpp",
     "Developer/언어/Untitled.canvas",
     "지식창고/로봇/ROS.md",
-    "Developer/언어/C/C.md",
     "Developer/언어/C",
     "지식창고/로봇",
     "images/2026-1차 참여자 안내책자.pdf",
