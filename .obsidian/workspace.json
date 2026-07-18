@@ -84,16 +84,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/CS/02. 알고리즘/10. 수학/04. GCD.md",
+                "file": "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. GCD"
+              "title": "02. SQL 기본 문법"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "487018fb659e5535",
@@ -350,16 +350,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1610ab05b8d5132c",
+  "active": "526e68ee29b3f1bf",
   "lastOpenFiles": [
-    "Developer/CS/08. 보안/02. 네트워크 공격.md",
+    "Developer/CS/06. 데이터베이스/01. 관계형 DB 구조와 키.md",
+    "Developer/CS/02. 알고리즘/10. 수학/04. GCD.md",
     "Developer/CS/08. 보안/06. 보안 프로토콜.md",
+    "Developer/CS/08. 보안/02. 네트워크 공격.md",
     "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
     "Developer/CS/08. 보안/05. 사회공학 · APT.md",
     "Developer/CS/08. 보안/04. 악성코드.md",
     "Developer/CS/08. 보안/03. 시스템 · 인증 공격.md",
     "Developer/CS/08. 보안/01. 웹 · 애플리케이션 공격.md",
-    "Developer/CS/06. 데이터베이스/01. 관계형 DB 구조와 키.md",
     "Developer/CS/06. 데이터베이스/데이터베이스.md",
     "지식창고/리눅스/SAMBA/명령어/smbpasswd.md",
     "Developer/CS/06. 데이터베이스/07. 정규화.md",
@@ -367,7 +368,6 @@
     "Developer/CS/06. 데이터베이스/05. 빅데이터 · NoSQL · 데이터 마이닝.md",
     "Developer/CS/06. 데이터베이스/04. DB 암호화.md",
     "Developer/CS/06. 데이터베이스/03. 제약조건 (CONSTRAINT).md",
-    "Developer/CS/02. 알고리즘/10. 수학/04. GCD.md",
     "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "지식창고/Box/Box.md",
     "Developer/자동제어/PID 제어.md",
