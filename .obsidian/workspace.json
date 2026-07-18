@@ -68,14 +68,12 @@
             "id": "1610ab05b8d5132c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
-                "mode": "preview",
-                "source": false
+                "path": "Developer/CS/08. 보안"
               },
               "icon": "lucide-file",
-              "title": "02. SQL 기본 문법"
+              "title": "08. 보안"
             }
           },
           {
@@ -352,6 +350,7 @@
   },
   "active": "1610ab05b8d5132c",
   "lastOpenFiles": [
+    "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
     "Developer/CS/08. 보안/05. 사회공학 · APT.md",
     "Developer/CS/08. 보안/04. 악성코드.md",
     "Developer/CS/08. 보안/03. 시스템 · 인증 공격.md",
@@ -365,7 +364,6 @@
     "Developer/CS/06. 데이터베이스/05. 빅데이터 · NoSQL · 데이터 마이닝.md",
     "Developer/CS/06. 데이터베이스/04. DB 암호화.md",
     "Developer/CS/06. 데이터베이스/03. 제약조건 (CONSTRAINT).md",
-    "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
     "Developer/CS/02. 알고리즘/10. 수학/04. GCD.md",
     "사건일지/청년수당/2026.04.09-2026.05.29.md",
     "지식창고/Box/Box.md",
