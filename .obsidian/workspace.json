@@ -82,14 +82,12 @@
             "id": "526e68ee29b3f1bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
-                "mode": "preview",
-                "source": false
+                "path": "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어"
               },
               "icon": "lucide-file",
-              "title": "02. SQL 기본 문법"
+              "title": "로봇운영소프트웨어"
             }
           }
         ],
@@ -350,13 +348,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "526e68ee29b3f1bf",
+  "active": "fb8f0ea914c87979",
   "lastOpenFiles": [
+    "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어/로봇운영소프트웨어.md",
+    "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어",
+    "지식창고/로봇소프트웨어개발기사/로봇소프트웨어개발기사.md",
+    "지식창고/로봇소프트웨어개발기사/로봇.md",
+    "지식창고/지식창고.md",
+    "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
     "Developer/CS/06. 데이터베이스/01. 관계형 DB 구조와 키.md",
     "Developer/CS/02. 알고리즘/10. 수학/04. GCD.md",
     "Developer/CS/08. 보안/06. 보안 프로토콜.md",
     "Developer/CS/08. 보안/02. 네트워크 공격.md",
-    "Developer/CS/06. 데이터베이스/02. SQL 기본 문법.md",
     "Developer/CS/08. 보안/05. 사회공학 · APT.md",
     "Developer/CS/08. 보안/04. 악성코드.md",
     "Developer/CS/08. 보안/03. 시스템 · 인증 공격.md",
@@ -374,23 +377,18 @@
     "Developer/자동제어/자동제어.md",
     "Developer/Linux/02. 파티션.md",
     "Developer/Linux/명령어/usermod.md",
-    "Developer/Linux/명령어/명령어.md",
-    "Developer/Linux/명령어/chgrp.md",
-    "Developer/Linux/명령어/tar.md",
-    "Developer/CS/01. 프로그래밍/01. 프로그래밍.md",
     "images/Pasted image 20260430012348.png",
     "사건일지/2026-05",
     "사건일지/청년수당",
     "Developer/언어/Cpp",
     "Developer/언어/Untitled.canvas",
     "Developer/언어/C",
-    "지식창고/로봇",
+    "지식창고/로봇소프트웨어개발기사",
     "images/2026-1차 참여자 안내책자.pdf",
     "사건일지/2026-04",
     "사건일지",
     "images/Pasted image 20260313192526.png",
     "지식창고/리눅스/리눅스 마스터 1급/PART 03. 네트워크 및 서비스의 활용/CHAPTER 02. 네트워크 보안",
-    "지식창고/리눅스/리눅스 마스터 1급/NFS",
     "images/Pasted image 20260306180752.png",
     "images/Pasted image 20260122232754.png",
     "images/Pasted image 20260122232740.png",
