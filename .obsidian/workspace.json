@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "b55cb63da042e6c6",
+            "id": "6dcedd394769c66e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -270,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b55cb63da042e6c6",
+  "active": "6dcedd394769c66e",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/모션소프트웨어/로봇소프트웨어개발기사_필기_3과목_문제은행_1.json",
     "지식창고/로봇소프트웨어개발기사/모션소프트웨어",
