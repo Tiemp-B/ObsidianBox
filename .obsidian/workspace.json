@@ -62,21 +62,9 @@
               "icon": "lucide-file",
               "title": "청년수당 팜플렛"
             }
-          },
-          {
-            "id": "1610ab05b8d5132c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "지식창고/로봇소프트웨어개발기사/로봇소프트웨어구조설계"
-              },
-              "icon": "lucide-file",
-              "title": "로봇소프트웨어구조설계"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 419.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -270,7 +258,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6dcedd394769c66e",
+  "active": "12722f53561fd3eb",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/지능소프트웨어/로봇소프트웨어개발기사_필기_4과목_문제은행_1.json",
     "지식창고/로봇소프트웨어개발기사/지능소프트웨어",
