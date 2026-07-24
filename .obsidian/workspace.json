@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,11 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18e958787d0933d0",
+  "active": "9fb34c6cdcd9a366",
   "lastOpenFiles": [
+    "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/1. 로봇제어기.md",
     "지식창고/Box/WCET(Worst Case Execution Time).md",
     "지식창고/Box/우선순위 역전(Priority Inversion).md",
-    "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/1. 로봇제어기.md",
     "지식창고/Box/인터럽트 서비스 루틴(ISR).md",
     "지식창고/리눅스/계정에 sudo 권한 부여.md",
     "지식창고/로봇소프트웨어개발기사/로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/2. 실시간 운영체제와 스케줄링.md",
