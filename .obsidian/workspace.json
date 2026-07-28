@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/5. 스트림 처리(Stream Processing)와 실시간 데이터 파이프라인.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -215,7 +215,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "178d1f2dfab08d32",
+  "active": "ff7105c001c3f49e",
   "lastOpenFiles": [
     "Developer/국제 표준/RS-232.md",
     "지식창고/로봇소프트웨어개발기사/4.지능소프트웨어/3. 로봇 센서 인터페이스 개발/3. 로봇 센서 드라이버 구현/2. 로봇센서 드라이버 구현/2. 로봇센서 드라이버 구현.md",
