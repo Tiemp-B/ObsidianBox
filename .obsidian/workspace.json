@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/1. MQTT·WebSocket과 실시간 모니터링 통신.md",
-                "mode": "source",
+                "file": "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/3. 외부 툴과의 동기화 소프트웨어 개발/1. 로봇 원격제어기 인터페이스/2. ROS와 Publisher-Subscriber 모델.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. MQTT·WebSocket과 실시간 모니터링 통신"
+              "title": "2. ROS와 Publisher-Subscriber 모델"
             }
           }
         ]
@@ -217,6 +217,7 @@
   },
   "active": "ff7105c001c3f49e",
   "lastOpenFiles": [
+    "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/1. MQTT·WebSocket과 실시간 모니터링 통신.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/2. 서버 연동 소프트웨어 개발/1. 서버 프로그램/1. 서버 프로그램.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/3. 외부 툴과의 동기화 소프트웨어 개발/1. 로봇 원격제어기 인터페이스/1. 원격제어 통신 프로토콜 개요.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/3. 외부 툴과의 동기화 소프트웨어 개발/1. 로봇 원격제어기 인터페이스/2. ROS와 Publisher-Subscriber 모델.md",
@@ -239,7 +240,6 @@
     "지식창고/Box/Prepared Statement(매개변수화된 쿼리).md",
     "지식창고/Box/MITM(Man-In-The-Middle).md",
     "지식창고/Box/DDoS(Distributed Denial of Service).md",
-    "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/1. MQTT·WebSocket과 실시간 모니터링 통신.md",
     "지식창고/Box/인증(Authentication).md",
     "지식창고/Box/인가(Authorization).md",
     "지식창고/Box/CIA 트라이어드(CIA Triad).md",
