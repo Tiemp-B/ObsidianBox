@@ -4,3 +4,39 @@ tags:
   - 로봇소프트웨어개발기사
   - 로봇응용
 ---
+
+# Summary
+
+CoAP은 메모리·연산 능력이 제한된 IoT 장치를 위해 설계된 **경량 애플리케이션 계층 프로토콜**로, HTTP와 비슷한 REST 방식을 쓰면서도 UDP 위에서 동작해 오버헤드를 줄인다.
+
+---
+
+<div class="cues-header">Cues</div>
+
+# Notes
+
+<aside>CoAP의 설계 목적과 특징</aside>
+
+- HTTP처럼 GET/POST/PUT/DELETE 같은 [[REST API(Representational State Transfer)]] 방식의 메서드를 사용해 개발자에게 익숙함
+- [[TCP_IP\|TCP]] 대신 [[UDP]] 위에서 동작해 연결 설정 오버헤드를 없애고, 헤더 크기도 HTTP보다 훨씬 작게 설계됨 — 저전력·저용량 IoT 장치에 적합
+- 신뢰성이 필요한 메시지는 CoAP 자체의 재전송 메커니즘으로 일부 보완함
+
+"CoAP은 HTTP와 동일하게 TCP 위에서 동작하며 헤더 구조도 HTTP와 완전히 같다"라는 서술은 오답이다 — CoAP의 핵심 차별점은 오히려 **UDP 기반의 경량 헤더**로 제한된 IoT 장치의 자원 소모를 줄이는 것이다.
+
+<aside>다른 IoT 프로토콜과의 비교</aside>
+
+CoAP은 REST 방식(요청-응답)의 경량화에 초점을 둔 반면, [[MQTT]]는 [[발행-구독 모델(Publish-Subscribe)]] 방식으로 다대다 메시지 배포에 초점을 둔다 — 둘 다 IoT 경량 프로토콜이지만 통신 모델 자체가 다르다.
+
+---
+
+<aside>핵심 정리</aside>
+
+- CoAP은 UDP 기반의 경량 REST 스타일 프로토콜로, 제한된 IoT 장치를 위해 설계됐다
+- TCP 기반 HTTP와 달리 헤더가 훨씬 작고, MQTT(발행-구독)와는 통신 모델 자체가 다르다
+
+---
+
+<aside>관련 노트</aside>
+
+- 원 페이지: [[2. CoAP와 경량 IoT 프로토콜]]
+- 관련: [[MQTT]], [[REST API(Representational State Transfer)]], [[UDP]]
