@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -215,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "921688ec7ff77288",
+  "active": "b61ea33da8d651ac",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/1. 로봇 공간 및 운동해석/4. 로봇 역기구학 해석/2. 역기구학 해의 특징(닫힌 형태·수치 해법).md",
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/1. 로봇 공간 및 운동해석/4. 로봇 역기구학 해석/1. 로봇 역기구학 해석 개요.md",
