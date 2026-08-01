@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0864bb9e242193da",
+        "id": "4fd56f867e3935a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b61ea33da8d651ac",
+            "id": "65f6a8a7251d1803",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "921688ec7ff77288",
+            "id": "9b5c95cb68f56d8b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 271.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -211,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "921688ec7ff77288",
+  "active": "9b5c95cb68f56d8b",
   "lastOpenFiles": [
     "지식창고/로봇하드웨어개발기사/자료/문제모음.md",
     "지식창고/로봇하드웨어개발기사/로봇하드웨어개발기사 - 출제기준.pdf",
