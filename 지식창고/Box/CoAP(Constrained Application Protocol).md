@@ -18,7 +18,7 @@ CoAP은 메모리·연산 능력이 제한된 IoT 장치를 위해 설계된 **�
 <aside>CoAP의 설계 목적과 특징</aside>
 
 - HTTP처럼 GET/POST/PUT/DELETE 같은 [[REST API(Representational State Transfer)]] 방식의 메서드를 사용해 개발자에게 익숙함
-- [[TCP_IP\|TCP]] 대신 [[UDP]] 위에서 동작해 연결 설정 오버헤드를 없애고, 헤더 크기도 HTTP보다 훨씬 작게 설계됨 — 저전력·저용량 IoT 장치에 적합
+- [[TCP_IP|TCP]] 대신 [[UDP]] 위에서 동작해 연결 설정 오버헤드를 없애고, 헤더 크기도 HTTP보다 훨씬 작게 설계됨 — 저전력·저용량 IoT 장치에 적합
 - 신뢰성이 필요한 메시지는 CoAP 자체의 재전송 메커니즘으로 일부 보완함
 
 "CoAP은 HTTP와 동일하게 TCP 위에서 동작하며 헤더 구조도 HTTP와 완전히 같다"라는 서술은 오답이다 — CoAP의 핵심 차별점은 오히려 **UDP 기반의 경량 헤더**로 제한된 IoT 장치의 자원 소모를 줄이는 것이다.
