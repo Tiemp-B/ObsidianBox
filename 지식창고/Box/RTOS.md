@@ -40,5 +40,5 @@ RTOS(실시간 운영체제)는 작업을 빠르게 처리하는 것이 아니�
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[1. 로봇제어기]], [[2. 실시간 운영체제와 스케줄링]]
+- 원 페이지: [[1. 로봇 제어기 ]], [[2. 실시간 운영체제와 스케줄링]]
 - 관련: [[Rate Monotonic Scheduling]], [[Earliest Deadline First(EDF)]], [[FreeRTOS]], [[QNX]], [[VxWorks]]
