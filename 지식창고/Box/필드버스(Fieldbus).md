@@ -39,5 +39,5 @@ tags:
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[7. 로봇 제어기 통신 프로토콜 심화]], [[2. SCADA 구조와 산업용 모니터링 시스템]]
+- 원 페이지: [[7. 로봇 제어기 통신 프로토콜 심화]], [[3. SCADA 구조와 산업용 모니터링 시스템]]
 - 관련: [[CAN(Controller Area Network)]], [[Modbus]], [[EtherCAT]], [[SCADA]]

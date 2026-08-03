@@ -38,5 +38,5 @@ tags:
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[3. 데이터 시각화와 알람(HMI)]]
+- 원 페이지: [[4. 데이터 시각화와 알람(HMI)]]
 - 관련: [[알람(Alarm)]], [[HMI(Human-Machine Interface)]]

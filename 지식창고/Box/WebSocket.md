@@ -39,5 +39,5 @@ WebSocket은 클라이언트와 서버 사이에 **하나의 연결을 계속 �
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[4. WebSocket과 실시간 통신]], [[4. WebSocket과 상태 동기화]], [[1. MQTT·WebSocket과 실시간 모니터링 통신]]
+- 원 페이지: [[4. WebSocket과 실시간 통신]], [[4. WebSocket과 상태 동기화]], [[2. MQTT·WebSocket과 실시간 모니터링 통신]]
 - 관련: [[AJAX(Asynchronous JavaScript and XML)]], [[MQTT]], [[상태 동기화(State Synchronization)]]

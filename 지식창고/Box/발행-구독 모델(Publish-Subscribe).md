@@ -39,5 +39,5 @@ tags:
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[3. 통신 모델(발행-구독·요청-응답·액션)]], [[1. MQTT·WebSocket과 실시간 모니터링 통신]], [[2. CoAP와 경량 IoT 프로토콜]], [[3. ROS2와 DDS QoS]]
+- 원 페이지: [[3. 통신 모델(발행-구독·요청-응답·액션)]], [[2. MQTT·WebSocket과 실시간 모니터링 통신]], [[2. CoAP와 경량 IoT 프로토콜]], [[3. ROS2와 DDS QoS]]
 - 관련: [[ROS(Robot Operating System)]], [[MQTT]], [[요청-응답 모델(Request-Response)]]

@@ -39,5 +39,5 @@ PLC(프로그래머블 로직 컨트롤러)는 산업 현장의 스위치·센�
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[2. SCADA 구조와 산업용 모니터링 시스템]]
+- 원 페이지: [[3. SCADA 구조와 산업용 모니터링 시스템]]
 - 관련: [[SCADA]], [[DCS(Distributed Control System)]]

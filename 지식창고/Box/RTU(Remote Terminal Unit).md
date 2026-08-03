@@ -39,5 +39,5 @@ SCADA 시스템은 현장의 RTU·PLC로부터 데이터를 수집해 중앙에�
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[2. SCADA 구조와 산업용 모니터링 시스템]]
+- 원 페이지: [[3. SCADA 구조와 산업용 모니터링 시스템]]
 - 관련: [[SCADA]], [[PLC(Programmable Logic Controller)]]

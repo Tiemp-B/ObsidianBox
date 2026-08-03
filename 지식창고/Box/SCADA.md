@@ -41,5 +41,5 @@ SCADA는 현장 제어 로직 자체를 직접 수행하기보다, **현장 장�
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[2. SCADA 구조와 산업용 모니터링 시스템]], [[3. 데이터 시각화와 알람(HMI)]], [[7. 로봇 제어기 통신 프로토콜 심화]]
+- 원 페이지: [[3. SCADA 구조와 산업용 모니터링 시스템]], [[4. 데이터 시각화와 알람(HMI)]], [[7. 로봇 제어기 통신 프로토콜 심화]]
 - 관련: [[PLC(Programmable Logic Controller)]], [[RTU(Remote Terminal Unit)]], [[HMI(Human-Machine Interface)]], [[DCS(Distributed Control System)]]

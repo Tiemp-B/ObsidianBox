@@ -39,5 +39,5 @@ tags:
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[5. 스트림 처리(Stream Processing)와 실시간 데이터 파이프라인]]
+- 원 페이지: [[6. 스트림 처리(Stream Processing)와 실시간 데이터 파이프라인]]
 - 관련: [[스트림 처리(Stream Processing)]]
