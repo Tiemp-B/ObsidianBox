@@ -6,7 +6,7 @@
       {
         "id": "370bf298442c65fb",
         "type": "tabs",
-        "dimension": 45.58638083228247,
+        "dimension": 33.669609079445145,
         "children": [
           {
             "id": "8df5c3fe07ec2444",
@@ -27,7 +27,7 @@
       {
         "id": "d7ff6983f5765f9b",
         "type": "tabs",
-        "dimension": 54.41361916771753,
+        "dimension": 66.33039092055486,
         "children": [
           {
             "id": "68d97ddfc0d5d4e9",
@@ -36,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/1. 로봇 제어기.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -237,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "637339753947c0f7",
+  "active": "68d97ddfc0d5d4e9",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/1. 로봇 제어기 특성 개요.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/1. 로봇 제어기 특성.md",
