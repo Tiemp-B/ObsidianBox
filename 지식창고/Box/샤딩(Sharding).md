@@ -39,4 +39,4 @@ tags:
 <aside>관련 노트</aside>
 
 - 원 페이지: [[4. 데이터 마이닝과 샤딩]]
-- 관련: [[데이터 마이닝(Data Mining)]], [[로드밸런싱(Load Balancing)]]
+- 관련: [[데이터 마이닝(Data Mining)]], [[로드밸런싱(Load Balancing)]], [[일관 해싱(Consistent Hashing)]]
