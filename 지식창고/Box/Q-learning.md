@@ -42,4 +42,4 @@ Q-learning은 강화학습의 핵심 요소(상태·행동·보상·정책)를 �
 <aside>관련 노트</aside>
 
 - 원 페이지: [[3. 강화학습 심화]]
-- 관련: [[강화학습(Reinforcement Learning)]]
+- 관련: [[강화학습(Reinforcement Learning)]], [[탐색-활용 트레이드오프(Exploration-Exploitation Tradeoff)]], [[정책 경사(Policy Gradient)]]
