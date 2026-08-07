@@ -40,4 +40,4 @@ MQTT는 **브로커를 중심으로 한 발행-구독(Publish-Subscribe) 모델*
 <aside>관련 노트</aside>
 
 - 원 페이지: [[2. MQTT·WebSocket과 실시간 모니터링 통신]], [[1. 로봇 제어기 ]], [[3. SCADA 구조와 산업용 모니터링 시스템]]
-- 관련: [[발행-구독 모델(Publish-Subscribe)]], [[CoAP(Constrained Application Protocol)]], [[QoS(Quality of Service)]]
+- 관련: [[발행-구독 모델(Publish-Subscribe)]], [[CoAP(Constrained Application Protocol)]], [[QoS(Quality of Service)]], [[MQTT-SN(MQTT for Sensor Networks)]]

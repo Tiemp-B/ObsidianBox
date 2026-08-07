@@ -41,4 +41,4 @@ tags:
 <aside>관련 노트</aside>
 
 - 원 페이지: [[3. 베이즈 필터와 칼만 필터]], [[4. 센서 데이터 융합(Sensor Fusion)]], [[6. 센서 피드백과 신호처리]], [[5. 데이터 로깅과 이상치 탐지]], [[2. 센서 성능 지표(분해능·IMU 드리프트)]]
-- 관련: [[이동평균 필터(Moving Average Filter)]], [[센서 데이터 융합(Sensor Fusion)]], [[추측항법(Dead Reckoning)]], [[IMU(Inertial Measurement Unit)]]
+- 관련: [[이동평균 필터(Moving Average Filter)]], [[센서 데이터 융합(Sensor Fusion)]], [[추측항법(Dead Reckoning)]], [[IMU(Inertial Measurement Unit)]], [[상보 필터(Complementary Filter)]]
