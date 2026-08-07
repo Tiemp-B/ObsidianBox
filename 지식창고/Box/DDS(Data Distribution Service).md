@@ -17,7 +17,7 @@ DDS(Data Distribution Service)는 [[UDP]] 위에서 동작하는 **발행-구독
 
 <aside>DDS의 핵심 특징</aside>
 
-- 중앙 브로커 서버 없이 발행자(Publisher)와 구독자(Subscriber)가 **네트워크상에서 서로를 자동으로 찾아 직접 연결**하는 탈중앙 구조(Discovery)
+- 중앙 브로커 서버 없이 발행자(Publisher)와 구독자(Subscriber)가 **네트워크상에서 서로를 자동으로 찾아 직접 연결**하는 탈중앙 구조(Discovery) — 표준이 규정하는 **SDP(Simple Discovery Protocol)** 라는 완전한 P2P 탐색 프로토콜로, 보통 멀티캐스트 메시지로 서로의 존재를 알려 상대를 찾음
 - 토픽별로 신뢰성(신뢰성 있게 재전송할지), 이력 깊이(과거 몇 개 메시지를 유지할지), 마감시한 등 세밀한 [[QoS(Quality of Service)]] 프로파일을 독립적으로 설정 가능
 - 주로 UDP 기반으로 지연시간을 최소화하면서, QoS 설정으로 필요한 만큼의 신뢰성을 확보
 
