@@ -28,6 +28,41 @@ tags:
 
 [[이동평균 필터(Moving Average Filter)]]는 저역통과 필터의 한 가지 간단한 구현 형태로 볼 수 있다 — 최근 값들을 평균 내는 것 자체가 급격한(고주파) 변화를 완화하는 효과를 낸다.
 
+<aside>의사코드</aside>
+
+```
+FUNCTION LowPassFilter(new_sample, alpha, prev_output):
+    output = alpha * new_sample + (1 - alpha) * prev_output
+    RETURN output
+```
+
+<aside>C 구현 예시</aside>
+
+```c
+typedef struct {
+    float alpha;      // 0~1, 클수록 최신 값 반영 비중이 큼(=필터링 약함)
+    float prev_output;
+    int initialized;
+} LowPassFilter;
+
+void lpf_init(LowPassFilter *f, float alpha) {
+    f->alpha = alpha;
+    f->initialized = 0;
+}
+
+float lpf_update(LowPassFilter *f, float new_sample) {
+    if (!f->initialized) {
+        f->prev_output = new_sample;
+        f->initialized = 1;
+        return new_sample;
+    }
+    // y[n] = alpha * x[n] + (1 - alpha) * y[n-1]
+    f->prev_output = f->alpha * new_sample + (1.0f - f->alpha) * f->prev_output;
+    return f->prev_output;
+}
+```
+가장 흔히 쓰이는 1차 IIR(지수가중이동평균) 형태로, alpha가 작을수록 노이즈 제거는 강해지지만 지연도 커진다.
+
 ---
 
 <aside>핵심 정리</aside>
