@@ -28,6 +28,51 @@ tags:
 
 단순히 잡음을 완화하는 목적이면 계산이 간단한 이동평균 필터로 충분하지만, 시스템의 운동을 예측하며 정밀한 상태 추정이 필요하면(예: 위치·속도 동시 추정) 칼만 필터가 더 적합하다 — 이 선택 기준이 두 필터를 구분하는 핵심 포인트다.
 
+<aside>의사코드</aside>
+
+```
+FUNCTION MovingAverage(new_sample):
+    buffer[index] = new_sample
+    index = (index + 1) mod WINDOW_SIZE
+    IF count < WINDOW_SIZE:
+        count = count + 1
+    average = SUM(buffer[0 .. count-1]) / count
+    RETURN average
+```
+
+<aside>C 구현 예시</aside>
+
+```c
+#define WINDOW_SIZE 5
+
+typedef struct {
+    float buffer[WINDOW_SIZE];
+    int index;
+    int count;
+    float sum;
+} MovingAverageFilter;
+
+void ma_init(MovingAverageFilter *f) {
+    f->index = 0;
+    f->count = 0;
+    f->sum = 0.0f;
+}
+
+float ma_update(MovingAverageFilter *f, float new_sample) {
+    if (f->count == WINDOW_SIZE) {
+        f->sum -= f->buffer[f->index];   // 가장 오래된 값 제거
+    } else {
+        f->count++;
+    }
+    f->buffer[f->index] = new_sample;
+    f->sum += new_sample;
+    f->index = (f->index + 1) % WINDOW_SIZE;
+
+    return f->sum / f->count;             // 현재 윈도우 평균
+}
+```
+원형 버퍼(circular buffer)로 최근 N개 값만 유지하며, 매 호출마다 합계를 갱신해 O(1)로 평균을 계산한다.
+
 ---
 
 <aside>핵심 정리</aside>
