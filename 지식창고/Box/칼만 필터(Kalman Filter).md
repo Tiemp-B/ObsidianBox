@@ -29,6 +29,53 @@ tags:
 
 단순히 잡음만 완화하면 되는 상황은 [[이동평균 필터(Moving Average Filter)]]로 충분하지만, 시스템의 운동을 예측하며 여러 센서를 정밀하게 융합해야 하는 상황(위치 추정, IMU 융합 등)은 칼만 필터가 더 적합하다.
 
+<aside>의사코드</aside>
+
+```
+FUNCTION KalmanUpdate(measurement):
+    // 1) 예측 단계
+    p = p + q
+
+    // 2) 보정 단계
+    k = p / (p + r)
+    x = x + k * (measurement - x)
+    p = (1 - k) * p
+
+    RETURN x
+```
+
+<aside>C 구현 예시</aside>
+
+```c
+typedef struct {
+    float x;      // 상태 추정값(예: 위치)
+    float p;      // 추정 오차 공분산
+    float q;      // 프로세스 노이즈(모델 불확실성)
+    float r;      // 측정 노이즈(센서 불확실성)
+    float k;      // 칼만 이득
+} KalmanFilter1D;
+
+void kf_init(KalmanFilter1D *f, float initial_x, float q, float r) {
+    f->x = initial_x;
+    f->p = 1.0f;
+    f->q = q;
+    f->r = r;
+}
+
+float kf_update(KalmanFilter1D *f, float measurement) {
+    // 1) 예측(Prediction) 단계 — 등속 모델 가정, 별도 입력 없으면 x, p만 갱신
+    f->p = f->p + f->q;
+
+    // 2) 보정(Update) 단계
+    f->k = f->p / (f->p + f->r);                 // 칼만 이득
+    f->x = f->x + f->k * (measurement - f->x);    // 예측값과 측정값을 가중 결합
+    f->p = (1.0f - f->k) * f->p;                  // 오차 공분산 갱신
+
+    return f->x;
+}
+```
+가장 단순한 스칼라(1차원) 칼만 필터 예시로, `q`(모델 신뢰도)와 `r`(센서 신뢰도)의 상대적 크기에 따라 칼만 이득 `k`가 자동으로 예측값·측정값 중 더 신뢰할 쪽에 가중치를 싣는다.
+
 ---
 
 <aside>핵심 정리</aside>
