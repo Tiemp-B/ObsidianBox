@@ -58,6 +58,10 @@ FUNCTION LowPassFilter(new_sample, alpha, prev_output):
     RETURN output
 ```
 
+<aside>트레이드오프</aside>
+
+α 값이 작으면 신호 변화를 늦게 따라가며, 너무 크면 노이즈 감쇠 효과가 줄어든다.
+
 <aside>C 구현 예시</aside>
 
 ```c
