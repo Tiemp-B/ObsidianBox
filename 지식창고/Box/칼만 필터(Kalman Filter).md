@@ -63,7 +63,13 @@ FUNCTION KalmanUpdate(measurement):
     RETURN x
 ```
 
-
+다차원 버전
+```
+[표기]
+x : 상태 벡터 (n x 1)
+P : 오차 공분산 행렬 (n x n)
+A : 상태 전이 행렬 (다음 상태 = A * 현재 상)
+```
 
 <aside>C 구현 예시</aside>
 
