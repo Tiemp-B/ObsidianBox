@@ -39,7 +39,10 @@ P : 초기 오차 공분산
 [Repeat on Step]
 1) Predict
     x_pred = x_est
-    P_pred
+    P_pred = P + Q
+    
+2) Update
+    K = P_pred / (P_pred + R)
    
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
