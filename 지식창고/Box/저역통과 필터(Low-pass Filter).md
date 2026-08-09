@@ -22,6 +22,9 @@ tags:
 - 저역통과 필터는 이 저주파 성분(실제 신호)은 그대로 두고, 고주파 성분(노이즈)만 걸러내 **매끄러운 신호**를 얻음
 - 차단 주파수(cutoff frequency)를 낮게 설정할수록 더 많은 고주파 성분을 걸러내지만, 실제 신호의 빠른 변화까지 둔감하게 만들 위험도 커짐(지연 증가)
 
+```
+```
+
 <aside>이동평균 필터와의 관계</aside>
 
 [[이동평균 필터(Moving Average Filter)]]는 저역통과 필터의 한 가지 간단한 구현 형태로 볼 수 있다 — 최근 값들을 평균 내는 것 자체가 급격한(고주파) 변화를 완화하는 효과를 낸다.
@@ -29,6 +32,8 @@ tags:
 <aside>의사코드</aside>
 
 ```
+y[n] = α · x[n] + (1-α) · y[n-1]
+
 FUNCTION LowPassFilter(new_sample, alpha, prev_output):
     output = alpha * new_sample + (1 - alpha) * prev_output
     RETURN output
