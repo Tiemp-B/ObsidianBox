@@ -39,8 +39,8 @@ P = 초기 오차 공분산 // 추정 오차의 불확실성
 
 [Repeat on Step]
 1) Predict
-    x_pred = 
-    P_pred = P + Q
+    x_pred = A*x_est + B*u  // 등속 모델 시 A = 1, B = 0
+    P_pred = P + Q          // 불확실성 증가 Q는 프로세스 노이
     
 2) Update
     K = P_pred / (P_pred + R) 
