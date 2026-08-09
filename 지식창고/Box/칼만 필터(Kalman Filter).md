@@ -126,6 +126,8 @@ float kf_update(KalmanFilter1D *f, float measurement) {
 ```
 가장 단순한 스칼라(1차원) 칼만 필터 예시로, `q`(모델 신뢰도)와 `r`(센서 신뢰도)의 상대적 크기에 따라 칼만 이득 `k`가 자동으로 예측값·측정값 중 더 신뢰할 쪽에 가중치를 싣는다.
 
+
+
 ---
 
 <aside>핵심 정리</aside>
