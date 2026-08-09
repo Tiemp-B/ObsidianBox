@@ -85,7 +85,13 @@ P = P0
     x_pred = A @ x + B @ u
     P_pred = A @ P @ A.T + Q
     
-2) 보정       
+2) 보정
+   y = z - H @ x_pred
+   S = H @ P_pred @ H.T + R
+   K = P_pred @ H.T @ inv(S)
+   
+    x = x_pred + K @ 6
+    P = (I - K @ H) @ P_pred       
 ```
 
 <aside>C 구현 예시</aside>
