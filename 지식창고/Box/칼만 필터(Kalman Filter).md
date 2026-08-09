@@ -45,7 +45,8 @@ P = 초기 오차 공분산 // 추정 오차의 불확실성
 2) Update
     K = P_pred / (P_pred + R)  // 칼만 이득 계산 (R: 측정 노이즈)
     
-    x_est = x_pred + K + (z - x_pred)  // z : 새 측정값, (z - x_pred) : 잔차
+    x_est = x_pred + K * (z - x_pred)  // z : 새 측정값, (z - x_pred) : 잔차
+    P = (1 - K) * P_pred // 불확실성 감소
    
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
