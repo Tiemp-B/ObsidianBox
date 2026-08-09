@@ -39,7 +39,8 @@ P = 초기 오차 공분산 // 추정 오차의 불확실성
 
 [Repeat on Step]
 1) Predict
-    x_pred = A*x_est + B*u  // 등속 모델 시 A = 1, B = 0, u : 제어입력
+    x_pred = A*x_est + B*u  // u : 제어입력
+                            // 등속 모델 시 A = 1, B = 0 
                             // 자연스러운 시스템 동역학 -> A*x_est
                             // 외부에서 의도적으로 가하는 조작/입력 -> B*u
     P_pred = P + Q          // 불확실성 증가 Q : 프로세스 노이즈
@@ -61,6 +62,8 @@ FUNCTION KalmanUpdate(measurement):
 
     RETURN x
 ```
+
+
 
 <aside>C 구현 예시</aside>
 
