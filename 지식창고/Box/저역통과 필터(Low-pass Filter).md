@@ -48,19 +48,18 @@ gain 식
 - ω가 커질수록(고주파): 분모가 커지면서 `|H(ω)|`가 점점 작아짐 → **감쇠**
 - ω = π (나이퀴스트, 최고 주파수, 즉 매 샘플마다 부호가 뒤집히는 잡음)일 때 감쇠가 가장 큼
 
+<aside>트레이드오프</aside>
+
+α 값이 작으면 신호 변화를 늦게 따라가며, 너무 크면 노이즈 감쇠 효과가 줄어든다
+
 <aside>의사코드</aside>
 
 ```
-
-
 FUNCTION LowPassFilter(new_sample, alpha, prev_output):
     output = alpha * new_sample + (1 - alpha) * prev_output
     RETURN output
 ```
-
-<aside>트레이드오프</aside>
-
-α 값이 작으면 신호 변화를 늦게 따라가며, 너무 크면 노이즈 감쇠 효과가 줄어든다.
+. 
 
 <aside>C 구현 예시</aside>
 
