@@ -40,3 +40,4 @@ tags:
 
 - 원 페이지: [[2. 이득 여유(Gain Margin)]]
 - 관련: [[BIBO 안정성(BIBO Stability)]]
+- 관련: [[위상 여유(Phase Margin)]] — 항상 함께 확인해야 하는 짝 지표
