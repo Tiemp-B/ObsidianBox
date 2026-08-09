@@ -51,6 +51,10 @@ gain 식
 <aside>트레이드오프</aside>
 
 α 값이 작으면 신호 변화를 늦게 따라가며, 너무 크면 노이즈 감쇠 효과가 줄어든다
+α는 차단 주파수를 직접 결정하는 파라미터이며 관계식은 대략 다음과 같다.
+
+$$ \alpha \approx 2\pi \cdot f_c \cdot T_s $$
+
 
 <aside>의사코드</aside>
 
@@ -59,7 +63,6 @@ FUNCTION LowPassFilter(new_sample, alpha, prev_output):
     output = alpha * new_sample + (1 - alpha) * prev_output
     RETURN output
 ```
-. 
 
 <aside>C 구현 예시</aside>
 
