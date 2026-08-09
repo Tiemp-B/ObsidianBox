@@ -40,10 +40,12 @@ P = 초기 오차 공분산 // 추정 오차의 불확실성
 [Repeat on Step]
 1) Predict
     x_pred = A*x_est + B*u  // 등속 모델 시 A = 1, B = 0
-    P_pred = P + Q          // 불확실성 증가 Q는 프로세스 노이
+    P_pred = P + Q          // 불확실성 증가 Q : 프로세스 노이즈
     
 2) Update
-    K = P_pred / (P_pred + R) 
+    K = P_pred / (P_pred + R)  // 칼만 이득 계산 (R: 측정 노이즈)
+    
+    x_est = x_pred + K + (z - x_pred)  // z : 새 측정값, (z - x_pred) : 잔차
    
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
