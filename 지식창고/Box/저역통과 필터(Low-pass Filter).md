@@ -23,12 +23,19 @@ tags:
 - 차단 주파수(cutoff frequency)를 낮게 설정할수록 더 많은 고주파 성분을 걸러내지만, 실제 신호의 빠른 변화까지 둔감하게 만들 위험도 커짐(지연 증가)
 
 <aside>시간영역 관점</aside>
-새 출력 값은 
+```
+새 출력 값 = 새 측정값(x[n])과 직전 출력값(y[n-1])의 가중평균
+y[n] = α · x[n] + (1-α) · y[n-1]
+
+
+```
+
+
 
 <aside>의사코드</aside>
 
 ```
-y[n] = α · x[n] + (1-α) · y[n-1]
+
 
 FUNCTION LowPassFilter(new_sample, alpha, prev_output):
     output = alpha * new_sample + (1 - alpha) * prev_output
