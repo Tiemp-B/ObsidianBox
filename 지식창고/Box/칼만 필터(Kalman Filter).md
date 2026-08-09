@@ -31,18 +31,19 @@ tags:
 
 <aside>의사코드</aside>
 
+스칼라 버전
 ```
 [Initial]
-x_est : 초기 추정값 
-P : 초기 오차 공분산 
+x_est = 초기 추정값  // 상태 추정치
+P = 초기 오차 공분산 // 추정 오차의 불확실성
 
 [Repeat on Step]
 1) Predict
-    x_pred = x_est
+    x_pred = 
     P_pred = P + Q
     
 2) Update
-    K = P_pred / (P_pred + R)
+    K = P_pred / (P_pred + R) 
    
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
