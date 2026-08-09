@@ -32,6 +32,8 @@ tags:
 <aside>의사코드</aside>
 
 ```
+[]
+
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
     p = p + q
