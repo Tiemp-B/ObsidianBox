@@ -55,6 +55,7 @@ gain 식
 
 $$ \alpha \approx 2\pi \cdot f_c \cdot T_s $$
 
+실제 신호의 변화 속도(대역폭)보다 약간 위, 잡음 주파수보다는 훨씬 아래로 차단주파수를 지정하여 α를 역산한다
 
 <aside>의사코드</aside>
 
