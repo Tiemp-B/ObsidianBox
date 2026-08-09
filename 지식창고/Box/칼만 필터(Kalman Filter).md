@@ -32,7 +32,9 @@ tags:
 <aside>의사코드</aside>
 
 ```
-[]
+[Initial]
+x_est : 초기 추정값 
+P : 초기 오차 공분산 
 
 FUNCTION KalmanUpdate(measurement):
     // 1) 예측 단계
