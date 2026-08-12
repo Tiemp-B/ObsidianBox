@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "b988714a1c08daec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ISO 13849(기능안전 성능레벨)"
-            }
-          },
-          {
             "id": "43eb8808f2219a49",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "8. 안전 회로와 기능안전"
+            }
+          },
+          {
+            "id": "5cff24b54f5eeb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISO 13849(기능안전 성능레벨)"
             }
           },
           {
@@ -270,13 +270,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43eb8808f2219a49",
+  "active": "5cff24b54f5eeb6f",
   "lastOpenFiles": [
+    "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
     "images/Pasted image 20260812192607.png",
     "지식창고/Box/TMR(Triple Modular Redundancy).md",
     "지식창고/Box/SIL(Safety Integrity Level).md",
     "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
-    "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/7. 로봇 제어기 통신 프로토콜 심화.md",
     "지식창고/Box/가반하중(Payload).md",
     "지식창고/Box/센서 캘리브레이션(Sensor Calibration).md",
@@ -317,7 +317,6 @@
     "images/Pasted image 20260122232740.png",
     "images/Pasted image 20260122232523.png",
     "images/Pasted image 20260122231525.png",
-    "images/Pasted image 20260122231126.png",
-    "images/Pasted image 20260122231105.png"
+    "images/Pasted image 20260122231126.png"
   ]
 }
