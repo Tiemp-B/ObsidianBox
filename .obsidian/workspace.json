@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,13 +270,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cff24b54f5eeb6f",
+  "active": "43eb8808f2219a49",
   "lastOpenFiles": [
+    "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
     "images/Pasted image 20260812192607.png",
     "지식창고/Box/TMR(Triple Modular Redundancy).md",
     "지식창고/Box/SIL(Safety Integrity Level).md",
-    "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/7. 로봇 제어기 통신 프로토콜 심화.md",
     "지식창고/Box/가반하중(Payload).md",
     "지식창고/Box/센서 캘리브레이션(Sensor Calibration).md",
