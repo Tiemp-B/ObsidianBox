@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 557.5
   },
   "right": {
     "id": "6f021eddd3038fdf",
@@ -270,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43eb8808f2219a49",
+  "active": "d010d5987231e149",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
     "지식창고/Box/ISO 13849(기능안전 성능레벨).md",
