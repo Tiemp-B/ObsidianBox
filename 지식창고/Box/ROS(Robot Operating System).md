@@ -40,5 +40,5 @@ ROS는 [[OPRoS(Open Platform for Robotics Services)]]·[[OROCOS(Open Robot Contr
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[2. ROS 아키텍처(그래프·노드·마스터)]], [[1. 로봇 구성요소간 통신프로토콜 개요]], [[3. 통신 모델(발행-구독·요청-응답·액션)]], [[3. 로봇 운영체제의 종류]], [[1. 로봇 제어기 ]]
+- 원 페이지: [[2. ROS 아키텍처(그래프·노드·마스터)]], [[1. 로봇 구성요소간 통신프로토콜 개요]], [[3. 통신 모델(발행-구독·요청-응답·액션)]], [[3. 로봇 운영체제의 종류]], [[1. 로봇 제어기 특성 개요]]
 - 관련: [[발행-구독 모델(Publish-Subscribe)]], [[ROS Service]], [[ROS Action]], [[DDS(Data Distribution Service)]], [[Gazebo]]

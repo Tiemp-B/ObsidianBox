@@ -39,5 +39,5 @@ Rate Monotonic Scheduling(RMS)은 **주기가 짧은 작업일수록 고정된 �
 
 <aside>관련 노트</aside>
 
-- 원 페이지: [[1. 로봇 제어기 ]], [[2. 실시간 운영체제와 스케줄링]]
+- 원 페이지: [[1. 로봇 제어기 특성 개요]], [[2. 실시간 운영체제와 스케줄링]]
 - 관련: [[Earliest Deadline First(EDF)]], [[RTOS]]
