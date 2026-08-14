@@ -96,7 +96,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/Box/RS-232.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -299,11 +299,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32bad4dd6f52b8c6",
+  "active": "43eb8808f2219a49",
   "lastOpenFiles": [
+    "지식창고/Box/MQTT.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/2. MQTT·WebSocket과 실시간 모니터링 통신.md",
     "지식창고/Box/RS-232.md",
-    "지식창고/Box/MQTT.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/3. SCADA 구조와 산업용 모니터링 시스템.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/1. 로봇 제어기 특성/8. 안전 회로와 기능안전.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/1. 모니터링 툴 개발/2. 로봇 모니터링 프로그램/1. 로봇 모니터링 프로그램 개요.md",
