@@ -22,8 +22,6 @@ Wi-Fi는 근거리 무선랜(WLAN) 표준으로, [[Bluetooth]]보다 넓은 범�
 - Bluetooth보다 통신 범위가 넓고 대역폭이 커서 영상 스트리밍 같은 대용량 데이터 전송에 적합
 - 대신 Bluetooth보다 소비 전력이 크고, 다수 장치·전파 간섭이 있는 환경에서는 속도가 저하될 수 있음
 
-"Wi-Fi는 항상 Bluetooth보다 소비 전력이 적어 배터리로 장시간 동작해야 하는 초저전력 센서에 더 적합하다"라는 서술은 오답이다 — Wi-Fi의 핵심 트레이드오프는 오히려 **더 넓은 범위·대역폭을 제공하는 대신 Bluetooth보다 소비 전력이 크다**는 점이며, 초저전력 요구에는 Bluetooth나 [[LPWAN(Low Power Wide Area Network)]]이 더 적합하다.
-
 <aside>다른 무선 통신과의 관계</aside>
 
 로봇 통신 설계에서는 대역폭·범위·전력 소비의 트레이드오프에 따라 Wi-Fi(대용량·중거리), [[Bluetooth]](근거리·저전력), [[LPWAN(Low Power Wide Area Network)]](저속·초저전력·광역)를 상황에 맞게 선택한다.
@@ -33,7 +31,6 @@ Wi-Fi는 근거리 무선랜(WLAN) 표준으로, [[Bluetooth]]보다 넓은 범�
 <aside>핵심 정리</aside>
 
 - Wi-Fi는 Bluetooth보다 넓은 범위·대역폭을 제공하는 근거리 무선랜 표준이다
-- 대신 소비 전력이 커서, 초저전력이 최우선이면 Bluetooth·LPWAN이 더 적합하다
 
 ---
 
