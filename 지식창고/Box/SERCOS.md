@@ -31,7 +31,6 @@ SERCOS는 [[EtherCAT]]·[[POWERLINK]]·[[Profinet]]과 마찬가지로 산업용
 <aside>핵심 정리</aside>
 
 - SERCOS는 다축 서보 모터의 정밀 동기화 모션 제어에 특화된 실시간 산업용 필드버스다
-- 대용량 파일 전송이 아니라 축 간 정밀 동기화가 목적이다
 
 ---
 

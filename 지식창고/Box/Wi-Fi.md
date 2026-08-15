@@ -31,7 +31,6 @@ Wi-Fi는 근거리 무선랜(WLAN) 표준으로, [[Bluetooth]]보다 넓은 범�
 <aside>핵심 정리</aside>
 
 - Wi-Fi는 Bluetooth보다 넓은 범위·대역폭을 제공하는 근거리 무선랜 표준이다
-- 대신 소비 전력이 커서, 초저전력이 최우선이면 Bluetooth·LPWAN이 더 적합하다
 
 ---
 
