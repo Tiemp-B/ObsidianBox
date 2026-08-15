@@ -22,8 +22,6 @@ Bluetooth는 **근거리(수~수십 m)에서 저전력으로 장치 간 무선 �
 - 1:1 또는 소수 장치 간 근거리 연결에 적합 — 다수 장치가 넓은 범위에서 통신해야 하는 경우엔 Wi-Fi나 [[Zigbee]] 메시 네트워크가 더 적합
 - Bluetooth Low Energy(BLE) 버전은 초저전력을 우선해 웨어러블·센서 태그 등에 쓰임
 
-"Bluetooth는 원거리(수 km) 산업 현장 전체를 커버하는 광역 무선 통신 규격이다"라는 서술은 오답이다 — Bluetooth는 근거리·저전력 개인 통신망 규격이며, 광역 커버리지가 필요하면 [[LPWAN(Low Power Wide Area Network)]]·[[LoRaWAN]] 계열이 적합하다.
-
 <aside>로봇 제어기 통신에서의 위치</aside>
 
 로봇 제어기의 통신 프로토콜 스택에서 Bluetooth는 [[CAN(Controller Area Network)]]·[[EtherCAT]] 같은 유선 필드버스와 달리, 사람이 근거리에서 태블릿·스마트폰으로 로봇을 조작·모니터링할 때 쓰이는 무선 링크로 위치한다.

@@ -11,9 +11,8 @@ NCS 대응 모듈 있음(LM1903080311_14v1 "로봇 학습 알고리즘 개발").
 
 ### 입실론-탐욕(ε-greedy) — 탐색-활용 트레이드오프 (신규)
 - 기존 페이지3(강화학습 심화)의 Q-learning 설명은 "Q값이 갱신된다"까지만 다루고, **학습 중 에이전트가 실제로 어떤 행동을 선택하는지**(탐색이냐 활용이냐)는 다루지 않았음
-- **탐색(Exploration)**: 아직 잘 모르는 행동을 시도해 새로운 정보를 얻는 것 / **활용(Exploitation)**: 지금까지 알고 있는 것 중 가장 좋은(Q값이 가장 높은) 행동을 선택하는 것 — 둘 사이의 균형이 강화학습의 핵심 트레이드오프
+- **탐색(Exploration)**: 아직 잘 모르는 행동을 시도해 새로운 정보를 얻는 것 / **활용(Exploitation)**: 지금까지 알고 있는 것 중 가장 좋은(Q값이 가장 높은) 행동을 선택하는 것 — 둘 사이의 균형이 강화학습의 핵심 트레이드오프. 탐색 없이 활용만 반복하면 더 나은 행동을 영영 발견하지 못할 위험이 있다
 - **ε-탐욕 정책**: 확률 ε으로는 무작위 행동(탐색), 확률 (1-ε)으로는 현재 Q값이 가장 높은 행동(활용)을 선택하는 가장 단순하고 널리 쓰이는 전략. 학습 초반에는 ε을 크게 해 탐색 위주로, 학습이 진행될수록 ε을 점차 줄여 활용 위주로 전환하는 것이 일반적
-- "학습 중에는 항상 Q값이 가장 높은 행동만 선택해야 한다"는 서술은 탐색 없이 활용만 하면 더 나은 행동을 영영 발견하지 못할 수 있다는 점을 무시한 오답
 - 출처: [Epsilon-Greedy Q-learning - Baeldung](https://www.baeldung.com/cs/epsilon-greedy-q-learning), [Exploration-exploitation tradeoff - Milvus](https://milvus.io/ai-quick-reference/what-is-the-explorationexploitation-tradeoff-in-reinforcement-learning)
 
 ### 정책 경사(Policy Gradient)·Actor-Critic — Q-learning과 다른 접근 (신규)
@@ -21,7 +20,6 @@ NCS 대응 모듈 있음(LM1903080311_14v1 "로봇 학습 알고리즘 개발").
 - **가치 기반(Q-learning)**: 각 (상태,행동)의 가치(Q값)를 먼저 학습하고, 그중 가장 높은 값을 주는 행동을 선택 — 이산적인 행동(예: 상/하/좌/우)에 적합
 - **정책 기반(Policy Gradient)**: 가치를 거치지 않고 "어떤 상태에서 어떤 행동을 할 확률"을 나타내는 정책 자체를 직접 학습 — 로봇 관절 각도처럼 **연속적인 행동 공간**에 적합하고 더 안정적으로 수렴하는 경향
 - **Actor-Critic**: 정책(Actor, 행동을 선택)과 가치 함수(Critic, 그 행동이 얼마나 좋은지 평가)를 함께 학습해 두 접근의 장점을 결합한 방식 — 정책 경사 방식의 분산(변동성) 문제를 줄이는 데 쓰임
-- "강화학습 알고리즘은 Q-learning처럼 가치를 학습하는 방식이 유일하다"는 서술은 정책 기반·Actor-Critic 계열을 무시한 오답
 - 출처: [Policy Gradient vs Actor-Critic - Medium](https://medium.com/@rizvaanpatel/policy-gradient-vs-actor-critic-a-simplified-guide-for-reinforcement-learning-beginners-afe0ffebd91d), [Difference between policy gradients and Q-learning - Milvus](https://milvus.io/ai-quick-reference/what-is-the-difference-between-policy-gradients-and-qlearning)
 
 ### 도메인 무작위화(Domain Randomization) — Sim-to-Real Gap을 줄이는 실제 기법 (신규)

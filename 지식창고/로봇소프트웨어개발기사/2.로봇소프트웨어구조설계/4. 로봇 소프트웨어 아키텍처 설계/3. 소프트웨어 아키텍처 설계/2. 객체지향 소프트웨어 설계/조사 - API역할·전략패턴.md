@@ -18,7 +18,7 @@ tags: [로봇소프트웨어개발기사, 자료조사]
 - "API hardware abstraction robot software interface example sensor actuator" 검색 → 로봇 소프트웨어에서 API는 흔히 **HAL(하드웨어 추상화 계층)** 이 제공하는 표준 인터페이스 형태로 구현되어, 로봇 제어 코드를 로봇 독립적으로 작성할 수 있게 한다는 점 확인 — 과목2 "모듈화 프로그래밍"에서 이미 다룬 HAL 개념과 자연스럽게 연결됨(중복 작성 대신 교차 링크)
 
 ### 3라운드 — 반영 후보를 좁혀 구체화 검색
-- "API vs interface difference contract abstraction implementation details" 검색 → API의 핵심은 "무엇을 할 수 있는지(계약)"만 정의하고 "어떻게 구현되는지"는 감춘다는 점을 재확인 — 이 vault의 시험 문항 스타일(오답 포인트)에 맞춰 "API는 내부 구현까지 노출한다"는 오답을 만들 근거 확보
+- "API vs interface difference contract abstraction implementation details" 검색 → API의 핵심은 "무엇을 할 수 있는지(계약)"만 정의하고 "어떻게 구현되는지"는 감춘다는 점을 재확인 — "API는 내부 구현까지 노출하지 않는다"는 근거 확보
 - "strategy pattern vs state pattern difference" 검색 → 전략 패턴(클라이언트가 알고리즘을 선택·주입)과 상태 패턴(객체 스스로 상태에 따라 행동 전환)의 차이 확인 — 상태 패턴은 이미 "2. 상태 기계와 예외 처리"(로봇 작업 시나리오 정의) 세세항목에서 사실상 다룬 개념이라, 전략 패턴 신규 추가 시 상태 패턴과의 대비를 짧게 언급해 두 세세항목을 연결
 
 ## Phase 2 — 자체 검토

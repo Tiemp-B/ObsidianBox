@@ -23,8 +23,6 @@ ROS(Robot Operating System)는 로봇 소프트웨어의 각 기능을 **독립�
 - 전체 노드 간 연결 구조는 그래프로 표현되며(ROS 그래프), ROS1에서는 마스터(master)가 노드들이 서로를 찾도록 중개하는 역할을 함(ROS2는 [[DDS(Data Distribution Service)]] 기반의 탈중앙 discovery로 전환)
 - ROS1은 마스터와 함께 여러 노드가 공유하는 정적 설정값을 저장하는 **파라미터 서버**를 제공함. ROS2는 노드가 실행 즉시 동작하는 ROS1과 달리, `Unconfigured→Inactive→Active→Finalized` 상태를 명시적으로 거치는 **Lifecycle Node**로 노드 시작·종료를 더 정교하게 관리할 수 있음
 
-"ROS는 로봇의 모든 기능을 하나의 단일 프로세스 안에서 함수 호출로 처리하는 모놀리식 구조다"라는 서술은 오답이다 — ROS의 핵심은 오히려 **기능을 여러 독립된 노드(프로세스)로 분리**하고 통신으로 연결하는 분산 구조라는 점이다.
-
 <aside>다른 로봇 프레임워크와의 관계</aside>
 
 ROS는 [[OPRoS(Open Platform for Robotics Services)]]·[[OROCOS(Open Robot Control Software)]]와 함께 로봇 소프트웨어 재사용성을 목표로 하는 미들웨어이며, 특히 방대한 오픈소스 패키지 생태계와 [[Gazebo]] 시뮬레이터와의 긴밀한 연동이 강점이다.

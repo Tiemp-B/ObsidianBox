@@ -19,7 +19,7 @@ tags: [로봇소프트웨어개발기사, 자료조사]
 
 ### 3라운드 — 반영 후보 구체화 검색
 - "kanban board WIP limit software team maintenance work example" 검색 → Kanban의 WIP(Work In Progress) 제한 개념 확인 — 동시 진행 작업 수를 제한해 병목을 드러내는 방식
-- "continuous delivery vs continuous deployment human approval gate example" 검색 → 두 개념의 핵심 차이가 정확히 "사람의 승인 유무" 하나임을 재확인, 시험 오답 포인트로 활용 가능
+- "continuous delivery vs continuous deployment human approval gate example" 검색 → 두 개념의 핵심 차이가 정확히 "사람의 승인 유무" 하나임을 재확인
 
 ## Phase 2 — 자체 검토
 
