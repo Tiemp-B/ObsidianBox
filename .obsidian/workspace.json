@@ -171,8 +171,7 @@
               "title": "1. 액추에이터의 종류 및 규격 개요"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -366,13 +365,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c2564dbd4167dc6",
+  "active": "68d97ddfc0d5d4e9",
   "lastOpenFiles": [
+    "지식창고/Box/Command Injection.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/2. 서버 연동 소프트웨어 개발/3. 로봇 보안/2. 웹 애플리케이션 취약점.md",
     "지식창고/Box/CSRF(Cross-Site Request Forgery).md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1.로봇운영소프트웨어.md",
     "지식창고/Box/인증 취약점(Broken Authentication).md",
-    "지식창고/Box/Command Injection.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/2. 서버 연동 소프트웨어 개발/3. 로봇 보안/3. 로봇 보안.md",
     "지식창고/로봇소프트웨어개발기사/1.로봇운영소프트웨어/1. 로봇 운영 소프트웨어 개발/2. 서버 연동 소프트웨어 개발/3. 로봇 보안/1. 보안 기본 개념.md",
     "지식창고/Box/CIA 트라이어드(CIA Triad).md",
