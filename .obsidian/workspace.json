@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "지식창고/로봇하드웨어개발기사/1.로봇드라이버설계/1. 로봇 액추에이터 드라이버 개념 설계/2. 로봇 액추에이터 드라이버 사양 설계/3. 액추에이터 통신방식 설계/3. RS-485·Modbus·산업용 필드버스(EtherCAT·CC-Link·PROFIBUS-DP).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
