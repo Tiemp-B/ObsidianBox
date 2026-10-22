@@ -12,5 +12,6 @@
   "mcp-tools",
   "templater-obsidian",
   "automatic-table-of-contents",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "smart-connections"
 ]
