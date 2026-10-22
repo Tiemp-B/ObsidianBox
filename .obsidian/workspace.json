@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "05ffb035b6a17e7c",
+            "id": "1bbf91608c481b51",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -278,10 +278,13 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "05aee99059ab47a3",
+  "active": "b1b3dfb17b2f35bd",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/2.로봇소프트웨어구조설계/3. 로봇 작업 요구사항 분석/1. 로봇 하드웨어 특성 분석/2. 로봇 구조에 따른 분류/3. DH 파라미터와 순기구학.md",
     "Excalidraw/Drawing 2025-11-20 21.49.30.excalidraw.md",
