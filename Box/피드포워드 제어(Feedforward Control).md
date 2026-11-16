@@ -38,4 +38,4 @@ tags:
 <aside>관련 노트</aside>
 
 - 원 페이지: [[4. 제어 응답 특성 지표 전반]]
-- 관련: [[피드백 제어(Feedback Control)]], [[PID 제어]]
+- 관련: [[피드백 제어(Feedback Control)]], [[Box/PID 제어]]

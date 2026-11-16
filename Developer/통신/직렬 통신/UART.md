@@ -37,7 +37,7 @@ UART(Universal Asynchronous Receiver/Transmitter)는 별도 클럭선 없이 **�
 <aside>단점과 보완</aside>
 
 - **단점**: 낮은 전압 + 긴 선 = **노이즈에 취약** (장거리에 부적합)
-- **보완**: 전압 레벨을 키운 **[[RS-232]]** 로 거리·내잡음 성능을 개선
+- **보완**: 전압 레벨을 키운 **[[Developer/통신/직렬 통신/RS-232]]** 로 거리·내잡음 성능을 개선
 
 ---
 
@@ -54,4 +54,4 @@ UART(Universal Asynchronous Receiver/Transmitter)는 별도 클럭선 없이 **�
 
 - 그룹 허브: [[직렬 통신]]
 - 기초: [[통신환경]]
-- 보완 규격: [[RS-232]]
+- 보완 규격: [[Developer/통신/직렬 통신/RS-232]]

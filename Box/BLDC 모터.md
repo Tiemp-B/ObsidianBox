@@ -24,7 +24,7 @@ BLDC(Brushless DC) 모터는 브러시·정류자 없이 **전자적으로 전�
 
 <aside>제어 방식과의 관계</aside>
 
-BLDC 모터는 회전자 위치·전류를 정밀하게 제어해야 부드러운 토크를 낼 수 있어, [[FOC(Field-Oriented Control)]] 같은 벡터 제어 기법과 함께 쓰이는 경우가 많다. 로봇 관절 액추에이터에서는 위치·속도 피드백과 결합해 [[PID 제어]] 루프의 제어 대상이 된다.
+BLDC 모터는 회전자 위치·전류를 정밀하게 제어해야 부드러운 토크를 낼 수 있어, [[FOC(Field-Oriented Control)]] 같은 벡터 제어 기법과 함께 쓰이는 경우가 많다. 로봇 관절 액추에이터에서는 위치·속도 피드백과 결합해 [[Box/PID 제어]] 루프의 제어 대상이 된다.
 
 ---
 
@@ -38,4 +38,4 @@ BLDC 모터는 회전자 위치·전류를 정밀하게 제어해야 부드러�
 <aside>관련 노트</aside>
 
 - 원 페이지: [[1. 로봇 제어기 특성 개요]]
-- 관련: [[FOC(Field-Oriented Control)]], [[PID 제어]], [[액추에이터(Actuator)]]
+- 관련: [[FOC(Field-Oriented Control)]], [[Box/PID 제어]], [[액추에이터(Actuator)]]
