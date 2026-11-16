@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "지식창고"
+                "path": "Box"
               },
               "icon": "lucide-file",
-              "title": "지식창고"
+              "title": "Box"
             }
           }
         ]
@@ -217,9 +217,9 @@
   },
   "active": "ccd5e3d481152997",
   "lastOpenFiles": [
+    "Box/Box.md",
     "지식창고/지식창고.md",
     "개발자 뉴스/개발자 뉴스.md",
-    "Box/Box.md",
     "지식창고/로봇소프트웨어개발기사/로봇소프트웨어개발기사.md",
     "Developer/통신/통신환경.md",
     "Developer/통신/무선 통신/무선 통신.md",
