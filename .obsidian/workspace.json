@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Box/DTE와 DCE.md",
+                "file": "Box/널 모뎀(Null Modem).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DTE와 DCE"
+              "title": "널 모뎀(Null Modem)"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "8145686afe9c2a29",
   "lastOpenFiles": [
-    "Box/전이중·반이중(Duplex).md",
     "Box/DTE와 DCE.md",
+    "Box/널 모뎀(Null Modem).md",
+    "Box/전이중·반이중(Duplex).md",
     "Box/보드레이트와 비트레이트(Baud Rate·Bit Rate).md",
     "Box/임피던스 매칭(Impedance Matching).md",
     "Box/신호 반사(Signal Reflection).md",
@@ -248,7 +249,6 @@
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/1. 로봇 공간 및 운동해석/2. 변환행렬/2. 동차 변환행렬과 회전행렬.md",
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/1. 로봇 공간 및 운동해석/2. 변환행렬/1. 변환행렬 개요.md",
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/2. 로봇 경로계획/1. 머니퓰레이터 경로계획/조사 - 저크·S자형속도프로파일.md",
-    "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/2. 로봇 경로계획/1. 머니퓰레이터 경로계획/조사 - 궤적 유형과 다항식 궤적 수식.md",
     "images/Pasted image 20260831162954.png",
     "지식창고/Box/야코비안(Jacobian).md.tmp.22232.25aa4903ef39",
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/1. 로봇 공간 및 운동해석/3. 로봇 기구학 해석/2. 순기구학 계산과 특이점.md.tmp.38408.c334bcb2380a",
