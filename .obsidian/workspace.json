@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "3. 궤적 계획과 속도 프로파일"
             }
+          },
+          {
+            "id": "9f9db26f5e2b3134",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             }
           },
           {
-            "id": "0218c0b74d48df99",
+            "id": "ccd5e3d481152997",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -217,7 +230,7 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "8145686afe9c2a29",
+  "active": "9f9db26f5e2b3134",
   "lastOpenFiles": [
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/2. 로봇 경로계획/1. 머니퓰레이터 경로계획/1. 머니퓰레이터 경로계획.md",
     "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/2. 로봇 경로계획/1. 머니퓰레이터 경로계획/2. 관절 공간법과 직교좌표 공간법.md",
