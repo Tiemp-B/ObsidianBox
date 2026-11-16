@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Box"
+                "path": "Developer/통신"
               },
               "icon": "lucide-file",
-              "title": "Box"
+              "title": "통신"
             }
           }
         ]
@@ -215,7 +215,7 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "8145686afe9c2a29",
+  "active": "c69ba8f3db6da343",
   "lastOpenFiles": [
     "Box/Box.md",
     "Developer/통신/무선 통신/무선 통신.md",
