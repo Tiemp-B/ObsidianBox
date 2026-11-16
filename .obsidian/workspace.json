@@ -11,14 +11,12 @@
             "id": "8145686afe9c2a29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Developer/통신/무선 통신/무선 통신.md",
-                "mode": "source",
-                "source": false
+                "path": "Box"
               },
               "icon": "lucide-file",
-              "title": "무선 통신"
+              "title": "Box"
             }
           }
         ]
@@ -219,6 +217,8 @@
   },
   "active": "8145686afe9c2a29",
   "lastOpenFiles": [
+    "Box/Box.md",
+    "Developer/통신/무선 통신/무선 통신.md",
     "Developer/통신/직렬 통신/직렬 통신.md",
     "Developer/통신/직렬 통신/RS-232.md",
     "Developer/통신/통신환경.md",
@@ -229,11 +229,9 @@
     "Box/임피던스 매칭(Impedance Matching).md",
     "Box/신호 반사(Signal Reflection).md",
     "Box/차동 신호(Differential Signaling).md",
-    "Box/Box.md",
     "지식창고/지식창고.md",
     "개발자 뉴스/개발자 뉴스.md",
     "지식창고/로봇소프트웨어개발기사/로봇소프트웨어개발기사.md",
-    "Developer/통신/무선 통신/무선 통신.md",
     "Developer/통신/병렬 통신/병렬 통신.md",
     "Developer/통신/무선 통신",
     "Developer/통신/병렬 통신",
