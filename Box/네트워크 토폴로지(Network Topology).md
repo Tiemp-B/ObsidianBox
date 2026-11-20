@@ -13,6 +13,10 @@ tags: [통신, 네트워크, 용어]
 
 # Notes
 
+<aside>형상 비교도</aside>
+
+![[네트워크 토폴로지.excalidraw]]
+
 <aside>버스 (Bus)</aside>
 
 - 하나의 공용 간선에 모든 장치를 연결

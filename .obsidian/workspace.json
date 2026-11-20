@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/통신/직렬 통신/RS-422.md",
+                "file": "Box/네트워크 토폴로지(Network Topology).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RS-422"
+              "title": "네트워크 토폴로지(Network Topology)"
             }
           }
         ]
@@ -219,13 +219,14 @@
   },
   "active": "1e1f5d23d15e1f50",
   "lastOpenFiles": [
+    "Box/네트워크 토폴로지.excalidraw.md",
+    "Developer/통신/직렬 통신/RS-422.md",
     "Developer/통신/직렬 통신/RS-422 1대N 차동.excalidraw.md",
     "Developer/통신/직렬 통신/RS-485.md",
     "Developer/통신/직렬 통신/RS-485 버스.excalidraw.md",
     "Developer/통신/직렬 통신/RS-485 버스 (시험).excalidraw.md",
     "학습일지/05_제출본.md",
     "Developer/통신/직렬 통신/직렬 통신.md",
-    "Developer/통신/직렬 통신/RS-422.md",
     "Box/네트워크 토폴로지(Network Topology).md",
     "Box/종단 저항(Termination Resistor).md",
     "Developer/통신/병렬 통신/병렬 통신.md",
@@ -244,7 +245,6 @@
     "Box/차동 신호(Differential Signaling).md",
     "지식창고/지식창고.md",
     "개발자 뉴스/개발자 뉴스.md",
-    "지식창고/로봇소프트웨어개발기사/로봇소프트웨어개발기사.md",
     "Developer/통신/무선 통신",
     "Developer/통신/병렬 통신",
     "Developer/통신/직렬 통신",
