@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/통신/직렬 통신/직렬 통신.md",
-                "mode": "source",
+                "file": "Developer/통신/직렬 통신/RS-485.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "직렬 통신"
+              "title": "RS-485"
             }
           }
         ]
@@ -219,6 +219,7 @@
   },
   "active": "8145686afe9c2a29",
   "lastOpenFiles": [
+    "Developer/통신/직렬 통신/직렬 통신.md",
     "Developer/통신/직렬 통신/RS-485.md",
     "Developer/통신/직렬 통신/RS-422.md",
     "Box/네트워크 토폴로지(Network Topology).md",
@@ -229,7 +230,6 @@
     "Developer/통신/통신.md",
     "Box/Box.md",
     "Developer/통신/무선 통신/무선 통신.md",
-    "Developer/통신/직렬 통신/직렬 통신.md",
     "Developer/통신/직렬 통신/RS-232.md",
     "Box/널 모뎀(Null Modem).md",
     "Box/DTE와 DCE.md",
