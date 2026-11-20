@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developer/통신/직렬 통신/RS-485.md",
+                "file": "Developer/통신/직렬 통신/RS-422.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RS-485"
+              "title": "RS-422"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "1e1f5d23d15e1f50",
   "lastOpenFiles": [
-    "Developer/통신/직렬 통신/RS-485 버스.excalidraw.md",
+    "Developer/통신/직렬 통신/RS-422 1대N 차동.excalidraw.md",
     "Developer/통신/직렬 통신/RS-485.md",
+    "Developer/통신/직렬 통신/RS-485 버스.excalidraw.md",
     "Developer/통신/직렬 통신/RS-485 버스 (시험).excalidraw.md",
     "학습일지/05_제출본.md",
     "Developer/통신/직렬 통신/직렬 통신.md",
@@ -246,7 +247,6 @@
     "지식창고/로봇소프트웨어개발기사/로봇소프트웨어개발기사.md",
     "Developer/통신/무선 통신",
     "Developer/통신/병렬 통신",
-    "Developer/통신/직렬 통신/UART.md",
     "Developer/통신/직렬 통신",
     "Developer/통신",
     "images/Pasted image 20260831162954.png",
