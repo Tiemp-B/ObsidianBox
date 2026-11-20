@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8145686afe9c2a29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "1e1f5d23d15e1f50",
             "type": "leaf",
             "state": {
@@ -223,8 +213,9 @@
       "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "8145686afe9c2a29",
+  "active": "1e1f5d23d15e1f50",
   "lastOpenFiles": [
+    "Developer/통신/직렬 통신/RS-485 버스.excalidraw.md",
     "Developer/통신/직렬 통신/RS-485 버스 (시험).excalidraw.md",
     "Developer/통신/직렬 통신/RS-485.md",
     "학습일지/05_제출본.md",
@@ -253,7 +244,6 @@
     "Developer/통신/병렬 통신",
     "Developer/통신/직렬 통신/UART.md",
     "Developer/통신/직렬 통신",
-    "지식창고/로봇소프트웨어개발기사/3.모션소프트웨어/1. 경로계획 소프트웨어 개발/2. 로봇 경로계획/1. 머니퓰레이터 경로계획/3. 궤적 계획과 속도 프로파일.md",
     "Developer/통신",
     "images/Pasted image 20260831162954.png",
     "지식창고/Box/야코비안(Jacobian).md.tmp.22232.25aa4903ef39",
