@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "457ba3dea8c90400",
+            "id": "49cee2b0bcb56480",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -211,10 +211,7 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1e1f5d23d15e1f50",
